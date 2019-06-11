@@ -1,10 +1,12 @@
-﻿using HtmlAgilityPack;
+﻿using CsvHelper;
+using HtmlAgilityPack;
 using ScrapySharp.Extensions;
 using ScrapySharp.Html;
 using ScrapySharp.Html.Forms;
 using ScrapySharp.Network;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -17,8 +19,6 @@ namespace scrapysharp_dt2020
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             var webGet = new HtmlWeb();
             webGet.UserAgent = "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0";
             var document1 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-1.asp");
@@ -31,10 +31,21 @@ namespace scrapysharp_dt2020
             //" May 21, 2019 2:00 AM EST"
             DateTime parsedDate;
             DateTime.TryParse(dateOfRanks, out parsedDate);
+            string dateInNiceFormat = parsedDate.ToString("yyyy-MM-dd");
 
             List<ProspectRanking> list1 = GetProspects(document1, parsedDate);
             List<ProspectRanking> list2 = GetProspects(document2, parsedDate);
             List<ProspectRanking> list3 = GetProspects(document3, parsedDate);
+
+            //Write projects to csv with date.
+            using (var writer = new StreamWriter($"ranks\\{dateInNiceFormat}-ranks.csv"))
+            using (var csv = new CsvWriter(writer))
+            {    
+                csv.Configuration.RegisterClassMap<ProspectRankingMap>();
+                csv.WriteRecords(list1);
+                csv.WriteRecords(list2);
+                csv.WriteRecords(list3);
+            }
         }
 
         public static List<ProspectRanking> GetProspects(HtmlDocument document, DateTime dateOfRanks)
@@ -56,14 +67,10 @@ namespace scrapysharp_dt2020
                 // "/html[1]/body[1]/div[1]/div[3]/div[1]/table[1]"
                 var tbl = document.DocumentNode.SelectNodes("/html[1]/body[1]/div[1]/div[3]/div[1]/table[1]");
                 
-                //var p = new ProspectRanking("Today",1, "--", "Name", "School", "QB");
-
                 foreach (HtmlNode table in tbl) {
-                    Console.WriteLine("Found: " + table.Id);
                     foreach (HtmlNode row in table.SelectNodes("tr")) {
-                        Console.WriteLine("row");
                         foreach (HtmlNode cell in row.SelectNodes("th|td")) {
-                            Console.WriteLine("cell: " + cell.InnerText);
+                            
                             string Xpath = cell.XPath;
                             int locationOfColumnNumber = cell.XPath.Length - 2 ;
                             char dataIndicator = Xpath[locationOfColumnNumber];
@@ -74,6 +81,7 @@ namespace scrapysharp_dt2020
                                     // td[1]= Rank
                                     if (Int32.TryParse(cell.InnerText, out int rankNumber))
                                         rank = rankNumber;
+                                        Console.WriteLine("Rank: " + cell.InnerText);
                                     break;
                                 case '2':
                                     // td[2]= Change
@@ -82,6 +90,7 @@ namespace scrapysharp_dt2020
                                 case '3':
                                     // td[3]= Player
                                     playerName = cell.InnerText;
+                                    Console.WriteLine("Player: " + cell.InnerText);
                                     break;
                                 case '4':
                                     // td[4]= School
@@ -118,7 +127,6 @@ namespace scrapysharp_dt2020
                         }
                     }
                 }
-                // Here would be where I'd create a CSV or something.
                 Console.WriteLine($"Prospect count: {prospectList.Count}");
             }
             return prospectList;

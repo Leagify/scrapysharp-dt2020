@@ -3,7 +3,7 @@ using System;
 namespace scrapysharp_dt2020
 {
 
-    class ProspectRanking
+    public class ProspectRanking
     {
         public int rank;
         public string change;
@@ -14,6 +14,7 @@ namespace scrapysharp_dt2020
         public int weight;
         public string position2;
         public DateTime rankingDate;
+        public string rankingDateString;
 
         public ProspectRanking(DateTime date, int rank, string chg, string name, string school, string pos1, string height = "0", int weight = 0, string pos2 = "")
         {
@@ -26,7 +27,7 @@ namespace scrapysharp_dt2020
             this.height = height;
             this.weight = weight;
             this.position2 = pos2;
+            this.rankingDateString = date.ToString("yyyy-MM-dd");
         }
-
     }
 }
