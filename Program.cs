@@ -94,7 +94,7 @@ namespace scrapysharp_dt2020
                                     break;
                                 case '4':
                                     // td[4]= School
-                                    school = cell.InnerText;
+                                    school = checkSchool(cell.InnerText);
                                     break;
                                 case '5':
                                     // td[5]= Pos1
@@ -130,6 +130,27 @@ namespace scrapysharp_dt2020
                 Console.WriteLine($"Prospect count: {prospectList.Count}");
             }
             return prospectList;
+        }
+
+        public static string checkSchool(string school)
+        {
+            switch(school)
+            {
+                case "Miami":
+                    return "Miami (FL)";
+                case "Mississippi":
+                    return "Ole Miss";
+                case "Central Florida":
+                    return "UCF";
+                case "MTSU":
+                    return "Middle Tennessee";
+                case "Eastern Carolina":
+                    return "East Carolina";
+                default:
+                    return school;
+
+            }
+            
         }
     }
 }
