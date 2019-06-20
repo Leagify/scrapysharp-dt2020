@@ -146,6 +146,8 @@ namespace scrapysharp_dt2020
                     return "Middle Tennessee";
                 case "Eastern Carolina":
                     return "East Carolina";
+                case "Pittsburgh":
+                    return "Pitt";    
                 default:
                     return school;
 
