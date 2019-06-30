@@ -37,14 +37,74 @@ namespace scrapysharp_dt2020
             List<ProspectRanking> list2 = GetProspects(document2, parsedDate);
             List<ProspectRanking> list3 = GetProspects(document3, parsedDate);
 
+            //This is the file name we are going to write.
+            var csvFileName = $"ranks\\{dateInNiceFormat}-ranks.csv";
+
             //Write projects to csv with date.
-            using (var writer = new StreamWriter($"ranks\\{dateInNiceFormat}-ranks.csv"))
+            using (var writer = new StreamWriter(csvFileName))
             using (var csv = new CsvWriter(writer))
             {    
                 csv.Configuration.RegisterClassMap<ProspectRankingMap>();
                 csv.WriteRecords(list1);
                 csv.WriteRecords(list2);
                 csv.WriteRecords(list3);
+            }
+
+            CheckForMismatches(csvFileName);
+        }
+
+        private static void CheckForMismatches(string csvFileName)
+        {
+            System.Console.WriteLine("Checking for mismatches.....");
+            // Read in data from a different project.
+            var schoolsAndConferences = System.IO.File.ReadAllLines("SchoolStatesAndConferences.csv")
+                                        .Skip(1)
+                                        .Where(s => s.Length > 1)
+                                        .Select( s =>
+                                        {
+                                            var columns = s.Split(',');
+                                            return new School(columns[0], columns[1], columns[2]);
+                                        })
+                                        .ToList();
+            
+
+            
+            var ranks = System.IO.File.ReadAllLines(csvFileName)
+                                        .Skip(1)
+                                        .Where(r => r.Length > 1)
+                                        .Select(r =>
+                                        {
+                                            var columns = r.Split(',');
+                                            int rank = Int32.Parse(columns[0]);
+                                            string name = columns[2];
+                                            string college = columns[3];
+                                            string dateString = columns[8];
+
+                                            return new ProspectRankSimple(rank, name, college, dateString);
+                                        }
+                                        )
+                                        .ToList();
+            var schoolMismatches = from r in ranks
+                                    join school in schoolsAndConferences on r.school equals school.schoolName into mm
+                                    from school in mm.DefaultIfEmpty()
+                                    where school is null
+                                    select new {
+                                        rank = r.rank,
+                                        name = r.playerName,
+                                        college = r.school 
+                                    }
+                                    ;
+            
+            bool noMismatches = true;
+            
+            foreach(var s in schoolMismatches){
+                noMismatches = false;
+                Console.WriteLine($"{s.rank}, {s.name}, {s.college}");
+            }
+
+            if(noMismatches)
+            {
+                Console.WriteLine("All good!");
             }
         }
 
@@ -147,7 +207,9 @@ namespace scrapysharp_dt2020
                 case "Eastern Carolina":
                     return "East Carolina";
                 case "Pittsburgh":
-                    return "Pitt";    
+                    return "Pitt";
+                case "FIU":
+                    return "Florida International";
                 default:
                     return school;
 
