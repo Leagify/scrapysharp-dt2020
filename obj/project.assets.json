@@ -2008,6 +2008,7 @@
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
@@ -4408,11 +4409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
+      "projectUniqueName": "c:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
       "projectName": "scrapysharp-dt2020",
-      "projectPath": "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
+      "projectPath": "c:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
       "packagesPath": "C:\\Users\\Ross Larson\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\scrapysharp-dt2020\\obj\\",
+      "outputPath": "c:\\Code\\scrapysharp-dt2020\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4447,6 +4448,7 @@
             "version": "[12.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -4457,7 +4459,12 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true
