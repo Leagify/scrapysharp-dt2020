@@ -51,6 +51,39 @@ namespace scrapysharp_dt2020
             }
 
             CheckForMismatches(csvFileName);
+            CreateCombinedCSV();
+        }
+
+        private static void CreateCombinedCSV()
+        {
+            //Combine ranks from CSV files to create a master CSV.
+            var filePaths = Directory.GetFiles("ranks/", "20??-??-??-ranks.csv").ToList<String>();
+            //The results are probably already sorted, but I don't trust that, so I'm going to sort manually.
+            filePaths.Sort();
+            string destinationFile = "ranks/combinedRanks2020.csv";
+            
+            // Specify wildcard search to match CSV files that will be combined
+            StreamWriter fileDest = new StreamWriter(destinationFile, true);
+            
+            int i;
+            for (i = 0; i < filePaths.Count; i++)
+            {
+                string file = filePaths[i];
+            
+                string[] lines = File.ReadAllLines(file);
+            
+                if (i > 0)
+                {
+                    lines = lines.Skip(1).ToArray(); // Skip header row for all but first file
+                }
+            
+                foreach (string line in lines)
+                {
+                    fileDest.WriteLine(line);
+                }
+            }
+            
+            fileDest.Close();
         }
 
         private static void CheckForMismatches(string csvFileName)
