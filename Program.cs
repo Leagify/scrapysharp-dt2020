@@ -24,6 +24,8 @@ namespace scrapysharp_dt2020
             var document1 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-1.asp");
             var document2 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-2.asp");
             var document3 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-3.asp");
+            var document4 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-4.asp");
+            var document5 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-5.asp");
 
             //Get ranking date
             var dateOfRanks = document1.DocumentNode.SelectSingleNode("//*[@id='HeadlineInfo1']").InnerText.Replace(" EST", "").Trim();
@@ -33,12 +35,14 @@ namespace scrapysharp_dt2020
             DateTime.TryParse(dateOfRanks, out parsedDate);
             string dateInNiceFormat = parsedDate.ToString("yyyy-MM-dd");
 
-            List<ProspectRanking> list1 = GetProspects(document1, parsedDate);
-            List<ProspectRanking> list2 = GetProspects(document2, parsedDate);
-            List<ProspectRanking> list3 = GetProspects(document3, parsedDate);
+            List<ProspectRanking> list1 = GetProspects(document1, parsedDate, 1);
+            List<ProspectRanking> list2 = GetProspects(document2, parsedDate, 2);
+            List<ProspectRanking> list3 = GetProspects(document3, parsedDate, 3);
+            List<ProspectRanking> list4 = GetProspects(document4, parsedDate, 4);
+            List<ProspectRanking> list5 = GetProspects(document5, parsedDate, 5);
 
             //This is the file name we are going to write.
-            var csvFileName = $"ranks\\{dateInNiceFormat}-ranks.csv";
+            var csvFileName = $"ranks{Path.DirectorySeparatorChar}{dateInNiceFormat}-ranks.csv";
 
             //Write projects to csv with date.
             using (var writer = new StreamWriter(csvFileName))
@@ -48,6 +52,14 @@ namespace scrapysharp_dt2020
                 csv.WriteRecords(list1);
                 csv.WriteRecords(list2);
                 csv.WriteRecords(list3);
+                if (list4.Count > 0)
+                {
+                    csv.WriteRecords(list4);
+                }
+                if (list5.Count > 0)
+                {
+                    csv.WriteRecords(list5);
+                }
             }
 
             CheckForMismatches(csvFileName);
@@ -57,13 +69,13 @@ namespace scrapysharp_dt2020
         private static void CreateCombinedCSV()
         {
             //Combine ranks from CSV files to create a master CSV.
-            var filePaths = Directory.GetFiles("ranks/", "20??-??-??-ranks.csv").ToList<String>();
+            var filePaths = Directory.GetFiles($"ranks{Path.DirectorySeparatorChar}", "20??-??-??-ranks.csv").ToList<String>();
             //The results are probably already sorted, but I don't trust that, so I'm going to sort manually.
             filePaths.Sort();
-            string destinationFile = "ranks/combinedRanks2020.csv";
+            string destinationFile = $"ranks{Path.DirectorySeparatorChar}combinedRanks2020.csv";
             
             // Specify wildcard search to match CSV files that will be combined
-            StreamWriter fileDest = new StreamWriter(destinationFile, true);
+            StreamWriter fileDest = new StreamWriter(destinationFile, false);
             
             int i;
             for (i = 0; i < filePaths.Count; i++)
@@ -141,7 +153,7 @@ namespace scrapysharp_dt2020
             }
         }
 
-        public static List<ProspectRanking> GetProspects(HtmlDocument document, DateTime dateOfRanks)
+        public static List<ProspectRanking> GetProspects(HtmlDocument document, DateTime dateOfRanks, int pageNumber)
         {
             // Create variables to store prospect rankings.
             int rank = 0;
@@ -160,6 +172,12 @@ namespace scrapysharp_dt2020
                 // "/html[1]/body[1]/div[1]/div[3]/div[1]/table[1]"
                 var tbl = document.DocumentNode.SelectNodes("/html[1]/body[1]/div[1]/div[3]/div[1]/table[1]");
                 
+                if (tbl == null)
+                {
+                    Console.WriteLine($"No prospects on page {pageNumber}");
+                    return prospectList;
+                }
+
                 foreach (HtmlNode table in tbl) {
                     foreach (HtmlNode row in table.SelectNodes("tr")) {
                         foreach (HtmlNode cell in row.SelectNodes("th|td")) {
@@ -179,6 +197,7 @@ namespace scrapysharp_dt2020
                                 case '2':
                                     // td[2]= Change
                                     change = cell.InnerText;
+                                    change = change.Replace("&nbsp;","");
                                     break;
                                 case '3':
                                     // td[3]= Player
@@ -220,7 +239,7 @@ namespace scrapysharp_dt2020
                         }
                     }
                 }
-                Console.WriteLine($"Prospect count: {prospectList.Count}");
+                Console.WriteLine($"Prospect count on page {pageNumber}: {prospectList.Count}");
             }
             return prospectList;
         }
