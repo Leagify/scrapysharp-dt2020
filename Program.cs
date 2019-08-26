@@ -178,7 +178,8 @@ namespace scrapysharp_dt2020
                                     break;
                                 case '2':
                                     // td[2]= Change
-                                    change = cell.InnerText;
+                                    // Remove &nbsp; from innertext
+                                    change = cell.InnerText.Replace("&nbsp;", "");
                                     break;
                                 case '3':
                                     // td[3]= Player
@@ -243,6 +244,22 @@ namespace scrapysharp_dt2020
                     return "Pitt";
                 case "FIU":
                     return "Florida International";
+                case "Florida St":
+                    return "Florida State";
+                case "Penn St":
+                    return "Penn State";
+                case "Minneosta":
+                    return "Minnesota";
+                case "Mississippi St.":
+                    return "Mississippi State";
+                case "Mississippi St":
+                    return "Mississippi State";
+                case "Oklahoma St":
+                    return "Oklahoma State";
+                case "Boise St":
+                    return "Boise State";
+                case "Lenoir-Rhyne":
+                    return "Lenoir–Rhyne";
                 default:
                     return school;
 
