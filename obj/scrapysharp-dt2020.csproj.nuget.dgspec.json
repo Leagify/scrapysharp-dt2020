@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj": {}
+    "/home/woo/code/scrapysharp-dt2020/scrapysharp-dt2020.csproj": {}
   },
   "projects": {
-    "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj": {
+    "/home/woo/code/scrapysharp-dt2020/scrapysharp-dt2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
+        "projectUniqueName": "/home/woo/code/scrapysharp-dt2020/scrapysharp-dt2020.csproj",
         "projectName": "scrapysharp-dt2020",
-        "projectPath": "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
-        "packagesPath": "C:\\Users\\Ross Larson\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\scrapysharp-dt2020\\obj\\",
+        "projectPath": "/home/woo/code/scrapysharp-dt2020/scrapysharp-dt2020.csproj",
+        "packagesPath": "/home/woo/.nuget/packages/",
+        "outputPath": "/home/woo/code/scrapysharp-dt2020/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ross Larson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/woo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,12 +55,7 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
           "warn": true
