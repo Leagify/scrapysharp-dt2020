@@ -64,6 +64,7 @@ namespace scrapysharp_dt2020
 
             CheckForMismatches(csvFileName);
             CreateCombinedCSV();
+            CheckForMismatches($"ranks{Path.DirectorySeparatorChar}combinedRanks2020.csv");
             CreateCombinedCSVWithExtras();
         }
 
@@ -101,6 +102,7 @@ namespace scrapysharp_dt2020
 
         private static void CreateCombinedCSVWithExtras()
         {
+            System.Console.WriteLine("Creating the big CSV.....");
             // Get Schools and the States where they are located.
             var schoolsAndConferences = System.IO.File.ReadAllLines("SchoolStatesAndConferences.csv")
                                         .Skip(1)
@@ -168,33 +170,29 @@ namespace scrapysharp_dt2020
                                     join school in schoolsAndConferences on r.school equals school.schoolName
                                     join positions in positionsAndTypes on r.position1 equals positions.positionName
                                     select new {
-                                        rank = r.rank,
-                                        change = r.change,
-                                        name = r.playerName,
-                                        position = r.position1,
-                                        college = r.school,
-                                        conference = school.conference,
-                                        state = school.state,
-                                        height = r.height,
-                                        weight = r.weight,
-                                        position2 = r.position2,
-                                        positionGroup = positions.positionGroup,
-                                        positionAspect = positions.positionAspect,
-                                        date = r.rankingDateString
+                                        Rank = r.rank,
+                                        Change = r.change,
+                                        Name = r.playerName,
+                                        Position = r.position1,
+                                        College = r.school,
+                                        Conference = school.conference,
+                                        State = school.state,
+                                        Height = r.height,
+                                        Weight = r.weight,
+                                        Position2 = r.position2,
+                                        PositionGroup = positions.positionGroup,
+                                        PositionAspect = positions.positionAspect,
+                                        Date = r.rankingDateString
                                     };
 
             
-            // Specify wildcard search to match CSV files that will be combined
-            StreamWriter fileDest2 = new StreamWriter(destinationFile, false);
             
-            
-            foreach (var rank in combinedHistoricalRanks)
+            //Write everything back to CSV, only better!
+            using (var writer = new StreamWriter($"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv"))
+            using (var csv = new CsvWriter(writer))
             {
-                fileDest2.WriteLine(rank);
+                csv.WriteRecords(combinedHistoricalRanks);
             }
-            
-            fileDest2.Close();
-
         }
 
         private static void CheckForMismatches(string csvFileName)
