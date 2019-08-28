@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj": {}
+    "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj": {}
   },
   "projects": {
-    "c:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj": {
+    "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
+        "projectUniqueName": "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
         "projectName": "scrapysharp-dt2020",
-        "projectPath": "c:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
+        "projectPath": "C:\\Code\\scrapysharp-dt2020\\scrapysharp-dt2020.csproj",
         "packagesPath": "C:\\Users\\Ross Larson\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\scrapysharp-dt2020\\obj\\",
+        "outputPath": "C:\\Code\\scrapysharp-dt2020\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

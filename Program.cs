@@ -64,6 +64,7 @@ namespace scrapysharp_dt2020
 
             CheckForMismatches(csvFileName);
             CreateCombinedCSV();
+            CreateCombinedCSVWithExtras();
         }
 
         private static void CreateCombinedCSV()
@@ -96,6 +97,104 @@ namespace scrapysharp_dt2020
             }
             
             fileDest.Close();
+        }
+
+        private static void CreateCombinedCSVWithExtras()
+        {
+            // Get Schools and the States where they are located.
+            var schoolsAndConferences = System.IO.File.ReadAllLines("SchoolStatesAndConferences.csv")
+                                        .Skip(1)
+                                        .Where(s => s.Length > 1)
+                                        .Select( s =>
+                                        {
+                                            var columns = s.Split(',');
+                                            return new School(columns[0], columns[1], columns[2]);
+                                        })
+                                        .ToList();
+            
+            //Get position types
+            var positionsAndTypes = System.IO.File.ReadAllLines("PositionInfo.csv")
+                                        .Skip(1)
+                                        .Where(s => s.Length > 1)
+                                        .Select( s =>
+                                        {
+                                            var columns = s.Split(',');
+                                            return new PositionType(columns[0], columns[1], columns[2]);
+                                        })
+                                        .ToList();
+
+            //Combine ranks from CSV files to create a master CSV.
+            var filePaths = Directory.GetFiles($"ranks{Path.DirectorySeparatorChar}", "20??-??-??-ranks.csv").ToList<String>();
+            //The results are probably already sorted, but I don't trust that, so I'm going to sort manually.
+            filePaths.Sort();
+            string destinationFile = $"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv";
+            
+            // Specify wildcard search to match CSV files that will be combined
+            StreamWriter fileDest = new StreamWriter(destinationFile, false);
+            
+            int i;
+            for (i = 0; i < filePaths.Count; i++)
+            {
+                string file = filePaths[i];
+            
+                string[] lines = File.ReadAllLines(file);
+            
+                if (i > 0)
+                {
+                    lines = lines.Skip(1).ToArray(); // Skip header row for all but first file
+                }
+            
+                foreach (string line in lines)
+                {
+                    fileDest.WriteLine(line);
+                }
+            }
+            
+            fileDest.Close();
+
+            // Get ranks from the newly created CSV file.
+            var prospectRanks = System.IO.File.ReadAllLines($"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv")
+                                        .Skip(1)
+                                        .Where(s => s.Length > 1)
+                                        .Select( s =>
+                                        {
+                                            var columns = s.Split(',');
+                                            return new ExistingProspectRanking(columns[0], columns[1], columns[2], columns[3], columns[4], columns[5], columns[6], columns[7], columns[8]);
+                                        })
+                                        .ToList();
+            
+            // Use linq to join the stuff back together, then write it out again.
+            var combinedHistoricalRanks = from r in prospectRanks
+                                    join school in schoolsAndConferences on r.school equals school.schoolName
+                                    join positions in positionsAndTypes on r.position1 equals positions.positionName
+                                    select new {
+                                        rank = r.rank,
+                                        change = r.change,
+                                        name = r.playerName,
+                                        position = r.position1,
+                                        college = r.school,
+                                        conference = school.conference,
+                                        state = school.state,
+                                        height = r.height,
+                                        weight = r.weight,
+                                        position2 = r.position2,
+                                        positionGroup = positions.positionGroup,
+                                        positionAspect = positions.positionAspect,
+                                        date = r.rankingDateString
+                                    };
+
+            
+            // Specify wildcard search to match CSV files that will be combined
+            StreamWriter fileDest2 = new StreamWriter(destinationFile, false);
+            
+            
+            foreach (var rank in combinedHistoricalRanks)
+            {
+                fileDest2.WriteLine(rank);
+            }
+            
+            fileDest2.Close();
+
         }
 
         private static void CheckForMismatches(string csvFileName)
