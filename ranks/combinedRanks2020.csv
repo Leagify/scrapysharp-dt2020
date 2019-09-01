@@ -1499,3 +1499,303 @@ Rank,Change,Player,School,Position,Height,Weight,Position2,Date
 298,-1,Ben Petrula,Boston College,OT,"6'5""",310,,2019-08-21
 299,-58,Jason Huntley,New Mexico State,RBC,"5'9""",188,,2019-08-21
 300,-29,Sage Lewis,Florida International,ILB,"6'1""",240,,2019-08-21
+1,--,Tua Tagovailoa,Alabama,QB,"6'1""",218,,2019-08-29
+2,+1,Chase Young,Ohio State,EDGE,"6'5""",265,,2019-08-29
+3,-1,Justin Herbert,Oregon,QB,"6'6""",225,,2019-08-29
+4,+3,Jerry Jeudy,Alabama,WRF,"6'1""",192,,2019-08-29
+5,+1,A.J. Epenesa,Iowa,DL5T,"6'6""",280,EDGE,2019-08-29
+6,+5,Jake Fromm,Georgia,QB,"6'2""",220,,2019-08-29
+7,+1,Grant Delpit,LSU,S,"6'3""",203,,2019-08-29
+8,-3,Derrick Brown,Auburn,DL3T,"6'5""",318,DL1T,2019-08-29
+9,-5,Andrew Thomas,Georgia,OT,"6'5""",320,,2019-08-29
+10,+3,Raekwon Davis,Alabama,DL3T,"6'7""",306,,2019-08-29
+11,-2,Laviska Shenault,Colorado,WRF,"6'2""",220,,2019-08-29
+12,-2,Walker Little,Stanford,OT,"6'7""",313,,2019-08-29
+13,+3,CeeDee Lamb,Oklahoma,WRF,"6'2""",189,,2019-08-29
+14,+1,C.J. Henderson,Florida,CB,"6'1""",186,,2019-08-29
+15,-3,Trey Adams,Washington,OT,"6'7""",315,,2019-08-29
+16,-2,Tee Higgins,Clemson,WRF,"6'4""",200,,2019-08-29
+17,+2,Isaiah Simmons,Clemson,OLB,"6'4""",225,S,2019-08-29
+18,+3,Jalen Reagor,TCU,WRS,"5'11""",195,,2019-08-29
+19,+1,Alaric Jackson,Iowa,OT,"6'6""",320,,2019-08-29
+20,+6,Yetur Gross-Matos,Penn State,EDGE,"6'4""",262,,2019-08-29
+21,+11,Terrell Lewis,Alabama,EDGE,"6'5""",255,,2019-08-29
+22,--,Kristian Fulton,LSU,CB,"6'0""",192,,2019-08-29
+23,-2,Nick Coe,Auburn,DL5T,"6'5""",282,EDGE,2019-08-29
+24,-1,Henry Ruggs III,Alabama,WRF,"6'0""",183,,2019-08-29
+25,+8,Travis Etienne,Clemson,RBF,"5'10""",200,,2019-08-29
+26,+1,Tyler Biadasz,Wisconsin,OG,"6'3""",315,OC,2019-08-29
+27,+56,Jeffrey Okudah,Ohio State,CB,"6'1""",200,,2019-08-29
+28,-3,J.K. Dobbins,Ohio State,RBF,"5'10""",214,,2019-08-29
+29,+1,D'Andre Swift,Georgia,RBC,"5'9""",215,,2019-08-29
+30,+14,LaBryan Ray,Alabama,DL5T,"6'5""",285,,2019-08-29
+31,-7,Xavier McKinney,Alabama,S,"6'1""",196,,2019-08-29
+32,-4,Bryce Hall,Virginia,CB,"6'1""",200,,2019-08-29
+33,+19,Anfernee Jennings,Alabama,EDGE,"6'3""",259,OLB,2019-08-29
+34,+8,Shaquille Quarterman,Miami (FL),ILB,"6'1""",240,,2019-08-29
+35,-1,Jacob Eason,Washington,QB,"6'6""",228,,2019-08-29
+36,+2,Jonathan Taylor,Wisconsin,RBF,"5'11""",215,,2019-08-29
+37,-1,Calvin Throckmorton,Oregon,OT,"6'5""",318,,2019-08-29
+38,-7,Trevon Diggs,Alabama,CB,"6'2""",200,,2019-08-29
+39,-10,Tylan Wallace,Oklahoma State,WRF,"6'0""",185,,2019-08-29
+40,+1,Jacob Phillips,LSU,ILB,"6'4""",229,,2019-08-29
+41,+5,Donovan Peoples-Jones,Michigan,WRF,"6'2""",208,,2019-08-29
+42,-26,Albert Okwuegbunam,Missouri,TE,"6'5""",255,,2019-08-29
+43,+25,Darryl Williams,Mississippi State,OC,"6'2""",310,,2019-08-29
+44,NEW,Ashtyn Davis,California,S,"6'1""",201,,2019-08-29
+45,-6,Kenny Willekes,Michigan State,EDGE,"6'4""",260,,2019-08-29
+46,+5,Tommy Kraemer,Notre Dame,OG,"6'6""",319,,2019-08-29
+47,-11,Michael Divinity Jr.,LSU,OLB,"6'2""",238,,2019-08-29
+48,+8,Ben Bredeson,Michigan,OG,"6'5""",320,,2019-08-29
+49,-2,Shea Patterson,Michigan,QB,"6'2""",200,,2019-08-29
+50,+18,Curtis Weaver,Boise State,EDGE,"6'3""",266,,2019-08-29
+51,-2,Collin Johnson,Texas,WRF,"6'6""",220,,2019-08-29
+52,NEW,Lloyd Cushenberry,LSU,OC,"6'3""",312,,2019-08-29
+53,-1,Michael Pinckney,Miami (FL),OLB,"6'1""",220,,2019-08-29
+54,+6,T.J. Vasher,Texas Tech,WRF,"6'6""",190,,2019-08-29
+55,-2,Eno Benjamin,Arizona State,RBF,"5'10""",201,,2019-08-29
+56,-8,Colby Parkinson,Stanford,TE,"6'7""",240,,2019-08-29
+57,+2,Tarik Black,Michigan,WRF,"6'3""",215,,2019-08-29
+58,-4,Tristan Wirfs,Iowa,OT,"6'5""",320,,2019-08-29
+59,+5,Marlon Davidson,Auburn,DL5T,"6'3""",278,,2019-08-29
+60,-26,Jaylon Johnson,Utah,CB,"6'0""",190,,2019-08-29
+61,-4,Khalid Kareem,Notre Dame,EDGE,"6'4""",265,,2019-08-29
+62,-18,Rashard Lawrence,LSU,DL1T,"6'3""",317,DL3T,2019-08-29
+63,NEW,Jonah Jackson,Ohio State,OG,"6'3""",309,,2019-08-29
+64,-3,A.J. Terrell,Clemson,CB,"6'2""",190,,2019-08-29
+65,+27,Alex Leatherwood,Alabama,OG,"6'6""",304,OT,2019-08-29
+66,-20,Richard LeCounte,Georgia,S,"5'11""",190,,2019-08-29
+67,+2,Steven Montez,Colorado,QB,"6'5""",230,,2019-08-29
+68,-10,Julian Okwara,Notre Dame,EDGE,"6'5""",241,,2019-08-29
+69,-30,T.J. McCoy,Louisville,OC,"6'1""",315,,2019-08-29
+70,+6,Willie Gay Jr.,Mississippi State,OLB,"6'2""",235,,2019-08-29
+71,+7,Cam Akers,Florida State,RBF,"5'11""",210,,2019-08-29
+72,--,K.J. Hill,Ohio State,WRF,"6'0""",195,,2019-08-29
+73,+4,Marvin Wilson,Florida State,DL1T,"6'5""",314,DL3T,2019-08-29
+74,-11,Najee Harris,Alabama,RBF,"6'2""",230,,2019-08-29
+75,-10,Lavert Hill,Michigan,CB,"5'11""",181,,2019-08-29
+76,-21,Brandon Jones,Texas,S,"6'0""",210,,2019-08-29
+77,+6,Alton Robinson,Syracuse,EDGE,"6'4""",257,,2019-08-29
+78,-16,Justin Madubuike,Texas A&M,DL3T,"6'3""",304,,2019-08-29
+79,+7,K.J. Costello,Stanford,QB,"6'5""",215,,2019-08-29
+80,-10,Mekhi Becton,Louisville,OT,"6'7""",355,,2019-08-29
+81,+13,K'Lavon Chaisson,LSU,OLB,"6'4""",238,EDGE,2019-08-29
+82,+42,Anthony McFarland Jr.,Maryland,RBC,"5'8""",193,,2019-08-29
+83,-10,Zack Moss,Utah,RBF,"5'10""",210,,2019-08-29
+84,+4,Dontavious Jackson,Florida State,ILB,"6'3""",233,,2019-08-29
+85,+206,Darnay Holmes,UCLA,CB,"5'10""",198,,2019-08-29
+86,+4,Javon Kinlaw,South Carolina,DL3T,"6'6""",302,,2019-08-29
+87,-16,Anthony Hines,Texas A&M,OLB,"6'3""",226,,2019-08-29
+88,+5,Jared Pinkney,Vanderbilt,TE,"6'4""",255,,2019-08-29
+89,-15,Malik Harrison,Ohio State,ILB,"6'3""",245,,2019-08-29
+90,-5,Ty Chandler,Tennessee,RBF,"5'11""",201,,2019-08-29
+91,+24,Alohi Gilman,Notre Dame,S,"5'11""",201,,2019-08-29
+92,-12,Liam Eichenberg,Notre Dame,OT,"6'6""",305,,2019-08-29
+93,+4,Kenneth Murray,Oklahoma,OLB,"6'2""",238,,2019-08-29
+94,+1,A.J. Dillon,Boston College,RBF,"6'0""",245,,2019-08-29
+95,+16,Josh Kaindoh,Florida State,EDGE,"6'7""",261,,2019-08-29
+96,+181,Markus Bailey,Purdue,ILB,"6'1""",240,,2019-08-29
+97,+10,Shane Lemieux,Oregon,OG,"6'4""",317,,2019-08-29
+98,+96,Matt Bushman,BYU,TE,"6'5""",245,,2019-08-29
+99,+14,Sean Pollard,Clemson,OC,"6'5""",320,OG,2019-08-29
+100,+49,Jonathon Cooper,Ohio State,EDGE,"6'4""",257,,2019-08-29
+101,-3,Brycen Hopkins,Purdue,TE,"6'5""",245,,2019-08-29
+102,NEW,Damien Lewis,LSU,OG,"6'2""",335,,2019-08-29
+103,-7,Marquez Callaway,Tennessee,WRF,"6'2""",200,,2019-08-29
+104,-23,Glen Logan,LSU,DL5T,"6'4""",297,,2019-08-29
+105,-14,DeVonta Smith,Alabama,WRF,"6'1""",193,,2019-08-29
+106,--,Tuf Borland,Ohio State,ILB,"6'1""",230,,2019-08-29
+107,-6,Joe Bachie,Michigan State,ILB,"6'2""",238,,2019-08-29
+108,-24,Troy Dye,Oregon,ILB,"6'4""",224,,2019-08-29
+109,+9,Saahdiq Charles,LSU,OT,"6'5""",305,,2019-08-29
+110,NEW,Hamsah Nasirildeen,Florida State,S,"6'3""",216,,2019-08-29
+111,-22,Shyheim Carter,Alabama,CB,"6'0""",195,S,2019-08-29
+112,NEW,Akeem Davis- Gaither,Appalachian State,OLB,"6'2""",210,,2019-08-29
+113,+14,Jeffrey McCulloch,Texas,ILB,"6'3""",245,,2019-08-29
+114,-9,Mike Hampton,South Florida,CB,"6'1""",180,,2019-08-29
+115,-15,Nick Harris,Washington,OC,"6'1""",302,,2019-08-29
+116,+17,Julian Rochester,Georgia,DL3T,"6'5""",300,,2019-08-29
+117,+36,Lorenzo Neal,Purdue,DL3T,"6'3""",315,,2019-08-29
+118,-10,Jalen Hurts,Oklahoma,QB,"6'2""",210,,2019-08-29
+119,-15,Jon Runyan,Michigan,OG,"6'5""",310,OT,2019-08-29
+120,-6,Chubba Hubbard,Oklahoma State,RBF,"6'1""",207,,2019-08-29
+121,NEW,Myles Dorn,North Carolina,S,"6'1""",198,,2019-08-29
+122,-19,Paddy Fisher,Northwestern,ILB,"6'4""",241,,2019-08-29
+123,-14,Mustafa Johnson,Colorado,DL3T,"6'2""",290,,2019-08-29
+124,NEW,K.J. Hamler,Penn State,WRS,"5'9""",174,,2019-08-29
+125,-23,Darrell Taylor,Tennessee,EDGE,"6'4""",247,,2019-08-29
+126,-14,McTelvin Agim,Arkansas,DL5T,"6'3""",279,,2019-08-29
+127,+4,Prince Tega Wanogho,Auburn,OT,"6'7""",310,,2019-08-29
+128,-8,Jacob Breeland,Oregon,TE,"6'5""",240,,2019-08-29
+129,-7,Brian Lewerke,Michigan State,QB,"6'3""",214,,2019-08-29
+130,+39,Scottie Phillips,Ole Miss,RBC,"5'8""",212,,2019-08-29
+131,+32,Christian Rector,USC,EDGE,"6'4""",275,,2019-08-29
+132,-6,Chase Lucas,Arizona State,CB,"6'0""",175,,2019-08-29
+133,+3,KeShawn Vaughn,Vanderbilt,RBF,"5'10""",215,,2019-08-29
+134,-18,Chase Claypool,Notre Dame,WRF,"6'4""",227,,2019-08-29
+135,+67,Tyler Johnson,Minnesota,WRF,"6'2""",200,,2019-08-29
+136,+12,Lucas Niang,TCU,OT,"6'7""",328,,2019-08-29
+137,-18,Jonathan Garvin,Miami (FL),EDGE,"6'4""",250,,2019-08-29
+138,-28,Zack Shackelford,Texas,OC,"6'4""",305,,2019-08-29
+139,-4,T.J. Carter,Memphis,CB,"5'11""",180,,2019-08-29
+140,-65,Grant Calcaterra,Oklahoma,TE,"6'4""",221,,2019-08-29
+141,-18,Erroll Thompson,Mississippi State,ILB,"6'1""",250,,2019-08-29
+142,-100,Trey Smith,Tennessee,OG,"6'6""",337,OT,2019-08-29
+143,-76,J.R. Reed,Georgia,S,"6'1""",199,,2019-08-29
+144,+15,Benito Jones,Ole Miss,DL1T,"6'1""",326,,2019-08-29
+145,+192,Frederick Mauigoa,Washington State,OC,"6'3""",310,,2019-08-29
+146,-16,Damon Arnette,Ohio State,CB,"6'0""",195,,2019-08-29
+147,-6,Larry Rountree III,Missouri,RBF,"5'10""",210,,2019-08-29
+148,-9,Jabari Zuniga,Florida,EDGE,"6'4""",257,,2019-08-29
+149,-11,Michael Warren II,Cincinnati,RBF,"5'11""",218,,2019-08-29
+150,NEW,Antoine Winfield Jr.,Minnesota,S,"5'10""",207,,2019-08-29
+151,+6,Luke Campbell,Michigan State,OT,"6'5""",302,,2019-08-29
+152,-30,Solomon Kindley,Georgia,OG,"6'4""",335,,2019-08-29
+153,-11,Levonta Taylor,Florida State,CB,"5'10""",181,,2019-08-29
+154,-21,Carter Coughlin,Minnesota,OLB,"6'4""",245,EDGE,2019-08-29
+155,-10,Nate Stanley,Iowa,QB,"6'4""",243,,2019-08-29
+156,NEW,Marcelino Ball,Indiana,S,"6'0""",220,,2019-08-29
+157,+24,Marlon Tuipulotu,USC,DL3T,"6'3""",305,,2019-08-29
+158,+79,Justin Jefferson,LSU,WRF,"6'2""",185,,2019-08-29
+159,+2,Greg Eiland,Mississippi State,OT,"6'8""",335,,2019-08-29
+160,-25,Tremayne Anchrum,Clemson,OG,"6'2""",310,,2019-08-29
+161,+12,Lamical Perine,Florida,RBF,"5'11""",227,,2019-08-29
+162,+6,Corey Bethley,TCU,DL3T,"6'2""",290,,2019-08-29
+163,NEW,Kyle Dugger,Lenoir–Rhyne,S,"6'2""",205,,2019-08-29
+164,-20,Mitchell Wilcox,South Florida,TE,"6'5""",245,,2019-08-29
+165,+100,Bryan Edwards,South Carolina,WRF,"6'3""",215,,2019-08-29
+166,-14,Sam Ehlinger,Texas,QB,"6'3""",235,,2019-08-29
+167,+34,Robert Windsor,Penn State,DL3T,"6'4""",289,,2019-08-29
+168,-80,J.J. Taylor,Arizona,RBC,"5'6""",184,,2019-08-29
+169,-11,Rodney Smith,Minnesota,RBF,"5'11""",210,,2019-08-29
+170,-39,Jake Hanson,Oregon,OC,"6'5""",297,,2019-08-29
+171,+63,Logan Stenberg,Kentucky,OG,"6'6""",326,,2019-08-29
+172,+122,Kalija Lipscomb,Vanderbilt,WRF,"6'1""",200,,2019-08-29
+173,+3,Krys Barnes,UCLA,ILB,"6'1""",235,,2019-08-29
+174,NEW,Jaquarius Landrews,Mississippi State,S,"5'11""",197,,2019-08-29
+175,+15,Josh Uche,Michigan,OLB,"6'3""",238,,2019-08-29
+176,-20,Rayshard Ashby,Virginia Tech,ILB,"5'10""",230,,2019-08-29
+177,NEW,A.J. Green,Oklahoma State,CB,"6'1""",194,,2019-08-29
+178,+13,Isaiahh Loudermilk,Wisconsin,DL5T,"6'7""",306,,2019-08-29
+179,-14,Pete Werner,Ohio State,ILB,"6'3""",236,,2019-08-29
+180,-37,Richard Moore,SMU,OLB,"6'0""",230,,2019-08-29
+181,-19,Cam Brown,Penn State,ILB,"6'5""",230,,2019-08-29
+182,NEW,B.J. Smith,Troy,RBC,"5'9""",203,,2019-08-29
+183,-14,Mohamed Barry,Nebraska,ILB,"6'1""",230,,2019-08-29
+184,NEW,Tyler Higby,Michigan State,OG,"6'4""",303,,2019-08-29
+185,+43,Trey Sermon,Oklahoma,RBF,"6'0""",224,,2019-08-29
+186,-33,Harrison Bryant,Florida Atlantic,TE,"6'5""",240,,2019-08-29
+187,-20,Trystan Colon-Castillo,Missouri,OC,"6'4""",315,,2019-08-29
+188,-28,Joe Gaziano,Northwestern,DL5T,"6'4""",275,,2019-08-29
+189,+5,Patrick Johnson,Tulane,EDGE,"6'3""",255,,2019-08-29
+190,-3,D'Eriq King,Houston,QB,"5'11""",195,,2019-08-29
+191,-36,DeMarkus Acy,Missouri,CB,"6'2""",195,,2019-08-29
+192,+7,Khalil Davis,Nebraska,DL1T,"6'2""",310,,2019-08-29
+193,+46,Reggie Corbin,Illinois,RBF,"5'10""",200,,2019-08-29
+194,NEW,Rico Bussey Jr.,North Texas,WRF,"6'2""",193,,2019-08-29
+195,-95,David Dowell,Michigan State,S,"6'1""",205,,2019-08-29
+196,-13,Kellen Mond,Texas A&M,QB,"6'2""",217,,2019-08-29
+197,-79,Britain Covey,Utah,WRS,"5'8""",170,,2019-08-29
+198,-18,Zach Robertson,Arizona State,OT,"6'5""",335,OG,2019-08-29
+199,+3,Jordan Elliott,Missouri,DL3T,"6'4""",315,,2019-08-29
+200,-22,Jared Rice,Fresno State,TE,"6'5""",238,,2019-08-29
+201,-8,Juwan Washington,San Diego State,RBC,"5'7""",190,RBC,2019-08-29
+202,-16,Nyles Pinckney,Clemson,DL3T,"6'1""",305,,2019-08-29
+203,-14,Drew Richmond,USC,OT,"6'5""",316,,2019-08-29
+204,-32,Tre'Vour Wallace-Simms,Missouri,OG,"6'5""",330,,2019-08-29
+205,-17,Scott Frantz,Kansas State,OT,"6'5""",303,,2019-08-29
+206,+3,Tyler Clark,Georgia,DL1T,"6'4""",300,,2019-08-29
+207,-30,Essang Bassey,Wake Forest,CB,"6'10""",190,,2019-08-29
+208,+37,Tommy Townsend,Florida,P,"6'2""",183,,2019-08-29
+209,-24,Scott Lashley,Alabama,OT,"6'7""",307,,2019-08-29
+210,+39,Daelin Hayes,Notre Dame,DL5T,"6'4""",268,,2019-08-29
+211,-36,Joshua Kelley,UCLA,RBF,"5'11""",204,,2019-08-29
+212,-41,Steven Gonzalez,Penn State,OG,"6'4""",349,,2019-08-29
+213,-1,Braden Mann,Texas A&M,P,"5'11""",195,,2019-08-29
+214,+19,Evan Weaver,California,ILB,"6'3""",245,,2019-08-29
+215,-18,Paulson Adedo,Stanford,CB,"6'1""",189,,2019-08-29
+216,NEW,Michael Pittman Jr.,USC,WRF,"6'4""",223,,2019-08-29
+217,+2,Colin Schooler,Arizona,ILB,"6'0""",236,,2019-08-29
+218,-8,Raequan Williams,Michigan State,DL3T,"6'4""",298,,2019-08-29
+219,-72,Kelvin Jarvis,Michigan State,OG,"6'4""",317,,2019-08-29
+220,-22,Matt Hennessy,Temple,OC,"6'4""",295,,2019-08-29
+221,NEW,Aaron Fuller,Washington,WRS,"5'11""",186,,2019-08-29
+222,NEW,Kylin Hill,Mississippi State,RBF,"5'11""",215,,2019-08-29
+223,+28,Jay Tufele,USC,DL3T,"6'3""",310,,2019-08-29
+224,-18,Cameron Dantzler,Mississippi State,CB,"6'2""",185,,2019-08-29
+225,--,T.J. Brunson,South Carolina,ILB,"6'0""",230,,2019-08-29
+226,-30,Tedarrell Slaton,Florida,DL1T,"6'5""",343,,2019-08-29
+227,NEW,Devin Duvernay,Texas,WRS,"5'11""",186,,2019-08-29
+228,-1,Leki Fotu,Utah,DL1T,"6'5""",330,,2019-08-29
+229,+41,Kamal Martin,Minnesota,ILB,"6'3""",235,,2019-08-29
+230,NEW,Gerold Bright,Utah State,RBF,"5'9""",195,,2019-08-29
+231,NEW,Josh Metellus,Michigan,S,"5'11""",215,,2019-08-29
+232,-12,Jet Toner,Stanford,PK,"6'4""",201,,2019-08-29
+233,NEW,Cheyenne O�Grady,Arkansas,TE,"6'4""",256,,2019-08-29
+234,-19,Feleipe Franks,Florida,QB,"6'6""",240,,2019-08-29
+235,-27,Marcus Keyes,Oklahoma State,OG,"6'3""",309,,2019-08-29
+236,+31,Breiden Fehoko,LSU,DL5T,"6'4""",291,,2019-08-29
+237,-2,Bobby Roundtree,Illinois,EDGE,"6'5""",255,,2019-08-29
+238,-7,Neville Gallimore,Oklahoma,DL1T,"6'2""",330,,2019-08-29
+239,-22,Levi Onwuzurike,Washington,DL3T,"6'3""",282,,2019-08-29
+240,-2,Jordon Scott,Oregon,DL1T,"6'1""",329,,2019-08-29
+241,NEW,Jalen Elliott,Notre Dame,S,"6'0""",207,,2019-08-29
+242,+8,Patrick Queen,LSU,ILB,"6'2""",232,,2019-08-29
+243,-3,McKenzie Milton,UCF,QB,"5'11""",185,,2019-08-29
+244,NEW,James Wiggins,Cincinnati,S,"6'0""",206,,2019-08-29
+245,NEW,Jack Anderson,Texas Tech,OC,"6'5""",321,OG,2019-08-29
+246,-16,De'Jon Harris,Arkansas,ILB,"6'0""",244,,2019-08-29
+247,+6,Blake Gillikin,Penn State,P,"6'2""",195,,2019-08-29
+248,--,Leo Lewis,Mississippi State,ILB,"6'2""",245,,2019-08-29
+249,+14,Khalil Brooks,Middle Tennessee,OLB,"5'11""",206,,2019-08-29
+250,-37,Thomas Graham Jr.,Oregon,CB,"5'11""",191,,2019-08-29
+251,-172,Jordan Fuller,Ohio State,S,"6'2""",205,,2019-08-29
+252,+16,Chauncey Rivers,Mississippi State,DL5T,"6'3""",275,,2019-08-29
+253,NEW,Keith Ismael,San Diego State,OC,"6'3""",311,,2019-08-29
+254,NEW,Kary Vincent Jr.,LSU,CB,"5'10""",182,,2019-08-29
+255,+19,Raymond Calais,LSU,RBC,"5'9""",180,,2019-08-29
+256,-21,Davion Taylor,Colorado,OLB,"6'2""",220,,2019-08-29
+257,-4,Kylan Wilborn,Arizona,EDGE,"6'2""",248,,2019-08-29
+258,-119,Denzel Mims,Baylor,WRF,"6'3""",197,,2019-08-29
+259,-47,Rashad Weaver,Pitt,EDGE,"6'5""",260,,2019-08-29
+260,-19,Luc Bequette,California,DL5T,"6'2""",295,,2019-08-29
+261,-33,Jason Strowbridge,North Carolina,DL3T,"6'3""",285,,2019-08-29
+262,-59,Logan Wilson,Wyoming,ILB,"6'2""",250,,2019-08-29
+263,+16,David Reese II,Florida,ILB,"6'1""",248,,2019-08-29
+264,-136,Julian Blackmon,Utah,S,"6'1""",195,,2019-08-29
+265,-87,Keisean Lucier-South,UCLA,EDGE,"6'4""",235,,2019-08-29
+266,-7,Jake Bentley,South Carolina,QB,"6'2""",220,,2019-08-29
+267,-86,Kenny Robinson Jr.,West Virginia,S,"6'2""",202,,2019-08-29
+268,-103,Theo Howard,UCLA,WRF,"6'0""",182,,2019-08-29
+269,-65,Jordan Cronkrite,South Florida,RBF,"5'11""",207,,2019-08-29
+270,-47,Josiah Scott,Michigan State,CB,"5'10""",168,,2019-08-29
+271,NEW,Connor Slomka,Army,FB,"6'0""",240,,2019-08-29
+272,--,Jahad Woods,Washington State,OLB,"6'0""",225,,2019-08-29
+273,-56,Dalton Keene,Virginia Tech,TE,"6'4""",246,,2019-08-29
+274,-49,Jordan Williams,Clemson,DL3T,"6'4""",305,,2019-08-29
+275,-24,Bravvion Roy,Baylor,DL1T,6'1,330,,2019-08-29
+276,-30,Dante Olson,Montana,ILB,"6'3""",237,,2019-08-29
+277,NEW,Isaiah Zuber,Mississippi State,WRS,"5'11""",186,,2019-08-29
+278,-22,Josiah Deguara,Cincinnati,TE,"6'3""",240,,2019-08-29
+279,+34,Reggie Walker,Kansas State,EDGE,"6'2""",246,,2019-08-29
+280,NEW,John Hightower,Boise State,WRF,"6'2""",184,,2019-08-29
+281,-21,Cale Garrett,Missouri,ILB,"6'3""",230,,2019-08-29
+282,NEW,Troy Pride Jr.,Notre Dame,CB,"5'11""",192,,2019-08-29
+283,NEW,Antonio Gandy-Golden,Liberty,WRF,"6'4""",216,,2019-08-29
+284,NEW,Juwan Johnson,Oregon,WRF,"6'4""",227,,2019-08-29
+285,-7,Robert Landers,Ohio State,DL3T,"6'1""",285,,2019-08-29
+286,+38,Cesar Ruiz,Michigan,OC,"6'4""",319,,2019-08-29
+287,NEW,Jeff Gladney,TCU,CB,"5'10""",183,,2019-08-29
+288,+15,Mike Panasiuk,Michigan State,DL3T,"6'4""",300,,2019-08-29
+289,NEW,Johnathon Johnson,Missouri,WRS,"5'8""",179,,2019-08-29
+290,NEW,Van Jefferson,Florida,WRF,"6'2""",197,,2019-08-29
+291,-146,Antoine Brooks Jr.,Maryland,S,"5'11""",210,,2019-08-29
+292,+3,Daniel Bituli,Tennessee,ILB,"6'3""",244,,2019-08-29
+293,-87,Kiel Pollard,South Carolina,FB,"6'1""",235,,2019-08-29
+294,-72,Rashad Robinson,James Madison,CB,"5'11""",185,,2019-08-29
+295,-38,Jake Verity,East Carolina,PK,"6'1""",185,,2019-08-29
+296,-25,Quincy Roche,Temple,EDGE,"6'4""",235,,2019-08-29
+297,-1,Ben Petrula,Boston College,OT,"6'5""",310,,2019-08-29
+298,-58,Jason Huntley,New Mexico State,RBC,"5'9""",188,,2019-08-29
+299,-29,Sage Lewis,Florida International,ILB,"6'1""",240,,2019-08-29
+300,-16,Malik Herring,Georgia,DL5T,"6'3""",280,,2019-08-29
