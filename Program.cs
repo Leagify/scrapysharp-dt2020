@@ -124,6 +124,16 @@ namespace scrapysharp_dt2020
                                             return new PositionType(columns[0], columns[1], columns[2]);
                                         })
                                         .ToList();
+            // Let's assign these ranks point values.
+            var ranksToProjectedPoints = System.IO.File.ReadAllLines($"RanksToProjectedPoints.csv")
+                                        .Skip(1)
+                                        .Where(s => s.Length > 1)
+                                        .Select( s =>
+                                        {
+                                            var columns = s.Split(',');
+                                            return new PointProjection(columns[0], columns[1]);
+                                        })
+                                        .ToList();
 
             //Combine ranks from CSV files to create a master CSV.
             var filePaths = Directory.GetFiles($"ranks{Path.DirectorySeparatorChar}", "20??-??-??-ranks.csv").ToList<String>();
@@ -164,11 +174,14 @@ namespace scrapysharp_dt2020
                                             return new ExistingProspectRanking(columns[0], columns[1], columns[2], columns[3], columns[4], columns[5], columns[6], columns[7], columns[8]);
                                         })
                                         .ToList();
+
+
             
             // Use linq to join the stuff back together, then write it out again.
             var combinedHistoricalRanks = from r in prospectRanks
                                     join school in schoolsAndConferences on r.school equals school.schoolName
                                     join positions in positionsAndTypes on r.position1 equals positions.positionName
+                                    join rank in ranksToProjectedPoints on r.rank equals rank.rank
                                     select new {
                                         Rank = r.rank,
                                         Change = r.change,
@@ -182,7 +195,8 @@ namespace scrapysharp_dt2020
                                         Position2 = r.position2,
                                         PositionGroup = positions.positionGroup,
                                         PositionAspect = positions.positionAspect,
-                                        Date = r.rankingDateString
+                                        Date = r.rankingDateString,
+                                        Points = rank.projectedPoints
                                     };
 
             
