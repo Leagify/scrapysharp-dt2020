@@ -12,6 +12,7 @@ using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
 namespace scrapysharp_dt2020
 {
@@ -171,7 +172,8 @@ namespace scrapysharp_dt2020
                                         .Select( s =>
                                         {
                                             var columns = s.Split(',');
-                                            return new ExistingProspectRanking(columns[0], columns[1], columns[2], columns[3], columns[4], columns[5], columns[6], columns[7], columns[8]);
+                                            string heightInInches = convertHeightToInches(columns[5]).ToString();
+                                            return new ExistingProspectRanking(columns[0], columns[1], columns[2], columns[3], columns[4], heightInInches, columns[6], columns[7], columns[8]);
                                         })
                                         .ToList();
 
@@ -391,9 +393,26 @@ namespace scrapysharp_dt2020
                     return "Lenoir–Rhyne";
                 default:
                     return school;
-
             }
+        }
+        public static int convertHeightToInches(string height)
+        {
+            // Height might look something like "\"6'1\"\"\"" - convert to inches to look less awful.
+            string regexHeight = Regex.Match(height, @"\d'\d+").Value;
+            string[] feetAndInches = regexHeight.Split("'");
             
+            bool parseFeet = Int32.TryParse(feetAndInches[0], out int feet);
+            bool parseInches = Int32.TryParse(feetAndInches[0], out int inches);
+
+            if (parseFeet && parseInches)
+            {
+                int heightInInches = (feet*12)+inches;
+                return heightInInches;
+            }
+            else
+            {
+                return 0;
+            }
         }
     }
 }
