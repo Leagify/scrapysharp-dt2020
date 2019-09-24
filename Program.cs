@@ -391,6 +391,12 @@ namespace scrapysharp_dt2020
                     return "Boise State";
                 case "Lenoir-Rhyne":
                     return "Lenoir–Rhyne";
+                case "NCState":
+                    return "NC State";
+                case "W Michigan":
+                    return "Western Michigan";
+                case "UL Lafayette":
+                    return "Louisiana-Lafayette";
                 default:
                     return school;
             }
