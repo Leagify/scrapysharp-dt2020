@@ -213,7 +213,7 @@ namespace scrapysharp_dt2020
 
         private static void CheckForMismatches(string csvFileName)
         {
-            System.Console.WriteLine("Checking for mismatches.....");
+            System.Console.WriteLine("Checking for mismatches in " + csvFileName + ".....");
             // Read in data from a different project.
             var schoolsAndConferences = System.IO.File.ReadAllLines("SchoolStatesAndConferences.csv")
                                         .Skip(1)
