@@ -105,7 +105,7 @@ namespace scrapysharp_dt2020
         {
             System.Console.WriteLine("Creating the big CSV.....");
             // Get Schools and the States where they are located.
-            var schoolsAndConferences = System.IO.File.ReadAllLines("SchoolStatesAndConferences.csv")
+            var schoolsAndConferences = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv")
                                         .Skip(1)
                                         .Where(s => s.Length > 1)
                                         .Select( s =>
@@ -116,7 +116,7 @@ namespace scrapysharp_dt2020
                                         .ToList();
             
             //Get position types
-            var positionsAndTypes = System.IO.File.ReadAllLines("PositionInfo.csv")
+            var positionsAndTypes = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}PositionInfo.csv")
                                         .Skip(1)
                                         .Where(s => s.Length > 1)
                                         .Select( s =>
@@ -126,7 +126,7 @@ namespace scrapysharp_dt2020
                                         })
                                         .ToList();
             // Let's assign these ranks point values.
-            var ranksToProjectedPoints = System.IO.File.ReadAllLines($"RanksToProjectedPoints.csv")
+            var ranksToProjectedPoints = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}RanksToProjectedPoints.csv")
                                         .Skip(1)
                                         .Where(s => s.Length > 1)
                                         .Select( s =>
@@ -215,7 +215,7 @@ namespace scrapysharp_dt2020
         {
             System.Console.WriteLine("Checking for mismatches in " + csvFileName + ".....");
             // Read in data from a different project.
-            var schoolsAndConferences = System.IO.File.ReadAllLines("SchoolStatesAndConferences.csv")
+            var schoolsAndConferences = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv")
                                         .Skip(1)
                                         .Where(s => s.Length > 1)
                                         .Select( s =>
