@@ -7,6 +7,9 @@
 /bin
 /obj
 
+# vscode ide stuff
+/.vscode
+
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
