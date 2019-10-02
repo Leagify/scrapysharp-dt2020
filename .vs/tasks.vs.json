@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-scrapysharp-dt2020",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-scrapysharp-dt2020",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
