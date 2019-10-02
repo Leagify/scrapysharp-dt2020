@@ -1,15 +1,35 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
 
-# Created by https://www.gitignore.io/api/dotnetcore
-# Edit at https://www.gitignore.io/?templates=dotnetcore
+# Visual Studio Code
+.vscode
 
-### DotnetCore ###
-# .NET Core build folders
-/bin
-/obj
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Common node modules locations
-/node_modules
-/wwwroot/node_modules
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
 
-
-# End of https://www.gitignore.io/api/dotnetcore
+# Visual Studio 2015
+.vs/
+obj/scrapysharp-dt2020.csproj.nuget.dgspec.json
+obj/scrapysharp-dt2020.csproj.nuget.cache
+obj/project.assets.json
