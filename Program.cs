@@ -20,6 +20,11 @@ namespace scrapysharp_dt2020
     {
         static void Main(string[] args)
         {
+            File.WriteAllText($"logs{Path.DirectorySeparatorChar}Status.log", "");
+            File.WriteAllText($"logs{Path.DirectorySeparatorChar}Prospects.log", "");
+
+            Console.WriteLine("Getting data...");
+
             var webGet = new HtmlWeb();
             webGet.UserAgent = "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0";
             var document1 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-1.asp");
@@ -27,6 +32,8 @@ namespace scrapysharp_dt2020
             var document3 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-3.asp");
             var document4 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-4.asp");
             var document5 = webGet.Load("https://www.drafttek.com/2020-NFL-Draft-Big-Board/Top-NFL-Draft-Prospects-2020-Page-5.asp");
+
+            Console.WriteLine("Parsing data...");
 
             //Get ranking date
             var dateOfRanks = document1.DocumentNode.SelectSingleNode("//*[@id='HeadlineInfo1']").InnerText.Replace(" EST", "").Trim();
@@ -44,6 +51,8 @@ namespace scrapysharp_dt2020
 
             //This is the file name we are going to write.
             var csvFileName = $"ranks{Path.DirectorySeparatorChar}{dateInNiceFormat}-ranks.csv";
+
+            Console.WriteLine("Creating csv...");
 
             //Write projects to csv with date.
             using (var writer = new StreamWriter(csvFileName))
@@ -67,6 +76,8 @@ namespace scrapysharp_dt2020
             CreateCombinedCSV();
             CheckForMismatches($"ranks{Path.DirectorySeparatorChar}combinedRanks2020.csv");
             CreateCombinedCSVWithExtras();
+
+            Console.WriteLine("Completed.");
         }
 
         private static void CreateCombinedCSV()
@@ -103,7 +114,8 @@ namespace scrapysharp_dt2020
 
         private static void CreateCombinedCSVWithExtras()
         {
-            System.Console.WriteLine("Creating the big CSV.....");
+            File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", "Creating the big CSV....." + Environment.NewLine);
+
             // Get Schools and the States where they are located.
             List<School> schoolsAndConferences;
             using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv"))
@@ -199,11 +211,14 @@ namespace scrapysharp_dt2020
             {
                 csv.WriteRecords(combinedHistoricalRanks);
             }
+
+            File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", "Creating the big CSV completed." + Environment.NewLine);
         }
 
         private static void CheckForMismatches(string csvFileName)
         {
-            System.Console.WriteLine("Checking for mismatches in " + csvFileName + ".....");
+            File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", "Checking for mismatches in " + csvFileName + "....." + Environment.NewLine);
+
             // Read in data from a different project.
             List<School> schoolsAndConferences;
             using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv"))
@@ -233,15 +248,24 @@ namespace scrapysharp_dt2020
                                     ;
             
             bool noMismatches = true;
-            
-            foreach(var s in schoolMismatches){
-                noMismatches = false;
-                Console.WriteLine($"{s.rank}, {s.name}, {s.college}");
+
+            if (schoolMismatches.Count() > 0)
+            {
+                File.WriteAllText($"logs{Path.DirectorySeparatorChar}Mismatches.log", "");
             }
 
-            if(noMismatches)
+            foreach (var s in schoolMismatches){
+                noMismatches = false;
+                File.AppendAllText($"logs{Path.DirectorySeparatorChar}Mismatches.log", $"{s.rank}, {s.name}, {s.college}" + Environment.NewLine);
+            }
+
+            if (noMismatches)
             {
-                Console.WriteLine("All good!");
+                File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", "No mismatches in " + csvFileName + "....." + Environment.NewLine);
+            }
+            else
+            {
+                File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", schoolMismatches.Count() + " mismatches in " + csvFileName + ".....Check Mismatches.log." + Environment.NewLine);
             }
         }
 
@@ -266,7 +290,7 @@ namespace scrapysharp_dt2020
                 
                 if (tbl == null)
                 {
-                    Console.WriteLine($"No prospects on page {pageNumber}");
+                    File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", $"No prospects on page {pageNumber}" + Environment.NewLine);
                     return prospectList;
                 }
 
@@ -284,7 +308,7 @@ namespace scrapysharp_dt2020
                                     // td[1]= Rank
                                     if (Int32.TryParse(cell.InnerText, out int rankNumber))
                                         rank = rankNumber;
-                                        Console.WriteLine("Rank: " + cell.InnerText);
+                                    File.AppendAllText($"logs{Path.DirectorySeparatorChar}Prospects.log", "Rank: " + cell.InnerText + Environment.NewLine);
                                     break;
                                 case '2':
                                     // td[2]= Change
@@ -294,7 +318,7 @@ namespace scrapysharp_dt2020
                                 case '3':
                                     // td[3]= Player
                                     playerName = cell.InnerText;
-                                    Console.WriteLine("Player: " + cell.InnerText);
+                                    File.AppendAllText($"logs{Path.DirectorySeparatorChar}Prospects.log", "Player: " + cell.InnerText + Environment.NewLine);
                                     break;
                                 case '4':
                                     // td[4]= School
@@ -331,7 +355,7 @@ namespace scrapysharp_dt2020
                         }
                     }
                 }
-                Console.WriteLine($"Prospect count on page {pageNumber}: {prospectList.Count}");
+                File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", $"Prospect count on page {pageNumber}: {prospectList.Count}" + Environment.NewLine);
             }
             return prospectList;
         }
