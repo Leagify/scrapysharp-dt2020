@@ -13,6 +13,10 @@ project.lock.json
 *.userosscache
 *.sln.docstates
 
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -27,6 +31,7 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+
 
 # Visual Studio 2015
 .vs/
