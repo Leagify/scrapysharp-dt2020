@@ -105,36 +105,31 @@ namespace scrapysharp_dt2020
         {
             System.Console.WriteLine("Creating the big CSV.....");
             // Get Schools and the States where they are located.
-            var schoolsAndConferences = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv")
-                                        .Skip(1)
-                                        .Where(s => s.Length > 1)
-                                        .Select( s =>
-                                        {
-                                            var columns = s.Split(',');
-                                            return new School(columns[0], columns[1], columns[2]);
-                                        })
-                                        .ToList();
+            List<School> schoolsAndConferences;
+            using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv"))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<SchoolCsvMap>();
+                schoolsAndConferences = csv.GetRecords<School>().ToList();
+            }
             
             //Get position types
-            var positionsAndTypes = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}PositionInfo.csv")
-                                        .Skip(1)
-                                        .Where(s => s.Length > 1)
-                                        .Select( s =>
-                                        {
-                                            var columns = s.Split(',');
-                                            return new PositionType(columns[0], columns[1], columns[2]);
-                                        })
-                                        .ToList();
+            List<PositionType> positionsAndTypes;
+            using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}PositionInfo.csv"))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<PositionTypeCsvMap>();
+                positionsAndTypes = csv.GetRecords<PositionType>().ToList();
+            }
+
             // Let's assign these ranks point values.
-            var ranksToProjectedPoints = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}RanksToProjectedPoints.csv")
-                                        .Skip(1)
-                                        .Where(s => s.Length > 1)
-                                        .Select( s =>
-                                        {
-                                            var columns = s.Split(',');
-                                            return new PointProjection(columns[0], columns[1]);
-                                        })
-                                        .ToList();
+            List<PointProjection> ranksToProjectedPoints;
+            using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}RanksToProjectedPoints.csv"))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<PointProjectionCsvMap>();
+                ranksToProjectedPoints = csv.GetRecords<PointProjection>().ToList();
+            }
 
             //Combine ranks from CSV files to create a master CSV.
             var filePaths = Directory.GetFiles($"ranks{Path.DirectorySeparatorChar}", "20??-??-??-ranks.csv").ToList<String>();
@@ -166,18 +161,13 @@ namespace scrapysharp_dt2020
             fileDest.Close();
 
             // Get ranks from the newly created CSV file.
-            var prospectRanks = System.IO.File.ReadAllLines($"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv")
-                                        .Skip(1)
-                                        .Where(s => s.Length > 1)
-                                        .Select( s =>
-                                        {
-                                            var columns = s.Split(',');
-                                            string heightInInches = convertHeightToInches(columns[5]).ToString();
-                                            return new ExistingProspectRanking(columns[0], columns[1], columns[2], columns[3], columns[4], heightInInches, columns[6], columns[7], columns[8]);
-                                        })
-                                        .ToList();
-
-
+            List<ExistingProspectRanking> prospectRanks;
+            using (var reader = new StreamReader($"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv"))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<ExistingProspectRankingCsvMap>();
+                prospectRanks = csv.GetRecords<ExistingProspectRanking>().ToList();
+            }
             
             // Use linq to join the stuff back together, then write it out again.
             var combinedHistoricalRanks = from r in prospectRanks
@@ -215,33 +205,22 @@ namespace scrapysharp_dt2020
         {
             System.Console.WriteLine("Checking for mismatches in " + csvFileName + ".....");
             // Read in data from a different project.
-            var schoolsAndConferences = System.IO.File.ReadAllLines($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv")
-                                        .Skip(1)
-                                        .Where(s => s.Length > 1)
-                                        .Select( s =>
-                                        {
-                                            var columns = s.Split(',');
-                                            return new School(columns[0], columns[1], columns[2]);
-                                        })
-                                        .ToList();
+            List<School> schoolsAndConferences;
+            using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}SchoolStatesAndConferences.csv"))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<SchoolCsvMap>();
+                schoolsAndConferences = csv.GetRecords<School>().ToList();
+            }
             
+            List<ProspectRankSimple> ranks;
+            using (var reader = new StreamReader(csvFileName))
+            using (var csv = new CsvReader(reader))
+            {
+                csv.Configuration.RegisterClassMap<ProspectRankSimpleCsvMap>();
+                ranks = csv.GetRecords<ProspectRankSimple>().ToList();
+            }
 
-            
-            var ranks = System.IO.File.ReadAllLines(csvFileName)
-                                        .Skip(1)
-                                        .Where(r => r.Length > 1)
-                                        .Select(r =>
-                                        {
-                                            var columns = r.Split(',');
-                                            int rank = Int32.Parse(columns[0]);
-                                            string name = columns[2];
-                                            string college = columns[3];
-                                            string dateString = columns[8];
-
-                                            return new ProspectRankSimple(rank, name, college, dateString);
-                                        }
-                                        )
-                                        .ToList();
             var schoolMismatches = from r in ranks
                                     join school in schoolsAndConferences on r.school equals school.schoolName into mm
                                     from school in mm.DefaultIfEmpty()
