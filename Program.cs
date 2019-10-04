@@ -411,7 +411,7 @@ namespace scrapysharp_dt2020
             string[] feetAndInches = regexHeight.Split("'");
             
             bool parseFeet = Int32.TryParse(feetAndInches[0], out int feet);
-            bool parseInches = Int32.TryParse(feetAndInches[0], out int inches);
+            bool parseInches = Int32.TryParse(feetAndInches[1], out int inches);
 
             if (parseFeet && parseInches)
             {
