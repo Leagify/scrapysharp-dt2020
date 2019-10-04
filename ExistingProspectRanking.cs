@@ -40,7 +40,7 @@ namespace scrapysharp_dt2020
             Map(m => m.playerName).Name("Player");
             Map(m => m.school).Name("School");
             Map(m => m.position1).Name("Position");
-            Map(m => m.height).Name("Height").ConvertUsing(map => Program.convertHeightToInches(map.GetField("Height")).ToString());
+            Map(m => m.height).Name("Height").ConvertUsing(map => Program.convertHeightToInches(map.GetField("Height"), map.GetField("Player")).ToString());
             Map(m => m.weight).Name("Weight");
             Map(m => m.position2).Name("Position2");
             Map(m => m.rankingDateString).Name("Date");
