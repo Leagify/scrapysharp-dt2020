@@ -1,22 +1,14 @@
 ﻿using CsvHelper;
 using HtmlAgilityPack;
-using ScrapySharp.Extensions;
-using ScrapySharp.Html;
-using ScrapySharp.Html.Forms;
-using ScrapySharp.Network;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
 namespace scrapysharp_dt2020
 {
-    class Program
+	class Program
     {
         static void Main(string[] args)
         {
@@ -124,7 +116,15 @@ namespace scrapysharp_dt2020
                 csv.Configuration.RegisterClassMap<SchoolCsvMap>();
                 schoolsAndConferences = csv.GetRecords<School>().ToList();
             }
-            
+
+			List<Region> statesAndRegions;
+			using(var reader = new StreamReader($"info{Path.DirectorySeparatorChar}StatesToRegions.csv"))
+			using(var csv = new CsvReader(reader))
+			{
+				csv.Configuration.RegisterClassMap<RegionCsvMap>();
+				statesAndRegions = csv.GetRecords<Region>().ToList();
+			}
+
             //Get position types
             List<PositionType> positionsAndTypes;
             using (var reader = new StreamReader($"info{Path.DirectorySeparatorChar}PositionInfo.csv"))
@@ -184,6 +184,7 @@ namespace scrapysharp_dt2020
             // Use linq to join the stuff back together, then write it out again.
             var combinedHistoricalRanks = from r in prospectRanks
                                     join school in schoolsAndConferences on r.school equals school.schoolName
+									join region in statesAndRegions on school.state equals region.state
                                     join positions in positionsAndTypes on r.position1 equals positions.positionName
                                     join rank in ranksToProjectedPoints on r.rank equals rank.rank
                                     select new {
@@ -194,6 +195,7 @@ namespace scrapysharp_dt2020
                                         College = r.school,
                                         Conference = school.conference,
                                         State = school.state,
+										Region = region.region,
                                         Height = r.height,
                                         Weight = r.weight,
                                         Position2 = r.position2,
