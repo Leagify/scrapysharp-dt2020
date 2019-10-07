@@ -1,4 +1,5 @@
-﻿using CsvHelper;
+﻿
+using CsvHelper;
 using HtmlAgilityPack;
 using ScrapySharp.Extensions;
 using ScrapySharp.Html;
@@ -404,7 +405,7 @@ namespace scrapysharp_dt2020
                     return school;
             }
         }
-        public static int convertHeightToInches(string height)
+        public static int convertHeightToInches(string height,string playerName)
         {
             // Height might look something like "\"6'1\"\"\"" - convert to inches to look less awful.
             string regexHeight = Regex.Match(height, @"\d'\d+").Value;
@@ -420,6 +421,7 @@ namespace scrapysharp_dt2020
             }
             else
             {
+                File.AppendAllText($"logs{Path.DirectorySeparatorChar}Mismatches.log",$"Player: {playerName} of height {height} cannot be converted, hence returning 0"+Environment.NewLine);
                 return 0;
             }
         }
