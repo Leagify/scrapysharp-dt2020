@@ -18,23 +18,23 @@ project.lock.json
 /wwwroot/node_modules
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-msbuild.log
-msbuild.err
-msbuild.wrn
+**/[Dd]ebug/
+**/[Dd]ebugPublic/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/x64/
+**/x86/
+**/build/
+**/bld/
+**/[Bb]in/
+**/[Oo]bj/
+**/msbuild.log
+**/msbuild.err
+**/msbuild.wrn
 
 
 # Visual Studio 2015
 .vs/
-obj/scrapysharp-dt2020.csproj.nuget.dgspec.json
-obj/scrapysharp-dt2020.csproj.nuget.cache
-obj/project.assets.json
+**/obj/scrapysharp-dt2020.csproj.nuget.dgspec.json
+**/obj/scrapysharp-dt2020.csproj.nuget.cache
+**/obj/project.assets.json
