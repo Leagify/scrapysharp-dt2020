@@ -1,4 +1,4 @@
-﻿using CsvHelper;
+using CsvHelper;
 using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
@@ -49,7 +49,7 @@ namespace scrapysharp_dt2020
             //Write projects to csv with date.
             using (var writer = new StreamWriter(csvFileName))
             using (var csv = new CsvWriter(writer))
-            {    
+            {
                 csv.Configuration.RegisterClassMap<ProspectRankingMap>();
                 csv.WriteRecords(list1);
                 csv.WriteRecords(list2);
@@ -79,28 +79,28 @@ namespace scrapysharp_dt2020
             //The results are probably already sorted, but I don't trust that, so I'm going to sort manually.
             filePaths.Sort();
             string destinationFile = $"ranks{Path.DirectorySeparatorChar}combinedRanks2020.csv";
-            
+
             // Specify wildcard search to match CSV files that will be combined
             StreamWriter fileDest = new StreamWriter(destinationFile, false);
-            
+
             int i;
             for (i = 0; i < filePaths.Count; i++)
             {
                 string file = filePaths[i];
-            
+
                 string[] lines = File.ReadAllLines(file);
-            
+
                 if (i > 0)
                 {
                     lines = lines.Skip(1).ToArray(); // Skip header row for all but first file
                 }
-            
+
                 foreach (string line in lines)
                 {
                     fileDest.WriteLine(line);
                 }
             }
-            
+
             fileDest.Close();
         }
 
@@ -148,28 +148,28 @@ namespace scrapysharp_dt2020
             //The results are probably already sorted, but I don't trust that, so I'm going to sort manually.
             filePaths.Sort();
             string destinationFile = $"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv";
-            
+
             // Specify wildcard search to match CSV files that will be combined
             StreamWriter fileDest = new StreamWriter(destinationFile, false);
-            
+
             int i;
             for (i = 0; i < filePaths.Count; i++)
             {
                 string file = filePaths[i];
-            
+
                 string[] lines = File.ReadAllLines(file);
-            
+
                 if (i > 0)
                 {
                     lines = lines.Skip(1).ToArray(); // Skip header row for all but first file
                 }
-            
+
                 foreach (string line in lines)
                 {
                     fileDest.WriteLine(line);
                 }
             }
-            
+
             fileDest.Close();
 
             // Get ranks from the newly created CSV file.
@@ -180,7 +180,7 @@ namespace scrapysharp_dt2020
                 csv.Configuration.RegisterClassMap<ExistingProspectRankingCsvMap>();
                 prospectRanks = csv.GetRecords<ExistingProspectRanking>().ToList();
             }
-            
+
             // Use linq to join the stuff back together, then write it out again.
             var combinedHistoricalRanks = from r in prospectRanks
                                     join school in schoolsAndConferences on r.school equals school.schoolName
@@ -205,8 +205,8 @@ namespace scrapysharp_dt2020
                                         Points = rank.projectedPoints
                                     };
 
-            
-            
+
+
             //Write everything back to CSV, only better!
             using (var writer = new StreamWriter($"ranks{Path.DirectorySeparatorChar}joinedRanks2020.csv"))
             using (var csv = new CsvWriter(writer))
@@ -229,7 +229,7 @@ namespace scrapysharp_dt2020
                 csv.Configuration.RegisterClassMap<SchoolCsvMap>();
                 schoolsAndConferences = csv.GetRecords<School>().ToList();
             }
-            
+
             List<ProspectRankSimple> ranks;
             using (var reader = new StreamReader(csvFileName))
             using (var csv = new CsvReader(reader))
@@ -245,10 +245,10 @@ namespace scrapysharp_dt2020
                                     select new {
                                         rank = r.rank,
                                         name = r.playerName,
-                                        college = r.school 
+                                        college = r.school
                                     }
                                     ;
-            
+
             bool noMismatches = true;
 
             if (schoolMismatches.Count() > 0)
@@ -282,14 +282,14 @@ namespace scrapysharp_dt2020
             string height = "";
             int weight = 0;
             string position2 = "";
-            
+
             List<ProspectRanking> prospectList = new List<ProspectRanking>();
 
             if (document.DocumentNode != null)
             {
                 // "/html[1]/body[1]/div[1]/div[3]/div[1]/table[1]"
                 var tbl = document.DocumentNode.SelectNodes("/html[1]/body[1]/div[1]/div[3]/div[1]/table[1]");
-                
+
                 if (tbl == null)
                 {
                     File.AppendAllText($"logs{Path.DirectorySeparatorChar}Status.log", $"No prospects on page {pageNumber}" + Environment.NewLine);
@@ -299,7 +299,7 @@ namespace scrapysharp_dt2020
                 foreach (HtmlNode table in tbl) {
                     foreach (HtmlNode row in table.SelectNodes("tr")) {
                         foreach (HtmlNode cell in row.SelectNodes("th|td")) {
-                            
+
                             string Xpath = cell.XPath;
                             int locationOfColumnNumber = cell.XPath.Length - 2 ;
                             char dataIndicator = Xpath[locationOfColumnNumber];
@@ -402,6 +402,8 @@ namespace scrapysharp_dt2020
                     return "Western Michigan";
                 case "UL Lafayette":
                     return "Louisiana-Lafayette";
+                case "Cal":
+                    return "California";
                 default:
                     return school;
             }
@@ -411,7 +413,7 @@ namespace scrapysharp_dt2020
             // Height might look something like "\"6'1\"\"\"" - convert to inches to look less awful.
             string regexHeight = Regex.Match(height, @"\d'\d+").Value;
             string[] feetAndInches = regexHeight.Split("'");
-            
+
             bool parseFeet = Int32.TryParse(feetAndInches[0], out int feet);
             bool parseInches = Int32.TryParse(feetAndInches[1], out int inches);
 
