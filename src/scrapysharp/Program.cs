@@ -404,6 +404,10 @@ namespace scrapysharp_dt2020
                     return "Louisiana-Lafayette";
                 case "Cal":
                     return "California";
+                case "S. Illinois":
+                    return "Southern Illinois";
+                case "UConn":
+                    return "Connecticut";
                 default:
                     return school;
             }
