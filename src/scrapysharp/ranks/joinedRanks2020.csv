@@ -2598,3 +2598,403 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,Position
 398,NEW,Naquan Jones,DL1T,Michigan State,Big Ten,Michigan,Midwest,76,339,,DL,Def.,2019-10-21,1
 399,NEW,Tony Jones Jr.,RBF,Notre Dame,FBS - Independent,Indiana,Midwest,71,227,,RB,Off.,2019-10-21,1
 400,-20,Blake Brandel,OT,Oregon State,Pac 12,Oregon,West,79,303,,OL,Off.,2019-10-21,1
+1,+2,Joe Burrow,QB,LSU,SEC,Louisiana,South,76,216,,QB,Off.,2019-11-24,35
+2,+2,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,DL3T,DL,Def.,2019-11-24,35
+3,-1,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,2019-11-24,35
+4,+2,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,2019-11-24,35
+5,--,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,2019-11-24,35
+6,+2,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,2019-11-24,35
+7,--,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,,DB,Def.,2019-11-24,35
+8,+220,Austin Jackson,OT,USC,Pac 12,California,West,78,310,,OL,Off.,2019-11-24,35
+9,+5,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,2019-11-24,35
+10,-1,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,2019-11-24,35
+11,+2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,2019-11-24,30
+12,+6,Isaiah Simmons,S,Clemson,ACC,South Carolina,South,76,225,OLB,DB,Def.,2019-11-24,30
+13,+35,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,OG,OL,Off.,2019-11-24,30
+14,+7,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,2019-11-24,30
+15,+17,Tristan Wirfs,OT,Iowa,Big Ten,Iowa,Midwest,77,320,,OL,Off.,2019-11-24,30
+16,+8,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,2019-11-24,30
+17,+5,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,,DL,Def.,2019-11-24,30
+18,-17,Tua Tagovailoa,QB,Alabama,SEC,Alabama,South,73,218,,QB,Off.,2019-11-24,30
+19,+11,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,2019-11-24,30
+20,+3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,2019-11-24,30
+21,-1,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,2019-11-24,30
+22,+5,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,2019-11-24,30
+23,+10,Curtis Weaver,EDGE,Boise State,FBS - Mountain West,Idaho,West,75,266,,DL,Def.,2019-11-24,30
+24,+46,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,2019-11-24,30
+25,+6,Trevon Diggs,CB,Alabama,SEC,Alabama,South,74,200,,DB,Def.,2019-11-24,30
+26,-16,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,2019-11-24,25
+27,+1,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,2019-11-24,25
+28,-13,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,2019-11-24,25
+29,--,Malik Harrison,ILB,Ohio State,Big Ten,Ohio,Midwest,75,245,,LB,Def.,2019-11-24,25
+30,+37,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,2019-11-24,25
+31,-6,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,2019-11-24,25
+32,+25,D'Andre Swift,RBF,Georgia,SEC,Georgia,South,69,215,,RB,Off.,2019-11-24,25
+33,-22,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,2019-11-24,25
+34,+6,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,2019-11-24,25
+35,+260,Cameron Dantzler,CB,Mississippi State,SEC,Mississippi,South,74,185,,DB,Def.,2019-11-24,25
+36,+62,Jabari Zuniga,EDGE,Florida,SEC,Florida,South,76,257,,DL,Def.,2019-11-24,20
+37,+32,Tyler Johnson,WRF,Minnesota,Big Ten,Minnesota,Midwest,74,200,,WR,Off.,2019-11-24,20
+38,-1,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,EDGE,LB,Def.,2019-11-24,20
+39,NEW,Creed Humphrey,OC,Oklahoma,Big 12,Oklahoma,South,76,328,,OL,Off.,2019-11-24,20
+40,-6,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,2019-11-24,20
+41,-6,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,2019-11-24,20
+42,+13,Kenneth Murray,ILB,Oklahoma,Big 12,Oklahoma,South,74,238,,LB,Def.,2019-11-24,20
+43,+7,Solomon Kindley,OG,Georgia,SEC,Georgia,South,76,335,,OL,Off.,2019-11-24,20
+44,+57,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,2019-11-24,20
+45,-7,Chuba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,2019-11-24,20
+46,-10,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,2019-11-24,20
+47,+2,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,2019-11-24,20
+48,+122,Shaun Wade,CB,Ohio State,Big Ten,Ohio,Midwest,72,195,,DB,Def.,2019-11-24,20
+49,-30,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,2019-11-24,20
+50,-8,DeVonta Smith,WRF,Alabama,SEC,Alabama,South,73,193,,WR,Off.,2019-11-24,20
+51,-12,Darryl Williams,OC,Mississippi State,SEC,Mississippi,South,74,310,,OL,Off.,2019-11-24,20
+52,-5,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,,DL,Def.,2019-11-24,20
+53,+66,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,2019-11-24,20
+54,-13,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,2019-11-24,20
+55,-10,Ben Bredeson,OG,Michigan,Big Ten,Michigan,Midwest,77,320,,OL,Off.,2019-11-24,20
+56,NEW,Samuel Cosmi,OT,Texas,Big 12,Texas,South,77,295,,OL,Off.,2019-11-24,20
+57,+216,Paulson Adebo,CB,Stanford,Pac 12,California,West,73,189,,DB,Def.,2019-11-24,20
+58,-7,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,,QB,Off.,2019-11-24,20
+59,-5,Lloyd Cushenberry,OC,LSU,SEC,Louisiana,South,75,312,,OL,Off.,2019-11-24,20
+60,-4,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,2019-11-24,15
+61,+140,Jordyn Brooks,ILB,Texas Tech,Big 12,Texas,South,73,245,,LB,Def.,2019-11-24,15
+62,+9,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,OT,OL,Off.,2019-11-24,15
+63,+18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,2019-11-24,15
+64,+85,Hamsah Nasirildeen,S,Florida State,ACC,Florida,South,75,216,,DB,Def.,2019-11-24,15
+65,+80,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,2019-11-24,15
+66,-1,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,,DB,Def.,2019-11-24,15
+67,-21,Jacob Breeland,TE,Oregon,Pac 12,Oregon,West,77,240,,TE,Off.,2019-11-24,15
+68,+68,Michael Pittman Jr.,WRF,USC,Pac 12,California,West,76,223,,WR,Off.,2019-11-24,15
+69,+142,Carlos Basham Jr.,DL5T,Wake Forest,ACC,North Carolina,South,77,275,,DL,Def.,2019-11-24,15
+70,+356,Josh Jones,OT,Houston,FBS - AAC,Texas,South,79,310,,OL,Off.,2019-11-24,15
+71,-9,Justin Madubuike,DL3T,Texas A&M,SEC,Texas,South,75,304,,DL,Def.,2019-11-24,10
+72,+68,Sage Surratt,WRF,Wake Forest,ACC,North Carolina,South,75,215,,WR,Off.,2019-11-24,10
+73,-30,Kenny Willekes,EDGE,Michigan State,Big Ten,Michigan,Midwest,76,260,,DL,Def.,2019-11-24,10
+74,-6,Jacob Phillips,ILB,LSU,SEC,Louisiana,South,76,229,,LB,Def.,2019-11-24,10
+75,NEW,Tyler Huntley,QB,Utah,Pac 12,Utah,West,73,205,,QB,Off.,2019-11-24,10
+76,+9,Troy Dye,ILB,Oregon,Pac 12,Oregon,West,76,224,,LB,Def.,2019-11-24,10
+77,+19,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,,LB,Def.,2019-11-24,10
+78,+21,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,2019-11-24,10
+79,+42,Keandre Jones,OLB,Maryland,Big Ten,Maryland,Northeast,74,228,,LB,Def.,2019-11-24,10
+80,+13,Jordan Mack,ILB,Virginia,ACC,Virginia,South,74,230,,LB,Def.,2019-11-24,10
+81,-6,Lucas Niang,OT,TCU,Big 12,Texas,South,79,328,,OL,Off.,2019-11-24,10
+82,+159,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,2019-11-24,10
+83,+264,Jeff Gladney,CB,TCU,Big 12,Texas,South,70,183,,DB,Def.,2019-11-24,10
+84,-40,Ashtyn Davis,S,California,Pac 12,California,West,73,201,,DB,Def.,2019-11-24,10
+85,+23,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,2019-11-24,10
+86,+79,Jake Hanson,OC,Oregon,Pac 12,Oregon,West,77,297,,OL,Off.,2019-11-24,10
+87,NEW,James Lynch,DL5T,Baylor,Big 12,Texas,South,76,295,,DL,Def.,2019-11-24,10
+88,NEW,Pat Freiermuth,TE,Penn State,Big Ten,Pennsylvania,Northeast,77,256,,TE,Off.,2019-11-24,10
+89,+71,Leki Fotu,DL1T,Utah,Pac 12,Utah,West,77,330,,DL,Def.,2019-11-24,10
+90,+35,Neville Gallimore,DL1T,Oklahoma,Big 12,Oklahoma,South,74,330,,DL,Def.,2019-11-24,10
+91,+50,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,2019-11-24,10
+92,+39,Zack Baun,OLB,Wisconsin,Big Ten,Wisconsin,Midwest,75,235,,LB,Def.,2019-11-24,10
+93,-20,Michael Pinckney,OLB,Miami (FL),ACC,Florida,South,73,220,,LB,Def.,2019-11-24,10
+94,+1,Logan Stenberg,OG,Kentucky,SEC,Kentucky,South,78,326,,OL,Off.,2019-11-24,10
+95,-43,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,,DB,Def.,2019-11-24,10
+96,-36,Richard LeCounte,S,Georgia,SEC,Georgia,South,71,190,,DB,Def.,2019-11-24,10
+97,+9,K.J. Hamler,WRS,Penn State,Big Ten,Pennsylvania,Northeast,69,174,,WR,Off.,2019-11-24,10
+98,NEW,Netane Muti,OG,Fresno State,FBS - Mountain West,California,West,75,310,,OL,Off.,2019-11-24,10
+99,+14,Josh Uche,OLB,Michigan,Big Ten,Michigan,Midwest,75,238,,LB,Def.,2019-11-24,10
+100,-13,Evan Weaver,ILB,California,Pac 12,California,West,75,245,,LB,Def.,2019-11-24,10
+101,+16,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,2019-11-24,8
+102,-30,Sam Ehlinger,QB,Texas,Big 12,Texas,South,75,235,,QB,Off.,2019-11-24,8
+103,+31,Shyheim Carter,S,Alabama,SEC,Alabama,South,71,192,CB,DB,Def.,2019-11-24,8
+104,+156,Devin Duvernay,WRS,Texas,Big 12,Texas,South,71,186,,WR,Off.,2019-11-24,8
+105,-22,Deommodore Lenoir,CB,Oregon,Pac 12,Oregon,West,71,212,,DB,Def.,2019-11-24,8
+106,-24,Jaylen Twyman,DL3T,Pitt,ACC,Pennsylvania,Northeast,74,290,,DL,Def.,2019-11-24,8
+107,-90,Calvin Throckmorton,OT,Oregon,Pac 12,Oregon,West,77,318,,OL,Off.,2019-11-24,8
+108,+4,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,OT,OL,Off.,2019-11-24,8
+109,+6,Darrell Taylor,EDGE,Tennessee,SEC,Tennessee,South,76,247,,DL,Def.,2019-11-24,8
+110,-20,Antoine Winfield Jr.,S,Minnesota,Big Ten,Minnesota,Midwest,70,207,,DB,Def.,2019-11-24,8
+111,+3,Larrell Murchison,DL3T,NC State,ACC,North Carolina,South,75,291,DL5T,DL,Def.,2019-11-24,8
+112,+25,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,,WR,Off.,2019-11-24,8
+113,-29,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,2019-11-24,8
+114,+28,Anthony Hines,OLB,Texas A&M,SEC,Texas,South,75,226,,LB,Def.,2019-11-24,8
+115,+1,Dontavious Jackson,ILB,Florida State,ACC,Florida,South,75,233,,LB,Def.,2019-11-24,8
+116,-50,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,,DB,Def.,2019-11-24,8
+117,-14,Alton Robinson,EDGE,Syracuse,ACC,New York,Northeast,76,257,,DL,Def.,2019-11-24,8
+118,+36,Frederick Mauigoa,OC,Washington State,Pac 12,Washington,West,75,310,,OL,Off.,2019-11-24,8
+119,+8,Jonathan Garvin,EDGE,Miami (FL),ACC,Florida,South,76,250,,DL,Def.,2019-11-24,8
+120,-26,Benito Jones,DL1T,Ole Miss,SEC,Mississippi,South,73,326,,DL,Def.,2019-11-24,8
+121,+3,Oluwole Betiku,EDGE,Illinois,Big Ten,Illinois,Midwest,75,240,,DL,Def.,2019-11-24,7
+122,-13,Hamilcar Rashed Jr.,OLB,Oregon State,Pac 12,Oregon,West,76,236,,LB,Def.,2019-11-24,7
+123,-62,Nick Harris,OC,Washington,Pac 12,Washington,West,73,302,,OL,Off.,2019-11-24,7
+124,-60,Cam Akers,RBF,Florida State,ACC,Florida,South,71,210,,RB,Off.,2019-11-24,7
+125,-49,Joe Gaziano,DL5T,Northwestern,Big Ten,Illinois,Midwest,76,275,,DL,Def.,2019-11-24,7
+126,-49,Raequan Williams,DL3T,Michigan State,Big Ten,Michigan,Midwest,76,298,,DL,Def.,2019-11-24,7
+127,-47,Kevin Jarvis,OG,Michigan State,Big Ten,Michigan,Midwest,76,317,,OL,Off.,2019-11-24,7
+128,NEW,Dele Harding,OLB,Illinois,Big Ten,Illinois,Midwest,73,230,,LB,Def.,2019-11-24,7
+129,+34,Kylin Hill,RBC,Mississippi State,SEC,Mississippi,South,71,215,,RB,Off.,2019-11-24,7
+130,+312,K'Von Wallace,S,Clemson,ACC,South Carolina,South,71,210,,DB,Def.,2019-11-24,7
+131,+13,Tedarrell Slaton,DL1T,Florida,SEC,Florida,South,77,343,,DL,Def.,2019-11-24,7
+132,-44,Brycen Hopkins,TE,Purdue,Big Ten,Indiana,Midwest,77,245,,TE,Off.,2019-11-24,7
+133,+361,Jedrick Wills,OT,Alabama,SEC,Alabama,South,77,316,,OL,Off.,2019-11-24,7
+134,+1,A.J. Dillon,RBF,Boston College,ACC,Massachusetts,Northeast,72,245,,RB,Off.,2019-11-24,7
+135,-82,John Hightower,WRF,Boise State,FBS - Mountain West,Idaho,West,74,184,,WR,Off.,2019-11-24,7
+136,-110,Lamar Jackson,CB,Nebraska,Big Ten,Nebraska,Midwest,74,215,,DB,Def.,2019-11-24,7
+137,-74,Tylan Wallace,WRF,Oklahoma State,Big 12,Oklahoma,South,72,185,,WR,Off.,2019-11-24,7
+138,-12,Khalil Davis,DL1T,Nebraska,Big Ten,Nebraska,Midwest,74,310,,DL,Def.,2019-11-24,7
+139,-123,Jordan Love,QB,Utah State,FBS - Mountain West,Utah,West,76,225,,QB,Off.,2019-11-24,7
+140,+102,Anthony Gordon,QB,Washington State,Pac 12,Washington,West,75,210,,QB,Off.,2019-11-24,7
+141,+31,K.J. Britt,ILB,Auburn,SEC,Alabama,South,72,236,,LB,Def.,2019-11-24,7
+142,-84,Yasir Durant,OT,Missouri,SEC,Missouri,Midwest,79,330,,OL,Off.,2019-11-24,7
+143,+108,Jonah Jackson,OG,Ohio State,Big Ten,Ohio,Midwest,75,309,,OL,Off.,2019-11-24,7
+144,+103,Aaron Fuller,WRS,Washington,Pac 12,Washington,West,71,186,,WR,Off.,2019-11-24,7
+145,+1,Darrion Daniels,DL1T,Nebraska,Big Ten,Nebraska,Midwest,75,320,,DL,Def.,2019-11-24,7
+146,-14,Akeem Davis- Gaither,OLB,Appalachian State,FBS - Sun Belt,North Carolina,South,74,210,,LB,Def.,2019-11-24,7
+147,-40,T.J. McCoy,OC,Louisville,ACC,Kentucky,South,73,315,,OL,Off.,2019-11-24,7
+148,NEW,Davon Hamilton,DL3T,Ohio State,Big Ten,Ohio,Midwest,76,310,,DL,Def.,2019-11-24,7
+149,+25,Baron Browning,ILB,Ohio State,Big Ten,Ohio,Midwest,75,248,,LB,Def.,2019-11-24,7
+150,NEW,Chris Orr,OLB,Wisconsin,Big Ten,Wisconsin,Midwest,72,224,,LB,Def.,2019-11-24,7
+151,-12,Damon Arnette,CB,Ohio State,Big Ten,Ohio,Midwest,72,195,,DB,Def.,2019-11-24,6
+152,-24,McTelvin Agim,DL5T,Arkansas,SEC,Arkansas,South,75,279,,DL,Def.,2019-11-24,6
+153,-48,Glen Logan,DL5T,LSU,SEC,Louisiana,South,76,297,,DL,Def.,2019-11-24,6
+154,-50,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,,LB,Def.,2019-11-24,6
+155,+22,Khaleke Hudson,OLB,Michigan,Big Ten,Michigan,Midwest,72,220,,LB,Def.,2019-11-24,6
+156,-5,Cole Kmet,TE,Notre Dame,FBS - Independent,Indiana,Midwest,78,255,,TE,Off.,2019-11-24,6
+157,-83,Lavert Hill,CB,Michigan,Big Ten,Michigan,Midwest,71,181,,DB,Def.,2019-11-24,6
+158,+29,Ben Cleveland,OG,Georgia,SEC,Georgia,South,78,335,,OL,Off.,2019-11-24,6
+159,+26,Kyle Dugger,S,Lenoir–Rhyne,D2,North Carolina,South,74,205,,DB,Def.,2019-11-24,6
+160,+44,Rayshard Ashby,ILB,Virginia Tech,ACC,Virginia,South,70,230,,LB,Def.,2019-11-24,6
+161,--,Jonathan Greenard,EDGE,Florida,SEC,Florida,South,75,263,,DL,Def.,2019-11-24,6
+162,+286,Richie Grant,S,UCF,FBS - AAC,Florida,South,72,194,,DB,Def.,2019-11-24,6
+163,-15,Mustafa Johnson,DL3T,Colorado,Pac 12,Colorado,West,74,290,,DL,Def.,2019-11-24,6
+164,-46,Darnay Holmes,CB,UCLA,Pac 12,California,West,70,198,,DB,Def.,2019-11-24,6
+165,+29,Lamical Perine,RBF,Florida,SEC,Florida,South,71,227,,RB,Off.,2019-11-24,6
+166,+63,John Simpson,OG,Clemson,ACC,South Carolina,South,76,330,,OL,Off.,2019-11-24,6
+167,+146,James Proche,WRS,SMU,FBS - AAC,Texas,South,71,190,,WR,Off.,2019-11-24,6
+168,-16,Patrick Johnson,EDGE,Tulane,FBS - AAC,Louisiana,South,75,255,,DL,Def.,2019-11-24,6
+169,-157,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,2019-11-24,6
+170,-73,Nico Collins,WRF,Michigan,Big Ten,Michigan,Midwest,76,222,,WR,Off.,2019-11-24,6
+171,+131,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,,RB,Off.,2019-11-24,6
+172,+154,Antoine Brooks Jr.,S,Maryland,Big Ten,Maryland,Northeast,71,210,,DB,Def.,2019-11-24,6
+173,-7,Trevis Gipson,DL5T,Tulsa,FBS - AAC,Oklahoma,South,76,268,,DL,Def.,2019-11-24,6
+174,+18,Darius Stills,DL3T,West Virginia,Big 12,West Virginia,South,73,292,,DL,Def.,2019-11-24,6
+175,+158,Denzel Mims,WRF,Baylor,Big 12,Texas,South,75,197,,WR,Off.,2019-11-24,6
+176,+17,Jeffrey McCulloch,ILB,Texas,Big 12,Texas,South,75,245,,LB,Def.,2019-11-24,6
+177,+41,Matt Hennessy,OC,Temple,FBS - AAC,Pennsylvania,Northeast,76,295,,OL,Off.,2019-11-24,6
+178,-23,Jace Whittaker,CB,Arizona,Pac 12,Arizona,West,71,185,,DB,Def.,2019-11-24,6
+179,+12,Cory Durden,DL3T,Florida State,ACC,Florida,South,77,305,,DL,Def.,2019-11-24,6
+180,-51,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,2019-11-24,6
+181,-23,Ross Blacklock,DL3T,TCU,Big 12,Texas,South,76,305,,DL,Def.,2019-11-24,5
+182,-4,Mohamed Barry,ILB,Nebraska,Big Ten,Nebraska,Midwest,73,245,,LB,Def.,2019-11-24,5
+183,-61,Zack Shackelford,OC,Texas,Big 12,Texas,South,76,305,,OL,Off.,2019-11-24,5
+184,+14,Krys Barnes,ILB,UCLA,Pac 12,California,West,73,235,,LB,Def.,2019-11-24,5
+185,+91,D.J. Wonnum,EDGE,South Carolina,SEC,South Carolina,South,77,255,,DL,Def.,2019-11-24,5
+186,+23,Jordan Elliott,DL3T,Missouri,SEC,Missouri,Midwest,76,315,,DL,Def.,2019-11-24,5
+187,+10,Jashon Cornell,DL5T,Ohio State,Big Ten,Ohio,Midwest,75,280,,DL,Def.,2019-11-24,5
+188,-38,Damien Lewis,OG,LSU,SEC,Louisiana,South,74,335,,OL,Off.,2019-11-24,5
+189,+85,Essang Bassey,S,Wake Forest,ACC,North Carolina,South,70,190,,DB,Def.,2019-11-24,5
+190,+283,Clyde Edwards-Helaire,RBF,LSU,SEC,Louisiana,South,69,212,,RB,Off.,2019-11-24,5
+191,-11,Salvon Ahmed,RBC,Washington,Pac 12,Washington,West,71,196,,RB,Off.,2019-11-24,5
+192,NEW,Treshaun Hayward,ILB,Western Michigan,FBS - MAC,Michigan,Midwest,73,225,,LB,Def.,2019-11-24,5
+193,+2,Justin Strnad,OLB,Wake Forest,ACC,North Carolina,South,75,230,,LB,Def.,2019-11-24,5
+194,-10,Bradlee Anae,EDGE,Utah,Pac 12,Utah,West,75,265,,DL,Def.,2019-11-24,5
+195,-26,Michael Warren II,RBF,Cincinnati,FBS - AAC,Ohio,Midwest,71,218,,RB,Off.,2019-11-24,5
+196,+39,Thayer Munford,OT,Ohio State,Big Ten,Ohio,Midwest,78,319,,OL,Off.,2019-11-24,5
+197,-18,Brandon Aiyuk,WRF,Arizona State,Pac 12,Arizona,West,72,208,,WR,Off.,2019-11-24,5
+198,NEW,Jamie Newman,QB,Wake Forest,ACC,North Carolina,South,76,230,,QB,Off.,2019-11-24,5
+199,-89,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,,TE,Off.,2019-11-24,5
+200,+27,Kamal Martin,ILB,Minnesota,Big Ten,Minnesota,Midwest,75,235,,LB,Def.,2019-11-24,5
+201,-201,John Molchon,OG,Boise State,FBS - Mountain West,Idaho,West,77,322,,OL,Off.,2019-11-24,5
+202,NEW,Luq Barcoo,CB,San Diego State,FBS - Mountain West,California,West,73,175,,DB,Def.,2019-11-24,5
+203,-32,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,,WR,Off.,2019-11-24,5
+204,+49,Alex Highsmith,EDGE,Charlotte,FBS - CUSA,North Carolina,South,75,244,,DL,Def.,2019-11-24,5
+205,+21,Kylan Johnson,OLB,Pitt,ACC,Pennsylvania,Northeast,74,230,,LB,Def.,2019-11-24,5
+206,-44,Cam Brown,ILB,Penn State,Big Ten,Pennsylvania,Northeast,77,230,,LB,Def.,2019-11-24,5
+207,NEW,Terence Steele,OT,Texas Tech,Big 12,Texas,South,78,310,,OL,Off.,2019-11-24,5
+208,-12,Trevon Hill,EDGE,Miami (FL),ACC,Florida,South,75,245,,DL,Def.,2019-11-24,5
+209,+13,O'Rien Vance,OLB,Iowa State,Big 12,Iowa,Midwest,73,231,,LB,Def.,2019-11-24,5
+210,NEW,Robert Hunt,OT,Louisiana-Lafayette,FBS - Sun Belt,Louisiana,South,77,310,,OL,Off.,2019-11-24,5
+211,NEW,Terrell Burgess,S,Utah,Pac 12,Utah,West,72,194,,DB,Def.,2019-11-24,5
+212,-9,Juwuan Jones,DL5T,Western Kentucky,FBS - CUSA,Kentucky,South,75,270,,DL,Def.,2019-11-24,5
+213,-32,Levonta Taylor,CB,Florida State,ACC,Florida,South,70,181,,DB,Def.,2019-11-24,5
+214,-135,Alohi Gilman,S,Notre Dame,FBS - Independent,Indiana,Midwest,71,201,,DB,Def.,2019-11-24,5
+215,-129,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,,OL,Off.,2019-11-24,5
+216,NEW,Shane Buechele,QB,SMU,FBS - AAC,Texas,South,73,207,,QB,Off.,2019-11-24,5
+217,+27,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,2019-11-24,5
+218,-127,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,2019-11-24,5
+220,NEW,John Houston Jr.,OLB,USC,Pac 12,California,West,75,220,,LB,Def.,2019-11-24,5
+221,-53,Ke'Shawn Vaughn,RBF,Vanderbilt,SEC,Tennessee,South,70,215,,RB,Off.,2019-11-24,5
+222,+122,Kenny Cooper,OC,Georgia Tech,ACC,Georgia,South,74,305,,OL,Off.,2019-11-24,5
+223,+235,Simon Stepaniak,OG,Indiana,Big Ten,Indiana,Midwest,76,319,,OL,Off.,2019-11-24,5
+224,-33,Casey Toohill,ILB,Stanford,Pac 12,California,West,76,247,,LB,Def.,2019-11-24,5
+225,-104,J.R. Reed,S,Georgia,SEC,Georgia,South,73,199,,DB,Def.,2019-11-24,5
+226,+209,Shaun Bradley,OLB,Temple,FBS - AAC,Pennsylvania,Northeast,73,225,,LB,Def.,2019-11-24,5
+227,+243,Michael Onwenu,OG,Michigan,Big Ten,Michigan,Midwest,75,350,,OL,Off.,2019-11-24,5
+228,-19,Kendall Futrell,OLB,East Carolina,FBS - AAC,North Carolina,South,74,226,,LB,Def.,2019-11-24,5
+229,-3,Dante Olson,ILB,Montana,FCS,Montana,West,75,237,,LB,Def.,2019-11-24,5
+230,-30,Mike Hampton,CB,South Florida,FBS - AAC,Florida,South,73,180,,DB,Def.,2019-11-24,5
+231,+1,Kellen Mond,QB,Texas A&M,SEC,Texas,South,74,217,,QB,Off.,2019-11-24,5
+232,-16,Chase Lucas,CB,Arizona State,Pac 12,Arizona,West,72,175,,DB,Def.,2019-11-24,5
+233,-132,Jared Pinkney,TE,Vanderbilt,SEC,Tennessee,South,76,255,,TE,Off.,2019-11-24,5
+234,+7,David Reese II,ILB,Florida,SEC,Florida,South,73,248,,LB,Def.,2019-11-24,5
+235,+5,T.J. Brunson,ILB,South Carolina,SEC,South Carolina,South,72,230,,LB,Def.,2019-11-24,5
+236,+52,Antonio Gandy-Golden,WRF,Liberty,FCS,Virginia,South,76,216,,WR,Off.,2019-11-24,5
+237,-61,Trystan Colon-Castillo,OC,Missouri,SEC,Missouri,Midwest,76,315,,OL,Off.,2019-11-24,5
+238,+17,Kyahva Tezino,OLB,San Diego State,FBS - Mountain West,California,West,72,230,,LB,Def.,2019-11-24,5
+239,-160,K.J. Costello,QB,Stanford,Pac 12,California,West,77,215,,QB,Off.,2019-11-24,5
+240,+9,Dominik Eberle,PK,Utah State,FBS - Mountain West,Utah,West,74,195,,K,ST,2019-11-24,5
+241,-81,T.J. Vasher,WRF,Texas Tech,Big 12,Texas,South,78,190,,WR,Off.,2019-11-24,5
+242,-65,Tomon Fox,ILB,North Carolina,ACC,North Carolina,South,75,260,,LB,Def.,2019-11-24,5
+243,+56,Julian Blackmon,S,Utah,Pac 12,Utah,West,73,195,,DB,Def.,2019-11-24,5
+244,+2,Tyler Clark,DL1T,Georgia,SEC,Georgia,South,76,300,,DL,Def.,2019-11-24,5
+245,-20,DeAngelo Malone,OLB,Western Kentucky,FBS - CUSA,Kentucky,South,76,230,,LB,Def.,2019-11-24,5
+246,+135,Josiah Coatney,DL3T,Ole Miss,SEC,Mississippi,South,76,314,,DL,Def.,2019-11-24,5
+247,-41,Matt Bushman,TE,BYU,FBS - Independent,Utah,West,77,245,,TE,Off.,2019-11-24,5
+248,+30,Chauncey Rivers,DL5T,Mississippi State,SEC,Mississippi,South,75,275,,DL,Def.,2019-11-24,5
+249,-189,Tommy Kraemer,OG,Notre Dame,FBS - Independent,Indiana,Midwest,78,319,,OL,Off.,2019-11-24,5
+250,+59,Bryan Edwards,WRF,South Carolina,SEC,South Carolina,South,75,215,,WR,Off.,2019-11-24,5
+251,+5,Braden Mann,P,Texas A&M,SEC,Texas,South,71,195,,P,ST,2019-11-24,2
+252,NEW,Benning Potoae,DL5T,Washington,Pac 12,Washington,West,75,285,,DL,Def.,2019-11-24,2
+253,-32,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,,LB,Def.,2019-11-24,2
+254,-23,Ty Chandler,RBC,Tennessee,SEC,Tennessee,South,71,201,,RB,Off.,2019-11-24,2
+255,-16,Harrison Bryant,TE,Florida Atlantic,FBS - CUSA,Florida,South,77,240,,TE,Off.,2019-11-24,2
+256,+54,Kuony Deng,OLB,California,Pac 12,California,West,78,220,,LB,Def.,2019-11-24,2
+257,-67,Ifeanyi Maijeh,DL3T,Temple,FBS - AAC,Pennsylvania,Northeast,74,285,,DL,Def.,2019-11-24,2
+258,-24,Cale Garrett,ILB,Missouri,SEC,Missouri,Midwest,75,230,,LB,Def.,2019-11-24,2
+259,+20,Marlon Tuipulotu,DL3T,USC,Pac 12,California,West,75,305,,DL,Def.,2019-11-24,2
+260,-31,Keisean Lucier-South,EDGE,UCLA,Pac 12,California,West,76,235,,DL,Def.,2019-11-24,2
+261,-58,Kendall Coleman,EDGE,Syracuse,ACC,New York,Northeast,75,266,,DL,Def.,2019-11-24,2
+262,-108,T.J. Carter,CB,Memphis,FBS - AAC,Tennessee,South,71,180,,DB,Def.,2019-11-24,2
+263,NEW,Bryce Perkins,QB,Virginia,ACC,Virginia,South,75,215,,QB,Off.,2019-11-24,2
+264,-75,Darius Anderson,RBF,TCU,Big 12,Texas,South,71,212,,RB,Off.,2019-11-24,2
+265,-172,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,2019-11-24,2
+266,NEW,John Lako,ILB,Akron,FBS - MAC,Ohio,Midwest,74,225,,LB,Def.,2019-11-24,2
+267,-54,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,2019-11-24,2
+268,+12,Brendon Hayes,DL5T,UCF,FBS - AAC,Florida,South,75,293,,DL,Def.,2019-11-24,2
+269,-1,Corey Bethley,DL3T,TCU,Big 12,Texas,South,74,290,,DL,Def.,2019-11-24,2
+270,-56,Jason Strowbridge,DL3T,North Carolina,ACC,North Carolina,South,75,285,,DL,Def.,2019-11-24,2
+271,-36,A.J. Green,CB,Oklahoma State,Big 12,Oklahoma,South,73,194,,DB,Def.,2019-11-24,2
+272,-103,Myles Dorn,S,North Carolina,ACC,North Carolina,South,73,198,,DB,Def.,2019-11-24,2
+273,-53,Carlos Davis,DL3T,Nebraska,Big Ten,Nebraska,Midwest,74,320,,DL,Def.,2019-11-24,2
+274,-52,Benning Potoa'e,DL3T,Washington,Pac 12,Washington,West,75,290,,DL,Def.,2019-11-24,2
+275,-117,Eric Lee Jr.,S,Nebraska,Big Ten,Nebraska,Midwest,72,215,,DB,Def.,2019-11-24,2
+276,NEW,Jeremy Chinn,S,Southern Illinois,FCS,Illinois,Midwest,75,208,,DB,Def.,2019-11-24,2
+277,+10,Quincy Roche,EDGE,Temple,FBS - AAC,Pennsylvania,Northeast,76,235,,DL,Def.,2019-11-24,2
+278,+17,Breiden Fehoko,DL5T,LSU,SEC,Louisiana,South,76,291,,DL,Def.,2019-11-24,2
+279,NEW,Joshua Kelley,RBF,UCLA,Pac 12,California,West,71,204,,RB,Off.,2019-11-24,2
+280,-97,Jaquarius Landrews,S,Mississippi State,SEC,Mississippi,South,71,197,,DB,Def.,2019-11-24,2
+281,-14,DeMarkus Acy,CB,Missouri,SEC,Missouri,Midwest,74,195,,DB,Def.,2019-11-24,2
+282,-29,Daniel Bituli,ILB,Tennessee,SEC,Tennessee,South,75,244,,LB,Def.,2019-11-24,2
+283,NEW,Tre Walker,WRS,San Jose State,FBS - Mountain West,California,West,71,180,,WR,Off.,2019-11-24,2
+284,-26,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,,LB,Def.,2019-11-24,2
+285,-161,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,2019-11-24,2
+286,-53,Jay Tufele,DL3T,USC,Pac 12,California,West,75,310,,DL,Def.,2019-11-24,2
+287,-30,Broderick Washington Jr.,DL3T,Texas Tech,Big 12,Texas,South,75,305,,DL,Def.,2019-11-24,2
+288,-17,John Penisini,DL3T,Utah,Pac 12,Utah,West,74,320,,DL,Def.,2019-11-24,2
+289,-27,Jordon Scott,DL1T,Oregon,Pac 12,Oregon,West,73,329,,DL,Def.,2019-11-24,2
+290,+33,Tommy Townsend,P,Florida,SEC,Florida,South,74,183,,P,ST,2019-11-24,2
+291,+104,Damonte Coxie,WRF,Memphis,FBS - AAC,Tennessee,South,75,200,,WR,Off.,2019-11-24,2
+292,+10,Thomas Graham Jr.,CB,Oregon,Pac 12,Oregon,West,71,191,,DB,Def.,2019-11-24,2
+293,-75,Isaiah Hodgins,WRF,Oregon State,Pac 12,Oregon,West,76,209,,WR,Off.,2019-11-24,2
+294,+7,Deslin Alexandre,DL5T,Pitt,ACC,Pennsylvania,Northeast,76,265,,DL,Def.,2019-11-24,2
+295,+29,Colin Schooler,ILB,Arizona,Pac 12,Arizona,West,72,236,,LB,Def.,2019-11-24,2
+296,+46,Bravvion Roy,DL1T,Baylor,Big 12,Texas,South,73,330,,DL,Def.,2019-11-24,2
+297,-8,Kary Vincent Jr.,CB,LSU,SEC,Louisiana,South,70,182,,DB,Def.,2019-11-24,2
+298,+42,Patrick Taylor Jr.,RBF,Memphis,FBS - AAC,Tennessee,South,75,227,,RB,Off.,2019-11-24,2
+299,+1,Robert Landers,DL3T,Ohio State,Big Ten,Ohio,Midwest,73,285,,DL,Def.,2019-11-24,2
+300,-156,Nate Stanley,QB,Iowa,Big Ten,Iowa,Midwest,76,243,,QB,Off.,2019-11-24,2
+301,+83,Jahad Woods,OLB,Washington State,Pac 12,Washington,West,72,225,,LB,Def.,2019-11-24,1
+302,+4,Jessie Lemonier,EDGE,Liberty,FCS,Virginia,South,75,240,,DL,Def.,2019-11-24,1
+303,+2,Tipa Galeai,EDGE,Utah State,FBS - Mountain West,Utah,West,77,230,,DL,Def.,2019-11-24,1
+304,+112,LaDarius Hamilton,EDGE,North Texas,FBS - CUSA,Texas,South,75,255,,DL,Def.,2019-11-24,1
+305,-215,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,2019-11-24,1
+306,NEW,Reggie Corbin,RBF,Illinois,Big Ten,Illinois,Midwest,70,200,,RB,Off.,2019-11-24,1
+307,-195,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,2019-11-24,1
+308,-61,Josh Metellus,S,Michigan,Big Ten,Michigan,Midwest,71,215,,DB,Def.,2019-11-24,1
+309,-71,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,,DB,Def.,2019-11-24,1
+310,-50,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,OG,OL,Off.,2019-11-24,1
+311,+11,Josiah Scott,CB,Michigan State,Big Ten,Michigan,Midwest,70,168,,DB,Def.,2019-11-24,1
+312,+135,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,243,,TE,Off.,2019-11-24,1
+313,-2,Jet Toner,PK,Stanford,Pac 12,California,West,76,201,,K,ST,2019-11-24,1
+314,NEW,Kendrick Rogers,WRF,Texas A&M,SEC,Texas,South,76,204,,WR,Off.,2019-11-24,1
+315,+6,Doug Costin,DL3T,Miami (OH),FBS - MAC,Ohio,Midwest,74,295,,DL,Def.,2019-11-24,1
+316,NEW,Matt Peart,OT,Connecticut,FBS - AAC,Connecticut,Northeast,79,303,,OL,Off.,2019-11-24,1
+317,-44,Erroll Thompson,ILB,Mississippi State,SEC,Mississippi,South,73,250,,LB,Def.,2019-11-24,1
+318,+149,Spencer Brown,FB,UAB,FBS - CUSA,Alabama,South,72,230,,RB,Off.,2019-11-24,1
+319,-35,Lakiem Williams,OLB,Syracuse,ACC,New York,Northeast,72,225,,LB,Def.,2019-11-24,1
+320,+36,Delontae Scott,EDGE,SMU,FBS - AAC,Texas,South,77,250,,DL,Def.,2019-11-24,1
+321,+16,Troy Pride Jr.,CB,Notre Dame,FBS - Independent,Indiana,Midwest,71,192,,DB,Def.,2019-11-24,1
+322,-4,Jonathon Cooper,EDGE,Ohio State,Big Ten,Ohio,Midwest,76,257,,DL,Def.,2019-11-24,1
+323,-10,Shaq Smith,ILB,Maryland,Big Ten,Maryland,Northeast,74,250,,LB,Def.,2019-11-24,1
+324,+26,Logan Wilson,ILB,Wyoming,FBS - Mountain West,Wyoming,West,74,250,,LB,Def.,2019-11-24,1
+325,NEW,Javahn Ferguson,ILB,New Mexico State,FBS - Sun Belt,New Mexico,West,73,230,,LB,Def.,2019-11-24,1
+326,-67,Tra Minter,RBC,South Alabama,FBS - Sun Belt,Alabama,South,69,200,,RB,Off.,2019-11-24,1
+327,-8,Sean Adesanya,EDGE,Central Michigan,FBS - MAC,Michigan,Midwest,75,240,,DL,Def.,2019-11-24,1
+328,-47,Jalen Elliott,S,Notre Dame,FBS - Independent,Indiana,Midwest,72,207,,DB,Def.,2019-11-24,1
+329,+39,Dicaprio Bootle,CB,Nebraska,Big Ten,Nebraska,Midwest,70,190,,DB,Def.,2019-11-24,1
+330,+88,Rodney Smith,RBF,Minnesota,Big Ten,Minnesota,Midwest,71,210,,RB,Off.,2019-11-24,1
+331,-87,James Gilbert,RBC,Kansas State,Big 12,Kansas,Midwest,69,198,,RB,Off.,2019-11-24,1
+332,+7,Bryan London II,OLB,Texas State,FBS - Sun Belt,Texas,South,74,232,,LB,Def.,2019-11-24,1
+333,-64,Tyler Coyle,S,Connecticut,FBS - AAC,Connecticut,Northeast,72,207,,DB,Def.,2019-11-24,1
+334,+102,Chase Allen,TE,Iowa State,Big 12,Iowa,Midwest,78,240,,TE,Off.,2019-11-24,1
+335,+31,Cedric Byrd II,WRS,Hawaii,FBS - Mountain West,Hawaii,West,69,175,,WR,Off.,2019-11-24,1
+336,-70,Garrett Marino,DL3T,UAB,FBS - CUSA,Alabama,South,74,290,,DL,Def.,2019-11-24,1
+337,+1,Rodrigo Blankenship,PK,Georgia,SEC,Georgia,South,73,191,,K,ST,2019-11-24,1
+338,-204,Cheyenne O'Grady,TE,Arkansas,SEC,Arkansas,South,76,256,,TE,Off.,2019-11-24,1
+339,-24,Jake Verity,PK,East Carolina,FBS - AAC,North Carolina,South,73,185,,K,ST,2019-11-24,1
+340,+42,Patrick Queen,ILB,LSU,SEC,Louisiana,South,74,232,,LB,Def.,2019-11-24,1
+341,-78,Keith Ismael,OC,San Diego State,FBS - Mountain West,California,West,75,311,,OL,Off.,2019-11-24,1
+342,+38,Larry Rountree III,RBF,Missouri,SEC,Missouri,Midwest,70,210,,RB,Off.,2019-11-24,1
+343,+15,Rashad Robinson,CB,James Madison,FCS,Virginia,South,71,185,,DB,Def.,2019-11-24,1
+344,+13,Brandon Wright,P,Georgia State,FBS - Sun Belt,Georgia,South,70,182,,P,ST,2019-11-24,1
+345,-73,Khalil Brooks,OLB,Middle Tennessee,FBS - CUSA,Tennessee,South,71,206,,LB,Def.,2019-11-24,1
+346,-122,Chase Claypool,WRF,Notre Dame,FBS - Independent,Indiana,Midwest,76,227,,WR,Off.,2019-11-24,1
+347,-19,Robert Windsor,DL3T,Penn State,Big Ten,Pennsylvania,Northeast,76,289,,DL,Def.,2019-11-24,1
+348,+7,Jordan Smith,EDGE,UAB,FBS - CUSA,Alabama,South,79,250,,DL,Def.,2019-11-24,1
+349,-184,Luke Campbell,OT,Michigan State,Big Ten,Michigan,Midwest,77,302,,OL,Off.,2019-11-24,1
+350,+109,Richie Worship,FB,Purdue,Big Ten,Indiana,Midwest,72,250,,RB,Off.,2019-11-24,1
+351,-21,Nyles Pinckney,DL3T,Clemson,ACC,South Carolina,South,73,305,,DL,Def.,2019-11-24,1
+352,-17,Tyler Shelvin,DL1T,LSU,SEC,Louisiana,South,75,362,,DL,Def.,2019-11-24,1
+353,+6,Charles Williams,RBC,UNLV,FBS - Mountain West,Nevada,West,69,190,,RB,Off.,2019-11-24,1
+354,-147,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,2019-11-24,1
+355,NEW,Gabriel Davis,WRF,UCF,FBS - AAC,Florida,South,75,212,,WR,Off.,2019-11-24,1
+356,+57,Bryce Huff,EDGE,Memphis,FBS - AAC,Tennessee,South,75,245,,DL,Def.,2019-11-24,1
+357,-40,Cesar Ruiz,OC,Michigan,Big Ten,Michigan,Midwest,76,319,,OL,Off.,2019-11-24,1
+358,+21,Christian Albright,OLB,Ball State,FBS - MAC,Indiana,Midwest,74,233,,LB,Def.,2019-11-24,1
+359,+31,Jordan Williams,DL3T,Clemson,ACC,South Carolina,South,76,305,,DL,Def.,2019-11-24,1
+360,-53,Jordan Fuller,S,Ohio State,Big Ten,Ohio,Midwest,74,205,,DB,Def.,2019-11-24,1
+361,-153,Xavier Jones,RBF,SMU,FBS - AAC,Texas,South,71,208,,RB,Off.,2019-11-24,1
+362,-17,Charles Snowden,EDGE,Virginia,ACC,Virginia,South,79,225,,DL,Def.,2019-11-24,1
+363,+7,Dane Jackson,CB,Pitt,ACC,Pennsylvania,Northeast,72,190,,DB,Def.,2019-11-24,1
+364,-28,Ellison Hubbard,DL3T,Colorado State,FBS - Mountain West,Colorado,West,73,285,,DL,Def.,2019-11-24,1
+365,+8,Nate Evans,ILB,UCF,FBS - AAC,Florida,South,73,244,,LB,Def.,2019-11-24,1
+366,NEW,Easop Winston Jr.,WRS,Washington State,Pac 12,Washington,West,71,190,,WR,Off.,2019-11-24,1
+367,-5,Jamario Bell,EDGE,Arkansas,SEC,Arkansas,South,77,265,,DL,Def.,2019-11-24,1
+368,+24,Leo Lewis,ILB,Mississippi State,SEC,Mississippi,South,74,245,,LB,Def.,2019-11-24,1
+369,-158,Greg Eiland,OT,Mississippi State,SEC,Mississippi,South,80,335,,OL,Off.,2019-11-24,1
+370,+24,Chapelle Russell,OLB,Temple,FBS - AAC,Pennsylvania,Northeast,73,215,,LB,Def.,2019-11-24,1
+371,+49,Jonathan Song,PK,TCU,Big 12,Texas,South,70,175,,K,ST,2019-11-24,1
+372,+49,Sage Lewis,ILB,Florida International,FBS - CUSA,Florida,South,73,240,,LB,Def.,2019-11-24,1
+373,-122,Kalija Lipscomb,WRF,Vanderbilt,SEC,Tennessee,South,73,200,,WR,Off.,2019-11-24,1
+374,+58,Sterling Hofrichter,P,Syracuse,ACC,New York,Northeast,69,199,,P,ST,2019-11-24,1
+375,+16,Chris Williamson,CB,Minnesota,Big Ten,Minnesota,Midwest,72,198,,DB,Def.,2019-11-24,1
+376,+9,Xavier Lyas,EDGE,NC State,ACC,North Carolina,South,76,239,,DL,Def.,2019-11-24,1
+377,+21,Myles Bryant,CB,Washington,Pac 12,Washington,West,69,184,,DB,Def.,2019-11-24,1
+378,-9,Phidarian Mathis,DL1T,Alabama,SEC,Alabama,South,76,317,,DL,Def.,2019-11-24,1
+379,NEW,Charleston Rambo,WRF,Oklahoma,Big 12,Oklahoma,South,73,175,,WR,Off.,2019-11-24,1
+380,NEW,Jeff Thomas,WRS,Miami (FL),ACC,Florida,South,70,180,,WR,Off.,2019-11-24,1
+381,+21,Malcolm Roach,DL5T,Texas,Big 12,Texas,South,75,290,DL3T,DL,Def.,2019-11-24,1
+382,-21,Najee Clayton,OLB,Western Michigan,FBS - MAC,Michigan,Midwest,74,220,,LB,Def.,2019-11-24,1
+383,-97,Benny LeMay,RBF,Charlotte,FBS - CUSA,North Carolina,South,72,218,,RB,Off.,2019-11-24,1
+384,-91,Luke Farrell,TE,Ohio State,Big Ten,Ohio,Midwest,78,244,,TE,Off.,2019-11-24,1
+385,+20,Christian Rector,EDGE,USC,Pac 12,California,West,76,275,,DL,Def.,2019-11-24,1
+386,-23,Clay Johnston,ILB,Baylor,Big 12,Texas,South,73,236,,LB,Def.,2019-11-24,1
+387,NEW,Cole McDonald,QB,Hawaii,FBS - Mountain West,Hawaii,West,76,220,,QB,Off.,2019-11-24,1
+388,+5,William Bradley-King,EDGE,Arkansas State,FBS - Sun Belt,Arkansas,South,76,248,,DL,Def.,2019-11-24,1
+389,-241,Scott Frantz,OT,Kansas State,Big 12,Kansas,Midwest,77,303,,OL,Off.,2019-11-24,1
+390,-37,Asmar Bilal,ILB,Notre Dame,FBS - Independent,Indiana,Midwest,74,227,,LB,Def.,2019-11-24,1
+391,-3,Isaiahh Loudermilk,DL5T,Wisconsin,Big Ten,Wisconsin,Midwest,79,306,,DL,Def.,2019-11-24,1
+392,-9,Mark Gilbert,CB,Duke,ACC,North Carolina,South,73,175,,DB,Def.,2019-11-24,1
+393,-6,George Lea,DL5T,Arizona State,Pac 12,Arizona,West,75,275,,DL,Def.,2019-11-24,1
+394,-27,Gerold Bright,RBC,Utah State,FBS - Mountain West,Utah,West,69,195,,RB,Off.,2019-11-24,1
+395,-21,J.J. Taylor,RBC,Arizona,Pac 12,Arizona,West,66,184,,RB,Off.,2019-11-24,1
+396,-76,Mykal Walker,ILB,Fresno State,FBS - Mountain West,California,West,75,220,,LB,Def.,2019-11-24,1
+397,+6,Nigel Warrior,S,Tennessee,SEC,Tennessee,South,72,191,,DB,Def.,2019-11-24,1
+398,-214,Hunter Bryant,TE,Washington,Pac 12,Washington,West,74,241,,TE,Off.,2019-11-24,1
+399,+20,Keith Taylor,CB,Washington,Pac 12,Washington,West,75,200,,DB,Def.,2019-11-24,1
+400,NEW,Joe Reed,WRF,Virginia,ACC,Virginia,South,73,215,,WR,Off.,2019-11-24,1
+401,-36,Mike Danna,EDGE,Michigan,Big Ten,Michigan,Midwest,74,253,,DL,Def.,2019-11-24,1
