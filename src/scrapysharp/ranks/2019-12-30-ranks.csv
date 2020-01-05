@@ -1,501 +1,501 @@
-Rank,Change,Player,School,Position,Height,Weight,Position2,Date
-1,--,Joe Burrow,LSU,QB,"6'4""",216,SR,2019-12-30
-2,--,Derrick Brown,Auburn,DL1T,"6'5""",318,SR,2019-12-30
-3,--,Chase Young,Ohio State,EDGE,"6'5""",265,JR,2019-12-30
-4,--,Jerry Jeudy,Alabama,WRF,"6'1""",192,JR,2019-12-30
-5,--,Justin Herbert,Oregon,QB,"6'6""",225,SR,2019-12-30
-6,--,Andrew Thomas,Georgia,OT,"6'5""",320,JR,2019-12-30
-7,--,Jeffrey Okudah,Ohio State,CB,"6'1""",200,JR,2019-12-30
-8,+2,Yetur Gross-Matos,Penn State,EDGE,"6'4""",262,JR,2019-12-30
-9,+2,A.J. Epenesa,Iowa,DL5T,"6'6""",280,JR,2019-12-30
-10,-2,Austin Jackson,USC,OT,"6'6""",310,JR,2019-12-30
-11,+1,Isaiah Simmons,Clemson,S,"6'4""",225,RJR,2019-12-30
-12,-3,Kristian Fulton,LSU,CB,"6'0""",192,SR,2019-12-30
-13,+1,CeeDee Lamb,Oklahoma,WRF,"6'2""",189,JR,2019-12-30
-14,+1,Tristan Wirfs,Iowa,OT,"6'5""",320,JR,2019-12-30
-15,+2,Javon Kinlaw,South Carolina,DL3T,"6'6""",302,SR,2019-12-30
-16,+2,Tua Tagovailoa,Alabama,QB,"6'1""",218,JR,2019-12-30
-17,+2,Tee Higgins,Clemson,WRF,"6'4""",200,JR,2019-12-30
-18,+2,Tyler Biadasz,Wisconsin,OC,"6'3""",315,SR,2019-12-30
-19,+2,Jonathan Taylor,Wisconsin,RBF,"5'11""",215,JR,2019-12-30
-20,+3,Curtis Weaver,Boise State,EDGE,"6'3""",266,RJR,2019-12-30
-21,+4,Trevon Diggs,Alabama,CB,"6'2""",200,JR,2019-12-30
-22,+36,Jedrick Wills,Alabama,OT,"6'5""",316,JR,2019-12-30
-23,-6,Grant Delpit,LSU,S,"6'3""",203,JR,2019-12-30
-24,+3,Laviska Shenault,Colorado,WRF,"6'2""",220,JR,2019-12-30
-25,+3,Raekwon Davis,Alabama,DL3T,"6'7""",306,SR,2019-12-30
-26,+17,Kenneth Murray,Oklahoma,ILB,"6'2""",238,JR,2019-12-30
-27,-4,C.J. Henderson,Florida,CB,"6'1""",186,JR,2019-12-30
-28,+1,Henry Ruggs III,Alabama,WRF,"6'0""",183,JR,2019-12-30
-29,+15,Solomon Kindley,Georgia,OG,"6'4""",335,JR,2019-12-30
-30,+1,Marvin Wilson,Florida State,DL1T,"6'5""",314,JR,2019-12-30
-31,+1,Travis Etienne,Clemson,RBF,"5'10""",200,JR,2019-12-30
-32,-12,Alex Leatherwood,Alabama,OT,"6'6""",304,JR,2019-12-30
-33,+1,D'Andre Swift,Georgia,RBF,"5'9""",215,JR,2019-12-30
-34,+1,Trey Adams,Washington,OT,"6'7""",315,SR,2019-12-30
-35,+5,Anfernee Jennings,Alabama,OLB,"6'3""",259,RSR,2019-12-30
-36,--,Prince Tega Wanogho,Auburn,OT,"6'7""",310,SR,2019-12-30
-37,--,Cameron Dantzler,Mississippi State,CB,"6'2""",185,JR,2019-12-30
-38,NEW,Wyatt Davis,Ohio State,OG,"6'4""",313,RSO,2019-12-30
-39,--,Tyler Johnson,Minnesota,WRF,"6'2""",200,SR,2019-12-30
-40,+1,Creed Humphrey,Oklahoma,OC,"6'4""",328,RSO,2019-12-30
-41,-15,Terrell Lewis,Alabama,EDGE,"6'5""",255,RJR,2019-12-30
-42,+6,Xavier McKinney,Alabama,S,"6'1""",196,JR,2019-12-30
-43,+3,Bryce Hall,Virginia,CB,"6'1""",200,SR,2019-12-30
-44,-2,Jalen Hurts,Oklahoma,QB,"6'2""",210,SR,2019-12-30
-45,+34,Troy Dye,Oregon,ILB,"6'4""",224,SR,2019-12-30
-46,-3,J.K. Dobbins,Ohio State,RBF,"5'10""",214,JR,2019-12-30
-47,NEW,Isaiah Wilson,Georgia,OT,"6'7""",340,RSO,2019-12-30
-48,+8,Shane Lemieux,Oregon,OG,"6'4""",317,SR,2019-12-30
-49,+14,Julian Okwara,Notre Dame,EDGE,"6'5""",241,SR,2019-12-30
-50,-19,Malik Harrison,Ohio State,ILB,"6'3""",245,SR,2019-12-30
-51,-4,Chuba Hubbard,Oklahoma State,RBF,"6'1""",207,RJR,2019-12-30
-52,-3,Albert Okwuegbunam,Missouri,TE,"6'5""",255,RJR,2019-12-30
-53,-3,Shaun Wade,Ohio State,CB,"6'0""",195,RJR,2019-12-30
-54,-3,Jalen Reagor,TCU,WRS,"5'11""",195,JR,2019-12-30
-55,+34,Jake Hanson,Oregon,OC,"6'5""",297,SR,2019-12-30
-56,-4,DeVonta Smith,Alabama,WRF,"6'1""",193,JR,2019-12-30
-57,--,Jake Fromm,Georgia,QB,"6'2""",220,JR,2019-12-30
-58,--,Ben Bredeson,Michigan,OG,"6'5""",320,SR,2019-12-30
-59,-21,Jabari Zuniga,Florida,EDGE,"6'4""",257,RSR,2019-12-30
-60,--,Paulson Adebo,Stanford,CB,"6'1""",189,JR,2019-12-30
-61,--,Jacob Eason,Washington,QB,"6'6""",228,JR,2019-12-30
-62,+2,Jordyn Brooks,Texas Tech,ILB,"6'1""",245,SR,2019-12-30
-63,+3,Rashard Lawrence,LSU,DL1T,"6'3""",317,SR,2019-12-30
-64,+3,Hamsah Nasirildeen,Florida State,S,"6'3""",216,JR,2019-12-30
-65,+3,Najee Harris,Alabama,RBF,"6'2""",230,JR,2019-12-30
-66,+3,A.J. Terrell,Clemson,CB,"6'2""",190,JR,2019-12-30
-67,-12,Marlon Davidson,Auburn,DL5T,"6'3""",278,SR,2019-12-30
-68,+2,Jacob Breeland,Oregon,TE,"6'5""",240,RSR,2019-12-30
-69,+2,Michael Pittman Jr.,USC,WRF,"6'4""",223,SR,2019-12-30
-70,+23,Mekhi Becton,Louisville,OT,"6'7""",355,JR,2019-12-30
-71,+13,Zack Moss,Utah,RBF,"5'10""",210,SR,2019-12-30
-72,--,Josh Jones,Houston,OT,"6'7""",310,SR,2019-12-30
-73,--,Justin Madubuike,Texas A&M,DL3T,"6'3""",304,RJR,2019-12-30
-74,--,Kenny Willekes,Michigan State,EDGE,"6'4""",260,SR,2019-12-30
-75,--,Jacob Phillips,LSU,ILB,"6'4""",229,JR,2019-12-30
-76,--,Tyler Huntley,Utah,QB,6'1'',205,SR,2019-12-30
-77,+1,Shaquille Quarterman,Miami (FL),ILB,"6'1""",240,SR,2019-12-30
-78,-15,Hakeem Adeniji,Kansas,OG,"6'5""",310,SR,2019-12-30
-79,--,Khalid Kareem,Notre Dame,EDGE,"6'4""",265,SR,2019-12-30
-80,--,Keandre Jones,Maryland,OLB,"6'2""",228,SR,2019-12-30
-81,--,Jordan Mack,Virginia,ILB,"6'2""",230,SR,2019-12-30
-82,--,Lucas Niang,TCU,OT,"6'7""",328,SR,2019-12-30
-83,+1,Jeff Gladney,TCU,CB,"5'10""",183,SR,2019-12-30
-84,+1,Ashtyn Davis,California,S,"6'1""",201,RSR,2019-12-30
-85,+1,K'Lavon Chaisson,LSU,OLB,"6'4""",238,RSO,2019-12-30
-86,+2,James Lynch,Baylor,DL5T,"6'4""",295,JR,2019-12-30
-87,+2,Leki Fotu,Utah,DL1T,"6'5""",330,SR,2019-12-30
-88,+2,Neville Gallimore,Oklahoma,DL1T,"6'2""",330,RSR,2019-12-30
-89,+3,Zack Baun,Wisconsin,OLB,"6'3""",235,SR,2019-12-30
-90,+34,Nick Harris,Washington,OC,"6'1""",302,SR,2019-12-30
-91,+3,Logan Stenberg,Kentucky,OG,"6'6""",326,RSR,2019-12-30
-92,+3,Jaylon Johnson,Utah,CB,"6'0""",190,JR,2019-12-30
-93,+26,Frederick Mauigoa,Washington State,OC,"6'3""",310,SR,2019-12-30
-94,+2,Richard LeCounte,Georgia,S,"5'11""",190,JR,2019-12-30
-95,+2,K.J. Hamler,Penn State,WRS,"5'9""",174,JR,2019-12-30
-96,+2,Netane Muti,Fresno State,OG,"6'3""",310,RSO,2019-12-30
-97,+2,Josh Uche,Michigan,OLB,"6'3""",238,RJR,2019-12-30
-98,+1,Evan Weaver,California,ILB,"6'3""",245,SR,2019-12-30
-99,+1,Collin Johnson,Texas,WRF,"6'6""",220,SR,2019-12-30
-100,+1,Sam Ehlinger,Texas,QB,"6'3""",235,JR,2019-12-30
-101,+1,Shyheim Carter,Alabama,S,"5'11""",192,SR,2019-12-30
-102,NEW,Chazz Surratt,North Carolina,OLB,"6'3""",230,JR,2019-12-30
-103,+1,Devin Duvernay,Texas,WRS,"5'11""",186,SR,2019-12-30
-104,-44,Darryl Williams,Mississippi State,OC,"6'2""",310,SR,2019-12-30
-105,--,Deommodore Lenoir,Oregon,CB,"5'11""",212,SR,2019-12-30
-106,--,Jaylen Twyman,Pitt,DL3T,"6'2""",290,RSO,2019-12-30
-107,--,Calvin Throckmorton,Oregon,OT,"6'5""",318,SR,2019-12-30
-108,+1,Darrell Taylor,Tennessee,EDGE,"6'4""",247,SR,2019-12-30
-109,-53,Samuel Cosmi,Texas,OT,"6'5""",295,RSO,2019-12-30
-110,--,Antoine Winfield Jr.,Minnesota,S,"5'10""",207,JR,2019-12-30
-111,NEW,Deonte Brown,Alabama,OG,"6'4""",338,JR,2019-12-30
-112,-1,Larrell Murchison,NC State,DL3T,"6'3""",291,SR,2019-12-30
-113,-1,Justin Jefferson,LSU,WRF,"6'2""",185,JR,2019-12-30
-114,-1,Donovan Peoples-Jones,Michigan,WRF,"6'2""",208,JR,2019-12-30
-115,-1,Anthony Hines,Texas A&M,OLB,"6'3""",226,RSO,2019-12-30
-116,-24,Michael Pinckney,Miami (FL),OLB,"6'1""",220,SR,2019-12-30
-117,-2,Dontavious Jackson,Florida State,ILB,"6'3""",233,SR,2019-12-30
-118,-2,Brandon Jones,Texas,S,"6'0""",210,SR,2019-12-30
-119,-2,Alton Robinson,Syracuse,EDGE,"6'4""",257,SR,2019-12-30
-120,-1,Jonathan Garvin,Miami (FL),EDGE,"6'4""",250,JR,2019-12-30
-121,-1,Benito Jones,Ole Miss,DL1T,"6'1""",326,SR,2019-12-30
-122,-1,Oluwole Betiku,Illinois,EDGE,"6'3""",240,RJR,2019-12-30
-123,--,Cam Akers,Florida State,RBF,"5'11""",210,JR,2019-12-30
-124,--,Joe Gaziano,Northwestern,DL5T,"6'4""",275,SR,2019-12-30
-125,--,Raequan Williams,Michigan State,DL3T,"6'4""",298,SR,2019-12-30
-126,--,Kevin Jarvis,Michigan State,OG,"6'4""",317,JR,2019-12-30
-127,--,Dele Harding,Illinois,OLB,"6'1""",230,SR,2019-12-30
-128,--,Kylin Hill,Mississippi State,RBC,"5'11""",215,JR,2019-12-30
-129,+20,Chris Orr,Wisconsin,OLB,"6'0""",224,SR,2019-12-30
-130,-1,K'Von Wallace,Clemson,S,"5'11""",210,SR,2019-12-30
-131,-1,Tedarrell Slaton,Florida,DL1T,"6'5""",343,JR,2019-12-30
-132,-1,Brycen Hopkins,Purdue,TE,"6'5""",245,RSR,2019-12-30
-133,+74,Robert Hunt,Louisiana-Lafayette,OT,"6'5""",310,SR,2019-12-30
-134,-2,A.J. Dillon,Boston College,RBF,"6'0""",245,JR,2019-12-30
-135,-2,John Hightower,Boise State,WRF,"6'2""",184,SR,2019-12-30
-136,-2,Lamar Jackson,Nebraska,CB,"6'2""",215,SR,2019-12-30
-137,+8,T.J. McCoy,Louisville,OC,"6'1""",315,SR,2019-12-30
-138,-3,Tylan Wallace,Oklahoma State,WRF,"6'0""",185,JR,2019-12-30
-139,-3,Khalil Davis,Nebraska,DL1T,"6'2""",310,SR,2019-12-30
-140,-3,Jordan Love,Utah State,QB,"6'4""",225,JR,2019-12-30
-141,-84,Lloyd Cushenberry,LSU,OC,"6'3""",312,RJR,2019-12-30
-142,-4,Anthony Gordon,Washington State,QB,"6'3""",210,RSR,2019-12-30
-143,-4,K.J. Britt,Auburn,ILB,"6'0""",236,JR,2019-12-30
-144,-4,Yasir Durant,Missouri,OT,"6'7""",330,SR,2019-12-30
-145,-4,Jonah Jackson,Ohio State,OG,"6'3""",309,SR,2019-12-30
-146,-4,Aaron Fuller,Washington,WRS,"5'11""",186,SR,2019-12-30
-147,-4,Darrion Daniels,Nebraska,DL1T,"6'3""",320,RSR,2019-12-30
-148,-4,Akeem Davis- Gaither,Appalachian State,OLB,"6'2""",210,SR,2019-12-30
-149,-3,Davon Hamilton,Ohio State,DL3T,"6'4""",310,SR,2019-12-30
-150,-3,Baron Browning,Ohio State,ILB,"6'3""",248,JR,2019-12-30
-151,+22,Matt Hennessy,Temple,OC,"6'4""",295,JR,2019-12-30
-152,-3,Damon Arnette,Ohio State,CB,"6'0""",195,SR,2019-12-30
-153,-3,McTelvin Agim,Arkansas,DL5T,"6'3""",279,SR,2019-12-30
-154,-3,Glen Logan,LSU,DL5T,"6'4""",297,RJR,2019-12-30
-155,-3,Joe Bachie,Michigan State,ILB,"6'2""",238,SR,2019-12-30
-156,-3,Khaleke Hudson,Michigan,OLB,"6'0""",220,SR,2019-12-30
-157,-3,Lavert Hill,Michigan,CB,"5'11""",181,SR,2019-12-30
-158,-52,Trey Smith,Tennessee,OG,"6'6""",337,JR,2019-12-30
-159,-4,Ben Cleveland,Georgia,OG,"6'6""",335,JR,2019-12-30
-160,-4,Kyle Dugger,Lenoir–Rhyne,S,"6'2""",205,SR,2019-12-30
-161,-4,Rayshard Ashby,Virginia Tech,ILB,"5'10""",230,JR,2019-12-30
-162,+25,Clyde Edwards-Helaire,LSU,RBF,"5'9""",212,JR,2019-12-30
-163,-5,Jonathan Greenard,Florida,EDGE,"6'3""",263,SR,2019-12-30
-164,-5,Richie Grant,UCF,S,"6'0""",194,RJR,2019-12-30
-165,-5,Mustafa Johnson,Colorado,DL3T,"6'2""",290,SR,2019-12-30
-166,-5,Darnay Holmes,UCLA,CB,"5'10""",198,JR,2019-12-30
-167,-5,Lamical Perine,Florida,RBF,"5'11""",227,SR,2019-12-30
-168,-5,John Simpson,Clemson,OG,"6'4""",330,SR,2019-12-30
-169,+49,Ke'Shawn Vaughn,Vanderbilt,RBF,"5'10""",215,SR,2019-12-30
-170,-6,James Proche,SMU,WRS,"5'11""",190,RSR,2019-12-30
-171,+82,Kuony Deng,California,OLB,"6'6""",220,RJR,2019-12-30
-172,-7,Patrick Johnson,Tulane,EDGE,"6'3""",255,JR,2019-12-30
-173,-7,Nico Collins,Michigan,WRF,"6'4""",222,JR,2019-12-30
-174,-7,Levante Bellamy,Western Michigan,RBC,"5'9""",185,SR,2019-12-30
-175,-7,Antoine Brooks Jr.,Maryland,S,"5'11""",210,SR,2019-12-30
-176,-7,Trevis Gipson,Tulsa,DL5T,"6'4""",268,RSR,2019-12-30
-177,-7,Denzel Mims,Baylor,WRF,"6'3""",197,SR,2019-12-30
-178,-7,Jeffrey McCulloch,Texas,ILB,"6'3""",245,SR,2019-12-30
-179,-6,Jace Whittaker,Arizona,CB,"5'11""",185,RSR,2019-12-30
-180,-6,Cory Durden,Florida State,DL3T,"6'5""",305,RSO,2019-12-30
-181,-6,Nick Coe,Auburn,DL5T,"6'5""",282,JR,2019-12-30
-182,-6,Ross Blacklock,TCU,DL3T,"6'4""",305,JR,2019-12-30
-183,-6,Mohamed Barry,Nebraska,ILB,"6'1""",245,SR,2019-12-30
-184,-6,Zack Shackelford,Texas,OC,"6'4""",305,SR,2019-12-30
-185,-6,Krys Barnes,UCLA,ILB,"6'1""",235,RJR,2019-12-30
-186,NEW,Amik Robertson,Louisiana Tech,CB,"5'9""",183,JR,2019-12-30
-187,-6,D.J. Wonnum,South Carolina,EDGE,"6'5""",255,SR,2019-12-30
-188,-6,Jordan Elliott,Missouri,DL3T,"6'4""",315,RJR,2019-12-30
-189,-6,Jashon Cornell,Ohio State,DL5T,"6'3""",280,RSR,2019-12-30
-190,-6,Damien Lewis,LSU,OG,"6'2""",335,SR,2019-12-30
-191,-6,Essang Bassey,Wake Forest,S,"5'10""",190,SR,2019-12-30
-192,-4,Treshaun Hayward,Western Michigan,ILB,"6'1""",225,JR,2019-12-30
-193,-4,Justin Strnad,Wake Forest,OLB,"6'3""",230,RSR,2019-12-30
-194,-4,Bradlee Anae,Utah,EDGE,"6'3""",265,SR,2019-12-30
-195,-4,Michael Warren II,Cincinnati,RBF,"5'11""",218,JR,2019-12-30
-196,-4,Brandon Aiyuk,Arizona State,WRF,"6'0""",208,SR,2019-12-30
-197,-4,Jamie Newman,Wake Forest,QB,6'4'',230,RJR,2019-12-30
-198,-4,Colby Parkinson,Stanford,TE,"6'7""",240,JR,2019-12-30
-199,NEW,Caleb Huntley,Ball State,RBC,"5'10""",226,JR,2019-12-30
-200,-5,Kamal Martin,Minnesota,ILB,"6'3""",235,SR,2019-12-30
-201,-5,John Molchon,Boise State,OG,"6'5""",322,RSR,2019-12-30
-202,-5,Luq Barcoo,San Diego State,CB,"6'1""",175,SR,2019-12-30
-203,-5,K.J. Hill,Ohio State,WRF,"6'0""",195,SR,2019-12-30
-204,-5,Alex Highsmith,Charlotte,EDGE,"6'3""",244,RSR,2019-12-30
-205,-5,Kylan Johnson,Pitt,OLB,"6'2""",230,SR,2019-12-30
-206,-5,Cam Brown,Penn State,ILB,"6'5""",230,SR,2019-12-30
-207,-5,Terence Steele,Texas Tech,OT,"6'6""",310,SR,2019-12-30
-208,-5,Trevon Hill,Miami (FL),EDGE,"6'3""",245,SR,2019-12-30
-209,-5,O'Rien Vance,Iowa State,OLB,"6'1""",231,RSO,2019-12-30
-210,-4,Terrell Burgess,Utah,S,"6'0""",194,SR,2019-12-30
-211,-4,Juwuan Jones,Western Kentucky,DL5T,"6'3""",270,RSO,2019-12-30
-212,-4,Levonta Taylor,Florida State,CB,"5'10""",181,SR,2019-12-30
-213,-4,Alohi Gilman,Notre Dame,S,"5'11""",201,SR,2019-12-30
-214,-4,Saahdiq Charles,LSU,OT,"6'5""",305,JR,2019-12-30
-215,NEW,Stanford Samuels III,Florida State,CB,"6'2""",185,JR,2019-12-30
-216,-4,Shane Buechele,SMU,QB,6'1'',207,JR,2019-12-30
-217,NEW,Kamren Curl,Arkansas,S,"6'2""",198,JR,2019-12-30
-218,-4,Carter Coughlin,Minnesota,OLB,"6'4""",245,SR,2019-12-30
-219,-4,Eno Benjamin,Arizona State,RBF,"5'10""",201,JR,2019-12-30
-220,-4,John Houston Jr.,USC,OLB,"6'3""",220,SR,2019-12-30
-221,-3,Kenny Cooper,Georgia Tech,OC,"6'2""",305,SR,2019-12-30
-222,-3,Simon Stepaniak,Indiana,OG,"6'4""",319,SR,2019-12-30
-223,-3,Casey Toohill,Stanford,ILB,"6'4""",247,SR,2019-12-30
-224,-3,J.R. Reed,Georgia,S,"6'1""",199,SR,2019-12-30
-225,-3,Shaun Bradley,Temple,OLB,"6'1""",225,SR,2019-12-30
-226,-3,Michael Onwenu,Michigan,OG,"6'3""",350,SR,2019-12-30
-227,-3,Kendall Futrell,East Carolina,OLB,"6'2""",226,SR,2019-12-30
-228,-3,Dante Olson,Montana,ILB,"6'3""",237,SR,2019-12-30
-229,-3,Mike Hampton,South Florida,CB,"6'1""",180,JR,2019-12-30
-230,-43,Salvon Ahmed,Washington,RBC,"5'11""",196,RJR,2019-12-30
-231,-4,Kellen Mond,Texas A&M,QB,"6'2""",217,JR,2019-12-30
-232,-4,Chase Lucas,Arizona State,CB,"6'0""",175,RJR,2019-12-30
-233,-4,Jared Pinkney,Vanderbilt,TE,"6'4""",255,RJR,2019-12-30
-234,-4,David Reese II,Florida,ILB,"6'1""",248,SR,2019-12-30
-235,-4,T.J. Brunson,South Carolina,ILB,"6'0""",230,SR,2019-12-30
-236,+134,Sterling Hofrichter,Syracuse,P,"5'9""",199,SR,2019-12-30
-237,-5,Antonio Gandy-Golden,Liberty,WRF,"6'4""",216,SR,2019-12-30
-238,-5,Trystan Colon-Castillo,Missouri,OC,"6'4""",315,JR,2019-12-30
-239,-5,Kyahva Tezino,San Diego State,OLB,"6'0""",230,SR,2019-12-30
-240,-5,K.J. Costello,Stanford,QB,"6'5""",215,JR,2019-12-30
-241,-5,Dominik Eberle,Utah State,PK,"6'2""",195,SR,2019-12-30
-242,-5,T.J. Vasher,Texas Tech,WRF,"6'6""",190,JR,2019-12-30
-243,-5,Tomon Fox,North Carolina,ILB,"6'3""",260,JR,2019-12-30
-244,-5,Julian Blackmon,Utah,S,"6'1""",195,SR,2019-12-30
-245,-5,Tyler Clark,Georgia,DL1T,"6'4""",300,SR,2019-12-30
-246,-5,DeAngelo Malone,Western Kentucky,OLB,"6'4""",230,JR,2019-12-30
-247,-5,Josiah Coatney,Ole Miss,DL3T,"6'4""",314,SR,2019-12-30
-248,-5,Chauncey Rivers,Mississippi State,DL5T,"6'3""",275,RSR,2019-12-30
-249,-5,Tommy Kraemer,Notre Dame,OG,"6'6""",319,SR,2019-12-30
-250,NEW,Javon Leake,Maryland,RBF,"6'0""",206,JR,2019-12-30
-251,-6,Bryan Edwards,South Carolina,WRF,"6'3""",215,SR,2019-12-30
-252,-6,Braden Mann,Texas A&M,P,"5'11""",195,SR,2019-12-30
-253,-6,Benning Potoae,Washington,DL5T,"6'3""",285,SR,2019-12-30
-254,-6,Willie Gay Jr.,Mississippi State,OLB,"6'2""",235,JR,2019-12-30
-255,-6,Ty Chandler,Tennessee,RBC,"5'11""",201,JR,2019-12-30
-256,-6,Harrison Bryant,Florida Atlantic,TE,"6'5""",240,SR,2019-12-30
-257,-5,Ifeanyi Maijeh,Temple,DL3T,"6'2""",285,RSO,2019-12-30
-258,-5,Cale Garrett,Missouri,ILB,"6'3""",230,SR,2019-12-30
-259,-5,Marlon Tuipulotu,USC,DL3T,"6'3""",305,RSO,2019-12-30
-260,-5,Keisean Lucier-South,UCLA,EDGE,"6'4""",235,SR,2019-12-30
-261,-5,Kendall Coleman,Syracuse,EDGE,"6'3""",266,SR,2019-12-30
-262,-5,T.J. Carter,Memphis,CB,"5'11""",180,JR,2019-12-30
-263,-5,Bryce Perkins,Virginia,QB,6'3'',215,SR,2019-12-30
-264,-5,Darius Anderson,TCU,RBF,"5'11""",212,SR,2019-12-30
-265,-5,Sean Pollard,Clemson,OC,"6'5""",320,SR,2019-12-30
-266,-5,John Lako,Akron,ILB,"6'2""",225,SR,2019-12-30
-267,-5,Paddy Fisher,Northwestern,ILB,"6'4""",241,JR,2019-12-30
-268,-5,Brendon Hayes,UCF,DL5T,"6'3""",293,RSR,2019-12-30
-269,-5,Corey Bethley,TCU,DL3T,"6'2""",290,JR,2019-12-30
-270,-5,Jason Strowbridge,North Carolina,DL3T,"6'3""",285,JR,2019-12-30
-271,-5,A.J. Green,Oklahoma State,CB,"6'1""",194,SR,2019-12-30
-272,NEW,Lynn Bowden Jr.,Kentucky,WRF,"6'1""",199,JR,2019-12-30
-273,-5,Myles Dorn,North Carolina,S,"6'1""",198,SR,2019-12-30
-274,-5,Carlos Davis,Nebraska,DL3T,"6'2""",320,SR,2019-12-30
-275,-5,Benning Potoa'e,Washington,DL3T,"6'3""",290,SR,2019-12-30
-276,+22,Jessie Lemonier,Liberty,EDGE,"6'3""",240,SR,2019-12-30
-277,-6,Eric Lee Jr.,Nebraska,S,"6'0""",215,SR,2019-12-30
-278,-6,Jeremy Chinn,Southern Illinois,S,"6'3""",208,SR,2019-12-30
-279,-6,Quincy Roche,Temple,EDGE,"6'4""",235,RJR,2019-12-30
-280,-6,Breiden Fehoko,LSU,DL5T,"6'4""",291,SR,2019-12-30
-281,-6,Joshua Kelley,UCLA,RBF,"5'11""",204,SR,2019-12-30
-282,-6,Jaquarius Landrews,Mississippi State,S,"5'11""",197,SR,2019-12-30
-283,-6,DeMarkus Acy,Missouri,CB,"6'2""",195,SR,2019-12-30
-284,-6,Daniel Bituli,Tennessee,ILB,"6'3""",244,SR,2019-12-30
-285,+119,Adam Trautman,Dayton,TE,"6'5""",250,RSR,2019-12-30
-286,-7,Tre Walker,San Jose State,WRS,5'11'',180,JR,2019-12-30
-287,-7,De'Jon Harris,Arkansas,ILB,"6'0""",244,SR,2019-12-30
-288,-7,Shea Patterson,Michigan,QB,"6'2""",200,SR,2019-12-30
-289,-7,Jay Tufele,USC,DL3T,"6'3""",310,RSO,2019-12-30
-290,-7,Broderick Washington Jr.,Texas Tech,DL3T,"6'3""",305,SR,2019-12-30
-291,-7,John Penisini,Utah,DL3T,"6'2""",320,SR,2019-12-30
-292,-7,Jordon Scott,Oregon,DL1T,"6'1""",329,JR,2019-12-30
-293,-7,Tommy Townsend,Florida,P,"6'2""",183,RSR,2019-12-30
-294,-7,Damonte Coxie,Memphis,WRF,"6'3""",200,SR,2019-12-30
-295,-7,Thomas Graham Jr.,Oregon,CB,"5'11""",191,JR,2019-12-30
-296,-7,Isaiah Hodgins,Oregon State,WRF,"6'4""",209,JR,2019-12-30
-297,-7,Deslin Alexandre,Pitt,DL5T,"6'4""",265,RSO,2019-12-30
-298,-7,Colin Schooler,Arizona,ILB,"6'0""",236,JR,2019-12-30
-299,-7,Bravvion Roy,Baylor,DL1T,6'1,330,SR,2019-12-30
-300,-7,Kary Vincent Jr.,LSU,CB,"5'10""",182,JR,2019-12-30
-301,-7,Patrick Taylor Jr.,Memphis,RBF,"6'3""",227,SR,2019-12-30
-302,-7,Robert Landers,Ohio State,DL3T,"6'1""",285,SR,2019-12-30
-303,-7,Nate Stanley,Iowa,QB,"6'4""",243,SR,2019-12-30
-304,-7,Jahad Woods,Washington State,OLB,"6'0""",225,RJR,2019-12-30
-305,-6,Tipa Galeai,Utah State,EDGE,"6'5""",230,SR,2019-12-30
-306,+83,Gerold Bright,Utah State,RBC,"5'9""",195,SR,2019-12-30
-307,+150,Cole Van Lanen,Wisconsin,OT,"6'5""",312,RJR,2019-12-30
-308,-8,LaDarius Hamilton,North Texas,EDGE,"6'3""",255,SR,2019-12-30
-309,-8,Anthony McFarland Jr.,Maryland,RBC,"5'8""",193,JR,2019-12-30
-310,-8,Reggie Corbin,Illinois,RBF,"5'10""",200,JR,2019-12-30
-311,+79,J.J. Taylor,Arizona,RBC,"5'6""",184,RJR,2019-12-30
-312,-9,Josh Metellus,Michigan,S,"5'11""",215,SR,2019-12-30
-313,-9,David Dowell,Michigan State,S,"6'1""",205,SR,2019-12-30
-314,-9,Josiah Scott,Michigan State,CB,"5'10""",168,JR,2019-12-30
-315,-9,Jared Rice,Fresno State,TE,"6'5""",243,SR,2019-12-30
-316,-9,Jet Toner,Stanford,PK,"6'4""",201,SR,2019-12-30
-317,-9,Kendrick Rogers,Texas A&M,WRF,6'4'',204,JR,2019-12-30
-318,-9,Doug Costin,Miami (OH),DL3T,"6'2""",295,SR,2019-12-30
-319,-9,Matt Peart,Connecticut,OT,"6'7""",303,RSR,2019-12-30
-320,-9,Erroll Thompson,Mississippi State,ILB,"6'1""",250,JR,2019-12-30
-321,NEW,DeeJay Dallas,Miami (FL),RBF,"5'10""",214,JR,2019-12-30
-322,-9,Spencer Brown,UAB,FB,"6'0""",230,JR,2019-12-30
-323,-9,Lakiem Williams,Syracuse,OLB,"6'0""",225,SR,2019-12-30
-324,-9,Delontae Scott,SMU,EDGE,"6'5""",250,SR,2019-12-30
-325,-9,Troy Pride Jr.,Notre Dame,CB,"5'11""",192,SR,2019-12-30
-326,-9,Shaq Smith,Maryland,ILB,"6'2""",250,RJR,2019-12-30
-327,-9,Logan Wilson,Wyoming,ILB,"6'2""",250,RSR,2019-12-30
-328,-9,Javahn Ferguson,New Mexico State,ILB,"6'1""",230,SR,2019-12-30
-329,-9,Tra Minter,South Alabama,RBC,"5'9""",200,JR,2019-12-30
-330,-9,Sean Adesanya,Central Michigan,EDGE,"6'3""",240,SR,2019-12-30
-331,-9,Jalen Elliott,Notre Dame,S,"6'0""",207,SR,2019-12-30
-332,-9,Dicaprio Bootle,Nebraska,CB,"5'10""",190,JR,2019-12-30
-333,-9,Rodney Smith,Minnesota,RBF,"5'11""",210,SR,2019-12-30
-334,-9,James Gilbert,Kansas State,RBC,"5'9""",198,JR,2019-12-30
-335,-9,Bryan London II,Texas State,OLB,"6'2""",232,SR,2019-12-30
-336,-9,Tyler Coyle,Connecticut,S,"6'0""",207,RJR,2019-12-30
-337,-9,Chase Allen,Iowa State,TE,"6'6""",240,SR,2019-12-30
-338,-9,Cedric Byrd II,Hawaii,WRS,"5'9""",175,SR,2019-12-30
-339,-9,Garrett Marino,UAB,DL3T,"6'2""",290,SR,2019-12-30
-340,-9,Rodrigo Blankenship,Georgia,PK,"6'1""",191,SR,2019-12-30
-341,-9,Cheyenne O'Grady,Arkansas,TE,"6'4""",256,SR,2019-12-30
-342,-9,Jake Verity,East Carolina,PK,"6'1""",185,SR,2019-12-30
-343,-9,Patrick Queen,LSU,ILB,"6'2""",232,JR,2019-12-30
-344,-9,Larry Rountree III,Missouri,RBF,"5'10""",210,JR,2019-12-30
-345,-9,Rashad Robinson,James Madison,CB,"5'11""",185,SR,2019-12-30
-346,-9,Brandon Wright,Georgia State,P,"5'10""",182,SR,2019-12-30
-347,-9,Khalil Brooks,Middle Tennessee,OLB,"5'11""",206,RSR,2019-12-30
-348,-9,Chase Claypool,Notre Dame,WRF,"6'4""",227,SR,2019-12-30
-349,-9,Robert Windsor,Penn State,DL3T,"6'4""",289,SR,2019-12-30
-350,-9,Jordan Smith,UAB,EDGE,"6'7""",250,RSO,2019-12-30
-351,-9,Luke Campbell,Michigan State,OT,"6'5""",302,JR,2019-12-30
-352,-9,Richie Worship,Purdue,FB,"6'0""",250,SR,2019-12-30
-353,-9,Nyles Pinckney,Clemson,DL3T,"6'1""",305,RJR,2019-12-30
-354,-9,Tyler Shelvin,LSU,DL1T,"6'3""",362,RSO,2019-12-30
-355,-9,Charles Williams,UNLV,RBC,"5'9""",190,RJR,2019-12-30
-356,-9,Jon Runyan,Michigan,OG,"6'5""",310,RSR,2019-12-30
-357,-9,Gabriel Davis,UCF,WRF,6'3'',212,JR,2019-12-30
-358,-9,Bryce Huff,Memphis,EDGE,"6'3""",245,JR,2019-12-30
-359,-9,Cesar Ruiz,Michigan,OC,"6'4""",319,JR,2019-12-30
-360,-9,Christian Albright,Ball State,OLB,"6'2""",233,JR,2019-12-30
-361,-9,Jordan Williams,Clemson,DL3T,"6'4""",305,RSO,2019-12-30
-362,-9,Jordan Fuller,Ohio State,S,"6'2""",205,SR,2019-12-30
-363,-9,Xavier Jones,SMU,RBF,"5'11""",208,SR,2019-12-30
-364,-9,Charles Snowden,Virginia,EDGE,"6'7""",225,JR,2019-12-30
-365,-9,Dane Jackson,Pitt,CB,"6'0""",190,SR,2019-12-30
-366,-9,Ellison Hubbard,Colorado State,DL3T,"6'1""",285,JR,2019-12-30
-367,-9,Nate Evans,UCF,ILB,"6'1""",244,SR,2019-12-30
-368,-9,Easop Winston Jr.,Washington State,WRS,5'11'',190,SR,2019-12-30
-369,-9,Jamario Bell,Arkansas,EDGE,"6'5""",265,SR,2019-12-30
-370,-9,Leo Lewis,Mississippi State,ILB,"6'2""",245,SR,2019-12-30
-371,-9,Greg Eiland,Mississippi State,OT,"6'8""",335,JR,2019-12-30
-372,-9,Chapelle Russell,Temple,OLB,"6'1""",215,SR,2019-12-30
-373,-9,Jonathan Song,TCU,PK,"5'10""",175,SR,2019-12-30
-374,-8,Sage Lewis,Florida International,ILB,"6'1""",240,SR,2019-12-30
-375,-8,Kalija Lipscomb,Vanderbilt,WRF,"6'1""",200,SR,2019-12-30
-376,NEW,Kyle Markway,South Carolina,TE,"6'4""",250,RJR,2019-12-30
-377,-7,Chris Williamson,Minnesota,CB,"6'0""",198,SR,2019-12-30
-378,-7,Xavier Lyas,NC State,EDGE,"6'4""",239,RSO,2019-12-30
-379,-7,Myles Bryant,Washington,CB,"5'9""",184,SR,2019-12-30
-380,-7,Phidarian Mathis,Alabama,DL1T,"6'4""",317,RSO,2019-12-30
-381,-7,Charleston Rambo,Oklahoma,WRF,6'1'',175,RSO,2019-12-30
-382,-7,Jeff Thomas,Miami (FL),WRS,5'10'',180,JR,2019-12-30
-383,-7,Malcolm Roach,Texas,DL5T,"6'3""",290,SR,2019-12-30
-384,NEW,Darius Bradwell,Tulane,FB,"6'1""",230,SR,2019-12-30
-385,-8,Najee Clayton,Western Michigan,OLB,"6'2""",220,SR,2019-12-30
-386,-8,Benny LeMay,Charlotte,RBF,"6'0""",218,SR,2019-12-30
-387,-8,Luke Farrell,Ohio State,TE,"6'6""",244,SR,2019-12-30
-388,-8,Christian Rector,USC,EDGE,"6'4""",275,RSR,2019-12-30
-389,-8,Clay Johnston,Baylor,ILB,"6'1""",236,SR,2019-12-30
-390,-8,Cole McDonald,Hawaii,QB,"6'4""",220,JR,2019-12-30
-391,-8,William Bradley-King,Arkansas State,EDGE,"6'4""",248,JR,2019-12-30
-392,-8,Scott Frantz,Kansas State,OT,"6'5""",303,SR,2019-12-30
-393,+77,Evin Ksiezarczyk,Buffalo,OT,"6'6""",315,RSR,2019-12-30
-394,-9,Asmar Bilal,Notre Dame,ILB,"6'2""",227,RSR,2019-12-30
-395,-9,Isaiahh Loudermilk,Wisconsin,DL5T,"6'7""",306,JR,2019-12-30
-396,-9,Mark Gilbert,Duke,CB,"6'1""",175,RJR,2019-12-30
-397,-9,George Lea,Arizona State,DL5T,"6'3""",275,RSR,2019-12-30
-398,-7,Mykal Walker,Fresno State,ILB,"6'3""",220,SR,2019-12-30
-399,-7,Nigel Warrior,Tennessee,S,"6'0""",191,SR,2019-12-30
-400,-7,Hunter Bryant,Washington,TE,"6'2""",241,RJR,2019-12-30
-401,-7,Keith Taylor,Washington,CB,"6'3""",200,JR,2019-12-30
-402,-7,Joe Reed,Virginia,WRF,6'1'',215,SR,2019-12-30
-403,-7,Mike Danna,Michigan,EDGE,"6'2""",253,RSR,2019-12-30
-404,-7,Marcel Spears Jr.,Iowa State,OLB,"6'1""",215,RSR,2019-12-30
-405,-7,Cohl Cabral,Arizona State,OC,"6'5""",291,SR,2019-12-30
-406,-7,Cooper Rothe,Wyoming,PK,"5'11""",178,SR,2019-12-30
-407,-7,Connor Slomka,Army,FB,"6'0""",240,SR,2019-12-30
-408,-7,Zach Robertson,Arizona State,OT,"6'5""",335,SR,2019-12-30
-409,-7,Tyler Higby,Michigan State,OG,"6'4""",303,SR,2019-12-30
-410,+91,Darrynton Evans,Appalachian State,RBF,"5'11""",190,JR,2019-12-30
-411,-8,Moe Neal,Syracuse,RBC,"5'11""",195,SR,2019-12-30
-412,-7,Marco Wilson,Florida,CB,"5'11""",194,JR,2019-12-30
-413,-7,Levi Onwuzurike,Washington,DL3T,"6'3""",282,JR,2019-12-30
-414,-7,Marquiss Spencer,Mississippi State,DL5T,"6'4""",285,SR,2019-12-30
-415,-7,Van Jefferson,Florida,WRF,"6'2""",197,SR,2019-12-30
-416,-7,Reggie Floyd,Virginia Tech,S,"6'0""",222,SR,2019-12-30
-417,-7,Adrian Killins Jr.,UCF,RBC,"5'8""",164,SR,2019-12-30
-418,-7,Trey Sermon,Oklahoma,RBF,"6'0""",224,JR,2019-12-30
-419,-7,Steven Montez,Colorado,QB,"6'5""",230,SR,2019-12-30
-420,-7,Blake Gallagher,Northwestern,OLB,"6'1""",235,JR,2019-12-30
-421,-7,Ryan McCollum,Texas A&M,OC,"6'5""",305,JR,2019-12-30
-422,-7,Marquez Callaway,Tennessee,WRF,"6'2""",200,SR,2019-12-30
-423,-7,Malik Herring,Georgia,DL5T,"6'3""",280,JR,2019-12-30
-424,-7,Ty Tyler,Louisville,EDGE,"6'3""",262,RJR,2019-12-30
-425,-7,Mitchell Wilcox,South Florida,TE,"6'5""",245,SR,2019-12-30
-426,-7,Mason Fine,North Texas,QB,"5'11""",190,SR,2019-12-30
-427,-7,Cedric Wilcots II,New Mexico State,EDGE,"6'4""",245,RSR,2019-12-30
-428,-7,Mike Panasiuk,Michigan State,DL3T,"6'4""",300,SR,2019-12-30
-429,-7,Tre'Vour Wallace-Simms,Missouri,OG,"6'5""",330,SR,2019-12-30
-430,-7,JaQuan Bailey,Iowa State,EDGE,"6'2""",251,SR,2019-12-30
-431,-7,Greg Eisworth,Iowa State,CB,"6'0""",198,RJR,2019-12-30
-432,-7,Dylan Singleton,Duke,S,"5'11""",190,SR,2019-12-30
-433,-7,Britain Covey,Utah,WRS,"5'8""",170,JR,2019-12-30
-434,-7,Nevelle Clarke,UCF,CB,"6'1""",187,RSR,2019-12-30
-435,-7,Scottie Phillips,Ole Miss,RBC,"5'8""",212,SR,2019-12-30
-436,-7,Tyler Vaughns,USC,WRF,"6'2""",185,RJR,2019-12-30
-437,-7,Dalton Keene,Virginia Tech,TE,"6'4""",246,JR,2019-12-30
-438,-7,Reggie Walker,Kansas State,EDGE,"6'2""",246,SR,2019-12-30
-439,-7,Jordan Johnson,UCF,OC,"6'2""",320,SR,2019-12-30
-440,-7,Tarik Black,Michigan,WRF,"6'3""",215,JR,2019-12-30
-441,-7,Kiel Pollard,South Carolina,FB,"6'1""",235,SR,2019-12-30
-442,-7,Cooper Edmiston,Tulsa,ILB,"6'3""",237,SR,2019-12-30
-443,-7,Naquan Jones,Michigan State,DL1T,"6'4""",339,JR,2019-12-30
-444,-7,Tanner Muse,Clemson,S,"6'2""",231,SR,2019-12-30
-445,-7,Davion Taylor,Colorado,OLB,"6'2""",220,SR,2019-12-30
-446,-7,Sean McKeon,Michigan,TE,"6'5""",251,SR,2019-12-30
-447,-7,Tamorrion Terry,Florida State,WRF,"6'4""",203,RSO,2019-12-30
-448,-7,Tavien Feaster,South Carolina,RBF,"5'11""",220,SR,2019-12-30
-449,-7,Camryn Bynum,California,CB,"6'0""",190,RJR,2019-12-30
-450,-7,Joseph Charlton,South Carolina,P,"6'5""",190,SR,2019-12-30
-451,-7,Chad Smith,Clemson,ILB,"6'3""",240,RSR,2019-12-30
-452,-7,Marvin Kinsey Jr.,Colorado State,RBF,"6'1""",206,SR,2019-12-30
-453,-7,David Anenih,Houston,EDGE,"6'3""",237,JR,2019-12-30
-454,-7,Janarius Robinson,Florida State,EDGE,"6'5""",261,RJR,2019-12-30
-455,NEW,Keith Ismael,San Diego State,OC,"6'3""",310,JR,2019-12-30
-456,NEW,Ezra Cleveland,Boise State,OT,"6'6""",310,RJR,2019-12-30
-457,-7,Juju Hughes,Fresno State,S,"5'11""",188,SR,2019-12-30
-458,-7,John Reid,Penn State,CB,"5'11""",184,SR,2019-12-30
-459,-7,Steven Gonzalez,Penn State,OG,"6'4""",349,RSR,2019-12-30
-460,-7,Colton McKivitz,West Virginia,OT,"6'7""",312,RSR,2019-12-30
-461,-7,Jalen Price,East Carolina,DL3T,"6'2""",297,SR,2019-12-30
-462,-7,Quartney Davis,Texas A&M,WRF,6'2'',200,JR,2019-12-30
-463,-7,Marcus Keyes,Oklahoma State,OG,"6'3""",309,RSR,2019-12-30
-464,-7,Brady Ross,Iowa,FB,"6'0""",240,SR,2019-12-30
-465,-7,Fletcher Adams,Mississippi State,DL5T,"6'2""",265,RSR,2019-12-30
-466,-6,Blake Gillikin,Penn State,P,"6'2""",195,SR,2019-12-30
-467,-6,Emeka Emezie,NC State,WRF,6'3'',210,JR,2019-12-30
-468,-6,Luke Juriga,Western Michigan,OT,"6'4""",295,RSR,2019-12-30
-469,-6,Trajan Bandy,Miami (FL),CB,"5'9""",188,JR,2019-12-30
-470,-6,Jesse Osuna,San Jose State,OLB,"6'0""",223,RSR,2019-12-30
-471,-6,Kindle Vildor,Georgia Southern,CB,"5'11""",190,SR,2019-12-30
-472,-6,J.D. Spielman,Nebraska,WRS,5'9'',180,JR,2019-12-30
-473,-6,Marcus Norman,South Florida,OT,"6'6""",316,RSR,2019-12-30
-474,-6,Isaiah Chambers,Houston,EDGE,"6'5""",265,RJR,2019-12-30
-475,-6,Quintez Cephus,Wisconsin,WRF,6'1'',207,JR,2019-12-30
-476,-6,James Smith-Williams,NC State,EDGE,"6'3""",270,RSR,2019-12-30
-477,-6,Damar Hamlin,Pitt,S,"6'1""",195,SR,2019-12-30
-478,-5,Juwan Johnson,Oregon,WRF,"6'4""",227,SR,2019-12-30
-479,-5,Michael Ojemudia,Iowa,CB,"6'1""",199,SR,2019-12-30
-480,-5,Javaris Davis,Auburn,CB,"5'9""",179,SR,2019-12-30
-481,-5,Josiah Deguara,Cincinnati,TE,"6'3""",240,RSR,2019-12-30
-482,-5,Brady White,Memphis,QB,6'3'',215,JR,2019-12-30
-483,-5,Raymond Calais,Louisiana-Lafayette,RBC,"5'9""",180,SR,2019-12-30
-484,-5,Michael Pitts,Cincinnati,EDGE,"6'4""",248,JR,2019-12-30
-485,-5,Chauncey Manac,Louisiana-Lafayette,EDGE,"6'3""",252,RJR,2019-12-30
-486,-5,Alize Ward,Stephen F. Austin,S,"5'11""",205,SR,2019-12-30
-487,-5,Giovanni Ricci,Western Michigan,TE,"6'3""",240,RSR,2019-12-30
-488,-5,Dan Moore,Texas A&M,OT,"6'5""",325,JR,2019-12-30
-489,-5,Isaiah Zuber,Mississippi State,WRS,"5'11""",186,SR,2019-12-30
-490,-5,Noah Togiai,Oregon State,TE,"6'4""",241,RSR,2019-12-30
-491,-5,Patrick Carr,Houston,RBC,"5'10""",205,SR,2019-12-30
-492,NEW,Trishton Jackson,Syracuse,WRF,"6'1""",191,JR,2019-12-30
-493,-5,Tra Barnett,Georgia State,RBC,5'10,185,SR,2019-12-30
-494,-5,Tony Jones Jr.,Notre Dame,RBF,"5'11""",227,JR,2019-12-30
-495,-5,Joey Magnifico,Memphis,TE,"6'4""",234,RSR,2019-12-30
-496,-5,Levi Brown,Marshall,OT,"6'4""",280,RSR,2019-12-30
-497,-5,B.J. Smith,Troy,RBC,"5'9""",203,SR,2019-12-30
-498,-5,Ray Lima,Iowa State,DL3T,"6'3""",302,RSR,2019-12-30
-499,-5,Brian Lewerke,Michigan State,QB,"6'3""",214,SR,2019-12-30
-500,-5,JaMycal Hasty,Baylor,RBC,"5'9""",205,RSR,2019-12-30
+Rank,Change,Player,School,Position,Height,Weight,Position2,Date,DraftStatus
+1,--,Joe Burrow,LSU,QB,"6'4""",216,SR,2019-12-30,
+2,--,Derrick Brown,Auburn,DL1T,"6'5""",318,SR,2019-12-30,
+3,--,Chase Young,Ohio State,EDGE,"6'5""",265,JR,2019-12-30,
+4,--,Jerry Jeudy,Alabama,WRF,"6'1""",192,JR,2019-12-30,
+5,--,Justin Herbert,Oregon,QB,"6'6""",225,SR,2019-12-30,
+6,--,Andrew Thomas,Georgia,OT,"6'5""",320,JR,2019-12-30,
+7,--,Jeffrey Okudah,Ohio State,CB,"6'1""",200,JR,2019-12-30,
+8,+2,Yetur Gross-Matos,Penn State,EDGE,"6'4""",262,JR,2019-12-30,
+9,+2,A.J. Epenesa,Iowa,DL5T,"6'6""",280,JR,2019-12-30,
+10,-2,Austin Jackson,USC,OT,"6'6""",310,JR,2019-12-30,
+11,+1,Isaiah Simmons,Clemson,S,"6'4""",225,RJR,2019-12-30,
+12,-3,Kristian Fulton,LSU,CB,"6'0""",192,SR,2019-12-30,
+13,+1,CeeDee Lamb,Oklahoma,WRF,"6'2""",189,JR,2019-12-30,
+14,+1,Tristan Wirfs,Iowa,OT,"6'5""",320,JR,2019-12-30,
+15,+2,Javon Kinlaw,South Carolina,DL3T,"6'6""",302,SR,2019-12-30,
+16,+2,Tua Tagovailoa,Alabama,QB,"6'1""",218,JR,2019-12-30,
+17,+2,Tee Higgins,Clemson,WRF,"6'4""",200,JR,2019-12-30,
+18,+2,Tyler Biadasz,Wisconsin,OC,"6'3""",315,SR,2019-12-30,
+19,+2,Jonathan Taylor,Wisconsin,RBF,"5'11""",215,JR,2019-12-30,
+20,+3,Curtis Weaver,Boise State,EDGE,"6'3""",266,RJR,2019-12-30,
+21,+4,Trevon Diggs,Alabama,CB,"6'2""",200,JR,2019-12-30,
+22,+36,Jedrick Wills,Alabama,OT,"6'5""",316,JR,2019-12-30,
+23,-6,Grant Delpit,LSU,S,"6'3""",203,JR,2019-12-30,
+24,+3,Laviska Shenault,Colorado,WRF,"6'2""",220,JR,2019-12-30,
+25,+3,Raekwon Davis,Alabama,DL3T,"6'7""",306,SR,2019-12-30,
+26,+17,Kenneth Murray,Oklahoma,ILB,"6'2""",238,JR,2019-12-30,
+27,-4,C.J. Henderson,Florida,CB,"6'1""",186,JR,2019-12-30,
+28,+1,Henry Ruggs III,Alabama,WRF,"6'0""",183,JR,2019-12-30,
+29,+15,Solomon Kindley,Georgia,OG,"6'4""",335,JR,2019-12-30,
+30,+1,Marvin Wilson,Florida State,DL1T,"6'5""",314,JR,2019-12-30,
+31,+1,Travis Etienne,Clemson,RBF,"5'10""",200,JR,2019-12-30,
+32,-12,Alex Leatherwood,Alabama,OT,"6'6""",304,JR,2019-12-30,
+33,+1,D'Andre Swift,Georgia,RBF,"5'9""",215,JR,2019-12-30,
+34,+1,Trey Adams,Washington,OT,"6'7""",315,SR,2019-12-30,
+35,+5,Anfernee Jennings,Alabama,OLB,"6'3""",259,RSR,2019-12-30,
+36,--,Prince Tega Wanogho,Auburn,OT,"6'7""",310,SR,2019-12-30,
+37,--,Cameron Dantzler,Mississippi State,CB,"6'2""",185,JR,2019-12-30,
+38,NEW,Wyatt Davis,Ohio State,OG,"6'4""",313,RSO,2019-12-30,
+39,--,Tyler Johnson,Minnesota,WRF,"6'2""",200,SR,2019-12-30,
+40,+1,Creed Humphrey,Oklahoma,OC,"6'4""",328,RSO,2019-12-30,
+41,-15,Terrell Lewis,Alabama,EDGE,"6'5""",255,RJR,2019-12-30,
+42,+6,Xavier McKinney,Alabama,S,"6'1""",196,JR,2019-12-30,
+43,+3,Bryce Hall,Virginia,CB,"6'1""",200,SR,2019-12-30,
+44,-2,Jalen Hurts,Oklahoma,QB,"6'2""",210,SR,2019-12-30,
+45,+34,Troy Dye,Oregon,ILB,"6'4""",224,SR,2019-12-30,
+46,-3,J.K. Dobbins,Ohio State,RBF,"5'10""",214,JR,2019-12-30,
+47,NEW,Isaiah Wilson,Georgia,OT,"6'7""",340,RSO,2019-12-30,
+48,+8,Shane Lemieux,Oregon,OG,"6'4""",317,SR,2019-12-30,
+49,+14,Julian Okwara,Notre Dame,EDGE,"6'5""",241,SR,2019-12-30,
+50,-19,Malik Harrison,Ohio State,ILB,"6'3""",245,SR,2019-12-30,
+51,-4,Chuba Hubbard,Oklahoma State,RBF,"6'1""",207,RJR,2019-12-30,
+52,-3,Albert Okwuegbunam,Missouri,TE,"6'5""",255,RJR,2019-12-30,
+53,-3,Shaun Wade,Ohio State,CB,"6'0""",195,RJR,2019-12-30,
+54,-3,Jalen Reagor,TCU,WRS,"5'11""",195,JR,2019-12-30,
+55,+34,Jake Hanson,Oregon,OC,"6'5""",297,SR,2019-12-30,
+56,-4,DeVonta Smith,Alabama,WRF,"6'1""",193,JR,2019-12-30,
+57,--,Jake Fromm,Georgia,QB,"6'2""",220,JR,2019-12-30,
+58,--,Ben Bredeson,Michigan,OG,"6'5""",320,SR,2019-12-30,
+59,-21,Jabari Zuniga,Florida,EDGE,"6'4""",257,RSR,2019-12-30,
+60,--,Paulson Adebo,Stanford,CB,"6'1""",189,JR,2019-12-30,
+61,--,Jacob Eason,Washington,QB,"6'6""",228,JR,2019-12-30,
+62,+2,Jordyn Brooks,Texas Tech,ILB,"6'1""",245,SR,2019-12-30,
+63,+3,Rashard Lawrence,LSU,DL1T,"6'3""",317,SR,2019-12-30,
+64,+3,Hamsah Nasirildeen,Florida State,S,"6'3""",216,JR,2019-12-30,
+65,+3,Najee Harris,Alabama,RBF,"6'2""",230,JR,2019-12-30,
+66,+3,A.J. Terrell,Clemson,CB,"6'2""",190,JR,2019-12-30,
+67,-12,Marlon Davidson,Auburn,DL5T,"6'3""",278,SR,2019-12-30,
+68,+2,Jacob Breeland,Oregon,TE,"6'5""",240,RSR,2019-12-30,
+69,+2,Michael Pittman Jr.,USC,WRF,"6'4""",223,SR,2019-12-30,
+70,+23,Mekhi Becton,Louisville,OT,"6'7""",355,JR,2019-12-30,
+71,+13,Zack Moss,Utah,RBF,"5'10""",210,SR,2019-12-30,
+72,--,Josh Jones,Houston,OT,"6'7""",310,SR,2019-12-30,
+73,--,Justin Madubuike,Texas A&M,DL3T,"6'3""",304,RJR,2019-12-30,
+74,--,Kenny Willekes,Michigan State,EDGE,"6'4""",260,SR,2019-12-30,
+75,--,Jacob Phillips,LSU,ILB,"6'4""",229,JR,2019-12-30,
+76,--,Tyler Huntley,Utah,QB,6'1'',205,SR,2019-12-30,
+77,+1,Shaquille Quarterman,Miami (FL),ILB,"6'1""",240,SR,2019-12-30,
+78,-15,Hakeem Adeniji,Kansas,OG,"6'5""",310,SR,2019-12-30,
+79,--,Khalid Kareem,Notre Dame,EDGE,"6'4""",265,SR,2019-12-30,
+80,--,Keandre Jones,Maryland,OLB,"6'2""",228,SR,2019-12-30,
+81,--,Jordan Mack,Virginia,ILB,"6'2""",230,SR,2019-12-30,
+82,--,Lucas Niang,TCU,OT,"6'7""",328,SR,2019-12-30,
+83,+1,Jeff Gladney,TCU,CB,"5'10""",183,SR,2019-12-30,
+84,+1,Ashtyn Davis,California,S,"6'1""",201,RSR,2019-12-30,
+85,+1,K'Lavon Chaisson,LSU,OLB,"6'4""",238,RSO,2019-12-30,
+86,+2,James Lynch,Baylor,DL5T,"6'4""",295,JR,2019-12-30,
+87,+2,Leki Fotu,Utah,DL1T,"6'5""",330,SR,2019-12-30,
+88,+2,Neville Gallimore,Oklahoma,DL1T,"6'2""",330,RSR,2019-12-30,
+89,+3,Zack Baun,Wisconsin,OLB,"6'3""",235,SR,2019-12-30,
+90,+34,Nick Harris,Washington,OC,"6'1""",302,SR,2019-12-30,
+91,+3,Logan Stenberg,Kentucky,OG,"6'6""",326,RSR,2019-12-30,
+92,+3,Jaylon Johnson,Utah,CB,"6'0""",190,JR,2019-12-30,
+93,+26,Frederick Mauigoa,Washington State,OC,"6'3""",310,SR,2019-12-30,
+94,+2,Richard LeCounte,Georgia,S,"5'11""",190,JR,2019-12-30,
+95,+2,K.J. Hamler,Penn State,WRS,"5'9""",174,JR,2019-12-30,
+96,+2,Netane Muti,Fresno State,OG,"6'3""",310,RSO,2019-12-30,
+97,+2,Josh Uche,Michigan,OLB,"6'3""",238,RJR,2019-12-30,
+98,+1,Evan Weaver,California,ILB,"6'3""",245,SR,2019-12-30,
+99,+1,Collin Johnson,Texas,WRF,"6'6""",220,SR,2019-12-30,
+100,+1,Sam Ehlinger,Texas,QB,"6'3""",235,JR,2019-12-30,
+101,+1,Shyheim Carter,Alabama,S,"5'11""",192,SR,2019-12-30,
+102,NEW,Chazz Surratt,North Carolina,OLB,"6'3""",230,JR,2019-12-30,
+103,+1,Devin Duvernay,Texas,WRS,"5'11""",186,SR,2019-12-30,
+104,-44,Darryl Williams,Mississippi State,OC,"6'2""",310,SR,2019-12-30,
+105,--,Deommodore Lenoir,Oregon,CB,"5'11""",212,SR,2019-12-30,
+106,--,Jaylen Twyman,Pitt,DL3T,"6'2""",290,RSO,2019-12-30,
+107,--,Calvin Throckmorton,Oregon,OT,"6'5""",318,SR,2019-12-30,
+108,+1,Darrell Taylor,Tennessee,EDGE,"6'4""",247,SR,2019-12-30,
+109,-53,Samuel Cosmi,Texas,OT,"6'5""",295,RSO,2019-12-30,
+110,--,Antoine Winfield Jr.,Minnesota,S,"5'10""",207,JR,2019-12-30,
+111,NEW,Deonte Brown,Alabama,OG,"6'4""",338,JR,2019-12-30,
+112,-1,Larrell Murchison,NC State,DL3T,"6'3""",291,SR,2019-12-30,
+113,-1,Justin Jefferson,LSU,WRF,"6'2""",185,JR,2019-12-30,
+114,-1,Donovan Peoples-Jones,Michigan,WRF,"6'2""",208,JR,2019-12-30,
+115,-1,Anthony Hines,Texas A&M,OLB,"6'3""",226,RSO,2019-12-30,
+116,-24,Michael Pinckney,Miami (FL),OLB,"6'1""",220,SR,2019-12-30,
+117,-2,Dontavious Jackson,Florida State,ILB,"6'3""",233,SR,2019-12-30,
+118,-2,Brandon Jones,Texas,S,"6'0""",210,SR,2019-12-30,
+119,-2,Alton Robinson,Syracuse,EDGE,"6'4""",257,SR,2019-12-30,
+120,-1,Jonathan Garvin,Miami (FL),EDGE,"6'4""",250,JR,2019-12-30,
+121,-1,Benito Jones,Ole Miss,DL1T,"6'1""",326,SR,2019-12-30,
+122,-1,Oluwole Betiku,Illinois,EDGE,"6'3""",240,RJR,2019-12-30,
+123,--,Cam Akers,Florida State,RBF,"5'11""",210,JR,2019-12-30,
+124,--,Joe Gaziano,Northwestern,DL5T,"6'4""",275,SR,2019-12-30,
+125,--,Raequan Williams,Michigan State,DL3T,"6'4""",298,SR,2019-12-30,
+126,--,Kevin Jarvis,Michigan State,OG,"6'4""",317,JR,2019-12-30,
+127,--,Dele Harding,Illinois,OLB,"6'1""",230,SR,2019-12-30,
+128,--,Kylin Hill,Mississippi State,RBC,"5'11""",215,JR,2019-12-30,
+129,+20,Chris Orr,Wisconsin,OLB,"6'0""",224,SR,2019-12-30,
+130,-1,K'Von Wallace,Clemson,S,"5'11""",210,SR,2019-12-30,
+131,-1,Tedarrell Slaton,Florida,DL1T,"6'5""",343,JR,2019-12-30,
+132,-1,Brycen Hopkins,Purdue,TE,"6'5""",245,RSR,2019-12-30,
+133,+74,Robert Hunt,Louisiana-Lafayette,OT,"6'5""",310,SR,2019-12-30,
+134,-2,A.J. Dillon,Boston College,RBF,"6'0""",245,JR,2019-12-30,
+135,-2,John Hightower,Boise State,WRF,"6'2""",184,SR,2019-12-30,
+136,-2,Lamar Jackson,Nebraska,CB,"6'2""",215,SR,2019-12-30,
+137,+8,T.J. McCoy,Louisville,OC,"6'1""",315,SR,2019-12-30,
+138,-3,Tylan Wallace,Oklahoma State,WRF,"6'0""",185,JR,2019-12-30,
+139,-3,Khalil Davis,Nebraska,DL1T,"6'2""",310,SR,2019-12-30,
+140,-3,Jordan Love,Utah State,QB,"6'4""",225,JR,2019-12-30,
+141,-84,Lloyd Cushenberry,LSU,OC,"6'3""",312,RJR,2019-12-30,
+142,-4,Anthony Gordon,Washington State,QB,"6'3""",210,RSR,2019-12-30,
+143,-4,K.J. Britt,Auburn,ILB,"6'0""",236,JR,2019-12-30,
+144,-4,Yasir Durant,Missouri,OT,"6'7""",330,SR,2019-12-30,
+145,-4,Jonah Jackson,Ohio State,OG,"6'3""",309,SR,2019-12-30,
+146,-4,Aaron Fuller,Washington,WRS,"5'11""",186,SR,2019-12-30,
+147,-4,Darrion Daniels,Nebraska,DL1T,"6'3""",320,RSR,2019-12-30,
+148,-4,Akeem Davis- Gaither,Appalachian State,OLB,"6'2""",210,SR,2019-12-30,
+149,-3,Davon Hamilton,Ohio State,DL3T,"6'4""",310,SR,2019-12-30,
+150,-3,Baron Browning,Ohio State,ILB,"6'3""",248,JR,2019-12-30,
+151,+22,Matt Hennessy,Temple,OC,"6'4""",295,JR,2019-12-30,
+152,-3,Damon Arnette,Ohio State,CB,"6'0""",195,SR,2019-12-30,
+153,-3,McTelvin Agim,Arkansas,DL5T,"6'3""",279,SR,2019-12-30,
+154,-3,Glen Logan,LSU,DL5T,"6'4""",297,RJR,2019-12-30,
+155,-3,Joe Bachie,Michigan State,ILB,"6'2""",238,SR,2019-12-30,
+156,-3,Khaleke Hudson,Michigan,OLB,"6'0""",220,SR,2019-12-30,
+157,-3,Lavert Hill,Michigan,CB,"5'11""",181,SR,2019-12-30,
+158,-52,Trey Smith,Tennessee,OG,"6'6""",337,JR,2019-12-30,
+159,-4,Ben Cleveland,Georgia,OG,"6'6""",335,JR,2019-12-30,
+160,-4,Kyle Dugger,Lenoir–Rhyne,S,"6'2""",205,SR,2019-12-30,
+161,-4,Rayshard Ashby,Virginia Tech,ILB,"5'10""",230,JR,2019-12-30,
+162,+25,Clyde Edwards-Helaire,LSU,RBF,"5'9""",212,JR,2019-12-30,
+163,-5,Jonathan Greenard,Florida,EDGE,"6'3""",263,SR,2019-12-30,
+164,-5,Richie Grant,UCF,S,"6'0""",194,RJR,2019-12-30,
+165,-5,Mustafa Johnson,Colorado,DL3T,"6'2""",290,SR,2019-12-30,
+166,-5,Darnay Holmes,UCLA,CB,"5'10""",198,JR,2019-12-30,
+167,-5,Lamical Perine,Florida,RBF,"5'11""",227,SR,2019-12-30,
+168,-5,John Simpson,Clemson,OG,"6'4""",330,SR,2019-12-30,
+169,+49,Ke'Shawn Vaughn,Vanderbilt,RBF,"5'10""",215,SR,2019-12-30,
+170,-6,James Proche,SMU,WRS,"5'11""",190,RSR,2019-12-30,
+171,+82,Kuony Deng,California,OLB,"6'6""",220,RJR,2019-12-30,
+172,-7,Patrick Johnson,Tulane,EDGE,"6'3""",255,JR,2019-12-30,
+173,-7,Nico Collins,Michigan,WRF,"6'4""",222,JR,2019-12-30,
+174,-7,Levante Bellamy,Western Michigan,RBC,"5'9""",185,SR,2019-12-30,
+175,-7,Antoine Brooks Jr.,Maryland,S,"5'11""",210,SR,2019-12-30,
+176,-7,Trevis Gipson,Tulsa,DL5T,"6'4""",268,RSR,2019-12-30,
+177,-7,Denzel Mims,Baylor,WRF,"6'3""",197,SR,2019-12-30,
+178,-7,Jeffrey McCulloch,Texas,ILB,"6'3""",245,SR,2019-12-30,
+179,-6,Jace Whittaker,Arizona,CB,"5'11""",185,RSR,2019-12-30,
+180,-6,Cory Durden,Florida State,DL3T,"6'5""",305,RSO,2019-12-30,
+181,-6,Nick Coe,Auburn,DL5T,"6'5""",282,JR,2019-12-30,
+182,-6,Ross Blacklock,TCU,DL3T,"6'4""",305,JR,2019-12-30,
+183,-6,Mohamed Barry,Nebraska,ILB,"6'1""",245,SR,2019-12-30,
+184,-6,Zack Shackelford,Texas,OC,"6'4""",305,SR,2019-12-30,
+185,-6,Krys Barnes,UCLA,ILB,"6'1""",235,RJR,2019-12-30,
+186,NEW,Amik Robertson,Louisiana Tech,CB,"5'9""",183,JR,2019-12-30,
+187,-6,D.J. Wonnum,South Carolina,EDGE,"6'5""",255,SR,2019-12-30,
+188,-6,Jordan Elliott,Missouri,DL3T,"6'4""",315,RJR,2019-12-30,
+189,-6,Jashon Cornell,Ohio State,DL5T,"6'3""",280,RSR,2019-12-30,
+190,-6,Damien Lewis,LSU,OG,"6'2""",335,SR,2019-12-30,
+191,-6,Essang Bassey,Wake Forest,S,"5'10""",190,SR,2019-12-30,
+192,-4,Treshaun Hayward,Western Michigan,ILB,"6'1""",225,JR,2019-12-30,
+193,-4,Justin Strnad,Wake Forest,OLB,"6'3""",230,RSR,2019-12-30,
+194,-4,Bradlee Anae,Utah,EDGE,"6'3""",265,SR,2019-12-30,
+195,-4,Michael Warren II,Cincinnati,RBF,"5'11""",218,JR,2019-12-30,
+196,-4,Brandon Aiyuk,Arizona State,WRF,"6'0""",208,SR,2019-12-30,
+197,-4,Jamie Newman,Wake Forest,QB,6'4'',230,RJR,2019-12-30,
+198,-4,Colby Parkinson,Stanford,TE,"6'7""",240,JR,2019-12-30,
+199,NEW,Caleb Huntley,Ball State,RBC,"5'10""",226,JR,2019-12-30,
+200,-5,Kamal Martin,Minnesota,ILB,"6'3""",235,SR,2019-12-30,
+201,-5,John Molchon,Boise State,OG,"6'5""",322,RSR,2019-12-30,
+202,-5,Luq Barcoo,San Diego State,CB,"6'1""",175,SR,2019-12-30,
+203,-5,K.J. Hill,Ohio State,WRF,"6'0""",195,SR,2019-12-30,
+204,-5,Alex Highsmith,Charlotte,EDGE,"6'3""",244,RSR,2019-12-30,
+205,-5,Kylan Johnson,Pitt,OLB,"6'2""",230,SR,2019-12-30,
+206,-5,Cam Brown,Penn State,ILB,"6'5""",230,SR,2019-12-30,
+207,-5,Terence Steele,Texas Tech,OT,"6'6""",310,SR,2019-12-30,
+208,-5,Trevon Hill,Miami (FL),EDGE,"6'3""",245,SR,2019-12-30,
+209,-5,O'Rien Vance,Iowa State,OLB,"6'1""",231,RSO,2019-12-30,
+210,-4,Terrell Burgess,Utah,S,"6'0""",194,SR,2019-12-30,
+211,-4,Juwuan Jones,Western Kentucky,DL5T,"6'3""",270,RSO,2019-12-30,
+212,-4,Levonta Taylor,Florida State,CB,"5'10""",181,SR,2019-12-30,
+213,-4,Alohi Gilman,Notre Dame,S,"5'11""",201,SR,2019-12-30,
+214,-4,Saahdiq Charles,LSU,OT,"6'5""",305,JR,2019-12-30,
+215,NEW,Stanford Samuels III,Florida State,CB,"6'2""",185,JR,2019-12-30,
+216,-4,Shane Buechele,SMU,QB,6'1'',207,JR,2019-12-30,
+217,NEW,Kamren Curl,Arkansas,S,"6'2""",198,JR,2019-12-30,
+218,-4,Carter Coughlin,Minnesota,OLB,"6'4""",245,SR,2019-12-30,
+219,-4,Eno Benjamin,Arizona State,RBF,"5'10""",201,JR,2019-12-30,
+220,-4,John Houston Jr.,USC,OLB,"6'3""",220,SR,2019-12-30,
+221,-3,Kenny Cooper,Georgia Tech,OC,"6'2""",305,SR,2019-12-30,
+222,-3,Simon Stepaniak,Indiana,OG,"6'4""",319,SR,2019-12-30,
+223,-3,Casey Toohill,Stanford,ILB,"6'4""",247,SR,2019-12-30,
+224,-3,J.R. Reed,Georgia,S,"6'1""",199,SR,2019-12-30,
+225,-3,Shaun Bradley,Temple,OLB,"6'1""",225,SR,2019-12-30,
+226,-3,Michael Onwenu,Michigan,OG,"6'3""",350,SR,2019-12-30,
+227,-3,Kendall Futrell,East Carolina,OLB,"6'2""",226,SR,2019-12-30,
+228,-3,Dante Olson,Montana,ILB,"6'3""",237,SR,2019-12-30,
+229,-3,Mike Hampton,South Florida,CB,"6'1""",180,JR,2019-12-30,
+230,-43,Salvon Ahmed,Washington,RBC,"5'11""",196,RJR,2019-12-30,
+231,-4,Kellen Mond,Texas A&M,QB,"6'2""",217,JR,2019-12-30,
+232,-4,Chase Lucas,Arizona State,CB,"6'0""",175,RJR,2019-12-30,
+233,-4,Jared Pinkney,Vanderbilt,TE,"6'4""",255,RJR,2019-12-30,
+234,-4,David Reese II,Florida,ILB,"6'1""",248,SR,2019-12-30,
+235,-4,T.J. Brunson,South Carolina,ILB,"6'0""",230,SR,2019-12-30,
+236,+134,Sterling Hofrichter,Syracuse,P,"5'9""",199,SR,2019-12-30,
+237,-5,Antonio Gandy-Golden,Liberty,WRF,"6'4""",216,SR,2019-12-30,
+238,-5,Trystan Colon-Castillo,Missouri,OC,"6'4""",315,JR,2019-12-30,
+239,-5,Kyahva Tezino,San Diego State,OLB,"6'0""",230,SR,2019-12-30,
+240,-5,K.J. Costello,Stanford,QB,"6'5""",215,JR,2019-12-30,
+241,-5,Dominik Eberle,Utah State,PK,"6'2""",195,SR,2019-12-30,
+242,-5,T.J. Vasher,Texas Tech,WRF,"6'6""",190,JR,2019-12-30,
+243,-5,Tomon Fox,North Carolina,ILB,"6'3""",260,JR,2019-12-30,
+244,-5,Julian Blackmon,Utah,S,"6'1""",195,SR,2019-12-30,
+245,-5,Tyler Clark,Georgia,DL1T,"6'4""",300,SR,2019-12-30,
+246,-5,DeAngelo Malone,Western Kentucky,OLB,"6'4""",230,JR,2019-12-30,
+247,-5,Josiah Coatney,Ole Miss,DL3T,"6'4""",314,SR,2019-12-30,
+248,-5,Chauncey Rivers,Mississippi State,DL5T,"6'3""",275,RSR,2019-12-30,
+249,-5,Tommy Kraemer,Notre Dame,OG,"6'6""",319,SR,2019-12-30,
+250,NEW,Javon Leake,Maryland,RBF,"6'0""",206,JR,2019-12-30,
+251,-6,Bryan Edwards,South Carolina,WRF,"6'3""",215,SR,2019-12-30,
+252,-6,Braden Mann,Texas A&M,P,"5'11""",195,SR,2019-12-30,
+253,-6,Benning Potoae,Washington,DL5T,"6'3""",285,SR,2019-12-30,
+254,-6,Willie Gay Jr.,Mississippi State,OLB,"6'2""",235,JR,2019-12-30,
+255,-6,Ty Chandler,Tennessee,RBC,"5'11""",201,JR,2019-12-30,
+256,-6,Harrison Bryant,Florida Atlantic,TE,"6'5""",240,SR,2019-12-30,
+257,-5,Ifeanyi Maijeh,Temple,DL3T,"6'2""",285,RSO,2019-12-30,
+258,-5,Cale Garrett,Missouri,ILB,"6'3""",230,SR,2019-12-30,
+259,-5,Marlon Tuipulotu,USC,DL3T,"6'3""",305,RSO,2019-12-30,
+260,-5,Keisean Lucier-South,UCLA,EDGE,"6'4""",235,SR,2019-12-30,
+261,-5,Kendall Coleman,Syracuse,EDGE,"6'3""",266,SR,2019-12-30,
+262,-5,T.J. Carter,Memphis,CB,"5'11""",180,JR,2019-12-30,
+263,-5,Bryce Perkins,Virginia,QB,6'3'',215,SR,2019-12-30,
+264,-5,Darius Anderson,TCU,RBF,"5'11""",212,SR,2019-12-30,
+265,-5,Sean Pollard,Clemson,OC,"6'5""",320,SR,2019-12-30,
+266,-5,John Lako,Akron,ILB,"6'2""",225,SR,2019-12-30,
+267,-5,Paddy Fisher,Northwestern,ILB,"6'4""",241,JR,2019-12-30,
+268,-5,Brendon Hayes,UCF,DL5T,"6'3""",293,RSR,2019-12-30,
+269,-5,Corey Bethley,TCU,DL3T,"6'2""",290,JR,2019-12-30,
+270,-5,Jason Strowbridge,North Carolina,DL3T,"6'3""",285,JR,2019-12-30,
+271,-5,A.J. Green,Oklahoma State,CB,"6'1""",194,SR,2019-12-30,
+272,NEW,Lynn Bowden Jr.,Kentucky,WRF,"6'1""",199,JR,2019-12-30,
+273,-5,Myles Dorn,North Carolina,S,"6'1""",198,SR,2019-12-30,
+274,-5,Carlos Davis,Nebraska,DL3T,"6'2""",320,SR,2019-12-30,
+275,-5,Benning Potoa'e,Washington,DL3T,"6'3""",290,SR,2019-12-30,
+276,+22,Jessie Lemonier,Liberty,EDGE,"6'3""",240,SR,2019-12-30,
+277,-6,Eric Lee Jr.,Nebraska,S,"6'0""",215,SR,2019-12-30,
+278,-6,Jeremy Chinn,Southern Illinois,S,"6'3""",208,SR,2019-12-30,
+279,-6,Quincy Roche,Temple,EDGE,"6'4""",235,RJR,2019-12-30,
+280,-6,Breiden Fehoko,LSU,DL5T,"6'4""",291,SR,2019-12-30,
+281,-6,Joshua Kelley,UCLA,RBF,"5'11""",204,SR,2019-12-30,
+282,-6,Jaquarius Landrews,Mississippi State,S,"5'11""",197,SR,2019-12-30,
+283,-6,DeMarkus Acy,Missouri,CB,"6'2""",195,SR,2019-12-30,
+284,-6,Daniel Bituli,Tennessee,ILB,"6'3""",244,SR,2019-12-30,
+285,+119,Adam Trautman,Dayton,TE,"6'5""",250,RSR,2019-12-30,
+286,-7,Tre Walker,San Jose State,WRS,5'11'',180,JR,2019-12-30,
+287,-7,De'Jon Harris,Arkansas,ILB,"6'0""",244,SR,2019-12-30,
+288,-7,Shea Patterson,Michigan,QB,"6'2""",200,SR,2019-12-30,
+289,-7,Jay Tufele,USC,DL3T,"6'3""",310,RSO,2019-12-30,
+290,-7,Broderick Washington Jr.,Texas Tech,DL3T,"6'3""",305,SR,2019-12-30,
+291,-7,John Penisini,Utah,DL3T,"6'2""",320,SR,2019-12-30,
+292,-7,Jordon Scott,Oregon,DL1T,"6'1""",329,JR,2019-12-30,
+293,-7,Tommy Townsend,Florida,P,"6'2""",183,RSR,2019-12-30,
+294,-7,Damonte Coxie,Memphis,WRF,"6'3""",200,SR,2019-12-30,
+295,-7,Thomas Graham Jr.,Oregon,CB,"5'11""",191,JR,2019-12-30,
+296,-7,Isaiah Hodgins,Oregon State,WRF,"6'4""",209,JR,2019-12-30,
+297,-7,Deslin Alexandre,Pitt,DL5T,"6'4""",265,RSO,2019-12-30,
+298,-7,Colin Schooler,Arizona,ILB,"6'0""",236,JR,2019-12-30,
+299,-7,Bravvion Roy,Baylor,DL1T,6'1,330,SR,2019-12-30,
+300,-7,Kary Vincent Jr.,LSU,CB,"5'10""",182,JR,2019-12-30,
+301,-7,Patrick Taylor Jr.,Memphis,RBF,"6'3""",227,SR,2019-12-30,
+302,-7,Robert Landers,Ohio State,DL3T,"6'1""",285,SR,2019-12-30,
+303,-7,Nate Stanley,Iowa,QB,"6'4""",243,SR,2019-12-30,
+304,-7,Jahad Woods,Washington State,OLB,"6'0""",225,RJR,2019-12-30,
+305,-6,Tipa Galeai,Utah State,EDGE,"6'5""",230,SR,2019-12-30,
+306,+83,Gerold Bright,Utah State,RBC,"5'9""",195,SR,2019-12-30,
+307,+150,Cole Van Lanen,Wisconsin,OT,"6'5""",312,RJR,2019-12-30,
+308,-8,LaDarius Hamilton,North Texas,EDGE,"6'3""",255,SR,2019-12-30,
+309,-8,Anthony McFarland Jr.,Maryland,RBC,"5'8""",193,JR,2019-12-30,
+310,-8,Reggie Corbin,Illinois,RBF,"5'10""",200,JR,2019-12-30,
+311,+79,J.J. Taylor,Arizona,RBC,"5'6""",184,RJR,2019-12-30,
+312,-9,Josh Metellus,Michigan,S,"5'11""",215,SR,2019-12-30,
+313,-9,David Dowell,Michigan State,S,"6'1""",205,SR,2019-12-30,
+314,-9,Josiah Scott,Michigan State,CB,"5'10""",168,JR,2019-12-30,
+315,-9,Jared Rice,Fresno State,TE,"6'5""",243,SR,2019-12-30,
+316,-9,Jet Toner,Stanford,PK,"6'4""",201,SR,2019-12-30,
+317,-9,Kendrick Rogers,Texas A&M,WRF,6'4'',204,JR,2019-12-30,
+318,-9,Doug Costin,Miami (OH),DL3T,"6'2""",295,SR,2019-12-30,
+319,-9,Matt Peart,Connecticut,OT,"6'7""",303,RSR,2019-12-30,
+320,-9,Erroll Thompson,Mississippi State,ILB,"6'1""",250,JR,2019-12-30,
+321,NEW,DeeJay Dallas,Miami (FL),RBF,"5'10""",214,JR,2019-12-30,
+322,-9,Spencer Brown,UAB,FB,"6'0""",230,JR,2019-12-30,
+323,-9,Lakiem Williams,Syracuse,OLB,"6'0""",225,SR,2019-12-30,
+324,-9,Delontae Scott,SMU,EDGE,"6'5""",250,SR,2019-12-30,
+325,-9,Troy Pride Jr.,Notre Dame,CB,"5'11""",192,SR,2019-12-30,
+326,-9,Shaq Smith,Maryland,ILB,"6'2""",250,RJR,2019-12-30,
+327,-9,Logan Wilson,Wyoming,ILB,"6'2""",250,RSR,2019-12-30,
+328,-9,Javahn Ferguson,New Mexico State,ILB,"6'1""",230,SR,2019-12-30,
+329,-9,Tra Minter,South Alabama,RBC,"5'9""",200,JR,2019-12-30,
+330,-9,Sean Adesanya,Central Michigan,EDGE,"6'3""",240,SR,2019-12-30,
+331,-9,Jalen Elliott,Notre Dame,S,"6'0""",207,SR,2019-12-30,
+332,-9,Dicaprio Bootle,Nebraska,CB,"5'10""",190,JR,2019-12-30,
+333,-9,Rodney Smith,Minnesota,RBF,"5'11""",210,SR,2019-12-30,
+334,-9,James Gilbert,Kansas State,RBC,"5'9""",198,JR,2019-12-30,
+335,-9,Bryan London II,Texas State,OLB,"6'2""",232,SR,2019-12-30,
+336,-9,Tyler Coyle,Connecticut,S,"6'0""",207,RJR,2019-12-30,
+337,-9,Chase Allen,Iowa State,TE,"6'6""",240,SR,2019-12-30,
+338,-9,Cedric Byrd II,Hawaii,WRS,"5'9""",175,SR,2019-12-30,
+339,-9,Garrett Marino,UAB,DL3T,"6'2""",290,SR,2019-12-30,
+340,-9,Rodrigo Blankenship,Georgia,PK,"6'1""",191,SR,2019-12-30,
+341,-9,Cheyenne O'Grady,Arkansas,TE,"6'4""",256,SR,2019-12-30,
+342,-9,Jake Verity,East Carolina,PK,"6'1""",185,SR,2019-12-30,
+343,-9,Patrick Queen,LSU,ILB,"6'2""",232,JR,2019-12-30,
+344,-9,Larry Rountree III,Missouri,RBF,"5'10""",210,JR,2019-12-30,
+345,-9,Rashad Robinson,James Madison,CB,"5'11""",185,SR,2019-12-30,
+346,-9,Brandon Wright,Georgia State,P,"5'10""",182,SR,2019-12-30,
+347,-9,Khalil Brooks,Middle Tennessee,OLB,"5'11""",206,RSR,2019-12-30,
+348,-9,Chase Claypool,Notre Dame,WRF,"6'4""",227,SR,2019-12-30,
+349,-9,Robert Windsor,Penn State,DL3T,"6'4""",289,SR,2019-12-30,
+350,-9,Jordan Smith,UAB,EDGE,"6'7""",250,RSO,2019-12-30,
+351,-9,Luke Campbell,Michigan State,OT,"6'5""",302,JR,2019-12-30,
+352,-9,Richie Worship,Purdue,FB,"6'0""",250,SR,2019-12-30,
+353,-9,Nyles Pinckney,Clemson,DL3T,"6'1""",305,RJR,2019-12-30,
+354,-9,Tyler Shelvin,LSU,DL1T,"6'3""",362,RSO,2019-12-30,
+355,-9,Charles Williams,UNLV,RBC,"5'9""",190,RJR,2019-12-30,
+356,-9,Jon Runyan,Michigan,OG,"6'5""",310,RSR,2019-12-30,
+357,-9,Gabriel Davis,UCF,WRF,6'3'',212,JR,2019-12-30,
+358,-9,Bryce Huff,Memphis,EDGE,"6'3""",245,JR,2019-12-30,
+359,-9,Cesar Ruiz,Michigan,OC,"6'4""",319,JR,2019-12-30,
+360,-9,Christian Albright,Ball State,OLB,"6'2""",233,JR,2019-12-30,
+361,-9,Jordan Williams,Clemson,DL3T,"6'4""",305,RSO,2019-12-30,
+362,-9,Jordan Fuller,Ohio State,S,"6'2""",205,SR,2019-12-30,
+363,-9,Xavier Jones,SMU,RBF,"5'11""",208,SR,2019-12-30,
+364,-9,Charles Snowden,Virginia,EDGE,"6'7""",225,JR,2019-12-30,
+365,-9,Dane Jackson,Pitt,CB,"6'0""",190,SR,2019-12-30,
+366,-9,Ellison Hubbard,Colorado State,DL3T,"6'1""",285,JR,2019-12-30,
+367,-9,Nate Evans,UCF,ILB,"6'1""",244,SR,2019-12-30,
+368,-9,Easop Winston Jr.,Washington State,WRS,5'11'',190,SR,2019-12-30,
+369,-9,Jamario Bell,Arkansas,EDGE,"6'5""",265,SR,2019-12-30,
+370,-9,Leo Lewis,Mississippi State,ILB,"6'2""",245,SR,2019-12-30,
+371,-9,Greg Eiland,Mississippi State,OT,"6'8""",335,JR,2019-12-30,
+372,-9,Chapelle Russell,Temple,OLB,"6'1""",215,SR,2019-12-30,
+373,-9,Jonathan Song,TCU,PK,"5'10""",175,SR,2019-12-30,
+374,-8,Sage Lewis,Florida International,ILB,"6'1""",240,SR,2019-12-30,
+375,-8,Kalija Lipscomb,Vanderbilt,WRF,"6'1""",200,SR,2019-12-30,
+376,NEW,Kyle Markway,South Carolina,TE,"6'4""",250,RJR,2019-12-30,
+377,-7,Chris Williamson,Minnesota,CB,"6'0""",198,SR,2019-12-30,
+378,-7,Xavier Lyas,NC State,EDGE,"6'4""",239,RSO,2019-12-30,
+379,-7,Myles Bryant,Washington,CB,"5'9""",184,SR,2019-12-30,
+380,-7,Phidarian Mathis,Alabama,DL1T,"6'4""",317,RSO,2019-12-30,
+381,-7,Charleston Rambo,Oklahoma,WRF,6'1'',175,RSO,2019-12-30,
+382,-7,Jeff Thomas,Miami (FL),WRS,5'10'',180,JR,2019-12-30,
+383,-7,Malcolm Roach,Texas,DL5T,"6'3""",290,SR,2019-12-30,
+384,NEW,Darius Bradwell,Tulane,FB,"6'1""",230,SR,2019-12-30,
+385,-8,Najee Clayton,Western Michigan,OLB,"6'2""",220,SR,2019-12-30,
+386,-8,Benny LeMay,Charlotte,RBF,"6'0""",218,SR,2019-12-30,
+387,-8,Luke Farrell,Ohio State,TE,"6'6""",244,SR,2019-12-30,
+388,-8,Christian Rector,USC,EDGE,"6'4""",275,RSR,2019-12-30,
+389,-8,Clay Johnston,Baylor,ILB,"6'1""",236,SR,2019-12-30,
+390,-8,Cole McDonald,Hawaii,QB,"6'4""",220,JR,2019-12-30,
+391,-8,William Bradley-King,Arkansas State,EDGE,"6'4""",248,JR,2019-12-30,
+392,-8,Scott Frantz,Kansas State,OT,"6'5""",303,SR,2019-12-30,
+393,+77,Evin Ksiezarczyk,Buffalo,OT,"6'6""",315,RSR,2019-12-30,
+394,-9,Asmar Bilal,Notre Dame,ILB,"6'2""",227,RSR,2019-12-30,
+395,-9,Isaiahh Loudermilk,Wisconsin,DL5T,"6'7""",306,JR,2019-12-30,
+396,-9,Mark Gilbert,Duke,CB,"6'1""",175,RJR,2019-12-30,
+397,-9,George Lea,Arizona State,DL5T,"6'3""",275,RSR,2019-12-30,
+398,-7,Mykal Walker,Fresno State,ILB,"6'3""",220,SR,2019-12-30,
+399,-7,Nigel Warrior,Tennessee,S,"6'0""",191,SR,2019-12-30,
+400,-7,Hunter Bryant,Washington,TE,"6'2""",241,RJR,2019-12-30,
+401,-7,Keith Taylor,Washington,CB,"6'3""",200,JR,2019-12-30,
+402,-7,Joe Reed,Virginia,WRF,6'1'',215,SR,2019-12-30,
+403,-7,Mike Danna,Michigan,EDGE,"6'2""",253,RSR,2019-12-30,
+404,-7,Marcel Spears Jr.,Iowa State,OLB,"6'1""",215,RSR,2019-12-30,
+405,-7,Cohl Cabral,Arizona State,OC,"6'5""",291,SR,2019-12-30,
+406,-7,Cooper Rothe,Wyoming,PK,"5'11""",178,SR,2019-12-30,
+407,-7,Connor Slomka,Army,FB,"6'0""",240,SR,2019-12-30,
+408,-7,Zach Robertson,Arizona State,OT,"6'5""",335,SR,2019-12-30,
+409,-7,Tyler Higby,Michigan State,OG,"6'4""",303,SR,2019-12-30,
+410,+91,Darrynton Evans,Appalachian State,RBF,"5'11""",190,JR,2019-12-30,
+411,-8,Moe Neal,Syracuse,RBC,"5'11""",195,SR,2019-12-30,
+412,-7,Marco Wilson,Florida,CB,"5'11""",194,JR,2019-12-30,
+413,-7,Levi Onwuzurike,Washington,DL3T,"6'3""",282,JR,2019-12-30,
+414,-7,Marquiss Spencer,Mississippi State,DL5T,"6'4""",285,SR,2019-12-30,
+415,-7,Van Jefferson,Florida,WRF,"6'2""",197,SR,2019-12-30,
+416,-7,Reggie Floyd,Virginia Tech,S,"6'0""",222,SR,2019-12-30,
+417,-7,Adrian Killins Jr.,UCF,RBC,"5'8""",164,SR,2019-12-30,
+418,-7,Trey Sermon,Oklahoma,RBF,"6'0""",224,JR,2019-12-30,
+419,-7,Steven Montez,Colorado,QB,"6'5""",230,SR,2019-12-30,
+420,-7,Blake Gallagher,Northwestern,OLB,"6'1""",235,JR,2019-12-30,
+421,-7,Ryan McCollum,Texas A&M,OC,"6'5""",305,JR,2019-12-30,
+422,-7,Marquez Callaway,Tennessee,WRF,"6'2""",200,SR,2019-12-30,
+423,-7,Malik Herring,Georgia,DL5T,"6'3""",280,JR,2019-12-30,
+424,-7,Ty Tyler,Louisville,EDGE,"6'3""",262,RJR,2019-12-30,
+425,-7,Mitchell Wilcox,South Florida,TE,"6'5""",245,SR,2019-12-30,
+426,-7,Mason Fine,North Texas,QB,"5'11""",190,SR,2019-12-30,
+427,-7,Cedric Wilcots II,New Mexico State,EDGE,"6'4""",245,RSR,2019-12-30,
+428,-7,Mike Panasiuk,Michigan State,DL3T,"6'4""",300,SR,2019-12-30,
+429,-7,Tre'Vour Wallace-Simms,Missouri,OG,"6'5""",330,SR,2019-12-30,
+430,-7,JaQuan Bailey,Iowa State,EDGE,"6'2""",251,SR,2019-12-30,
+431,-7,Greg Eisworth,Iowa State,CB,"6'0""",198,RJR,2019-12-30,
+432,-7,Dylan Singleton,Duke,S,"5'11""",190,SR,2019-12-30,
+433,-7,Britain Covey,Utah,WRS,"5'8""",170,JR,2019-12-30,
+434,-7,Nevelle Clarke,UCF,CB,"6'1""",187,RSR,2019-12-30,
+435,-7,Scottie Phillips,Ole Miss,RBC,"5'8""",212,SR,2019-12-30,
+436,-7,Tyler Vaughns,USC,WRF,"6'2""",185,RJR,2019-12-30,
+437,-7,Dalton Keene,Virginia Tech,TE,"6'4""",246,JR,2019-12-30,
+438,-7,Reggie Walker,Kansas State,EDGE,"6'2""",246,SR,2019-12-30,
+439,-7,Jordan Johnson,UCF,OC,"6'2""",320,SR,2019-12-30,
+440,-7,Tarik Black,Michigan,WRF,"6'3""",215,JR,2019-12-30,
+441,-7,Kiel Pollard,South Carolina,FB,"6'1""",235,SR,2019-12-30,
+442,-7,Cooper Edmiston,Tulsa,ILB,"6'3""",237,SR,2019-12-30,
+443,-7,Naquan Jones,Michigan State,DL1T,"6'4""",339,JR,2019-12-30,
+444,-7,Tanner Muse,Clemson,S,"6'2""",231,SR,2019-12-30,
+445,-7,Davion Taylor,Colorado,OLB,"6'2""",220,SR,2019-12-30,
+446,-7,Sean McKeon,Michigan,TE,"6'5""",251,SR,2019-12-30,
+447,-7,Tamorrion Terry,Florida State,WRF,"6'4""",203,RSO,2019-12-30,
+448,-7,Tavien Feaster,South Carolina,RBF,"5'11""",220,SR,2019-12-30,
+449,-7,Camryn Bynum,California,CB,"6'0""",190,RJR,2019-12-30,
+450,-7,Joseph Charlton,South Carolina,P,"6'5""",190,SR,2019-12-30,
+451,-7,Chad Smith,Clemson,ILB,"6'3""",240,RSR,2019-12-30,
+452,-7,Marvin Kinsey Jr.,Colorado State,RBF,"6'1""",206,SR,2019-12-30,
+453,-7,David Anenih,Houston,EDGE,"6'3""",237,JR,2019-12-30,
+454,-7,Janarius Robinson,Florida State,EDGE,"6'5""",261,RJR,2019-12-30,
+455,NEW,Keith Ismael,San Diego State,OC,"6'3""",310,JR,2019-12-30,
+456,NEW,Ezra Cleveland,Boise State,OT,"6'6""",310,RJR,2019-12-30,
+457,-7,Juju Hughes,Fresno State,S,"5'11""",188,SR,2019-12-30,
+458,-7,John Reid,Penn State,CB,"5'11""",184,SR,2019-12-30,
+459,-7,Steven Gonzalez,Penn State,OG,"6'4""",349,RSR,2019-12-30,
+460,-7,Colton McKivitz,West Virginia,OT,"6'7""",312,RSR,2019-12-30,
+461,-7,Jalen Price,East Carolina,DL3T,"6'2""",297,SR,2019-12-30,
+462,-7,Quartney Davis,Texas A&M,WRF,6'2'',200,JR,2019-12-30,
+463,-7,Marcus Keyes,Oklahoma State,OG,"6'3""",309,RSR,2019-12-30,
+464,-7,Brady Ross,Iowa,FB,"6'0""",240,SR,2019-12-30,
+465,-7,Fletcher Adams,Mississippi State,DL5T,"6'2""",265,RSR,2019-12-30,
+466,-6,Blake Gillikin,Penn State,P,"6'2""",195,SR,2019-12-30,
+467,-6,Emeka Emezie,NC State,WRF,6'3'',210,JR,2019-12-30,
+468,-6,Luke Juriga,Western Michigan,OT,"6'4""",295,RSR,2019-12-30,
+469,-6,Trajan Bandy,Miami (FL),CB,"5'9""",188,JR,2019-12-30,
+470,-6,Jesse Osuna,San Jose State,OLB,"6'0""",223,RSR,2019-12-30,
+471,-6,Kindle Vildor,Georgia Southern,CB,"5'11""",190,SR,2019-12-30,
+472,-6,J.D. Spielman,Nebraska,WRS,5'9'',180,JR,2019-12-30,
+473,-6,Marcus Norman,South Florida,OT,"6'6""",316,RSR,2019-12-30,
+474,-6,Isaiah Chambers,Houston,EDGE,"6'5""",265,RJR,2019-12-30,
+475,-6,Quintez Cephus,Wisconsin,WRF,6'1'',207,JR,2019-12-30,
+476,-6,James Smith-Williams,NC State,EDGE,"6'3""",270,RSR,2019-12-30,
+477,-6,Damar Hamlin,Pitt,S,"6'1""",195,SR,2019-12-30,
+478,-5,Juwan Johnson,Oregon,WRF,"6'4""",227,SR,2019-12-30,
+479,-5,Michael Ojemudia,Iowa,CB,"6'1""",199,SR,2019-12-30,
+480,-5,Javaris Davis,Auburn,CB,"5'9""",179,SR,2019-12-30,
+481,-5,Josiah Deguara,Cincinnati,TE,"6'3""",240,RSR,2019-12-30,
+482,-5,Brady White,Memphis,QB,6'3'',215,JR,2019-12-30,
+483,-5,Raymond Calais,Louisiana-Lafayette,RBC,"5'9""",180,SR,2019-12-30,
+484,-5,Michael Pitts,Cincinnati,EDGE,"6'4""",248,JR,2019-12-30,
+485,-5,Chauncey Manac,Louisiana-Lafayette,EDGE,"6'3""",252,RJR,2019-12-30,
+486,-5,Alize Ward,Stephen F. Austin,S,"5'11""",205,SR,2019-12-30,
+487,-5,Giovanni Ricci,Western Michigan,TE,"6'3""",240,RSR,2019-12-30,
+488,-5,Dan Moore,Texas A&M,OT,"6'5""",325,JR,2019-12-30,
+489,-5,Isaiah Zuber,Mississippi State,WRS,"5'11""",186,SR,2019-12-30,
+490,-5,Noah Togiai,Oregon State,TE,"6'4""",241,RSR,2019-12-30,
+491,-5,Patrick Carr,Houston,RBC,"5'10""",205,SR,2019-12-30,
+492,NEW,Trishton Jackson,Syracuse,WRF,"6'1""",191,JR,2019-12-30,
+493,-5,Tra Barnett,Georgia State,RBC,5'10,185,SR,2019-12-30,
+494,-5,Tony Jones Jr.,Notre Dame,RBF,"5'11""",227,JR,2019-12-30,
+495,-5,Joey Magnifico,Memphis,TE,"6'4""",234,RSR,2019-12-30,
+496,-5,Levi Brown,Marshall,OT,"6'4""",280,RSR,2019-12-30,
+497,-5,B.J. Smith,Troy,RBC,"5'9""",203,SR,2019-12-30,
+498,-5,Ray Lima,Iowa State,DL3T,"6'3""",302,RSR,2019-12-30,
+499,-5,Brian Lewerke,Michigan State,QB,"6'3""",214,SR,2019-12-30,
+500,-5,JaMycal Hasty,Baylor,RBC,"5'9""",205,RSR,2019-12-30,
