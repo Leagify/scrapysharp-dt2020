@@ -3,15 +3,15 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 2,--,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-05-21,35
 3,--,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-05-21,35
 4,--,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-05-21,35
-5,--,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,77,277,DL5T,DL,Def.,,2019-05-21,35
+5,--,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,77,277,,DL,Def.,,2019-05-21,35
 6,--,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,,2019-05-21,35
 7,--,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-05-21,35
 8,--,Walker Little,OT,Stanford,Pac 12,California,West,79,313,,OL,Off.,,2019-05-21,35
 9,--,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-05-21,35
 10,--,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-05-21,35
-11,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-05-21,30
-12,--,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,OG,OL,Off.,,2019-05-21,30
-13,--,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,DL1T,DL,Def.,,2019-05-21,30
+11,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-05-21,30
+12,--,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-05-21,30
+13,--,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-05-21,30
 14,--,Dylan Moses,ILB,Alabama,SEC,Alabama,South,75,233,,LB,Def.,,2019-05-21,30
 15,--,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-05-21,30
 16,--,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-05-21,30
@@ -22,7 +22,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 21,--,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,,2019-05-21,30
 22,--,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-05-21,30
 23,--,Tristan Wirfs,OT,Iowa,Big Ten,Iowa,Midwest,77,320,,OL,Off.,,2019-05-21,30
-24,--,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,EDGE,DL,Def.,,2019-05-21,30
+24,--,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-05-21,30
 25,--,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-05-21,30
 26,--,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-05-21,25
 27,--,Tylan Wallace,WRF,Oklahoma State,Big 12,Oklahoma,South,72,185,,WR,Off.,,2019-05-21,25
@@ -40,7 +40,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 39,--,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-05-21,20
 40,--,Michael Onwenu,OG,Michigan,Big Ten,Michigan,Midwest,75,369,,OL,Off.,,2019-05-21,20
 41,--,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,,QB,Off.,,2019-05-21,20
-42,--,Rashard Lawrence,DL3T,LSU,SEC,Louisiana,South,75,317,DL1T,DL,Def.,,2019-05-21,20
+42,--,Rashard Lawrence,DL3T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-05-21,20
 43,--,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-05-21,20
 44,--,T.J. McCoy,OC,Louisville,ACC,Kentucky,South,73,315,,OL,Off.,,2019-05-21,20
 45,--,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,,LB,Def.,,2019-05-21,20
@@ -51,7 +51,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 50,--,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,,2019-05-21,20
 51,--,Tre'Vour Wallace-Simms,OG,Missouri,SEC,Missouri,Midwest,77,330,,OL,Off.,,2019-05-21,20
 52,--,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,,2019-05-21,20
-53,--,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-05-21,20
+53,--,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-05-21,20
 54,--,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,,2019-05-21,20
 55,--,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,,2019-05-21,20
 56,--,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-05-21,20
@@ -70,7 +70,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 70,--,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-05-21,15
 71,--,J.R. Reed,S,Georgia,SEC,Georgia,South,73,194,,DB,Def.,,2019-05-21,10
 72,--,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,,WR,Off.,,2019-05-21,10
-73,--,K'Lavon Chaisson,EDGE,LSU,SEC,Louisiana,South,76,238,OLB,DL,Def.,,2019-05-21,10
+73,--,K'Lavon Chaisson,EDGE,LSU,SEC,Louisiana,South,76,238,,DL,Def.,,2019-05-21,10
 74,--,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-05-21,10
 75,--,Alton Robinson,EDGE,Syracuse,ACC,New York,Northeast,76,257,,DL,Def.,,2019-05-21,10
 76,--,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,,DB,Def.,,2019-05-21,10
@@ -93,7 +93,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 93,--,Jordan Fuller,S,Ohio State,Big Ten,Ohio,Midwest,74,205,,DB,Def.,,2019-05-21,10
 94,--,Kenny Cooper,OC,Georgia Tech,ACC,Georgia,South,74,305,,OL,Off.,,2019-05-21,10
 95,--,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,,LB,Def.,,2019-05-21,10
-96,--,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-05-21,10
+96,--,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-05-21,10
 97,--,Chubba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,,2019-05-21,10
 98,--,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,,2019-05-21,10
 99,--,Anthony Hines,OLB,Texas A&M,SEC,Texas,South,75,226,,LB,Def.,,2019-05-21,10
@@ -112,7 +112,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 112,--,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,,2019-05-21,8
 113,--,Grant Calcaterra,TE,Oklahoma,Big 12,Oklahoma,South,76,221,,TE,Off.,,2019-05-21,8
 114,--,J.J. Taylor,RBC,Arizona,Pac 12,Arizona,West,66,184,,RB,Off.,,2019-05-21,8
-115,--,Zach Robertson,OG,Arizona State,Pac 12,Arizona,West,77,335,OT,OL,Off.,,2019-05-21,8
+115,--,Zach Robertson,OG,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-05-21,8
 116,--,Ke'Shawn Vaughn,RBF,Vanderbilt,SEC,Tennessee,South,70,215,,RB,Off.,,2019-05-21,8
 117,--,Alohi Gilman,S,Notre Dame,FBS - Independent,Indiana,Midwest,71,201,,DB,Def.,,2019-05-21,8
 118,--,Brian Lewerke,QB,Michigan State,Big Ten,Michigan,Midwest,75,214,,QB,Off.,,2019-05-21,8
@@ -143,7 +143,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 143,--,Larry Rountree III,RBF,Missouri,SEC,Missouri,Midwest,70,210,,RB,Off.,,2019-05-21,7
 144,--,Scott Lashley,OT,Alabama,SEC,Alabama,South,79,307,,OL,Off.,,2019-05-21,7
 145,--,Mitchell Wilcox,TE,South Florida,FBS - AAC,Florida,South,77,245,,TE,Off.,,2019-05-21,7
-146,--,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-05-21,7
+146,--,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-05-21,7
 147,--,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-05-21,7
 148,--,Jon Runyan,OT,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-05-21,7
 149,--,Nigel Warrior,S,Tennessee,SEC,Tennessee,South,72,191,,DB,Def.,,2019-05-21,7
@@ -268,7 +268,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 268,--,Bryan Edwards,WRF,South Carolina,SEC,South Carolina,South,75,215,,WR,Off.,,2019-05-21,2
 269,--,Jake Verity,PK,East Carolina,FBS - AAC,North Carolina,South,73,185,,K,ST,,2019-05-21,2
 270,--,Chauncey Rivers,DL5T,Mississippi State,SEC,Mississippi,South,75,275,,DL,Def.,,2019-05-21,2
-271,--,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,RBF,RB,Off.,,2019-05-21,2
+271,--,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,,RB,Off.,,2019-05-21,2
 272,--,Jason Huntley,RBC,New Mexico State,FBS - Sun Belt,New Mexico,West,69,188,,RB,Off.,,2019-05-21,2
 273,--,Jordon Scott,DL1T,Oregon,Pac 12,Oregon,West,73,329,,DL,Def.,,2019-05-21,2
 274,--,Bravvion Roy,DL1T,Baylor,Big 12,Texas,South,73,330,,DL,Def.,,2019-05-21,2
@@ -304,17 +304,17 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 4,--,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-06-26,35
 5,--,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-06-26,35
 6,--,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-06-26,35
-7,--,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,78,280,DL5T,DL,Def.,,2019-06-26,35
-8,--,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,DL1T,DL,Def.,,2019-06-26,35
+7,--,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-06-26,35
+8,--,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-06-26,35
 9,--,Walker Little,OT,Stanford,Pac 12,California,West,79,313,,OL,Off.,,2019-06-26,35
 10,--,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-06-26,35
 11,--,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,,2019-06-26,30
 12,--,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-06-26,30
-13,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-06-26,30
+13,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-06-26,30
 14,--,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,,2019-06-26,30
 15,--,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-06-26,30
 16,--,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-06-26,30
-17,--,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,EDGE,DL,Def.,,2019-06-26,30
+17,--,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-06-26,30
 18,--,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-06-26,30
 19,--,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,,2019-06-26,30
 20,--,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-06-26,30
@@ -324,14 +324,14 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 24,--,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-06-26,30
 25,--,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-06-26,30
 26,--,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,,2019-06-26,25
-27,--,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-06-26,25
+27,--,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-06-26,25
 28,--,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,,2019-06-26,25
 29,--,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-06-26,25
 30,--,Tylan Wallace,WRF,Oklahoma State,Big 12,Oklahoma,South,72,185,,WR,Off.,,2019-06-26,25
 31,--,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-06-26,25
 32,--,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,,2019-06-26,25
 33,--,Trevon Diggs,CB,Alabama,SEC,Alabama,South,74,200,,DB,Def.,,2019-06-26,25
-34,--,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,OG,OL,Off.,,2019-06-26,25
+34,--,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-06-26,25
 35,--,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-06-26,25
 36,--,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-06-26,20
 37,--,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,,DB,Def.,,2019-06-26,20
@@ -347,14 +347,14 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 47,--,T.J. Vasher,WRF,Texas Tech,Big 12,Texas,South,78,190,,WR,Off.,,2019-06-26,20
 48,--,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-06-26,20
 49,--,Tommy Kraemer,OG,Notre Dame,FBS - Independent,Indiana,Midwest,78,319,,OL,Off.,,2019-06-26,20
-50,--,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-06-26,20
+50,--,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-06-26,20
 51,--,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-06-26,20
 52,--,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,,2019-06-26,20
 53,--,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,,2019-06-26,20
 54,--,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,,2019-06-26,20
 55,--,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,,2019-06-26,20
-56,--,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,OT,OL,Off.,,2019-06-26,20
-57,--,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-06-26,20
+56,--,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-06-26,20
+57,--,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-06-26,20
 58,--,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,,DB,Def.,,2019-06-26,20
 59,--,J.R. Reed,S,Georgia,SEC,Georgia,South,73,194,,DB,Def.,,2019-06-26,20
 60,--,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-06-26,15
@@ -389,10 +389,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 89,--,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,,2019-06-26,10
 90,--,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-06-26,10
 91,--,A.J. Dillon,RBF,Boston College,ACC,Massachusetts,Northeast,72,245,,RB,Off.,,2019-06-26,10
-92,--,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-06-26,10
+92,--,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-06-26,10
 93,--,Matt Hennessy,OC,Temple,FBS - AAC,Pennsylvania,Northeast,76,295,,OL,Off.,,2019-06-26,10
 94,--,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-06-26,10
-95,--,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-06-26,10
+95,--,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-06-26,10
 96,--,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,,DB,Def.,,2019-06-26,10
 97,--,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,,DL,Def.,,2019-06-26,10
 98,--,Marquez Callaway,WRF,Tennessee,SEC,Tennessee,South,74,200,,WR,Off.,,2019-06-26,10
@@ -401,7 +401,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 101,--,Chubba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,,2019-06-26,8
 102,--,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,,TE,Off.,,2019-06-26,8
 103,--,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,,LB,Def.,,2019-06-26,8
-104,--,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,,2019-06-26,8
+104,--,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-06-26,8
 105,--,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-06-26,8
 106,--,Mike Hampton,CB,South Florida,FBS - AAC,Florida,South,73,180,,DB,Def.,,2019-06-26,8
 107,--,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-06-26,8
@@ -441,7 +441,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 141,--,Zack Shackelford,OC,Texas,Big 12,Texas,South,76,305,,OL,Off.,,2019-06-26,7
 142,--,Larry Rountree III,RBF,Missouri,SEC,Missouri,Midwest,70,210,,RB,Off.,,2019-06-26,7
 143,--,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,,2019-06-26,7
-144,--,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-06-26,7
+144,--,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-06-26,7
 145,--,Kelvin Jarvis,OG,Michigan State,Big Ten,Michigan,Midwest,76,317,,OL,Off.,,2019-06-26,7
 146,--,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-06-26,7
 147,--,Benito Jones,DL1T,Ole Miss,SEC,Mississippi,South,73,326,,DL,Def.,,2019-06-26,7
@@ -478,7 +478,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 178,--,Essang Bassey,CB,Wake Forest,ACC,North Carolina,South,82,190,,DB,Def.,,2019-06-26,6
 179,--,Josh Uche,OLB,Michigan,Big Ten,Michigan,Midwest,75,238,,LB,Def.,,2019-06-26,6
 180,--,Paulson Adedo,CB,Stanford,Pac 12,California,West,73,189,,DB,Def.,,2019-06-26,6
-181,--,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,OG,OL,Off.,,2019-06-26,5
+181,--,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-06-26,5
 182,--,Robert Windsor,DL3T,Penn State,Big Ten,Pennsylvania,Northeast,76,289,,DL,Def.,,2019-06-26,5
 183,--,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,238,,TE,Off.,,2019-06-26,5
 184,--,Richard Moore,OLB,SMU,FBS - AAC,Texas,South,72,230,,LB,Def.,,2019-06-26,5
@@ -550,7 +550,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 250,--,Kylan Wilborn,EDGE,Arizona,Pac 12,Arizona,West,74,248,,DL,Def.,,2019-06-26,5
 251,--,McKenzie Milton,QB,UCF,FBS - AAC,Florida,South,71,185,,QB,Off.,,2019-06-26,2
 252,--,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,,WR,Off.,,2019-06-26,2
-253,--,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,RBF,RB,Off.,,2019-06-26,2
+253,--,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,,RB,Off.,,2019-06-26,2
 254,--,Bravvion Roy,DL1T,Baylor,Big 12,Texas,South,73,330,,DL,Def.,,2019-06-26,2
 255,--,Ryan McCollum,OC,Texas A&M,SEC,Texas,South,77,305,,OL,Off.,,2019-06-26,2
 256,--,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,,LB,Def.,,2019-06-26,2
@@ -604,17 +604,17 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 4,--,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-07-10,35
 5,--,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-07-10,35
 6,--,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-07-10,35
-7,--,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,78,280,DL5T,DL,Def.,,2019-07-10,35
-8,--,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,DL1T,DL,Def.,,2019-07-10,35
+7,--,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-07-10,35
+8,--,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-07-10,35
 9,--,Walker Little,OT,Stanford,Pac 12,California,West,79,313,,OL,Off.,,2019-07-10,35
 10,--,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-07-10,35
 11,--,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,,2019-07-10,30
 12,--,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-07-10,30
-13,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-07-10,30
+13,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-07-10,30
 14,--,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,,2019-07-10,30
 15,--,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-07-10,30
 16,--,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-07-10,30
-17,--,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,EDGE,DL,Def.,,2019-07-10,30
+17,--,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-07-10,30
 18,--,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-07-10,30
 19,--,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,,2019-07-10,30
 20,--,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-07-10,30
@@ -624,14 +624,14 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 24,--,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-07-10,30
 25,--,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-07-10,30
 26,--,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,,2019-07-10,25
-27,--,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-07-10,25
+27,--,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-07-10,25
 28,--,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,,2019-07-10,25
 29,--,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-07-10,25
 30,--,Tylan Wallace,WRF,Oklahoma State,Big 12,Oklahoma,South,72,185,,WR,Off.,,2019-07-10,25
 31,--,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-07-10,25
 32,--,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,,2019-07-10,25
 33,--,Trevon Diggs,CB,Alabama,SEC,Alabama,South,74,200,,DB,Def.,,2019-07-10,25
-34,--,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,OG,OL,Off.,,2019-07-10,25
+34,--,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-07-10,25
 35,--,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-07-10,25
 36,--,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-07-10,20
 37,--,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,,DB,Def.,,2019-07-10,20
@@ -647,14 +647,14 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 47,--,T.J. Vasher,WRF,Texas Tech,Big 12,Texas,South,78,190,,WR,Off.,,2019-07-10,20
 48,--,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-07-10,20
 49,--,Tommy Kraemer,OG,Notre Dame,FBS - Independent,Indiana,Midwest,78,319,,OL,Off.,,2019-07-10,20
-50,--,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-07-10,20
+50,--,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-07-10,20
 51,--,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-07-10,20
 52,--,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,,2019-07-10,20
 53,--,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,,2019-07-10,20
 54,--,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,,2019-07-10,20
 55,--,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,,2019-07-10,20
-56,--,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,OT,OL,Off.,,2019-07-10,20
-57,--,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-07-10,20
+56,--,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-07-10,20
+57,--,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-07-10,20
 58,--,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,,DB,Def.,,2019-07-10,20
 59,--,J.R. Reed,S,Georgia,SEC,Georgia,South,73,194,,DB,Def.,,2019-07-10,20
 60,--,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-07-10,15
@@ -688,10 +688,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 88,--,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,,2019-07-10,10
 89,--,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-07-10,10
 90,--,A.J. Dillon,RBF,Boston College,ACC,Massachusetts,Northeast,72,245,,RB,Off.,,2019-07-10,10
-91,--,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-07-10,10
+91,--,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-07-10,10
 92,--,Matt Hennessy,OC,Temple,FBS - AAC,Pennsylvania,Northeast,76,295,,OL,Off.,,2019-07-10,10
 93,--,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-07-10,10
-94,--,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-07-10,10
+94,--,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-07-10,10
 95,--,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,,DB,Def.,,2019-07-10,10
 96,--,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,,DL,Def.,,2019-07-10,10
 97,--,Marquez Callaway,WRF,Tennessee,SEC,Tennessee,South,74,200,,WR,Off.,,2019-07-10,10
@@ -700,7 +700,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 100,--,Chubba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,,2019-07-10,10
 101,--,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,,TE,Off.,,2019-07-10,8
 102,--,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,,LB,Def.,,2019-07-10,8
-103,--,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,,2019-07-10,8
+103,--,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-07-10,8
 104,--,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-07-10,8
 105,--,Mike Hampton,CB,South Florida,FBS - AAC,Florida,South,73,180,,DB,Def.,,2019-07-10,8
 106,--,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-07-10,8
@@ -740,7 +740,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 140,--,Zack Shackelford,OC,Texas,Big 12,Texas,South,76,305,,OL,Off.,,2019-07-10,7
 141,--,Larry Rountree III,RBF,Missouri,SEC,Missouri,Midwest,70,210,,RB,Off.,,2019-07-10,7
 142,--,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,,2019-07-10,7
-143,--,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-07-10,7
+143,--,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-07-10,7
 144,--,Kelvin Jarvis,OG,Michigan State,Big Ten,Michigan,Midwest,76,317,,OL,Off.,,2019-07-10,7
 145,--,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-07-10,7
 146,--,Benito Jones,DL1T,Ole Miss,SEC,Mississippi,South,73,326,,DL,Def.,,2019-07-10,7
@@ -777,7 +777,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 177,--,Essang Bassey,CB,Wake Forest,ACC,North Carolina,South,82,190,,DB,Def.,,2019-07-10,6
 178,--,Josh Uche,OLB,Michigan,Big Ten,Michigan,Midwest,75,238,,LB,Def.,,2019-07-10,6
 179,--,Paulson Adedo,CB,Stanford,Pac 12,California,West,73,189,,DB,Def.,,2019-07-10,6
-180,--,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,OG,OL,Off.,,2019-07-10,6
+180,--,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-07-10,6
 181,--,Robert Windsor,DL3T,Penn State,Big Ten,Pennsylvania,Northeast,76,289,,DL,Def.,,2019-07-10,5
 182,--,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,238,,TE,Off.,,2019-07-10,5
 183,--,Richard Moore,OLB,SMU,FBS - AAC,Texas,South,72,230,,LB,Def.,,2019-07-10,5
@@ -849,7 +849,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 249,--,Kylan Wilborn,EDGE,Arizona,Pac 12,Arizona,West,74,248,,DL,Def.,,2019-07-10,5
 250,--,McKenzie Milton,QB,UCF,FBS - AAC,Florida,South,71,185,,QB,Off.,,2019-07-10,5
 251,--,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,,WR,Off.,,2019-07-10,2
-252,--,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,RBF,RB,Off.,,2019-07-10,2
+252,--,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,,RB,Off.,,2019-07-10,2
 253,--,Bravvion Roy,DL1T,Baylor,Big 12,Texas,South,73,330,,DL,Def.,,2019-07-10,2
 254,--,Ryan McCollum,OC,Texas A&M,SEC,Texas,South,77,305,,OL,Off.,,2019-07-10,2
 255,--,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,,LB,Def.,,2019-07-10,2
@@ -902,8 +902,8 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 2,+1,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-07-21,35
 3,+1,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-07-21,35
 4,+2,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-07-21,35
-5,+3,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,DL1T,DL,Def.,,2019-07-21,35
-6,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,,2019-07-21,35
+5,+3,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-07-21,35
+6,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-07-21,35
 7,-5,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-07-21,35
 8,-3,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-07-21,35
 9,+1,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-07-21,35
@@ -916,16 +916,16 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 16,-4,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-07-21,30
 17,+2,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,,2019-07-21,30
 18,+3,Dylan Moses,ILB,Alabama,SEC,Alabama,South,75,233,,LB,Def.,,2019-07-21,30
-19,-6,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-07-21,30
+19,-6,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-07-21,30
 20,+85,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-07-21,30
 21,-3,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-07-21,30
-22,-5,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,EDGE,DL,Def.,,2019-07-21,30
+22,-5,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-07-21,30
 23,+2,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-07-21,30
 24,-4,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-07-21,30
 25,+1,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,,2019-07-21,30
 26,+3,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-07-21,25
 27,-5,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,,2019-07-21,25
-28,-1,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-07-21,25
+28,-1,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-07-21,25
 29,-1,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,,2019-07-21,25
 30,--,Tylan Wallace,WRF,Oklahoma State,Big 12,Oklahoma,South,72,185,,WR,Off.,,2019-07-21,25
 31,+51,D'Andre Swift,RBC,Georgia,SEC,Georgia,South,69,215,,RB,Off.,,2019-07-21,25
@@ -941,16 +941,16 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 41,-2,T.J. McCoy,OC,Louisville,ACC,Kentucky,South,73,315,,OL,Off.,,2019-07-21,20
 42,+2,Jacob Phillips,ILB,LSU,SEC,Louisiana,South,76,229,,LB,Def.,,2019-07-21,20
 43,-1,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,,LB,Def.,,2019-07-21,20
-44,-10,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,OG,OL,Off.,,2019-07-21,20
+44,-10,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-07-21,20
 45,-7,LaBryan Ray,DL5T,Alabama,SEC,Alabama,South,77,285,,DL,Def.,,2019-07-21,20
-46,+4,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-07-21,20
+46,+4,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-07-21,20
 47,-11,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-07-21,20
 48,-8,Richard LeCounte,S,Georgia,SEC,Georgia,South,71,190,,DB,Def.,,2019-07-21,20
 49,+5,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,,2019-07-21,20
 50,+52,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,,TE,Off.,,2019-07-21,20
 51,-3,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-07-21,20
 52,-3,Tommy Kraemer,OG,Notre Dame,FBS - Independent,Indiana,Midwest,78,319,,OL,Off.,,2019-07-21,20
-53,+4,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-07-21,20
+53,+4,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-07-21,20
 54,+8,Michael Pinckney,OLB,Miami (FL),ACC,Florida,South,73,220,,LB,Def.,,2019-07-21,20
 55,-4,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-07-21,20
 56,+107,Tristan Wirfs,OT,Iowa,Big Ten,Iowa,Midwest,77,320,,OL,Off.,,2019-07-21,20
@@ -976,7 +976,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 76,+4,Malik Harrison,ILB,Ohio State,Big Ten,Ohio,Midwest,75,245,,LB,Def.,,2019-07-21,10
 77,+32,Grant Calcaterra,TE,Oklahoma,Big 12,Oklahoma,South,76,221,,TE,Off.,,2019-07-21,10
 78,-5,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,,LB,Def.,,2019-07-21,10
-79,+13,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-07-21,10
+79,+13,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-07-21,10
 80,+1,Cam Akers,RBF,Florida State,ACC,Florida,South,71,210,,RB,Off.,,2019-07-21,10
 81,-3,Jordan Fuller,S,Ohio State,Big Ten,Ohio,Midwest,74,205,,DB,Def.,,2019-07-21,10
 82,-27,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,,2019-07-21,10
@@ -991,9 +991,9 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 91,-1,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-07-21,10
 92,-5,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,,DL,Def.,,2019-07-21,10
 93,-14,DeVonta Smith,WRF,Alabama,SEC,Alabama,South,73,193,,WR,Off.,,2019-07-21,10
-94,-38,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,OT,OL,Off.,,2019-07-21,10
+94,-38,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-07-21,10
 95,+33,Jared Pinkney,TE,Vanderbilt,SEC,Tennessee,South,76,255,,TE,Off.,,2019-07-21,10
-96,-1,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-07-21,10
+96,-1,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-07-21,10
 97,-6,A.J. Dillon,RBF,Boston College,ACC,Massachusetts,Northeast,72,245,,RB,Off.,,2019-07-21,10
 98,--,Marquez Callaway,WRF,Tennessee,SEC,Tennessee,South,74,200,,WR,Off.,,2019-07-21,10
 99,+1,Kenneth Murray,OLB,Oklahoma,Big 12,Oklahoma,South,74,238,,LB,Def.,,2019-07-21,10
@@ -1003,7 +1003,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 103,--,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,,LB,Def.,,2019-07-21,8
 104,+8,Darrell Taylor,EDGE,Tennessee,SEC,Tennessee,South,76,247,,DL,Def.,,2019-07-21,8
 105,-11,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-07-21,8
-106,-2,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,,2019-07-21,8
+106,-2,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-07-21,8
 107,-1,Mike Hampton,CB,South Florida,FBS - AAC,Florida,South,73,180,,DB,Def.,,2019-07-21,8
 108,+2,Tuf Borland,ILB,Ohio State,Big Ten,Ohio,Midwest,73,230,,LB,Def.,,2019-07-21,8
 109,+34,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,,2019-07-21,8
@@ -1031,7 +1031,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 131,+2,Damon Arnette,CB,Ohio State,Big Ten,Ohio,Midwest,72,195,,DB,Def.,,2019-07-21,7
 132,-8,Jake Hanson,OC,Oregon,Pac 12,Oregon,West,77,297,,OL,Off.,,2019-07-21,7
 133,-44,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,,2019-07-21,7
-134,+10,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-07-21,7
+134,+10,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-07-21,7
 135,-13,Julian Rochester,DL3T,Georgia,SEC,Georgia,South,77,300,,DL,Def.,,2019-07-21,7
 136,-48,Tremayne Anchrum,OG,Clemson,ACC,South Carolina,South,74,310,,OL,Off.,,2019-07-21,7
 137,-14,T.J. Carter,CB,Memphis,FBS - AAC,Tennessee,South,71,180,,DB,Def.,,2019-07-21,7
@@ -1078,7 +1078,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 178,--,Essang Bassey,CB,Wake Forest,ACC,North Carolina,South,82,190,,DB,Def.,,2019-07-21,6
 179,+4,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,238,,TE,Off.,,2019-07-21,6
 180,+68,Keisean Lucier-South,EDGE,UCLA,Pac 12,California,West,76,235,,DL,Def.,,2019-07-21,6
-181,--,Zach Robertson,OG,Arizona State,Pac 12,Arizona,West,77,335,OT,OL,Off.,,2019-07-21,5
+181,--,Zach Robertson,OG,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-07-21,5
 182,-7,Marlon Tuipulotu,DL3T,USC,Pac 12,California,West,75,305,,DL,Def.,,2019-07-21,5
 183,+20,Kenny Robinson Jr.,S,West Virginia,Big 12,West Virginia,South,74,202,,DB,Def.,,2019-07-21,5
 184,+14,Kellen Mond,QB,Texas A&M,SEC,Texas,South,74,217,,QB,Off.,,2019-07-21,5
@@ -1154,7 +1154,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 254,-29,Blake Gillikin,P,Penn State,Big Ten,Pennsylvania,Northeast,74,195,,P,ST,,2019-07-21,2
 255,-5,Kylan Wilborn,EDGE,Arizona,Pac 12,Arizona,West,74,248,,DL,Def.,,2019-07-21,2
 256,+12,Marcel Spears Jr.,OLB,Iowa State,Big 12,Iowa,Midwest,73,215,,LB,Def.,,2019-07-21,2
-257,-4,Levante Bellamy,RBF,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,RBC,RB,Off.,,2019-07-21,2
+257,-4,Levante Bellamy,RBF,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,,RB,Off.,,2019-07-21,2
 258,-24,Josiah Deguara,TE,Cincinnati,FBS - AAC,Ohio,Midwest,75,240,,TE,Off.,,2019-07-21,2
 259,-12,Jake Verity,PK,East Carolina,FBS - AAC,North Carolina,South,73,185,,K,ST,,2019-07-21,2
 260,-3,Dane Jackson,CB,Pitt,ACC,Pennsylvania,Northeast,72,190,,DB,Def.,,2019-07-21,2
@@ -1202,10 +1202,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 2,+1,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-08-21,35
 3,-1,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-08-21,35
 4,+3,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-08-21,35
-5,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,,2019-08-21,35
+5,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-08-21,35
 6,+5,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,,2019-08-21,35
 7,+1,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-08-21,35
-8,-3,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,DL1T,DL,Def.,,2019-08-21,35
+8,-3,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-08-21,35
 9,-5,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-08-21,35
 10,+3,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-08-21,35
 11,-2,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-08-21,30
@@ -1214,24 +1214,24 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 14,+1,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-08-21,30
 15,-3,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-08-21,30
 16,-2,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,,2019-08-21,30
-17,+2,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-08-21,30
+17,+2,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-08-21,30
 18,+3,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-08-21,30
 19,+1,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-08-21,30
 20,-2,Dylan Moses,ILB,Alabama,SEC,Alabama,South,75,233,,LB,Def.,,2019-08-21,30
 21,+6,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,,2019-08-21,30
 22,+11,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,,2019-08-21,30
 23,--,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-08-21,30
-24,-2,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,EDGE,DL,Def.,,2019-08-21,30
+24,-2,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-08-21,30
 25,-1,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-08-21,30
 26,+8,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-08-21,25
-27,+1,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-08-21,25
+27,+1,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-08-21,25
 28,+56,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,,DB,Def.,,2019-08-21,25
 29,-3,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-08-21,25
 30,+1,D'Andre Swift,RBC,Georgia,SEC,Georgia,South,69,215,,RB,Off.,,2019-08-21,25
 31,+14,LaBryan Ray,DL5T,Alabama,SEC,Alabama,South,77,285,,DL,Def.,,2019-08-21,25
 32,-7,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,,2019-08-21,25
 33,-4,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,,2019-08-21,25
-34,+19,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-08-21,25
+34,+19,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-08-21,25
 35,+8,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,,LB,Def.,,2019-08-21,25
 36,-1,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,,QB,Off.,,2019-08-21,20
 37,+2,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-08-21,20
@@ -1245,7 +1245,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 45,NEW,Ashtyn Davis,S,California,Pac 12,California,West,73,201,,DB,Def.,,2019-08-21,20
 46,-6,Kenny Willekes,EDGE,Michigan State,Big Ten,Michigan,Midwest,76,260,,DL,Def.,,2019-08-21,20
 47,+5,Tommy Kraemer,OG,Notre Dame,FBS - Independent,Indiana,Midwest,78,319,,OL,Off.,,2019-08-21,20
-48,-4,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,OG,OL,Off.,,2019-08-21,20
+48,-4,Trey Smith,OT,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-08-21,20
 49,-11,Michael Divinity Jr.,OLB,LSU,SEC,Louisiana,South,74,238,,LB,Def.,,2019-08-21,20
 50,+8,Ben Bredeson,OG,Michigan,Big Ten,Michigan,Midwest,77,320,,OL,Off.,,2019-08-21,20
 51,-2,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,,2019-08-21,20
@@ -1261,10 +1261,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 61,+5,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,,DL,Def.,,2019-08-21,15
 62,-26,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,,DB,Def.,,2019-08-21,15
 63,-4,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,,2019-08-21,15
-64,-18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-08-21,15
+64,-18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-08-21,15
 65,NEW,Jonah Jackson,OG,Ohio State,Big Ten,Ohio,Midwest,75,309,,OL,Off.,,2019-08-21,15
 66,-3,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,,DB,Def.,,2019-08-21,15
-67,+27,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,OT,OL,Off.,,2019-08-21,15
+67,+27,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-08-21,15
 68,-20,Richard LeCounte,S,Georgia,SEC,Georgia,South,71,190,,DB,Def.,,2019-08-21,15
 69,+2,Steven Montez,QB,Colorado,Pac 12,Colorado,West,77,230,,QB,Off.,,2019-08-21,15
 70,-10,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,,2019-08-21,15
@@ -1272,7 +1272,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 72,+6,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,,LB,Def.,,2019-08-21,10
 73,+7,Cam Akers,RBF,Florida State,ACC,Florida,South,71,210,,RB,Off.,,2019-08-21,10
 74,--,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,,WR,Off.,,2019-08-21,10
-75,+4,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-08-21,10
+75,+4,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-08-21,10
 76,-11,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-08-21,10
 77,-10,Lavert Hill,CB,Michigan,Big Ten,Michigan,Midwest,71,181,,DB,Def.,,2019-08-21,10
 78,-21,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,,DB,Def.,,2019-08-21,10
@@ -1280,7 +1280,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 80,-16,Justin Madubuike,DL3T,Texas A&M,SEC,Texas,South,75,304,,DL,Def.,,2019-08-21,10
 81,+7,K.J. Costello,QB,Stanford,Pac 12,California,West,77,215,,QB,Off.,,2019-08-21,10
 82,-10,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,,2019-08-21,10
-83,+13,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-08-21,10
+83,+13,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-08-21,10
 84,+42,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-08-21,10
 85,-10,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,,2019-08-21,10
 86,+4,Dontavious Jackson,ILB,Florida State,ACC,Florida,South,75,233,,LB,Def.,,2019-08-21,10
@@ -1298,7 +1298,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 98,+181,Markus Bailey,ILB,Purdue,Big Ten,Indiana,Midwest,73,240,,LB,Def.,,2019-08-21,10
 99,+10,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,,2019-08-21,10
 100,+96,Matt Bushman,TE,BYU,FBS - Independent,Utah,West,77,245,,TE,Off.,,2019-08-21,10
-101,+14,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,,2019-08-21,8
+101,+14,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,,OL,Off.,,2019-08-21,8
 102,+49,Jonathon Cooper,EDGE,Ohio State,Big Ten,Ohio,Midwest,76,257,,DL,Def.,,2019-08-21,8
 103,-3,Brycen Hopkins,TE,Purdue,Big Ten,Indiana,Midwest,77,245,,TE,Off.,,2019-08-21,8
 104,NEW,Damien Lewis,OG,LSU,SEC,Louisiana,South,74,335,,OL,Off.,,2019-08-21,8
@@ -1310,7 +1310,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 110,-24,Troy Dye,ILB,Oregon,Pac 12,Oregon,West,76,224,,LB,Def.,,2019-08-21,8
 111,+9,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,,OL,Off.,,2019-08-21,8
 112,NEW,Hamsah Nasirildeen,S,Florida State,ACC,Florida,South,75,216,,DB,Def.,,2019-08-21,8
-113,-22,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,S,DB,Def.,,2019-08-21,8
+113,-22,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-08-21,8
 114,NEW,Akeem Davis- Gaither,OLB,Appalachian State,FBS - Sun Belt,North Carolina,South,74,210,,LB,Def.,,2019-08-21,8
 115,+14,Jeffrey McCulloch,ILB,Texas,Big 12,Texas,South,75,245,,LB,Def.,,2019-08-21,8
 116,-9,Mike Hampton,CB,South Florida,FBS - AAC,Florida,South,73,180,,DB,Def.,,2019-08-21,8
@@ -1318,7 +1318,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 118,+17,Julian Rochester,DL3T,Georgia,SEC,Georgia,South,77,300,,DL,Def.,,2019-08-21,8
 119,+36,Lorenzo Neal,DL3T,Purdue,Big Ten,Indiana,Midwest,75,315,,DL,Def.,,2019-08-21,8
 120,-10,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-08-21,8
-121,-15,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,,2019-08-21,7
+121,-15,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-08-21,7
 122,-6,Chubba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,,2019-08-21,7
 123,NEW,Myles Dorn,S,North Carolina,ACC,North Carolina,South,73,198,,DB,Def.,,2019-08-21,7
 124,-19,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-08-21,7
@@ -1352,7 +1352,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 152,+6,Luke Campbell,OT,Michigan State,Big Ten,Michigan,Midwest,77,302,,OL,Off.,,2019-08-21,6
 153,-30,Solomon Kindley,OG,Georgia,SEC,Georgia,South,76,335,,OL,Off.,,2019-08-21,6
 154,-11,Levonta Taylor,CB,Florida State,ACC,Florida,South,70,181,,DB,Def.,,2019-08-21,6
-155,-21,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-08-21,6
+155,-21,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-08-21,6
 156,-10,Nate Stanley,QB,Iowa,Big Ten,Iowa,Midwest,76,243,,QB,Off.,,2019-08-21,6
 157,NEW,Marcelino Ball,S,Indiana,Big Ten,Indiana,Midwest,72,220,,DB,Def.,,2019-08-21,6
 158,+24,Marlon Tuipulotu,DL3T,USC,Pac 12,California,West,75,305,,DL,Def.,,2019-08-21,6
@@ -1396,10 +1396,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 196,-95,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,,DB,Def.,,2019-08-21,5
 197,-13,Kellen Mond,QB,Texas A&M,SEC,Texas,South,74,217,,QB,Off.,,2019-08-21,5
 198,-79,Britain Covey,WRS,Utah,Pac 12,Utah,West,68,170,,WR,Off.,,2019-08-21,5
-199,-18,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,OG,OL,Off.,,2019-08-21,5
+199,-18,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-08-21,5
 200,+3,Jordan Elliott,DL3T,Missouri,SEC,Missouri,Midwest,76,315,,DL,Def.,,2019-08-21,5
 201,-22,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,238,,TE,Off.,,2019-08-21,5
-202,-8,Juwan Washington,RBC,San Diego State,FBS - Mountain West,California,West,67,190,RBC,RB,Off.,,2019-08-21,5
+202,-8,Juwan Washington,RBC,San Diego State,FBS - Mountain West,California,West,67,190,,RB,Off.,,2019-08-21,5
 203,-16,Nyles Pinckney,DL3T,Clemson,ACC,South Carolina,South,73,305,,DL,Def.,,2019-08-21,5
 204,-14,Drew Richmond,OT,USC,Pac 12,California,West,77,316,,OL,Off.,,2019-08-21,5
 205,-32,Tre'Vour Wallace-Simms,OG,Missouri,SEC,Missouri,Midwest,77,330,,OL,Off.,,2019-08-21,5
@@ -1443,7 +1443,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 243,+8,Patrick Queen,ILB,LSU,SEC,Louisiana,South,74,232,,LB,Def.,,2019-08-21,5
 244,-3,McKenzie Milton,QB,UCF,FBS - AAC,Florida,South,71,185,,QB,Off.,,2019-08-21,5
 245,NEW,James Wiggins,S,Cincinnati,FBS - AAC,Ohio,Midwest,72,206,,DB,Def.,,2019-08-21,5
-246,NEW,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,OG,OL,Off.,,2019-08-21,5
+246,NEW,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,,OL,Off.,,2019-08-21,5
 247,-16,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,,LB,Def.,,2019-08-21,5
 248,+6,Blake Gillikin,P,Penn State,Big Ten,Pennsylvania,Northeast,74,195,,P,ST,,2019-08-21,5
 249,--,Leo Lewis,ILB,Mississippi State,SEC,Mississippi,South,74,245,,LB,Def.,,2019-08-21,5
@@ -1502,10 +1502,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 2,+1,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-08-29,35
 3,-1,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-08-29,35
 4,+3,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-08-29,35
-5,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,,2019-08-29,35
+5,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-08-29,35
 6,+5,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,,2019-08-29,35
 7,+1,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-08-29,35
-8,-3,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,DL1T,DL,Def.,,2019-08-29,35
+8,-3,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-08-29,35
 9,-5,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-08-29,35
 10,+3,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-08-29,35
 11,-2,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-08-29,30
@@ -1514,23 +1514,23 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 14,+1,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-08-29,30
 15,-3,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-08-29,30
 16,-2,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,,2019-08-29,30
-17,+2,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-08-29,30
+17,+2,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-08-29,30
 18,+3,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-08-29,30
 19,+1,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-08-29,30
 20,+6,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,,2019-08-29,30
 21,+11,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,,2019-08-29,30
 22,--,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-08-29,30
-23,-2,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,EDGE,DL,Def.,,2019-08-29,30
+23,-2,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-08-29,30
 24,-1,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-08-29,30
 25,+8,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-08-29,30
-26,+1,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-08-29,25
+26,+1,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-08-29,25
 27,+56,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,,DB,Def.,,2019-08-29,25
 28,-3,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-08-29,25
 29,+1,D'Andre Swift,RBC,Georgia,SEC,Georgia,South,69,215,,RB,Off.,,2019-08-29,25
 30,+14,LaBryan Ray,DL5T,Alabama,SEC,Alabama,South,77,285,,DL,Def.,,2019-08-29,25
 31,-7,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,,2019-08-29,25
 32,-4,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,,2019-08-29,25
-33,+19,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-08-29,25
+33,+19,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-08-29,25
 34,+8,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,,LB,Def.,,2019-08-29,25
 35,-1,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,,QB,Off.,,2019-08-29,25
 36,+2,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-08-29,20
@@ -1559,10 +1559,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 59,+5,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,,DL,Def.,,2019-08-29,20
 60,-26,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,,DB,Def.,,2019-08-29,15
 61,-4,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,,2019-08-29,15
-62,-18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-08-29,15
+62,-18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-08-29,15
 63,NEW,Jonah Jackson,OG,Ohio State,Big Ten,Ohio,Midwest,75,309,,OL,Off.,,2019-08-29,15
 64,-3,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,,DB,Def.,,2019-08-29,15
-65,+27,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,OT,OL,Off.,,2019-08-29,15
+65,+27,Alex Leatherwood,OG,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-08-29,15
 66,-20,Richard LeCounte,S,Georgia,SEC,Georgia,South,71,190,,DB,Def.,,2019-08-29,15
 67,+2,Steven Montez,QB,Colorado,Pac 12,Colorado,West,77,230,,QB,Off.,,2019-08-29,15
 68,-10,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,,2019-08-29,15
@@ -1570,7 +1570,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 70,+6,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,,LB,Def.,,2019-08-29,15
 71,+7,Cam Akers,RBF,Florida State,ACC,Florida,South,71,210,,RB,Off.,,2019-08-29,10
 72,--,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,,WR,Off.,,2019-08-29,10
-73,+4,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-08-29,10
+73,+4,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-08-29,10
 74,-11,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-08-29,10
 75,-10,Lavert Hill,CB,Michigan,Big Ten,Michigan,Midwest,71,181,,DB,Def.,,2019-08-29,10
 76,-21,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,,DB,Def.,,2019-08-29,10
@@ -1578,7 +1578,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 78,-16,Justin Madubuike,DL3T,Texas A&M,SEC,Texas,South,75,304,,DL,Def.,,2019-08-29,10
 79,+7,K.J. Costello,QB,Stanford,Pac 12,California,West,77,215,,QB,Off.,,2019-08-29,10
 80,-10,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,,2019-08-29,10
-81,+13,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-08-29,10
+81,+13,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-08-29,10
 82,+42,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-08-29,10
 83,-10,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,,2019-08-29,10
 84,+4,Dontavious Jackson,ILB,Florida State,ACC,Florida,South,75,233,,LB,Def.,,2019-08-29,10
@@ -1596,7 +1596,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 96,+181,Markus Bailey,ILB,Purdue,Big Ten,Indiana,Midwest,73,240,,LB,Def.,,2019-08-29,10
 97,+10,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,,OL,Off.,,2019-08-29,10
 98,+96,Matt Bushman,TE,BYU,FBS - Independent,Utah,West,77,245,,TE,Off.,,2019-08-29,10
-99,+14,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,,2019-08-29,10
+99,+14,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,,OL,Off.,,2019-08-29,10
 100,+49,Jonathon Cooper,EDGE,Ohio State,Big Ten,Ohio,Midwest,76,257,,DL,Def.,,2019-08-29,10
 101,-3,Brycen Hopkins,TE,Purdue,Big Ten,Indiana,Midwest,77,245,,TE,Off.,,2019-08-29,8
 102,NEW,Damien Lewis,OG,LSU,SEC,Louisiana,South,74,335,,OL,Off.,,2019-08-29,8
@@ -1608,7 +1608,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 108,-24,Troy Dye,ILB,Oregon,Pac 12,Oregon,West,76,224,,LB,Def.,,2019-08-29,8
 109,+9,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,,OL,Off.,,2019-08-29,8
 110,NEW,Hamsah Nasirildeen,S,Florida State,ACC,Florida,South,75,216,,DB,Def.,,2019-08-29,8
-111,-22,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,S,DB,Def.,,2019-08-29,8
+111,-22,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-08-29,8
 112,NEW,Akeem Davis- Gaither,OLB,Appalachian State,FBS - Sun Belt,North Carolina,South,74,210,,LB,Def.,,2019-08-29,8
 113,+14,Jeffrey McCulloch,ILB,Texas,Big 12,Texas,South,75,245,,LB,Def.,,2019-08-29,8
 114,-9,Mike Hampton,CB,South Florida,FBS - AAC,Florida,South,73,180,,DB,Def.,,2019-08-29,8
@@ -1616,7 +1616,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 116,+17,Julian Rochester,DL3T,Georgia,SEC,Georgia,South,77,300,,DL,Def.,,2019-08-29,8
 117,+36,Lorenzo Neal,DL3T,Purdue,Big Ten,Indiana,Midwest,75,315,,DL,Def.,,2019-08-29,8
 118,-10,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-08-29,8
-119,-15,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,,2019-08-29,8
+119,-15,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-08-29,8
 120,-6,Chubba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,,2019-08-29,8
 121,NEW,Myles Dorn,S,North Carolina,ACC,North Carolina,South,73,198,,DB,Def.,,2019-08-29,7
 122,-19,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-08-29,7
@@ -1639,7 +1639,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 139,-4,T.J. Carter,CB,Memphis,FBS - AAC,Tennessee,South,71,180,,DB,Def.,,2019-08-29,7
 140,-65,Grant Calcaterra,TE,Oklahoma,Big 12,Oklahoma,South,76,221,,TE,Off.,,2019-08-29,7
 141,-18,Erroll Thompson,ILB,Mississippi State,SEC,Mississippi,South,73,250,,LB,Def.,,2019-08-29,7
-142,-100,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,OT,OL,Off.,,2019-08-29,7
+142,-100,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-08-29,7
 143,-76,J.R. Reed,S,Georgia,SEC,Georgia,South,73,199,,DB,Def.,,2019-08-29,7
 144,+15,Benito Jones,DL1T,Ole Miss,SEC,Mississippi,South,73,326,,DL,Def.,,2019-08-29,7
 145,+192,Frederick Mauigoa,OC,Washington State,Pac 12,Washington,West,75,310,,OL,Off.,,2019-08-29,7
@@ -1651,7 +1651,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 151,+6,Luke Campbell,OT,Michigan State,Big Ten,Michigan,Midwest,77,302,,OL,Off.,,2019-08-29,6
 152,-30,Solomon Kindley,OG,Georgia,SEC,Georgia,South,76,335,,OL,Off.,,2019-08-29,6
 153,-11,Levonta Taylor,CB,Florida State,ACC,Florida,South,70,181,,DB,Def.,,2019-08-29,6
-154,-21,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-08-29,6
+154,-21,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-08-29,6
 155,-10,Nate Stanley,QB,Iowa,Big Ten,Iowa,Midwest,76,243,,QB,Off.,,2019-08-29,6
 156,NEW,Marcelino Ball,S,Indiana,Big Ten,Indiana,Midwest,72,220,,DB,Def.,,2019-08-29,6
 157,+24,Marlon Tuipulotu,DL3T,USC,Pac 12,California,West,75,305,,DL,Def.,,2019-08-29,6
@@ -1695,10 +1695,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 195,-95,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,,DB,Def.,,2019-08-29,5
 196,-13,Kellen Mond,QB,Texas A&M,SEC,Texas,South,74,217,,QB,Off.,,2019-08-29,5
 197,-79,Britain Covey,WRS,Utah,Pac 12,Utah,West,68,170,,WR,Off.,,2019-08-29,5
-198,-18,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,OG,OL,Off.,,2019-08-29,5
+198,-18,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-08-29,5
 199,+3,Jordan Elliott,DL3T,Missouri,SEC,Missouri,Midwest,76,315,,DL,Def.,,2019-08-29,5
 200,-22,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,238,,TE,Off.,,2019-08-29,5
-201,-8,Juwan Washington,RBC,San Diego State,FBS - Mountain West,California,West,67,190,RBC,RB,Off.,,2019-08-29,5
+201,-8,Juwan Washington,RBC,San Diego State,FBS - Mountain West,California,West,67,190,,RB,Off.,,2019-08-29,5
 202,-16,Nyles Pinckney,DL3T,Clemson,ACC,South Carolina,South,73,305,,DL,Def.,,2019-08-29,5
 203,-14,Drew Richmond,OT,USC,Pac 12,California,West,77,316,,OL,Off.,,2019-08-29,5
 204,-32,Tre'Vour Wallace-Simms,OG,Missouri,SEC,Missouri,Midwest,77,330,,OL,Off.,,2019-08-29,5
@@ -1742,7 +1742,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 242,+8,Patrick Queen,ILB,LSU,SEC,Louisiana,South,74,232,,LB,Def.,,2019-08-29,5
 243,-3,McKenzie Milton,QB,UCF,FBS - AAC,Florida,South,71,185,,QB,Off.,,2019-08-29,5
 244,NEW,James Wiggins,S,Cincinnati,FBS - AAC,Ohio,Midwest,72,206,,DB,Def.,,2019-08-29,5
-245,NEW,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,OG,OL,Off.,,2019-08-29,5
+245,NEW,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,,OL,Off.,,2019-08-29,5
 246,-16,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,,LB,Def.,,2019-08-29,5
 247,+6,Blake Gillikin,P,Penn State,Big Ten,Pennsylvania,Northeast,74,195,,P,ST,,2019-08-29,5
 248,--,Leo Lewis,ILB,Mississippi State,SEC,Mississippi,South,74,245,,LB,Def.,,2019-08-29,5
@@ -1804,27 +1804,27 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 4,-1,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-09-22,35
 5,-1,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-09-22,35
 6,+3,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,,OL,Off.,,2019-09-22,35
-7,-2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,,2019-09-22,35
+7,-2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-09-22,35
 8,+7,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-09-22,35
 9,+10,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-09-22,35
 10,+1,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-09-22,35
 11,+3,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-09-22,30
 12,-6,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,,QB,Off.,,2019-09-22,30
 13,+8,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,,2019-09-22,30
-14,-6,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,DL3T,DL,Def.,,2019-09-22,30
+14,-6,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-09-22,30
 15,+23,Calvin Throckmorton,OT,Oregon,Pac 12,Oregon,West,77,318,,OL,Off.,,2019-09-22,30
 16,-6,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-09-22,30
-17,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-09-22,30
+17,--,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-09-22,30
 18,+5,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-09-22,30
 19,+14,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,,DB,Def.,,2019-09-22,30
-20,+7,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-09-22,30
+20,+7,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-09-22,30
 21,+4,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-09-22,30
 22,+4,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-09-22,30
 23,+87,Troy Dye,ILB,Oregon,Pac 12,Oregon,West,76,224,,LB,Def.,,2019-09-22,30
 24,-11,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-09-22,30
 25,-3,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,,2019-09-22,30
 26,+2,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,,DB,Def.,,2019-09-22,25
-27,-3,Nick Coe,EDGE,Auburn,SEC,Alabama,South,77,282,DL5T,DL,Def.,,2019-09-22,25
+27,-3,Nick Coe,EDGE,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-09-22,25
 28,+9,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-09-22,25
 29,+59,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,,DL,Def.,,2019-09-22,25
 30,-12,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-09-22,25
@@ -1841,7 +1841,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 41,+4,Darryl Williams,OC,Mississippi State,SEC,Mississippi,South,74,310,,OL,Off.,,2019-09-22,20
 42,+11,Curtis Weaver,EDGE,Boise State,FBS - Mountain West,Idaho,West,75,266,,DL,Def.,,2019-09-22,20
 43,-6,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,,QB,Off.,,2019-09-22,20
-44,+24,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,OG,OL,Off.,,2019-09-22,20
+44,+24,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-09-22,20
 45,-3,Jacob Phillips,ILB,LSU,SEC,Louisiana,South,76,229,,LB,Def.,,2019-09-22,20
 46,-2,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,,2019-09-22,20
 47,-11,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,,LB,Def.,,2019-09-22,20
@@ -1851,10 +1851,10 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 51,+6,T.J. Vasher,WRF,Texas Tech,Big 12,Texas,South,78,190,,WR,Off.,,2019-09-22,20
 52,+102,Solomon Kindley,OG,Georgia,SEC,Georgia,South,76,335,,OL,Off.,,2019-09-22,20
 53,-6,Kenny Willekes,EDGE,Michigan State,Big Ten,Michigan,Midwest,76,260,,DL,Def.,,2019-09-22,20
-54,-20,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,OLB,DL,Def.,,2019-09-22,20
+54,-20,Anfernee Jennings,EDGE,Alabama,SEC,Alabama,South,75,259,,DL,Def.,,2019-09-22,20
 55,+75,Jacob Breeland,TE,Oregon,Pac 12,Oregon,West,77,240,,TE,Off.,,2019-09-22,20
 56,+73,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,,2019-09-22,20
-57,+7,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-09-22,20
+57,+7,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-09-22,20
 58,+10,Richard LeCounte,S,Georgia,SEC,Georgia,South,71,190,,DB,Def.,,2019-09-22,20
 59,+3,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,,DB,Def.,,2019-09-22,20
 60,+14,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,,WR,Off.,,2019-09-22,15
@@ -1871,7 +1871,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 71,+6,Lavert Hill,CB,Michigan,Big Ten,Michigan,Midwest,71,181,,DB,Def.,,2019-09-22,10
 72,+66,Lucas Niang,OT,TCU,Big 12,Texas,South,79,328,,OL,Off.,,2019-09-22,10
 73,-3,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,,2019-09-22,10
-74,+270,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,OT,OL,Off.,,2019-09-22,10
+74,+270,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,,OL,Off.,,2019-09-22,10
 75,+20,Kenneth Murray,OLB,Oklahoma,Big 12,Oklahoma,South,74,238,,LB,Def.,,2019-09-22,10
 76,NEW,Kevin Jarvis,OG,Michigan State,Big Ten,Michigan,Midwest,76,317,,OL,Off.,,2019-09-22,10
 77,-22,Michael Pinckney,OLB,Miami (FL),ACC,Florida,South,73,220,,LB,Def.,,2019-09-22,10
@@ -1882,7 +1882,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 82,+157,Neville Gallimore,DL1T,Oklahoma,Big 12,Oklahoma,South,74,330,,DL,Def.,,2019-09-22,10
 83,+28,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,,OL,Off.,,2019-09-22,10
 84,+19,Brycen Hopkins,TE,Purdue,Big Ten,Indiana,Midwest,77,245,,TE,Off.,,2019-09-22,10
-85,+16,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,,2019-09-22,10
+85,+16,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,,OL,Off.,,2019-09-22,10
 86,--,Dontavious Jackson,ILB,Florida State,ACC,Florida,South,75,233,,LB,Def.,,2019-09-22,10
 87,+20,DeVonta Smith,WRF,Alabama,SEC,Alabama,South,73,193,,WR,Off.,,2019-09-22,10
 88,-39,Michael Divinity Jr.,OLB,LSU,SEC,Louisiana,South,74,238,,LB,Def.,,2019-09-22,10
@@ -1892,18 +1892,18 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 92,-8,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-09-22,10
 93,-35,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,,TE,Off.,,2019-09-22,10
 94,+57,Antoine Winfield Jr.,S,Minnesota,Big Ten,Minnesota,Midwest,70,207,,DB,Def.,,2019-09-22,10
-95,-12,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-09-22,10
+95,-12,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-09-22,10
 96,-20,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-09-22,10
 97,+3,Matt Bushman,TE,BYU,FBS - Independent,Utah,West,77,245,,TE,Off.,,2019-09-22,10
 98,+27,Mustafa Johnson,DL3T,Colorado,Pac 12,Colorado,West,74,290,,DL,Def.,,2019-09-22,10
-99,+14,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,S,DB,Def.,,2019-09-22,10
+99,+14,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-09-22,10
 100,NEW,Jordan Love,QB,Utah State,FBS - Mountain West,Utah,West,76,225,,QB,Off.,,2019-09-22,10
 101,+301,Darrion Daniels,DL1T,Nebraska,Big Ten,Nebraska,Midwest,75,320,,DL,Def.,,2019-09-22,8
 102,+6,Tuf Borland,ILB,Ohio State,Big Ten,Ohio,Midwest,73,230,,LB,Def.,,2019-09-22,8
 103,+69,Logan Stenberg,OG,Kentucky,SEC,Kentucky,South,78,326,,OL,Off.,,2019-09-22,8
 104,+5,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,,LB,Def.,,2019-09-22,8
 105,-63,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-09-22,8
-106,-31,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-09-22,8
+106,-31,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-09-22,8
 107,-13,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,,2019-09-22,8
 108,-36,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,,LB,Def.,,2019-09-22,8
 109,+6,Jeffrey McCulloch,ILB,Texas,Big 12,Texas,South,75,245,,LB,Def.,,2019-09-22,8
@@ -1923,12 +1923,12 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 123,-59,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,,DL,Def.,,2019-09-22,7
 124,+26,Jabari Zuniga,EDGE,Florida,SEC,Florida,South,76,257,,DL,Def.,,2019-09-22,7
 125,+10,Chase Lucas,CB,Arizona State,Pac 12,Arizona,West,72,175,,DB,Def.,,2019-09-22,7
-126,+30,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-09-22,7
+126,+30,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-09-22,7
 127,-75,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,,QB,Off.,,2019-09-22,7
 128,-3,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-09-22,7
 129,-43,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,,2019-09-22,7
 130,+36,Mitchell Wilcox,TE,South Florida,FBS - AAC,Florida,South,77,245,,TE,Off.,,2019-09-22,7
-131,-82,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,OT,OL,Off.,,2019-09-22,7
+131,-82,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-09-22,7
 132,+224,Keandre Jones,OLB,Maryland,Big Ten,Maryland,Northeast,74,228,,LB,Def.,,2019-09-22,7
 133,-50,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,,OL,Off.,,2019-09-22,7
 134,-2,Brian Lewerke,QB,Michigan State,Big Ten,Michigan,Midwest,75,214,,QB,Off.,,2019-09-22,7
@@ -1997,7 +1997,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 197,-7,Patrick Johnson,EDGE,Tulane,FBS - AAC,Louisiana,South,75,255,,DL,Def.,,2019-09-22,5
 198,-38,Greg Eiland,OT,Mississippi State,SEC,Mississippi,South,80,335,,OL,Off.,,2019-09-22,5
 199,+55,Chauncey Rivers,DL5T,Mississippi State,SEC,Mississippi,South,75,275,,DL,Def.,,2019-09-22,5
-200,-79,Jon Runyan,OT,Michigan,Big Ten,Michigan,Midwest,77,310,OG,OL,Off.,,2019-09-22,5
+200,-79,Jon Runyan,OT,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-09-22,5
 201,+67,Jake Bentley,QB,South Carolina,SEC,South Carolina,South,74,220,,QB,Off.,,2019-09-22,5
 202,-10,DeMarkus Acy,CB,Missouri,SEC,Missouri,Midwest,74,195,,DB,Def.,,2019-09-22,5
 203,-53,Michael Warren II,RBF,Cincinnati,FBS - AAC,Ohio,Midwest,71,218,,RB,Off.,,2019-09-22,5
@@ -2009,7 +2009,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 209,+76,Antonio Gandy-Golden,WRF,Liberty,FCS,Virginia,South,76,216,,WR,Off.,,2019-09-22,5
 210,+9,Raequan Williams,DL3T,Michigan State,Big Ten,Michigan,Midwest,76,298,,DL,Def.,,2019-09-22,5
 211,-8,Nyles Pinckney,DL3T,Clemson,ACC,South Carolina,South,73,305,,DL,Def.,,2019-09-22,5
-212,-13,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,OG,OL,Off.,,2019-09-22,5
+212,-13,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-09-22,5
 213,-51,Lamical Perine,RBF,Florida,SEC,Florida,South,71,227,,RB,Off.,,2019-09-22,5
 214,-39,Jaquarius Landrews,S,Mississippi State,SEC,Mississippi,South,71,197,,DB,Def.,,2019-09-22,5
 215,+11,T.J. Brunson,ILB,South Carolina,SEC,South Carolina,South,72,230,,LB,Def.,,2019-09-22,5
@@ -2045,7 +2045,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 245,-39,Tyler Clark,DL1T,Georgia,SEC,Georgia,South,76,300,,DL,Def.,,2019-09-22,5
 246,-29,Colin Schooler,ILB,Arizona,Pac 12,Arizona,West,72,236,,LB,Def.,,2019-09-22,5
 247,+80,Tavien Feaster,RBF,South Carolina,SEC,South Carolina,South,71,220,,RB,Off.,,2019-09-22,5
-248,-3,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,OG,OL,Off.,,2019-09-22,5
+248,-3,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,,OL,Off.,,2019-09-22,5
 249,-23,Tedarrell Slaton,DL1T,Florida,SEC,Florida,South,77,343,,DL,Def.,,2019-09-22,5
 250,+8,Kylan Wilborn,EDGE,Arizona,Pac 12,Arizona,West,74,248,,DL,Def.,,2019-09-22,5
 251,NEW,Tyler Coyle,S,Connecticut,FBS - AAC,Connecticut,Northeast,72,207,,DB,Def.,,2019-09-22,2
@@ -2062,7 +2062,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 262,-94,J.J. Taylor,RBC,Arizona,Pac 12,Arizona,West,66,184,,RB,Off.,,2019-09-22,2
 263,NEW,Tamorrion Terry,WRF,Florida State,ACC,Florida,South,76,203,,WR,Off.,,2019-09-22,2
 264,-37,Devin Duvernay,WRS,Texas,Big 12,Texas,South,71,186,,WR,Off.,,2019-09-22,2
-265,+99,Malcolm Roach,DL3T,Texas,Big 12,Texas,South,75,291,DL5T,DL,Def.,,2019-09-22,2
+265,+99,Malcolm Roach,DL3T,Texas,Big 12,Texas,South,75,291,,DL,Def.,,2019-09-22,2
 266,+3,Theo Howard,WRF,UCLA,Pac 12,California,West,72,182,,WR,Off.,,2019-09-22,2
 267,+44,Kyahva Tezino,OLB,San Diego State,FBS - Mountain West,California,West,72,230,,LB,Def.,,2019-09-22,2
 268,-74,Rico Bussey Jr.,WRF,North Texas,FBS - CUSA,Texas,South,74,193,,WR,Off.,,2019-09-22,2
@@ -2201,7 +2201,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 1,--,Tua Tagovailoa,QB,Alabama,SEC,Alabama,South,73,218,,QB,Off.,,2019-10-21,35
 2,--,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-10-21,35
 3,+19,Joe Burrow,QB,LSU,SEC,Louisiana,South,76,216,,QB,Off.,,2019-10-21,35
-4,+10,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,DL3T,DL,Def.,,2019-10-21,35
+4,+10,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-10-21,35
 5,-1,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-10-21,35
 6,-1,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-10-21,35
 7,+19,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,,DB,Def.,,2019-10-21,35
@@ -2210,17 +2210,17 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 10,--,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,,WR,Off.,,2019-10-21,35
 11,-3,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-10-21,30
 12,-3,Alaric Jackson,OT,Iowa,Big Ten,Iowa,Midwest,78,320,,OL,Off.,,2019-10-21,30
-13,-6,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,77,277,DL5T,DL,Def.,,2019-10-21,30
+13,-6,A.J. Epenesa,EDGE,Iowa,Big Ten,Iowa,Midwest,77,277,,DL,Def.,,2019-10-21,30
 14,+4,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-10-21,30
 15,+6,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-10-21,30
 16,+84,Jordan Love,QB,Utah State,FBS - Mountain West,Utah,West,76,225,,QB,Off.,,2019-10-21,30
 17,-2,Calvin Throckmorton,OT,Oregon,Pac 12,Oregon,West,77,318,,OL,Off.,,2019-10-21,30
-18,-1,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,S,LB,Def.,,2019-10-21,30
+18,-1,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,,LB,Def.,,2019-10-21,30
 19,+11,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,,WR,Off.,,2019-10-21,30
 20,+8,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-10-21,30
 21,+3,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-10-21,30
 22,+7,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,,DL,Def.,,2019-10-21,30
-23,-3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-10-21,30
+23,-3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-10-21,30
 24,-21,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-10-21,30
 25,-3,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-10-21,30
 26,+336,Lamar Jackson,CB,Nebraska,Big Ten,Nebraska,Midwest,74,215,,DB,Def.,,2019-10-21,25
@@ -2234,7 +2234,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 34,+46,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-10-21,25
 35,+4,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-10-21,25
 36,-5,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,,DB,Def.,,2019-10-21,20
-37,+17,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,EDGE,LB,Def.,,2019-10-21,20
+37,+17,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,,LB,Def.,,2019-10-21,20
 38,+29,Chuba Hubbard,RBF,Oklahoma State,Big 12,Oklahoma,South,73,207,,RB,Off.,,2019-10-21,20
 39,+1,Darryl Williams,OC,Mississippi State,SEC,Mississippi,South,74,310,,OL,Off.,,2019-10-21,20
 40,+16,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,,OL,Off.,,2019-10-21,20
@@ -2245,7 +2245,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 45,+2,Ben Bredeson,OG,Michigan,Big Ten,Michigan,Midwest,77,320,,OL,Off.,,2019-10-21,20
 46,+9,Jacob Breeland,TE,Oregon,Pac 12,Oregon,West,77,240,,TE,Off.,,2019-10-21,20
 47,+31,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,,DL,Def.,,2019-10-21,20
-48,-5,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,OG,OL,Off.,,2019-10-21,20
+48,-5,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-10-21,20
 49,-4,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,,TE,Off.,,2019-10-21,20
 50,+1,Solomon Kindley,OG,Georgia,SEC,Georgia,South,76,335,,OL,Off.,,2019-10-21,20
 51,-9,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,,QB,Off.,,2019-10-21,20
@@ -2264,11 +2264,11 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 64,+5,Cam Akers,RBF,Florida State,ACC,Florida,South,71,210,,RB,Off.,,2019-10-21,15
 65,+1,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,,DB,Def.,,2019-10-21,15
 66,-3,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,,DB,Def.,,2019-10-21,15
-67,+39,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-10-21,15
+67,+39,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-10-21,15
 68,-24,Jacob Phillips,ILB,LSU,SEC,Louisiana,South,76,229,,LB,Def.,,2019-10-21,15
 69,+76,Tyler Johnson,WRF,Minnesota,Big Ten,Minnesota,Midwest,74,200,,WR,Off.,,2019-10-21,15
 70,-45,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,,DL,Def.,,2019-10-21,15
-71,+3,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,OT,OL,Off.,,2019-10-21,10
+71,+3,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,,OL,Off.,,2019-10-21,10
 72,+9,Sam Ehlinger,QB,Texas,Big 12,Texas,South,75,235,,QB,Off.,,2019-10-21,10
 73,+4,Michael Pinckney,OLB,Miami (FL),ACC,Florida,South,73,220,,LB,Def.,,2019-10-21,10
 74,-3,Lavert Hill,CB,Michigan,Big Ten,Michigan,Midwest,71,181,,DB,Def.,,2019-10-21,10
@@ -2278,7 +2278,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 78,+1,K.J. Costello,QB,Stanford,Pac 12,California,West,77,215,,QB,Off.,,2019-10-21,10
 79,-9,Alohi Gilman,S,Notre Dame,FBS - Independent,Indiana,Midwest,71,201,,DB,Def.,,2019-10-21,10
 80,-4,Kevin Jarvis,OG,Michigan State,Big Ten,Michigan,Midwest,76,317,,OL,Off.,,2019-10-21,10
-81,-24,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-10-21,10
+81,-24,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-10-21,10
 82,NEW,Jaylen Twyman,DL3T,Pitt,ACC,Pennsylvania,Northeast,74,290,,DL,Def.,,2019-10-21,10
 83,NEW,Deommodore Lenoir,CB,Oregon,Pac 12,Oregon,West,71,212,,DB,Def.,,2019-10-21,10
 84,+21,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-10-21,10
@@ -2289,7 +2289,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 89,+3,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,,RB,Off.,,2019-10-21,10
 90,+4,Antoine Winfield Jr.,S,Minnesota,Big Ten,Minnesota,Midwest,70,207,,DB,Def.,,2019-10-21,10
 91,-1,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-10-21,10
-92,-7,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,,2019-10-21,10
+92,-7,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,,OL,Off.,,2019-10-21,10
 93,+83,Jordan Mack,ILB,Virginia,ACC,Virginia,South,74,230,,LB,Def.,,2019-10-21,10
 94,+44,Benito Jones,DL1T,Ole Miss,SEC,Mississippi,South,73,326,,DL,Def.,,2019-10-21,10
 95,+8,Logan Stenberg,OG,Kentucky,SEC,Kentucky,South,78,326,,OL,Off.,,2019-10-21,10
@@ -2305,13 +2305,13 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 105,+9,Glen Logan,DL5T,LSU,SEC,Louisiana,South,76,297,,DL,Def.,,2019-10-21,8
 106,+9,K.J. Hamler,WRS,Penn State,Big Ten,Pennsylvania,Northeast,69,174,,WR,Off.,,2019-10-21,8
 107,+3,T.J. McCoy,OC,Louisville,ACC,Kentucky,South,73,315,,OL,Off.,,2019-10-21,8
-108,-13,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-10-21,8
+108,-13,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-10-21,8
 109,NEW,Hamilcar Rashed Jr.,OLB,Oregon State,Pac 12,Oregon,West,76,236,,LB,Def.,,2019-10-21,8
 110,-17,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,,TE,Off.,,2019-10-21,8
 111,-4,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,,2019-10-21,8
-112,+18,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,OT,OL,Off.,,2019-10-21,8
+112,+18,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-10-21,8
 113,+81,Josh Uche,OLB,Michigan,Big Ten,Michigan,Midwest,75,238,,LB,Def.,,2019-10-21,8
-114,+169,Larrell Murchison,DL5T,NC State,ACC,North Carolina,South,75,291,DL3T,DL,Def.,,2019-10-21,8
+114,+169,Larrell Murchison,DL5T,NC State,ACC,North Carolina,South,75,291,,DL,Def.,,2019-10-21,8
 115,-4,Darrell Taylor,EDGE,Tennessee,SEC,Tennessee,South,76,247,,DL,Def.,,2019-10-21,8
 116,-30,Dontavious Jackson,ILB,Florida State,ACC,Florida,South,75,233,,LB,Def.,,2019-10-21,8
 117,-68,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-10-21,8
@@ -2326,12 +2326,12 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 126,+55,Khalil Davis,DL1T,Nebraska,Big Ten,Nebraska,Midwest,74,310,,DL,Def.,,2019-10-21,7
 127,+20,Jonathan Garvin,EDGE,Miami (FL),ACC,Florida,South,76,250,,DL,Def.,,2019-10-21,7
 128,+16,McTelvin Agim,DL5T,Arkansas,SEC,Arkansas,South,75,279,,DL,Def.,,2019-10-21,7
-129,-102,Nick Coe,EDGE,Auburn,SEC,Alabama,South,77,282,DL5T,DL,Def.,,2019-10-21,7
+129,-102,Nick Coe,EDGE,Auburn,SEC,Alabama,South,77,282,,DL,Def.,,2019-10-21,7
 130,+32,Scottie Phillips,RBC,Ole Miss,SEC,Mississippi,South,68,212,,RB,Off.,,2019-10-21,7
 131,NEW,Zack Baun,OLB,Wisconsin,Big Ten,Wisconsin,Midwest,75,235,,LB,Def.,,2019-10-21,7
 132,-11,Akeem Davis- Gaither,OLB,Appalachian State,FBS - Sun Belt,North Carolina,South,74,210,,LB,Def.,,2019-10-21,7
 133,NEW,Cheyenne O'Grady,TE,Arkansas,SEC,Arkansas,South,76,256,,TE,Off.,,2019-10-21,7
-134,-35,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,S,DB,Def.,,2019-10-21,7
+134,-35,Shyheim Carter,CB,Alabama,SEC,Alabama,South,72,195,,DB,Def.,,2019-10-21,7
 135,+11,A.J. Dillon,RBF,Boston College,ACC,Massachusetts,Northeast,72,245,,RB,Off.,,2019-10-21,7
 136,+83,Michael Pittman Jr.,WRF,USC,Pac 12,California,West,76,223,,WR,Off.,,2019-10-21,7
 137,+20,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,,WR,Off.,,2019-10-21,7
@@ -2367,7 +2367,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 167,-26,Ke'Shawn Vaughn,RBF,Vanderbilt,SEC,Tennessee,South,70,215,,RB,Off.,,2019-10-21,6
 168,-4,Myles Dorn,S,North Carolina,ACC,North Carolina,South,73,198,,DB,Def.,,2019-10-21,6
 169,+34,Michael Warren II,RBF,Cincinnati,FBS - AAC,Ohio,Midwest,71,218,,RB,Off.,,2019-10-21,6
-170,+103,Shaun Wade,CB,Ohio State,Big Ten,Ohio,Midwest,72,195,S,DB,Def.,,2019-10-21,6
+170,+103,Shaun Wade,CB,Ohio State,Big Ten,Ohio,Midwest,72,195,,DB,Def.,,2019-10-21,6
 171,-111,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,,WR,Off.,,2019-10-21,6
 172,+223,K.J. Britt,ILB,Auburn,SEC,Alabama,South,72,236,,LB,Def.,,2019-10-21,6
 173,--,Marcelino Ball,S,Indiana,Big Ten,Indiana,Midwest,72,220,,DB,Def.,,2019-10-21,6
@@ -2403,7 +2403,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 203,NEW,Juwuan Jones,DL5T,Western Kentucky,FBS - CUSA,Kentucky,South,75,270,,DL,Def.,,2019-10-21,5
 204,-22,Rayshard Ashby,ILB,Virginia Tech,ACC,Virginia,South,70,230,,LB,Def.,,2019-10-21,5
 205,-108,Matt Bushman,TE,BYU,FBS - Independent,Utah,West,77,245,,TE,Off.,,2019-10-21,5
-206,-6,Jon Runyan,OT,Michigan,Big Ten,Michigan,Midwest,77,310,OG,OL,Off.,,2019-10-21,5
+206,-6,Jon Runyan,OT,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-10-21,5
 207,NEW,Xavier Jones,RBF,SMU,FBS - AAC,Texas,South,71,208,,RB,Off.,,2019-10-21,5
 208,NEW,Kendall Futrell,OLB,East Carolina,FBS - AAC,North Carolina,South,74,226,,LB,Def.,,2019-10-21,5
 209,-22,Jordan Elliott,DL3T,Missouri,SEC,Missouri,Midwest,76,315,,DL,Def.,,2019-10-21,5
@@ -2418,7 +2418,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 218,+16,Matt Hennessy,OC,Temple,FBS - AAC,Pennsylvania,Northeast,76,295,,OL,Off.,,2019-10-21,5
 219,+112,Carlos Davis,DL3T,Nebraska,Big Ten,Nebraska,Midwest,74,320,,DL,Def.,,2019-10-21,5
 220,-112,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,,LB,Def.,,2019-10-21,5
-221,NEW,Benning Potoa'e,DL5T,Washington,Pac 12,Washington,West,75,285,DL3T,DL,Def.,,2019-10-21,5
+221,NEW,Benning Potoa'e,DL5T,Washington,Pac 12,Washington,West,75,285,,DL,Def.,,2019-10-21,5
 222,NEW,O'Rien Vance,OLB,Iowa State,Big 12,Iowa,Midwest,73,231,,LB,Def.,,2019-10-21,5
 223,-111,Chase Claypool,WRF,Notre Dame,FBS - Independent,Indiana,Midwest,76,227,,WR,Off.,,2019-10-21,5
 224,NEW,DeAngelo Malone,OLB,Western Kentucky,FBS - CUSA,Kentucky,South,76,230,,LB,Def.,,2019-10-21,5
@@ -2441,7 +2441,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 241,-113,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,,2019-10-21,5
 242,-16,Anthony Gordon,QB,Washington State,Pac 12,Washington,West,75,210,,QB,Off.,,2019-10-21,5
 243,-27,James Gilbert,RBC,Kansas State,Big 12,Kansas,Midwest,69,198,,RB,Off.,,2019-10-21,5
-244,-119,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-10-21,5
+244,-119,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-10-21,5
 245,+1,Tyler Clark,DL1T,Georgia,SEC,Georgia,South,76,300,,DL,Def.,,2019-10-21,5
 246,-11,Josh Metellus,S,Michigan,Big Ten,Michigan,Midwest,71,215,,DB,Def.,,2019-10-21,5
 247,-22,Aaron Fuller,WRS,Washington,Pac 12,Washington,West,71,186,,WR,Off.,,2019-10-21,5
@@ -2456,7 +2456,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 256,NEW,Broderick Washington Jr.,DL3T,Texas Tech,Big 12,Texas,South,75,305,,DL,Def.,,2019-10-21,2
 257,+29,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,,LB,Def.,,2019-10-21,2
 258,-66,Tra Minter,RBC,South Alabama,FBS - Sun Belt,Alabama,South,69,200,,RB,Off.,,2019-10-21,2
-259,-10,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,OG,OL,Off.,,2019-10-21,2
+259,-10,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,,OL,Off.,,2019-10-21,2
 260,+5,Devin Duvernay,WRS,Texas,Big 12,Texas,South,71,186,,WR,Off.,,2019-10-21,2
 261,-29,Jordon Scott,DL1T,Oregon,Pac 12,Oregon,West,73,329,,DL,Def.,,2019-10-21,2
 262,-19,Keith Ismael,OC,San Diego State,FBS - Mountain West,California,West,75,311,,OL,Off.,,2019-10-21,2
@@ -2487,7 +2487,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 287,-78,Antonio Gandy-Golden,WRF,Liberty,FCS,Virginia,South,76,216,,WR,Off.,,2019-10-21,2
 288,-44,Kary Vincent Jr.,CB,LSU,SEC,Louisiana,South,70,182,,DB,Def.,,2019-10-21,2
 289,-20,Rico Bussey Jr.,WRF,North Texas,FBS - CUSA,Texas,South,74,193,,WR,Off.,,2019-10-21,2
-290,-78,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,OG,OL,Off.,,2019-10-21,2
+290,-78,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,,OL,Off.,,2019-10-21,2
 291,-11,Mason Fine,QB,North Texas,FBS - CUSA,Texas,South,71,190,,QB,Off.,,2019-10-21,2
 292,+116,Luke Farrell,TE,Ohio State,Big Ten,Ohio,Midwest,78,244,,TE,Off.,,2019-10-21,2
 293,-31,James Wiggins,S,Cincinnati,FBS - AAC,Ohio,Midwest,72,206,,DB,Def.,,2019-10-21,2
@@ -2599,7 +2599,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 399,NEW,Tony Jones Jr.,RBF,Notre Dame,FBS - Independent,Indiana,Midwest,71,227,,RB,Off.,,2019-10-21,1
 400,-20,Blake Brandel,OT,Oregon State,Pac 12,Oregon,West,79,303,,OL,Off.,,2019-10-21,1
 1,+2,Joe Burrow,QB,LSU,SEC,Louisiana,South,76,216,,QB,Off.,,2019-11-24,35
-2,+2,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,DL3T,DL,Def.,,2019-11-24,35
+2,+2,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-11-24,35
 3,-1,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-11-24,35
 4,+2,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-11-24,35
 5,--,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-11-24,35
@@ -2608,16 +2608,16 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 8,+220,Austin Jackson,OT,USC,Pac 12,California,West,78,310,,OL,Off.,,2019-11-24,35
 9,+5,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-11-24,35
 10,-1,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,,2019-11-24,35
-11,+2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,,2019-11-24,30
-12,+6,Isaiah Simmons,S,Clemson,ACC,South Carolina,South,76,225,OLB,DB,Def.,,2019-11-24,30
-13,+35,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,OG,OL,Off.,,2019-11-24,30
+11,+2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-11-24,30
+12,+6,Isaiah Simmons,S,Clemson,ACC,South Carolina,South,76,225,,DB,Def.,,2019-11-24,30
+13,+35,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-11-24,30
 14,+7,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-11-24,30
 15,+17,Tristan Wirfs,OT,Iowa,Big Ten,Iowa,Midwest,77,320,,OL,Off.,,2019-11-24,30
 16,+8,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-11-24,30
 17,+5,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,,DL,Def.,,2019-11-24,30
 18,-17,Tua Tagovailoa,QB,Alabama,SEC,Alabama,South,73,218,,QB,Off.,,2019-11-24,30
 19,+11,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,,2019-11-24,30
-20,+3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-11-24,30
+20,+3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-11-24,30
 21,-1,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-11-24,30
 22,+5,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-11-24,30
 23,+10,Curtis Weaver,EDGE,Boise State,FBS - Mountain West,Idaho,West,75,266,,DL,Def.,,2019-11-24,30
@@ -2627,7 +2627,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 27,+1,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-11-24,25
 28,-13,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-11-24,25
 29,--,Malik Harrison,ILB,Ohio State,Big Ten,Ohio,Midwest,75,245,,LB,Def.,,2019-11-24,25
-30,+37,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-11-24,25
+30,+37,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-11-24,25
 31,-6,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-11-24,25
 32,+25,D'Andre Swift,RBF,Georgia,SEC,Georgia,South,69,215,,RB,Off.,,2019-11-24,25
 33,-22,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-11-24,25
@@ -2635,7 +2635,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 35,+260,Cameron Dantzler,CB,Mississippi State,SEC,Mississippi,South,74,185,,DB,Def.,,2019-11-24,25
 36,+62,Jabari Zuniga,EDGE,Florida,SEC,Florida,South,76,257,,DL,Def.,,2019-11-24,20
 37,+32,Tyler Johnson,WRF,Minnesota,Big Ten,Minnesota,Midwest,74,200,,WR,Off.,,2019-11-24,20
-38,-1,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,EDGE,LB,Def.,,2019-11-24,20
+38,-1,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,,LB,Def.,,2019-11-24,20
 39,NEW,Creed Humphrey,OC,Oklahoma,Big 12,Oklahoma,South,76,328,,OL,Off.,,2019-11-24,20
 40,-6,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-11-24,20
 41,-6,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-11-24,20
@@ -2659,8 +2659,8 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 59,-5,Lloyd Cushenberry,OC,LSU,SEC,Louisiana,South,75,312,,OL,Off.,,2019-11-24,20
 60,-4,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,,2019-11-24,15
 61,+140,Jordyn Brooks,ILB,Texas Tech,Big 12,Texas,South,73,245,,LB,Def.,,2019-11-24,15
-62,+9,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,OT,OL,Off.,,2019-11-24,15
-63,+18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-11-24,15
+62,+9,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,,OL,Off.,,2019-11-24,15
+63,+18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-11-24,15
 64,+85,Hamsah Nasirildeen,S,Florida State,ACC,Florida,South,75,216,,DB,Def.,,2019-11-24,15
 65,+80,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-11-24,15
 66,-1,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,,DB,Def.,,2019-11-24,15
@@ -2682,7 +2682,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 82,+159,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,,2019-11-24,10
 83,+264,Jeff Gladney,CB,TCU,Big 12,Texas,South,70,183,,DB,Def.,,2019-11-24,10
 84,-40,Ashtyn Davis,S,California,Pac 12,California,West,73,201,,DB,Def.,,2019-11-24,10
-85,+23,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-11-24,10
+85,+23,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-11-24,10
 86,+79,Jake Hanson,OC,Oregon,Pac 12,Oregon,West,77,297,,OL,Off.,,2019-11-24,10
 87,NEW,James Lynch,DL5T,Baylor,Big 12,Texas,South,76,295,,DL,Def.,,2019-11-24,10
 88,NEW,Pat Freiermuth,TE,Penn State,Big Ten,Pennsylvania,Northeast,77,256,,TE,Off.,,2019-11-24,10
@@ -2700,15 +2700,15 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 100,-13,Evan Weaver,ILB,California,Pac 12,California,West,75,245,,LB,Def.,,2019-11-24,10
 101,+16,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-11-24,8
 102,-30,Sam Ehlinger,QB,Texas,Big 12,Texas,South,75,235,,QB,Off.,,2019-11-24,8
-103,+31,Shyheim Carter,S,Alabama,SEC,Alabama,South,71,192,CB,DB,Def.,,2019-11-24,8
+103,+31,Shyheim Carter,S,Alabama,SEC,Alabama,South,71,192,,DB,Def.,,2019-11-24,8
 104,+156,Devin Duvernay,WRS,Texas,Big 12,Texas,South,71,186,,WR,Off.,,2019-11-24,8
 105,-22,Deommodore Lenoir,CB,Oregon,Pac 12,Oregon,West,71,212,,DB,Def.,,2019-11-24,8
 106,-24,Jaylen Twyman,DL3T,Pitt,ACC,Pennsylvania,Northeast,74,290,,DL,Def.,,2019-11-24,8
 107,-90,Calvin Throckmorton,OT,Oregon,Pac 12,Oregon,West,77,318,,OL,Off.,,2019-11-24,8
-108,+4,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,OT,OL,Off.,,2019-11-24,8
+108,+4,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-11-24,8
 109,+6,Darrell Taylor,EDGE,Tennessee,SEC,Tennessee,South,76,247,,DL,Def.,,2019-11-24,8
 110,-20,Antoine Winfield Jr.,S,Minnesota,Big Ten,Minnesota,Midwest,70,207,,DB,Def.,,2019-11-24,8
-111,+3,Larrell Murchison,DL3T,NC State,ACC,North Carolina,South,75,291,DL5T,DL,Def.,,2019-11-24,8
+111,+3,Larrell Murchison,DL3T,NC State,ACC,North Carolina,South,75,291,,DL,Def.,,2019-11-24,8
 112,+25,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,,WR,Off.,,2019-11-24,8
 113,-29,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-11-24,8
 114,+28,Anthony Hines,OLB,Texas A&M,SEC,Texas,South,75,226,,LB,Def.,,2019-11-24,8
@@ -2814,7 +2814,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 214,-135,Alohi Gilman,S,Notre Dame,FBS - Independent,Indiana,Midwest,71,201,,DB,Def.,,2019-11-24,5
 215,-129,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,,OL,Off.,,2019-11-24,5
 216,NEW,Shane Buechele,QB,SMU,FBS - AAC,Texas,South,73,207,,QB,Off.,,2019-11-24,5
-217,+27,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-11-24,5
+217,+27,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-11-24,5
 218,-127,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-11-24,5
 220,NEW,John Houston Jr.,OLB,USC,Pac 12,California,West,75,220,,LB,Def.,,2019-11-24,5
 221,-53,Ke'Shawn Vaughn,RBF,Vanderbilt,SEC,Tennessee,South,70,215,,RB,Off.,,2019-11-24,5
@@ -2861,7 +2861,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 262,-108,T.J. Carter,CB,Memphis,FBS - AAC,Tennessee,South,71,180,,DB,Def.,,2019-11-24,2
 263,NEW,Bryce Perkins,QB,Virginia,ACC,Virginia,South,75,215,,QB,Off.,,2019-11-24,2
 264,-75,Darius Anderson,RBF,TCU,Big 12,Texas,South,71,212,,RB,Off.,,2019-11-24,2
-265,-172,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,,2019-11-24,2
+265,-172,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,,OL,Off.,,2019-11-24,2
 266,NEW,John Lako,ILB,Akron,FBS - MAC,Ohio,Midwest,74,225,,LB,Def.,,2019-11-24,2
 267,-54,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-11-24,2
 268,+12,Brendon Hayes,DL5T,UCF,FBS - AAC,Florida,South,75,293,,DL,Def.,,2019-11-24,2
@@ -2906,7 +2906,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 307,-195,Liam Eichenberg,OT,Notre Dame,FBS - Independent,Indiana,Midwest,78,305,,OL,Off.,,2019-11-24,1
 308,-61,Josh Metellus,S,Michigan,Big Ten,Michigan,Midwest,71,215,,DB,Def.,,2019-11-24,1
 309,-71,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,,DB,Def.,,2019-11-24,1
-310,-50,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,OG,OL,Off.,,2019-11-24,1
+310,-50,Jack Anderson,OC,Texas Tech,Big 12,Texas,South,77,321,,OL,Off.,,2019-11-24,1
 311,+11,Josiah Scott,CB,Michigan State,Big Ten,Michigan,Midwest,70,168,,DB,Def.,,2019-11-24,1
 312,+135,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,243,,TE,Off.,,2019-11-24,1
 313,-2,Jet Toner,PK,Stanford,Pac 12,California,West,76,201,,K,ST,,2019-11-24,1
@@ -2950,7 +2950,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 351,-21,Nyles Pinckney,DL3T,Clemson,ACC,South Carolina,South,73,305,,DL,Def.,,2019-11-24,1
 352,-17,Tyler Shelvin,DL1T,LSU,SEC,Louisiana,South,75,362,,DL,Def.,,2019-11-24,1
 353,+6,Charles Williams,RBC,UNLV,FBS - Mountain West,Nevada,West,69,190,,RB,Off.,,2019-11-24,1
-354,-147,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,OT,OL,Off.,,2019-11-24,1
+354,-147,Jon Runyan,OG,Michigan,Big Ten,Michigan,Midwest,77,310,,OL,Off.,,2019-11-24,1
 355,NEW,Gabriel Davis,WRF,UCF,FBS - AAC,Florida,South,75,212,,WR,Off.,,2019-11-24,1
 356,+57,Bryce Huff,EDGE,Memphis,FBS - AAC,Tennessee,South,75,245,,DL,Def.,,2019-11-24,1
 357,-40,Cesar Ruiz,OC,Michigan,Big Ten,Michigan,Midwest,76,319,,OL,Off.,,2019-11-24,1
@@ -2977,7 +2977,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 378,-9,Phidarian Mathis,DL1T,Alabama,SEC,Alabama,South,76,317,,DL,Def.,,2019-11-24,1
 379,NEW,Charleston Rambo,WRF,Oklahoma,Big 12,Oklahoma,South,73,175,,WR,Off.,,2019-11-24,1
 380,NEW,Jeff Thomas,WRS,Miami (FL),ACC,Florida,South,70,180,,WR,Off.,,2019-11-24,1
-381,+21,Malcolm Roach,DL5T,Texas,Big 12,Texas,South,75,290,DL3T,DL,Def.,,2019-11-24,1
+381,+21,Malcolm Roach,DL5T,Texas,Big 12,Texas,South,75,290,,DL,Def.,,2019-11-24,1
 382,-21,Najee Clayton,OLB,Western Michigan,FBS - MAC,Michigan,Midwest,74,220,,LB,Def.,,2019-11-24,1
 383,-97,Benny LeMay,RBF,Charlotte,FBS - CUSA,North Carolina,South,72,218,,RB,Off.,,2019-11-24,1
 384,-91,Luke Farrell,TE,Ohio State,Big Ten,Ohio,Midwest,78,244,,TE,Off.,,2019-11-24,1
@@ -2999,7 +2999,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 400,NEW,Joe Reed,WRF,Virginia,ACC,Virginia,South,73,215,,WR,Off.,,2019-11-24,1
 401,-36,Mike Danna,EDGE,Michigan,Big Ten,Michigan,Midwest,74,253,,DL,Def.,,2019-11-24,1
 1,+2,Joe Burrow,QB,LSU,SEC,Louisiana,South,76,216,,QB,Off.,,2019-12-10,35
-2,+2,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,DL3T,DL,Def.,,2019-12-10,35
+2,+2,Derrick Brown,DL1T,Auburn,SEC,Alabama,South,77,318,,DL,Def.,,2019-12-10,35
 3,-1,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,,DL,Def.,,2019-12-10,35
 4,+2,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-12-10,35
 5,--,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-12-10,35
@@ -3008,16 +3008,16 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 8,NEW,Austin Jackson,OT,USC,Pac 12,California,West,78,310,,OL,Off.,,2019-12-10,35
 9,+5,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,,DB,Def.,,2019-12-10,35
 10,-1,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,,DL,Def.,,2019-12-10,35
-11,+2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,EDGE,DL,Def.,,2019-12-10,30
-12,+6,Isaiah Simmons,S,Clemson,ACC,South Carolina,South,76,225,OLB,DB,Def.,,2019-12-10,30
-13,+35,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,OG,OL,Off.,,2019-12-10,30
+11,+2,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,,DL,Def.,,2019-12-10,30
+12,+6,Isaiah Simmons,S,Clemson,ACC,South Carolina,South,76,225,,DB,Def.,,2019-12-10,30
+13,+35,Alex Leatherwood,OT,Alabama,SEC,Alabama,South,78,304,,OL,Off.,,2019-12-10,30
 14,+7,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,,WR,Off.,,2019-12-10,30
 15,+17,Tristan Wirfs,OT,Iowa,Big Ten,Iowa,Midwest,77,320,,OL,Off.,,2019-12-10,30
 16,+8,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,,DB,Def.,,2019-12-10,30
 17,+5,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,,DL,Def.,,2019-12-10,30
 18,-17,Tua Tagovailoa,QB,Alabama,SEC,Alabama,South,73,218,,QB,Off.,,2019-12-10,30
 19,+11,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,,WR,Off.,,2019-12-10,30
-20,+3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,OC,OL,Off.,,2019-12-10,30
+20,+3,Tyler Biadasz,OG,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,,OL,Off.,,2019-12-10,30
 21,-1,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,,RB,Off.,,2019-12-10,30
 22,+5,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,,DB,Def.,,2019-12-10,30
 23,+10,Curtis Weaver,EDGE,Boise State,FBS - Mountain West,Idaho,West,75,266,,DL,Def.,,2019-12-10,30
@@ -3027,7 +3027,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 27,+1,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,,DL,Def.,,2019-12-10,25
 28,-13,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,,WR,Off.,,2019-12-10,25
 29,--,Malik Harrison,ILB,Ohio State,Big Ten,Ohio,Midwest,75,245,,LB,Def.,,2019-12-10,25
-30,+37,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,DL3T,DL,Def.,,2019-12-10,25
+30,+37,Marvin Wilson,DL1T,Florida State,ACC,Florida,South,77,314,,DL,Def.,,2019-12-10,25
 31,-6,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,,RB,Off.,,2019-12-10,25
 32,+25,D'Andre Swift,RBF,Georgia,SEC,Georgia,South,69,215,,RB,Off.,,2019-12-10,25
 33,-22,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,,OL,Off.,,2019-12-10,25
@@ -3035,7 +3035,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 35,+260,Cameron Dantzler,CB,Mississippi State,SEC,Mississippi,South,74,185,,DB,Def.,,2019-12-10,25
 36,+62,Jabari Zuniga,EDGE,Florida,SEC,Florida,South,76,257,,DL,Def.,,2019-12-10,20
 37,+32,Tyler Johnson,WRF,Minnesota,Big Ten,Minnesota,Midwest,74,200,,WR,Off.,,2019-12-10,20
-38,-1,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,EDGE,LB,Def.,,2019-12-10,20
+38,-1,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,,LB,Def.,,2019-12-10,20
 39,NEW,Creed Humphrey,OC,Oklahoma,Big 12,Oklahoma,South,76,328,,OL,Off.,,2019-12-10,20
 40,-6,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,,QB,Off.,,2019-12-10,20
 41,-6,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,,RB,Off.,,2019-12-10,20
@@ -3059,8 +3059,8 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 59,-5,Lloyd Cushenberry,OC,LSU,SEC,Louisiana,South,75,312,,OL,Off.,,2019-12-10,20
 60,-4,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,,DL,Def.,,2019-12-10,15
 61,+140,Jordyn Brooks,ILB,Texas Tech,Big 12,Texas,South,73,245,,LB,Def.,,2019-12-10,15
-62,+9,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,OT,OL,Off.,,2019-12-10,15
-63,+18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,DL3T,DL,Def.,,2019-12-10,15
+62,+9,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,,OL,Off.,,2019-12-10,15
+63,+18,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,,DL,Def.,,2019-12-10,15
 64,+85,Hamsah Nasirildeen,S,Florida State,ACC,Florida,South,75,216,,DB,Def.,,2019-12-10,15
 65,+80,Najee Harris,RBF,Alabama,SEC,Alabama,South,74,230,,RB,Off.,,2019-12-10,15
 66,-1,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,,DB,Def.,,2019-12-10,15
@@ -3082,7 +3082,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 82,+159,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,,RB,Off.,,2019-12-10,10
 83,+264,Jeff Gladney,CB,TCU,Big 12,Texas,South,70,183,,DB,Def.,,2019-12-10,10
 84,-40,Ashtyn Davis,S,California,Pac 12,California,West,73,201,,DB,Def.,,2019-12-10,10
-85,+23,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,EDGE,LB,Def.,,2019-12-10,10
+85,+23,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,,LB,Def.,,2019-12-10,10
 86,+79,Jake Hanson,OC,Oregon,Pac 12,Oregon,West,77,297,,OL,Off.,,2019-12-10,10
 87,NEW,James Lynch,DL5T,Baylor,Big 12,Texas,South,76,295,,DL,Def.,,2019-12-10,10
 88,+71,Leki Fotu,DL1T,Utah,Pac 12,Utah,West,77,330,,DL,Def.,,2019-12-10,10
@@ -3099,15 +3099,15 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 99,-13,Evan Weaver,ILB,California,Pac 12,California,West,75,245,,LB,Def.,,2019-12-10,10
 100,+16,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,,WR,Off.,,2019-12-10,10
 101,-30,Sam Ehlinger,QB,Texas,Big 12,Texas,South,75,235,,QB,Off.,,2019-12-10,8
-102,+31,Shyheim Carter,S,Alabama,SEC,Alabama,South,71,192,CB,DB,Def.,,2019-12-10,8
+102,+31,Shyheim Carter,S,Alabama,SEC,Alabama,South,71,192,,DB,Def.,,2019-12-10,8
 103,+156,Devin Duvernay,WRS,Texas,Big 12,Texas,South,71,186,,WR,Off.,,2019-12-10,8
 104,-22,Deommodore Lenoir,CB,Oregon,Pac 12,Oregon,West,71,212,,DB,Def.,,2019-12-10,8
 105,-24,Jaylen Twyman,DL3T,Pitt,ACC,Pennsylvania,Northeast,74,290,,DL,Def.,,2019-12-10,8
 106,-90,Calvin Throckmorton,OT,Oregon,Pac 12,Oregon,West,77,318,,OL,Off.,,2019-12-10,8
-107,+4,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,OT,OL,Off.,,2019-12-10,8
+107,+4,Trey Smith,OG,Tennessee,SEC,Tennessee,South,78,337,,OL,Off.,,2019-12-10,8
 108,+6,Darrell Taylor,EDGE,Tennessee,SEC,Tennessee,South,76,247,,DL,Def.,,2019-12-10,8
 109,-20,Antoine Winfield Jr.,S,Minnesota,Big Ten,Minnesota,Midwest,70,207,,DB,Def.,,2019-12-10,8
-110,+3,Larrell Murchison,DL3T,NC State,ACC,North Carolina,South,75,291,DL5T,DL,Def.,,2019-12-10,8
+110,+3,Larrell Murchison,DL3T,NC State,ACC,North Carolina,South,75,291,,DL,Def.,,2019-12-10,8
 111,+25,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,,WR,Off.,,2019-12-10,8
 112,-29,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,,WR,Off.,,2019-12-10,8
 113,+28,Anthony Hines,OLB,Texas A&M,SEC,Texas,South,75,226,,LB,Def.,,2019-12-10,8
@@ -3212,7 +3212,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 212,-135,Alohi Gilman,S,Notre Dame,FBS - Independent,Indiana,Midwest,71,201,,DB,Def.,,2019-12-10,5
 213,-129,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,,OL,Off.,,2019-12-10,5
 214,NEW,Shane Buechele,QB,SMU,FBS - AAC,Texas,South,73,207,,QB,Off.,,2019-12-10,5
-215,+27,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,EDGE,LB,Def.,,2019-12-10,5
+215,+27,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,,LB,Def.,,2019-12-10,5
 216,-127,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,,RB,Off.,,2019-12-10,5
 217,NEW,John Houston Jr.,OLB,USC,Pac 12,California,West,75,220,,LB,Def.,,2019-12-10,5
 218,-53,Ke'Shawn Vaughn,RBF,Vanderbilt,SEC,Tennessee,South,70,215,,RB,Off.,,2019-12-10,5
@@ -3259,7 +3259,7 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 260,-108,T.J. Carter,CB,Memphis,FBS - AAC,Tennessee,South,71,180,,DB,Def.,,2019-12-10,2
 261,NEW,Bryce Perkins,QB,Virginia,ACC,Virginia,South,75,215,,QB,Off.,,2019-12-10,2
 262,-75,Darius Anderson,RBF,TCU,Big 12,Texas,South,71,212,,RB,Off.,,2019-12-10,2
-263,-172,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,OG,OL,Off.,,2019-12-10,2
+263,-172,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,,OL,Off.,,2019-12-10,2
 264,NEW,John Lako,ILB,Akron,FBS - MAC,Ohio,Midwest,74,225,,LB,Def.,,2019-12-10,2
 265,-54,Paddy Fisher,ILB,Northwestern,Big Ten,Illinois,Midwest,76,241,,LB,Def.,,2019-12-10,2
 266,+12,Brendon Hayes,DL5T,UCF,FBS - AAC,Florida,South,75,293,,DL,Def.,,2019-12-10,2
