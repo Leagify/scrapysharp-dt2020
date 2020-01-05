@@ -12,12 +12,12 @@ namespace scrapysharp_dt2020
         public string position1;
         public string height;
         public int weight;
-        public string position2;
+        public string collegeClass;
         public DateTime rankingDate;
         public string rankingDateString;
         public string draftStatus;
 
-        public ProspectRanking(DateTime date, int rank, string chg, string name, string school, string pos1, string height = "0", int weight = 0, string pos2 = "", string draftstatus = "")
+        public ProspectRanking(DateTime date, int rank, string chg, string name, string school, string pos1, string height = "0", int weight = 0, string year = "", string draftstatus = "")
         {
             this.rankingDate = date;
             this.rank = rank;
@@ -27,7 +27,7 @@ namespace scrapysharp_dt2020
             this.position1 = pos1;
             this.height = height;
             this.weight = weight;
-            this.position2 = pos2;
+            this.collegeClass = year;
             this.rankingDateString = date.ToString("yyyy-MM-dd");
             this.draftStatus = draftstatus;
         }

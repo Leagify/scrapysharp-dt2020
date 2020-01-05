@@ -1,4 +1,4 @@
-Rank,Change,Player,School,Position,Height,Weight,Position2,Date,DraftStatus
+Rank,Change,Player,School,Position,Height,Weight,CollegeClass,Date,DraftStatus
 1,--,Joe Burrow,LSU,QB,"6'4""",216,SR,2019-12-25,
 2,--,Derrick Brown,Auburn,DL1T,"6'5""",318,SR,2019-12-25,
 3,--,Chase Young,Ohio State,EDGE,"6'5""",265,JR,2019-12-25,

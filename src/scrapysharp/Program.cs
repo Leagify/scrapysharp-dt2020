@@ -198,7 +198,7 @@ namespace scrapysharp_dt2020
 										Region = region.region,
                                         Height = r.height,
                                         Weight = r.weight,
-                                        Position2 = r.position2,
+                                        CollegeClass = r.collegeClass,
                                         PositionGroup = positions.positionGroup,
                                         PositionAspect = positions.positionAspect,
                                         ProspectStatus = r.draftStatus,
@@ -282,7 +282,7 @@ namespace scrapysharp_dt2020
             string position1 = "";
             string height = "";
             int weight = 0;
-            string position2 = "";
+            string collegeClass = "";
 
             List<ProspectRanking> prospectList = new List<ProspectRanking>();
 
@@ -342,8 +342,8 @@ namespace scrapysharp_dt2020
                                         weight = weightNumber;
                                     break;
                                 case '8':
-                                    // td[8]= Pos2 (Often blank)
-                                    position2 = cell.InnerText;
+                                    // College Class- used to be Pos2 (which was often blank)
+                                    collegeClass = cell.InnerText;
                                     break;
                                 case '9':
                                     // td[9]= Link to Bio (not used)
@@ -378,7 +378,7 @@ namespace scrapysharp_dt2020
                         // The header is in the table, so I need to ignore it here.
                         if (change != "CNG")
                         {
-                            prospectList.Add(new ProspectRanking(dateOfRanks, rank, change, playerName, school, position1, height, weight, position2, draftStatus));
+                            prospectList.Add(new ProspectRanking(dateOfRanks, rank, change, playerName, school, position1, height, weight, collegeClass, draftStatus));
                         }
                     }
                 }

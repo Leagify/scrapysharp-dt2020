@@ -1,4 +1,4 @@
-Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,Position2,PositionGroup,PositionAspect,ProspectStatus,Date,Points
+Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeClass,PositionGroup,PositionAspect,ProspectStatus,Date,Points
 1,--,Tua Tagovailoa,QB,Alabama,SEC,Alabama,South,73,218,,QB,Off.,,2019-05-21,35
 2,--,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,,WR,Off.,,2019-05-21,35
 3,--,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,,QB,Off.,,2019-05-21,35
