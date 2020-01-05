@@ -1,501 +1,501 @@
-Rank,Change,Player,School,Position,Height,Weight,Position2,Date
-1,--,Joe Burrow,LSU,QB,"6'4""",216,SR,2020-01-03
-2,--,Derrick Brown,Auburn,DL1T,"6'5""",318,SR,2020-01-03
-3,--,Chase Young,Ohio State,EDGE,"6'5""",265,JR,2020-01-03
-4,--,Jerry Jeudy,Alabama,WRF,"6'1""",192,JR,2020-01-03
-5,--,Justin Herbert,Oregon,QB,"6'6""",225,SR,2020-01-03
-6,--,Andrew Thomas,Georgia,OT,"6'5""",320,JR,2020-01-03
-7,--,Jeffrey Okudah,Ohio State,CB,"6'1""",200,JR,2020-01-03
-8,+2,Yetur Gross-Matos,Penn State,EDGE,"6'4""",262,JR,2020-01-03
-9,+2,A.J. Epenesa,Iowa,DL5T,"6'6""",280,JR,2020-01-03
-10,-2,Austin Jackson,USC,OT,"6'6""",310,JR,2020-01-03
-11,+1,Isaiah Simmons,Clemson,S,"6'4""",225,RJR,2020-01-03
-12,-3,Kristian Fulton,LSU,CB,"6'0""",192,SR,2020-01-03
-13,+1,CeeDee Lamb,Oklahoma,WRF,"6'2""",189,JR,2020-01-03
-14,+1,Tristan Wirfs,Iowa,OT,"6'5""",320,JR,2020-01-03
-15,+2,Javon Kinlaw,South Carolina,DL3T,"6'6""",302,SR,2020-01-03
-16,+2,Tua Tagovailoa,Alabama,QB,"6'1""",218,JR,2020-01-03
-17,+2,Tee Higgins,Clemson,WRF,"6'4""",200,JR,2020-01-03
-18,+2,Tyler Biadasz,Wisconsin,OC,"6'3""",315,SR,2020-01-03
-19,+2,Jonathan Taylor,Wisconsin,RBF,"5'11""",215,JR,2020-01-03
-20,+3,Curtis Weaver,Boise State,EDGE,"6'3""",266,RJR,2020-01-03
-21,+4,Trevon Diggs,Alabama,CB,"6'2""",200,JR,2020-01-03
-22,+36,Jedrick Wills,Alabama,OT,"6'5""",316,JR,2020-01-03
-23,-6,Grant Delpit,LSU,S,"6'3""",203,JR,2020-01-03
-24,+3,Laviska Shenault,Colorado,WRF,"6'2""",220,JR,2020-01-03
-25,+3,Raekwon Davis,Alabama,DL3T,"6'7""",306,SR,2020-01-03
-26,+17,Kenneth Murray,Oklahoma,ILB,"6'2""",238,JR,2020-01-03
-27,-4,C.J. Henderson,Florida,CB,"6'1""",186,JR,2020-01-03
-28,+1,Henry Ruggs III,Alabama,WRF,"6'0""",183,JR,2020-01-03
-29,+15,Solomon Kindley,Georgia,OG,"6'4""",335,JR,2020-01-03
-30,+1,Travis Etienne,Clemson,RBF,"5'10""",200,JR,2020-01-03
-31,+1,D'Andre Swift,Georgia,RBF,"5'9""",215,JR,2020-01-03
-32,+1,Trey Adams,Washington,OT,"6'7""",315,SR,2020-01-03
-33,+5,Anfernee Jennings,Alabama,OLB,"6'3""",259,RSR,2020-01-03
-34,--,Prince Tega Wanogho,Auburn,OT,"6'7""",310,SR,2020-01-03
-35,--,Cameron Dantzler,Mississippi State,CB,"6'2""",185,JR,2020-01-03
-36,--,Tyler Johnson,Minnesota,WRF,"6'2""",200,SR,2020-01-03
-37,+1,Creed Humphrey,Oklahoma,OC,"6'4""",328,RSO,2020-01-03
-38,-15,Terrell Lewis,Alabama,EDGE,"6'5""",255,RJR,2020-01-03
-39,+6,Xavier McKinney,Alabama,S,"6'1""",196,JR,2020-01-03
-40,+3,Bryce Hall,Virginia,CB,"6'1""",200,SR,2020-01-03
-41,-2,Jalen Hurts,Oklahoma,QB,"6'2""",210,SR,2020-01-03
-42,+34,Troy Dye,Oregon,ILB,"6'4""",224,SR,2020-01-03
-43,-3,J.K. Dobbins,Ohio State,RBF,"5'10""",214,JR,2020-01-03
-44,NEW,Isaiah Wilson,Georgia,OT,"6'7""",340,RSO,2020-01-03
-45,+8,Shane Lemieux,Oregon,OG,"6'4""",317,SR,2020-01-03
-46,+14,Julian Okwara,Notre Dame,EDGE,"6'5""",241,SR,2020-01-03
-47,-19,Malik Harrison,Ohio State,ILB,"6'3""",245,SR,2020-01-03
-48,-4,Chuba Hubbard,Oklahoma State,RBF,"6'1""",207,RJR,2020-01-03
-49,-3,Albert Okwuegbunam,Missouri,TE,"6'5""",255,RJR,2020-01-03
-50,-3,Shaun Wade,Ohio State,CB,"6'0""",195,RJR,2020-01-03
-51,-3,Jalen Reagor,TCU,WRS,"5'11""",195,JR,2020-01-03
-52,+34,Jake Hanson,Oregon,OC,"6'5""",297,SR,2020-01-03
-53,-4,DeVonta Smith,Alabama,WRF,"6'1""",193,JR,2020-01-03
-54,--,Jake Fromm,Georgia,QB,"6'2""",220,JR,2020-01-03
-55,--,Ben Bredeson,Michigan,OG,"6'5""",320,SR,2020-01-03
-56,-21,Jabari Zuniga,Florida,EDGE,"6'4""",257,RSR,2020-01-03
-57,--,Paulson Adebo,Stanford,CB,"6'1""",189,JR,2020-01-03
-58,--,Jacob Eason,Washington,QB,"6'6""",228,JR,2020-01-03
-59,+2,Jordyn Brooks,Texas Tech,ILB,"6'1""",245,SR,2020-01-03
-60,+3,Rashard Lawrence,LSU,DL1T,"6'3""",317,SR,2020-01-03
-61,+3,Hamsah Nasirildeen,Florida State,S,"6'3""",216,JR,2020-01-03
-62,+3,Najee Harris,Alabama,RBF,"6'2""",230,JR,2020-01-03
-63,+3,A.J. Terrell,Clemson,CB,"6'2""",190,JR,2020-01-03
-64,-12,Marlon Davidson,Auburn,DL5T,"6'3""",278,SR,2020-01-03
-65,+2,Jacob Breeland,Oregon,TE,"6'5""",240,RSR,2020-01-03
-66,+2,Michael Pittman Jr.,USC,WRF,"6'4""",223,SR,2020-01-03
-67,+23,Mekhi Becton,Louisville,OT,"6'7""",355,JR,2020-01-03
-68,+13,Zack Moss,Utah,RBF,"5'10""",210,SR,2020-01-03
-69,--,Josh Jones,Houston,OT,"6'7""",310,SR,2020-01-03
-70,--,Justin Madubuike,Texas A&M,DL3T,"6'3""",304,RJR,2020-01-03
-71,--,Kenny Willekes,Michigan State,EDGE,"6'4""",260,SR,2020-01-03
-72,--,Jacob Phillips,LSU,ILB,"6'4""",229,JR,2020-01-03
-73,--,Tyler Huntley,Utah,QB,6'1'',205,SR,2020-01-03
-74,+1,Shaquille Quarterman,Miami (FL),ILB,"6'1""",240,SR,2020-01-03
-75,-15,Hakeem Adeniji,Kansas,OG,"6'5""",310,SR,2020-01-03
-76,--,Khalid Kareem,Notre Dame,EDGE,"6'4""",265,SR,2020-01-03
-77,--,Keandre Jones,Maryland,OLB,"6'2""",228,SR,2020-01-03
-78,--,Jordan Mack,Virginia,ILB,"6'2""",230,SR,2020-01-03
-79,--,Lucas Niang,TCU,OT,"6'7""",328,SR,2020-01-03
-80,+1,Jeff Gladney,TCU,CB,"5'10""",183,SR,2020-01-03
-81,+1,Ashtyn Davis,California,S,"6'1""",201,RSR,2020-01-03
-82,+1,K'Lavon Chaisson,LSU,OLB,"6'4""",238,RSO,2020-01-03
-83,+2,James Lynch,Baylor,DL5T,"6'4""",295,JR,2020-01-03
-84,+2,Leki Fotu,Utah,DL1T,"6'5""",330,SR,2020-01-03
-85,+2,Neville Gallimore,Oklahoma,DL1T,"6'2""",330,RSR,2020-01-03
-86,+3,Zack Baun,Wisconsin,OLB,"6'3""",235,SR,2020-01-03
-87,+34,Nick Harris,Washington,OC,"6'1""",302,SR,2020-01-03
-88,+3,Logan Stenberg,Kentucky,OG,"6'6""",326,RSR,2020-01-03
-89,+3,Jaylon Johnson,Utah,CB,"6'0""",190,JR,2020-01-03
-90,+26,Frederick Mauigoa,Washington State,OC,"6'3""",310,SR,2020-01-03
-91,+2,Richard LeCounte,Georgia,S,"5'11""",190,JR,2020-01-03
-92,+2,K.J. Hamler,Penn State,WRS,"5'9""",174,JR,2020-01-03
-93,+2,Netane Muti,Fresno State,OG,"6'3""",310,RSO,2020-01-03
-94,+2,Josh Uche,Michigan,OLB,"6'3""",238,RJR,2020-01-03
-95,+1,Evan Weaver,California,ILB,"6'3""",245,SR,2020-01-03
-96,+1,Collin Johnson,Texas,WRF,"6'6""",220,SR,2020-01-03
-97,+1,Sam Ehlinger,Texas,QB,"6'3""",235,JR,2020-01-03
-98,+1,Shyheim Carter,Alabama,S,"5'11""",192,SR,2020-01-03
-99,NEW,Chazz Surratt,North Carolina,OLB,"6'3""",230,JR,2020-01-03
-100,+1,Devin Duvernay,Texas,WRS,"5'11""",186,SR,2020-01-03
-101,-44,Darryl Williams,Mississippi State,OC,"6'2""",310,SR,2020-01-03
-102,--,Deommodore Lenoir,Oregon,CB,"5'11""",212,SR,2020-01-03
-103,--,Calvin Throckmorton,Oregon,OT,"6'5""",318,SR,2020-01-03
-104,+1,Darrell Taylor,Tennessee,EDGE,"6'4""",247,SR,2020-01-03
-105,-53,Samuel Cosmi,Texas,OT,"6'5""",295,RSO,2020-01-03
-106,--,Antoine Winfield Jr.,Minnesota,S,"5'10""",207,JR,2020-01-03
-107,NEW,Deonte Brown,Alabama,OG,"6'4""",338,JR,2020-01-03
-108,-1,Larrell Murchison,NC State,DL3T,"6'3""",291,SR,2020-01-03
-109,-1,Justin Jefferson,LSU,WRF,"6'2""",185,JR,2020-01-03
-110,-1,Donovan Peoples-Jones,Michigan,WRF,"6'2""",208,JR,2020-01-03
-111,-1,Anthony Hines,Texas A&M,OLB,"6'3""",226,RSO,2020-01-03
-112,-24,Michael Pinckney,Miami (FL),OLB,"6'1""",220,SR,2020-01-03
-113,-2,Dontavious Jackson,Florida State,ILB,"6'3""",233,SR,2020-01-03
-114,-2,Brandon Jones,Texas,S,"6'0""",210,SR,2020-01-03
-115,-2,Alton Robinson,Syracuse,EDGE,"6'4""",257,SR,2020-01-03
-116,-1,Jonathan Garvin,Miami (FL),EDGE,"6'4""",250,JR,2020-01-03
-117,+12,Cole Kmet,Notre Dame,TE,"6'6""",255,JR,2020-01-03
-118,-1,Benito Jones,Ole Miss,DL1T,"6'1""",326,SR,2020-01-03
-119,-1,Oluwole Betiku,Illinois,EDGE,"6'3""",240,RJR,2020-01-03
-120,--,Cam Akers,Florida State,RBF,"5'11""",210,JR,2020-01-03
-121,--,Joe Gaziano,Northwestern,DL5T,"6'4""",275,SR,2020-01-03
-122,--,Raequan Williams,Michigan State,DL3T,"6'4""",298,SR,2020-01-03
-123,--,Kevin Jarvis,Michigan State,OG,"6'4""",317,JR,2020-01-03
-124,--,Dele Harding,Illinois,OLB,"6'1""",230,SR,2020-01-03
-125,--,Kylin Hill,Mississippi State,RBC,"5'11""",215,JR,2020-01-03
-126,+20,Chris Orr,Wisconsin,OLB,"6'0""",224,SR,2020-01-03
-127,-1,K'Von Wallace,Clemson,S,"5'11""",210,SR,2020-01-03
-128,-1,Tedarrell Slaton,Florida,DL1T,"6'5""",343,JR,2020-01-03
-129,-1,Brycen Hopkins,Purdue,TE,"6'5""",245,RSR,2020-01-03
-130,+74,Robert Hunt,Louisiana-Lafayette,OT,"6'5""",310,SR,2020-01-03
-131,-2,A.J. Dillon,Boston College,RBF,"6'0""",245,JR,2020-01-03
-132,-2,John Hightower,Boise State,WRF,"6'2""",184,SR,2020-01-03
-133,-2,Lamar Jackson,Nebraska,CB,"6'2""",215,SR,2020-01-03
-134,+8,T.J. McCoy,Louisville,OC,"6'1""",315,SR,2020-01-03
-135,-3,Khalil Davis,Nebraska,DL1T,"6'2""",310,SR,2020-01-03
-136,-3,Jordan Love,Utah State,QB,"6'4""",225,JR,2020-01-03
-137,-84,Lloyd Cushenberry,LSU,OC,"6'3""",312,RJR,2020-01-03
-138,-4,Anthony Gordon,Washington State,QB,"6'3""",210,RSR,2020-01-03
-139,-4,K.J. Britt,Auburn,ILB,"6'0""",236,JR,2020-01-03
-140,-4,Yasir Durant,Missouri,OT,"6'7""",330,SR,2020-01-03
-141,-4,Jonah Jackson,Ohio State,OG,"6'3""",309,SR,2020-01-03
-142,-4,Aaron Fuller,Washington,WRS,"5'11""",186,SR,2020-01-03
-143,-4,Darrion Daniels,Nebraska,DL1T,"6'3""",320,RSR,2020-01-03
-144,-4,Akeem Davis- Gaither,Appalachian State,OLB,"6'2""",210,SR,2020-01-03
-145,-3,Davon Hamilton,Ohio State,DL3T,"6'4""",310,SR,2020-01-03
-146,+22,Matt Hennessy,Temple,OC,"6'4""",295,JR,2020-01-03
-147,-3,Damon Arnette,Ohio State,CB,"6'0""",195,SR,2020-01-03
-148,-3,McTelvin Agim,Arkansas,DL5T,"6'3""",279,SR,2020-01-03
-149,-3,Glen Logan,LSU,DL5T,"6'4""",297,RJR,2020-01-03
-150,-3,Joe Bachie,Michigan State,ILB,"6'2""",238,SR,2020-01-03
-151,-3,Khaleke Hudson,Michigan,OLB,"6'0""",220,SR,2020-01-03
-152,-3,Lavert Hill,Michigan,CB,"5'11""",181,SR,2020-01-03
-153,-52,Trey Smith,Tennessee,OG,"6'6""",337,JR,2020-01-03
-154,-4,Ben Cleveland,Georgia,OG,"6'6""",335,JR,2020-01-03
-155,-4,Kyle Dugger,Lenoir–Rhyne,S,"6'2""",205,SR,2020-01-03
-156,-4,Rayshard Ashby,Virginia Tech,ILB,"5'10""",230,JR,2020-01-03
-157,+25,Clyde Edwards-Helaire,LSU,RBF,"5'9""",212,JR,2020-01-03
-158,-5,Jonathan Greenard,Florida,EDGE,"6'3""",263,SR,2020-01-03
-159,-5,Richie Grant,UCF,S,"6'0""",194,RJR,2020-01-03
-160,-5,Mustafa Johnson,Colorado,DL3T,"6'2""",290,SR,2020-01-03
-161,-5,Darnay Holmes,UCLA,CB,"5'10""",198,JR,2020-01-03
-162,-5,Lamical Perine,Florida,RBF,"5'11""",227,SR,2020-01-03
-163,-5,John Simpson,Clemson,OG,"6'4""",330,SR,2020-01-03
-164,+49,Ke'Shawn Vaughn,Vanderbilt,RBF,"5'10""",215,SR,2020-01-03
-165,-6,James Proche,SMU,WRS,"5'11""",190,RSR,2020-01-03
-166,+82,Kuony Deng,California,OLB,"6'6""",220,RJR,2020-01-03
-167,-7,Patrick Johnson,Tulane,EDGE,"6'3""",255,JR,2020-01-03
-168,-7,Nico Collins,Michigan,WRF,"6'4""",222,JR,2020-01-03
-169,-7,Levante Bellamy,Western Michigan,RBC,"5'9""",185,SR,2020-01-03
-170,-7,Antoine Brooks Jr.,Maryland,S,"5'11""",210,SR,2020-01-03
-171,-7,Trevis Gipson,Tulsa,DL5T,"6'4""",268,RSR,2020-01-03
-172,-7,Denzel Mims,Baylor,WRF,"6'3""",197,SR,2020-01-03
-173,-7,Jeffrey McCulloch,Texas,ILB,"6'3""",245,SR,2020-01-03
-174,-6,Jace Whittaker,Arizona,CB,"5'11""",185,RSR,2020-01-03
-175,-6,Nick Coe,Auburn,DL5T,"6'5""",282,JR,2020-01-03
-176,-6,Ross Blacklock,TCU,DL3T,"6'4""",305,JR,2020-01-03
-177,-6,Mohamed Barry,Nebraska,ILB,"6'1""",245,SR,2020-01-03
-178,-6,Zack Shackelford,Texas,OC,"6'4""",305,SR,2020-01-03
-179,-6,Krys Barnes,UCLA,ILB,"6'1""",235,RJR,2020-01-03
-180,NEW,Amik Robertson,Louisiana Tech,CB,"5'9""",183,JR,2020-01-03
-181,-6,D.J. Wonnum,South Carolina,EDGE,"6'5""",255,SR,2020-01-03
-182,-6,Jordan Elliott,Missouri,DL3T,"6'4""",315,RJR,2020-01-03
-183,-6,Jashon Cornell,Ohio State,DL5T,"6'3""",280,RSR,2020-01-03
-184,-6,Damien Lewis,LSU,OG,"6'2""",335,SR,2020-01-03
-185,-6,Essang Bassey,Wake Forest,S,"5'10""",190,SR,2020-01-03
-186,-4,Treshaun Hayward,Western Michigan,ILB,"6'1""",225,JR,2020-01-03
-187,-4,Justin Strnad,Wake Forest,OLB,"6'3""",230,RSR,2020-01-03
-188,-4,Bradlee Anae,Utah,EDGE,"6'3""",265,SR,2020-01-03
-189,-4,Michael Warren II,Cincinnati,RBF,"5'11""",218,JR,2020-01-03
-190,-4,Brandon Aiyuk,Arizona State,WRF,"6'0""",208,SR,2020-01-03
-191,-4,Colby Parkinson,Stanford,TE,"6'7""",240,JR,2020-01-03
-192,NEW,Caleb Huntley,Ball State,RBC,"5'10""",226,JR,2020-01-03
-193,-5,Kamal Martin,Minnesota,ILB,"6'3""",235,SR,2020-01-03
-194,-5,John Molchon,Boise State,OG,"6'5""",322,RSR,2020-01-03
-195,-5,Luq Barcoo,San Diego State,CB,"6'1""",175,SR,2020-01-03
-196,-5,K.J. Hill,Ohio State,WRF,"6'0""",195,SR,2020-01-03
-197,-5,Alex Highsmith,Charlotte,EDGE,"6'3""",244,RSR,2020-01-03
-198,-5,Kylan Johnson,Pitt,OLB,"6'2""",230,SR,2020-01-03
-199,-5,Cam Brown,Penn State,ILB,"6'5""",230,SR,2020-01-03
-200,-5,Terence Steele,Texas Tech,OT,"6'6""",310,SR,2020-01-03
-201,-5,Trevon Hill,Miami (FL),EDGE,"6'3""",245,SR,2020-01-03
-202,-5,O'Rien Vance,Iowa State,OLB,"6'1""",231,RSO,2020-01-03
-203,-4,Terrell Burgess,Utah,S,"6'0""",194,SR,2020-01-03
-204,-4,Juwuan Jones,Western Kentucky,DL5T,"6'3""",270,RSO,2020-01-03
-205,-4,Levonta Taylor,Florida State,CB,"5'10""",181,SR,2020-01-03
-206,-4,Alohi Gilman,Notre Dame,S,"5'11""",201,SR,2020-01-03
-207,-4,Saahdiq Charles,LSU,OT,"6'5""",305,JR,2020-01-03
-208,NEW,Stanford Samuels III,Florida State,CB,"6'2""",185,JR,2020-01-03
-209,-4,Shane Buechele,SMU,QB,6'1'',207,JR,2020-01-03
-210,NEW,Kamren Curl,Arkansas,S,"6'2""",198,JR,2020-01-03
-211,-4,Carter Coughlin,Minnesota,OLB,"6'4""",245,SR,2020-01-03
-212,-4,Eno Benjamin,Arizona State,RBF,"5'10""",201,JR,2020-01-03
-213,-4,John Houston Jr.,USC,OLB,"6'3""",220,SR,2020-01-03
-214,-3,Kenny Cooper,Georgia Tech,OC,"6'2""",305,SR,2020-01-03
-215,-3,Simon Stepaniak,Indiana,OG,"6'4""",319,SR,2020-01-03
-216,-3,Casey Toohill,Stanford,ILB,"6'4""",247,SR,2020-01-03
-217,-3,J.R. Reed,Georgia,S,"6'1""",199,SR,2020-01-03
-218,-3,Shaun Bradley,Temple,OLB,"6'1""",225,SR,2020-01-03
-219,-3,Michael Onwenu,Michigan,OG,"6'3""",350,SR,2020-01-03
-220,-3,Kendall Futrell,East Carolina,OLB,"6'2""",226,SR,2020-01-03
-221,-3,Dante Olson,Montana,ILB,"6'3""",237,SR,2020-01-03
-222,-3,Mike Hampton,South Florida,CB,"6'1""",180,JR,2020-01-03
-223,-43,Salvon Ahmed,Washington,RBC,"5'11""",196,RJR,2020-01-03
-224,-4,Kellen Mond,Texas A&M,QB,"6'2""",217,JR,2020-01-03
-225,-4,Chase Lucas,Arizona State,CB,"6'0""",175,RJR,2020-01-03
-226,-4,Jared Pinkney,Vanderbilt,TE,"6'4""",255,RJR,2020-01-03
-227,-4,David Reese II,Florida,ILB,"6'1""",248,SR,2020-01-03
-228,-4,T.J. Brunson,South Carolina,ILB,"6'0""",230,SR,2020-01-03
-229,+134,Sterling Hofrichter,Syracuse,P,"5'9""",199,SR,2020-01-03
-230,-5,Antonio Gandy-Golden,Liberty,WRF,"6'4""",216,SR,2020-01-03
-231,-5,Trystan Colon-Castillo,Missouri,OC,"6'4""",315,JR,2020-01-03
-232,-5,Kyahva Tezino,San Diego State,OLB,"6'0""",230,SR,2020-01-03
-233,-5,Dominik Eberle,Utah State,PK,"6'2""",195,SR,2020-01-03
-234,-5,T.J. Vasher,Texas Tech,WRF,"6'6""",190,JR,2020-01-03
-235,-5,Tomon Fox,North Carolina,ILB,"6'3""",260,JR,2020-01-03
-236,-5,Julian Blackmon,Utah,S,"6'1""",195,SR,2020-01-03
-237,-5,Tyler Clark,Georgia,DL1T,"6'4""",300,SR,2020-01-03
-238,-5,DeAngelo Malone,Western Kentucky,OLB,"6'4""",230,JR,2020-01-03
-239,-5,Josiah Coatney,Ole Miss,DL3T,"6'4""",314,SR,2020-01-03
-240,+244,Tony Jones Jr.,Notre Dame,RBF,"5'11""",227,JR,2020-01-03
-241,-5,Chauncey Rivers,Mississippi State,DL5T,"6'3""",275,RSR,2020-01-03
-242,-5,Tommy Kraemer,Notre Dame,OG,"6'6""",319,SR,2020-01-03
-243,NEW,Javon Leake,Maryland,RBF,"6'0""",206,JR,2020-01-03
-244,-6,Bryan Edwards,South Carolina,WRF,"6'3""",215,SR,2020-01-03
-245,-6,Braden Mann,Texas A&M,P,"5'11""",195,SR,2020-01-03
-246,-6,Benning Potoae,Washington,DL5T,"6'3""",285,SR,2020-01-03
-247,-6,Willie Gay Jr.,Mississippi State,OLB,"6'2""",235,JR,2020-01-03
-248,-6,Ty Chandler,Tennessee,RBC,"5'11""",201,JR,2020-01-03
-249,-6,Harrison Bryant,Florida Atlantic,TE,"6'5""",240,SR,2020-01-03
-250,-5,Ifeanyi Maijeh,Temple,DL3T,"6'2""",285,RSO,2020-01-03
-251,-5,Cale Garrett,Missouri,ILB,"6'3""",230,SR,2020-01-03
-252,-5,Marlon Tuipulotu,USC,DL3T,"6'3""",305,RSO,2020-01-03
-253,-5,Keisean Lucier-South,UCLA,EDGE,"6'4""",235,SR,2020-01-03
-254,-5,Kendall Coleman,Syracuse,EDGE,"6'3""",266,SR,2020-01-03
-255,-5,T.J. Carter,Memphis,CB,"5'11""",180,JR,2020-01-03
-256,-5,Bryce Perkins,Virginia,QB,6'3'',215,SR,2020-01-03
-257,-5,Darius Anderson,TCU,RBF,"5'11""",212,SR,2020-01-03
-258,-5,Sean Pollard,Clemson,OC,"6'5""",320,SR,2020-01-03
-259,-5,John Lako,Akron,ILB,"6'2""",225,SR,2020-01-03
-260,-5,Brendon Hayes,UCF,DL5T,"6'3""",293,RSR,2020-01-03
-261,-5,Jason Strowbridge,North Carolina,DL3T,"6'3""",285,SR,2020-01-03
-262,-5,A.J. Green,Oklahoma State,CB,"6'1""",194,SR,2020-01-03
-263,NEW,Lynn Bowden Jr.,Kentucky,WRF,"6'1""",199,JR,2020-01-03
-264,-5,Myles Dorn,North Carolina,S,"6'1""",198,SR,2020-01-03
-265,-5,Carlos Davis,Nebraska,DL3T,"6'2""",320,SR,2020-01-03
-266,-5,Benning Potoa'e,Washington,DL3T,"6'3""",290,SR,2020-01-03
-267,+22,Jessie Lemonier,Liberty,EDGE,"6'3""",240,SR,2020-01-03
-268,-6,Eric Lee Jr.,Nebraska,S,"6'0""",215,SR,2020-01-03
-269,-6,Jeremy Chinn,Southern Illinois,S,"6'3""",208,SR,2020-01-03
-270,-6,Breiden Fehoko,LSU,DL5T,"6'4""",291,SR,2020-01-03
-271,-6,Joshua Kelley,UCLA,RBF,"5'11""",204,SR,2020-01-03
-272,-6,Jaquarius Landrews,Mississippi State,S,"5'11""",197,SR,2020-01-03
-273,-6,DeMarkus Acy,Missouri,CB,"6'2""",195,SR,2020-01-03
-274,-6,Daniel Bituli,Tennessee,ILB,"6'3""",244,SR,2020-01-03
-275,+119,Adam Trautman,Dayton,TE,"6'5""",250,RSR,2020-01-03
-276,-7,Tre Walker,San Jose State,WRS,5'11'',180,JR,2020-01-03
-277,-7,De'Jon Harris,Arkansas,ILB,"6'0""",244,SR,2020-01-03
-278,-7,Shea Patterson,Michigan,QB,"6'2""",200,SR,2020-01-03
-279,-7,Jay Tufele,USC,DL3T,"6'3""",310,RSO,2020-01-03
-280,-7,Broderick Washington Jr.,Texas Tech,DL3T,"6'3""",305,SR,2020-01-03
-281,-7,John Penisini,Utah,DL3T,"6'2""",320,SR,2020-01-03
-282,-7,Jordon Scott,Oregon,DL1T,"6'1""",329,JR,2020-01-03
-283,-7,Tommy Townsend,Florida,P,"6'2""",183,RSR,2020-01-03
-284,-7,Damonte Coxie,Memphis,WRF,"6'3""",200,SR,2020-01-03
-285,-7,Thomas Graham Jr.,Oregon,CB,"5'11""",191,JR,2020-01-03
-286,-7,Isaiah Hodgins,Oregon State,WRF,"6'4""",209,JR,2020-01-03
-287,-7,Deslin Alexandre,Pitt,DL5T,"6'4""",265,RSO,2020-01-03
-288,-7,Colin Schooler,Arizona,ILB,"6'0""",236,JR,2020-01-03
-289,-7,Bravvion Roy,Baylor,DL1T,6'1,330,SR,2020-01-03
-290,-7,Kary Vincent Jr.,LSU,CB,"5'10""",182,JR,2020-01-03
-291,-7,Patrick Taylor Jr.,Memphis,RBF,"6'3""",227,SR,2020-01-03
-292,-7,Robert Landers,Ohio State,DL3T,"6'1""",285,SR,2020-01-03
-293,-7,Nate Stanley,Iowa,QB,"6'4""",243,SR,2020-01-03
-294,-7,Jahad Woods,Washington State,OLB,"6'0""",225,RJR,2020-01-03
-295,-6,Tipa Galeai,Utah State,EDGE,"6'5""",230,SR,2020-01-03
-296,+83,Gerold Bright,Utah State,RBC,"5'9""",195,SR,2020-01-03
-297,+150,Cole Van Lanen,Wisconsin,OT,"6'5""",312,RJR,2020-01-03
-298,-8,LaDarius Hamilton,North Texas,EDGE,"6'3""",255,SR,2020-01-03
-299,-8,Anthony McFarland Jr.,Maryland,RBC,"5'8""",193,JR,2020-01-03
-300,-8,Reggie Corbin,Illinois,RBF,"5'10""",200,JR,2020-01-03
-301,+79,J.J. Taylor,Arizona,RBC,"5'6""",184,RJR,2020-01-03
-302,-9,Josh Metellus,Michigan,S,"5'11""",215,SR,2020-01-03
-303,-9,David Dowell,Michigan State,S,"6'1""",205,SR,2020-01-03
-304,-9,Josiah Scott,Michigan State,CB,"5'10""",168,JR,2020-01-03
-305,-9,Jared Rice,Fresno State,TE,"6'5""",243,SR,2020-01-03
-306,-9,Jet Toner,Stanford,PK,"6'4""",201,SR,2020-01-03
-307,-9,Kendrick Rogers,Texas A&M,WRF,6'4'',204,JR,2020-01-03
-308,-9,Doug Costin,Miami (OH),DL3T,"6'2""",295,SR,2020-01-03
-309,-9,Matt Peart,Connecticut,OT,"6'7""",303,RSR,2020-01-03
-310,-9,Erroll Thompson,Mississippi State,ILB,"6'1""",250,JR,2020-01-03
-311,NEW,DeeJay Dallas,Miami (FL),RBF,"5'10""",214,JR,2020-01-03
-312,-9,Spencer Brown,UAB,FB,"6'0""",230,JR,2020-01-03
-313,-9,Lakiem Williams,Syracuse,OLB,"6'0""",225,SR,2020-01-03
-314,-9,Delontae Scott,SMU,EDGE,"6'5""",250,SR,2020-01-03
-315,-9,Troy Pride Jr.,Notre Dame,CB,"5'11""",192,SR,2020-01-03
-316,-9,Shaq Smith,Maryland,ILB,"6'2""",250,RJR,2020-01-03
-317,-9,Logan Wilson,Wyoming,ILB,"6'2""",250,RSR,2020-01-03
-318,-9,Javahn Ferguson,New Mexico State,ILB,"6'1""",230,SR,2020-01-03
-319,-9,Tra Minter,South Alabama,RBC,"5'9""",200,JR,2020-01-03
-320,-9,Sean Adesanya,Central Michigan,EDGE,"6'3""",240,SR,2020-01-03
-321,-9,Jalen Elliott,Notre Dame,S,"6'0""",207,SR,2020-01-03
-322,-9,Dicaprio Bootle,Nebraska,CB,"5'10""",190,JR,2020-01-03
-323,-9,Rodney Smith,Minnesota,RBF,"5'11""",210,SR,2020-01-03
-324,-9,James Gilbert,Kansas State,RBC,"5'9""",198,JR,2020-01-03
-325,-9,Bryan London II,Texas State,OLB,"6'2""",232,SR,2020-01-03
-326,-9,Tyler Coyle,Connecticut,S,"6'0""",207,RJR,2020-01-03
-327,-9,Chase Allen,Iowa State,TE,"6'6""",240,SR,2020-01-03
-328,-9,Cedric Byrd II,Hawaii,WRS,"5'9""",175,SR,2020-01-03
-329,-9,Garrett Marino,UAB,DL3T,"6'2""",290,SR,2020-01-03
-330,-9,Rodrigo Blankenship,Georgia,PK,"6'1""",191,SR,2020-01-03
-331,-9,Cheyenne O'Grady,Arkansas,TE,"6'4""",256,SR,2020-01-03
-332,-9,Jake Verity,East Carolina,PK,"6'1""",185,SR,2020-01-03
-333,-9,Patrick Queen,LSU,ILB,"6'2""",232,JR,2020-01-03
-334,-9,Larry Rountree III,Missouri,RBF,"5'10""",210,JR,2020-01-03
-335,-9,Rashad Robinson,James Madison,CB,"5'11""",185,SR,2020-01-03
-336,-9,Brandon Wright,Georgia State,P,"5'10""",182,SR,2020-01-03
-337,-9,Khalil Brooks,Middle Tennessee,OLB,"5'11""",206,RSR,2020-01-03
-338,-9,Chase Claypool,Notre Dame,WRF,"6'4""",227,SR,2020-01-03
-339,-9,Robert Windsor,Penn State,DL3T,"6'4""",289,SR,2020-01-03
-340,-9,Jordan Smith,UAB,EDGE,"6'7""",250,RSO,2020-01-03
-341,-9,Luke Campbell,Michigan State,OT,"6'5""",302,JR,2020-01-03
-342,-9,Richie Worship,Purdue,FB,"6'0""",250,SR,2020-01-03
-343,-9,Nyles Pinckney,Clemson,DL3T,"6'1""",305,RJR,2020-01-03
-344,-9,Tyler Shelvin,LSU,DL1T,"6'3""",362,RSO,2020-01-03
-345,-9,Charles Williams,UNLV,RBC,"5'9""",190,RJR,2020-01-03
-346,-9,Jon Runyan,Michigan,OG,"6'5""",310,RSR,2020-01-03
-347,-9,Gabriel Davis,UCF,WRF,6'3'',212,JR,2020-01-03
-348,-9,Bryce Huff,Memphis,EDGE,"6'3""",245,JR,2020-01-03
-349,-9,Cesar Ruiz,Michigan,OC,"6'4""",319,JR,2020-01-03
-350,-9,Christian Albright,Ball State,OLB,"6'2""",233,JR,2020-01-03
-351,-9,Jordan Williams,Clemson,DL3T,"6'4""",305,RSO,2020-01-03
-352,-9,Jordan Fuller,Ohio State,S,"6'2""",205,SR,2020-01-03
-353,-9,Xavier Jones,SMU,RBF,"5'11""",208,SR,2020-01-03
-354,-9,Charles Snowden,Virginia,EDGE,"6'7""",225,JR,2020-01-03
-355,-9,Dane Jackson,Pitt,CB,"6'0""",190,SR,2020-01-03
-356,-9,Ellison Hubbard,Colorado State,DL3T,"6'1""",285,JR,2020-01-03
-357,-9,Nate Evans,UCF,ILB,"6'1""",244,SR,2020-01-03
-358,-9,Easop Winston Jr.,Washington State,WRS,5'11'',190,SR,2020-01-03
-359,-9,Jamario Bell,Arkansas,EDGE,"6'5""",265,SR,2020-01-03
-360,-9,Leo Lewis,Mississippi State,ILB,"6'2""",245,SR,2020-01-03
-361,-9,Greg Eiland,Mississippi State,OT,"6'8""",335,JR,2020-01-03
-362,-9,Chapelle Russell,Temple,OLB,"6'1""",215,SR,2020-01-03
-363,-9,Jonathan Song,TCU,PK,"5'10""",175,SR,2020-01-03
-364,-8,Sage Lewis,Florida International,ILB,"6'1""",240,SR,2020-01-03
-365,-8,Kalija Lipscomb,Vanderbilt,WRF,"6'1""",200,SR,2020-01-03
-366,NEW,Kyle Markway,South Carolina,TE,"6'4""",250,RJR,2020-01-03
-367,-7,Chris Williamson,Minnesota,CB,"6'0""",198,SR,2020-01-03
-368,-7,Xavier Lyas,NC State,EDGE,"6'4""",239,RSO,2020-01-03
-369,-7,Myles Bryant,Washington,CB,"5'9""",184,SR,2020-01-03
-370,-7,Phidarian Mathis,Alabama,DL1T,"6'4""",317,RSO,2020-01-03
-371,-7,Charleston Rambo,Oklahoma,WRF,6'1'',175,RSO,2020-01-03
-372,-7,Jeff Thomas,Miami (FL),WRS,5'10'',180,JR,2020-01-03
-373,-7,Malcolm Roach,Texas,DL5T,"6'3""",290,SR,2020-01-03
-374,NEW,Darius Bradwell,Tulane,FB,"6'1""",230,SR,2020-01-03
-375,-8,Najee Clayton,Western Michigan,OLB,"6'2""",220,SR,2020-01-03
-376,-8,Benny LeMay,Charlotte,RBF,"6'0""",218,SR,2020-01-03
-377,-8,Luke Farrell,Ohio State,TE,"6'6""",244,SR,2020-01-03
-378,-8,Christian Rector,USC,EDGE,"6'4""",275,RSR,2020-01-03
-379,-8,Clay Johnston,Baylor,ILB,"6'1""",236,SR,2020-01-03
-380,-8,Cole McDonald,Hawaii,QB,"6'4""",220,JR,2020-01-03
-381,-8,William Bradley-King,Arkansas State,EDGE,"6'4""",248,JR,2020-01-03
-382,-8,Scott Frantz,Kansas State,OT,"6'5""",303,SR,2020-01-03
-383,+77,Evin Ksiezarczyk,Buffalo,OT,"6'6""",315,RSR,2020-01-03
-384,-9,Asmar Bilal,Notre Dame,ILB,"6'2""",227,RSR,2020-01-03
-385,-9,Isaiahh Loudermilk,Wisconsin,DL5T,"6'7""",306,JR,2020-01-03
-386,-9,Mark Gilbert,Duke,CB,"6'1""",175,RJR,2020-01-03
-387,-9,George Lea,Arizona State,DL5T,"6'3""",275,RSR,2020-01-03
-388,-7,Mykal Walker,Fresno State,ILB,"6'3""",220,SR,2020-01-03
-389,-7,Nigel Warrior,Tennessee,S,"6'0""",191,SR,2020-01-03
-390,-7,Hunter Bryant,Washington,TE,"6'2""",241,RJR,2020-01-03
-391,-7,Keith Taylor,Washington,CB,"6'3""",200,JR,2020-01-03
-392,-7,Joe Reed,Virginia,WRF,6'1'',215,SR,2020-01-03
-393,-7,Mike Danna,Michigan,EDGE,"6'2""",253,RSR,2020-01-03
-394,-7,Marcel Spears Jr.,Iowa State,OLB,"6'1""",215,RSR,2020-01-03
-395,-7,Cohl Cabral,Arizona State,OC,"6'5""",291,SR,2020-01-03
-396,-7,Cooper Rothe,Wyoming,PK,"5'11""",178,SR,2020-01-03
-397,-7,Connor Slomka,Army,FB,"6'0""",240,SR,2020-01-03
-398,-7,Zach Robertson,Arizona State,OT,"6'5""",335,SR,2020-01-03
-399,-7,Tyler Higby,Michigan State,OG,"6'4""",303,SR,2020-01-03
-400,+91,Darrynton Evans,Appalachian State,RBF,"5'11""",190,JR,2020-01-03
-401,-8,Moe Neal,Syracuse,RBC,"5'11""",195,SR,2020-01-03
-402,-7,Marco Wilson,Florida,CB,"5'11""",194,JR,2020-01-03
-403,-7,Marquiss Spencer,Mississippi State,DL5T,"6'4""",285,SR,2020-01-03
-404,-7,Van Jefferson,Florida,WRF,"6'2""",197,SR,2020-01-03
-405,-7,Reggie Floyd,Virginia Tech,S,"6'0""",222,SR,2020-01-03
-406,-7,Adrian Killins Jr.,UCF,RBC,"5'8""",164,SR,2020-01-03
-407,-7,Trey Sermon,Oklahoma,RBF,"6'0""",224,JR,2020-01-03
-408,-7,Steven Montez,Colorado,QB,"6'5""",230,SR,2020-01-03
-409,-7,Blake Gallagher,Northwestern,OLB,"6'1""",235,JR,2020-01-03
-410,-7,Ryan McCollum,Texas A&M,OC,"6'5""",305,JR,2020-01-03
-411,-7,Marquez Callaway,Tennessee,WRF,"6'2""",200,SR,2020-01-03
-412,-7,Malik Herring,Georgia,DL5T,"6'3""",280,JR,2020-01-03
-413,-7,Ty Tyler,Louisville,EDGE,"6'3""",262,RJR,2020-01-03
-414,-7,Mitchell Wilcox,South Florida,TE,"6'5""",245,SR,2020-01-03
-415,-7,Mason Fine,North Texas,QB,"5'11""",190,SR,2020-01-03
-416,-7,Cedric Wilcots II,New Mexico State,EDGE,"6'4""",245,RSR,2020-01-03
-417,-7,Mike Panasiuk,Michigan State,DL3T,"6'4""",300,SR,2020-01-03
-418,-7,Tre'Vour Wallace-Simms,Missouri,OG,"6'5""",330,SR,2020-01-03
-419,-7,JaQuan Bailey,Iowa State,EDGE,"6'2""",251,SR,2020-01-03
-420,-7,Greg Eisworth,Iowa State,CB,"6'0""",198,RJR,2020-01-03
-421,-7,Dylan Singleton,Duke,S,"5'11""",190,SR,2020-01-03
-422,-7,Britain Covey,Utah,WRS,"5'8""",170,JR,2020-01-03
-423,-7,Nevelle Clarke,UCF,CB,"6'1""",187,RSR,2020-01-03
-424,-7,Scottie Phillips,Ole Miss,RBC,"5'8""",212,SR,2020-01-03
-425,-7,Tyler Vaughns,USC,WRF,"6'2""",185,RJR,2020-01-03
-426,-7,Dalton Keene,Virginia Tech,TE,"6'4""",246,JR,2020-01-03
-427,-7,Reggie Walker,Kansas State,EDGE,"6'2""",246,SR,2020-01-03
-428,-7,Jordan Johnson,UCF,OC,"6'2""",320,SR,2020-01-03
-429,-7,Tarik Black,Michigan,WRF,"6'3""",215,JR,2020-01-03
-430,-7,Kiel Pollard,South Carolina,FB,"6'1""",235,SR,2020-01-03
-431,-7,Cooper Edmiston,Tulsa,ILB,"6'3""",237,SR,2020-01-03
-432,-7,Naquan Jones,Michigan State,DL1T,"6'4""",339,JR,2020-01-03
-433,-7,Tanner Muse,Clemson,S,"6'2""",231,SR,2020-01-03
-434,-7,Davion Taylor,Colorado,OLB,"6'2""",220,SR,2020-01-03
-435,-7,Sean McKeon,Michigan,TE,"6'5""",251,SR,2020-01-03
-436,-7,Tavien Feaster,South Carolina,RBF,"5'11""",220,SR,2020-01-03
-437,-7,Camryn Bynum,California,CB,"6'0""",190,RJR,2020-01-03
-438,-7,Joseph Charlton,South Carolina,P,"6'5""",190,SR,2020-01-03
-439,-7,Chad Smith,Clemson,ILB,"6'3""",240,RSR,2020-01-03
-440,-7,Marvin Kinsey Jr.,Colorado State,RBF,"6'1""",206,SR,2020-01-03
-441,-7,David Anenih,Houston,EDGE,"6'3""",237,JR,2020-01-03
-442,-7,Janarius Robinson,Florida State,EDGE,"6'5""",261,RJR,2020-01-03
-443,NEW,Keith Ismael,San Diego State,OC,"6'3""",310,JR,2020-01-03
-444,NEW,Ezra Cleveland,Boise State,OT,"6'6""",310,RJR,2020-01-03
-445,-7,Juju Hughes,Fresno State,S,"5'11""",188,SR,2020-01-03
-446,-7,John Reid,Penn State,CB,"5'11""",184,SR,2020-01-03
-447,-7,Steven Gonzalez,Penn State,OG,"6'4""",349,RSR,2020-01-03
-448,-7,Colton McKivitz,West Virginia,OT,"6'7""",312,RSR,2020-01-03
-449,-7,Jalen Price,East Carolina,DL3T,"6'2""",297,SR,2020-01-03
-450,-7,Quartney Davis,Texas A&M,WRF,6'2'',200,JR,2020-01-03
-451,-7,Marcus Keyes,Oklahoma State,OG,"6'3""",309,RSR,2020-01-03
-452,-7,Brady Ross,Iowa,FB,"6'0""",240,SR,2020-01-03
-453,-7,Fletcher Adams,Mississippi State,DL5T,"6'2""",265,RSR,2020-01-03
-454,-6,Blake Gillikin,Penn State,P,"6'2""",195,SR,2020-01-03
-455,-6,Emeka Emezie,NC State,WRF,6'3'',210,JR,2020-01-03
-456,-6,Luke Juriga,Western Michigan,OT,"6'4""",295,RSR,2020-01-03
-457,-6,Trajan Bandy,Miami (FL),CB,"5'9""",188,JR,2020-01-03
-458,-6,Jesse Osuna,San Jose State,OLB,"6'0""",223,RSR,2020-01-03
-459,-6,Kindle Vildor,Georgia Southern,CB,"5'11""",190,SR,2020-01-03
-460,-6,J.D. Spielman,Nebraska,WRS,5'9'',180,JR,2020-01-03
-461,-6,Marcus Norman,South Florida,OT,"6'6""",316,RSR,2020-01-03
-462,-6,Isaiah Chambers,Houston,EDGE,"6'5""",265,RJR,2020-01-03
-463,-6,Quintez Cephus,Wisconsin,WRF,6'1'',207,JR,2020-01-03
-464,-6,James Smith-Williams,NC State,EDGE,"6'3""",270,RSR,2020-01-03
-465,-6,Damar Hamlin,Pitt,S,"6'1""",195,SR,2020-01-03
-466,-5,Juwan Johnson,Oregon,WRF,"6'4""",227,SR,2020-01-03
-467,-5,Michael Ojemudia,Iowa,CB,"6'1""",199,SR,2020-01-03
-468,-5,Javaris Davis,Auburn,CB,"5'9""",179,SR,2020-01-03
-469,-5,Josiah Deguara,Cincinnati,TE,"6'3""",240,RSR,2020-01-03
-470,-5,Brady White,Memphis,QB,6'3'',215,JR,2020-01-03
-471,-5,Raymond Calais,Louisiana-Lafayette,RBC,"5'9""",180,SR,2020-01-03
-472,-5,Michael Pitts,Cincinnati,EDGE,"6'4""",248,JR,2020-01-03
-473,-5,Chauncey Manac,Louisiana-Lafayette,EDGE,"6'3""",252,RJR,2020-01-03
-474,-5,Alize Ward,Stephen F. Austin,S,"5'11""",205,SR,2020-01-03
-475,-5,Giovanni Ricci,Western Michigan,TE,"6'3""",240,RSR,2020-01-03
-476,-5,Dan Moore,Texas A&M,OT,"6'5""",325,JR,2020-01-03
-477,-5,Isaiah Zuber,Mississippi State,WRS,"5'11""",186,SR,2020-01-03
-478,-5,Noah Togiai,Oregon State,TE,"6'4""",241,RSR,2020-01-03
-479,-5,Patrick Carr,Houston,RBC,"5'10""",205,SR,2020-01-03
-480,NEW,Trishton Jackson,Syracuse,WRF,"6'1""",191,JR,2020-01-03
-481,-5,Tra Barnett,Georgia State,RBC,5'10,185,SR,2020-01-03
-482,-5,Joey Magnifico,Memphis,TE,"6'4""",234,RSR,2020-01-03
-483,-5,Levi Brown,Marshall,OT,"6'4""",280,RSR,2020-01-03
-484,-5,B.J. Smith,Troy,RBC,"5'9""",203,SR,2020-01-03
-485,-5,Ray Lima,Iowa State,DL3T,"6'3""",302,RSR,2020-01-03
-486,-5,Brian Lewerke,Michigan State,QB,"6'3""",214,SR,2020-01-03
-487,-5,JaMycal Hasty,Baylor,RBC,"5'9""",205,RSR,2020-01-03
-488,-5,Marquel Harrell,Auburn,OG,"6'3""",309,SR,2020-01-03
-489,-5,Binjimen Victor,Ohio State,WRF,"6'4""",195,SR,2020-01-03
-490,-5,Karamo Dioubate,Temple,DL3T,"6'3""",295,SR,2020-01-03
-491,-5,Johnathon Johnson,Missouri,WRS,"5'8""",179,SR,2020-01-03
-492,-5,Gus Lavaka,Oregon State,OG,"6'4""",358,SR,2020-01-03
-493,-5,Kylan Wilborn,Arizona,EDGE,"6'2""",248,JR,2020-01-03
-494,-5,Kesean Strong,Old Dominion,RBC,5'10,197,SR,2020-01-03
-495,-4,Mekhi Brown,Tennessee State,EDGE,"6'5""",250,RSR,2020-01-03
-496,-4,Tyrie Cleveland,Florida,WRF,"6'2""",206,SR,2020-01-03
-497,-4,Nick Westbrook,Indiana,WRF,"6'3""",216,RSR,2020-01-03
-498,-4,Isaiah Wright,Temple,WRF,6'2'',220,SR,2020-01-03
-499,-4,Perry Young,Cincinnati,OLB,"5'11""",220,SR,2020-01-03
-500,-4,Juwan Washington,San Diego State,RBC,"5'7""",190,SR,2020-01-03
+Rank,Change,Player,School,Position,Height,Weight,Position2,Date,DraftStatus
+1,--,Joe Burrow,LSU,QB,"6'4""",216,SR,2020-01-03,Eligible
+2,--,Derrick Brown,Auburn,DL1T,"6'5""",318,SR,2020-01-03,Eligible
+3,--,Chase Young,Ohio State,EDGE,"6'5""",265,JR,2020-01-03,Declared
+4,--,Jerry Jeudy,Alabama,WRF,"6'1""",192,JR,2020-01-03,Underclassman
+5,--,Justin Herbert,Oregon,QB,"6'6""",225,SR,2020-01-03,Eligible
+6,--,Andrew Thomas,Georgia,OT,"6'5""",320,JR,2020-01-03,Declared
+7,--,Jeffrey Okudah,Ohio State,CB,"6'1""",200,JR,2020-01-03,Declared
+8,+2,Yetur Gross-Matos,Penn State,EDGE,"6'4""",262,JR,2020-01-03,Declared
+9,+2,A.J. Epenesa,Iowa,DL5T,"6'6""",280,JR,2020-01-03,Underclassman
+10,-2,Austin Jackson,USC,OT,"6'6""",310,JR,2020-01-03,Underclassman
+11,+1,Isaiah Simmons,Clemson,S,"6'4""",225,RJR,2020-01-03,Underclassman
+12,-3,Kristian Fulton,LSU,CB,"6'0""",192,SR,2020-01-03,Eligible
+13,+1,CeeDee Lamb,Oklahoma,WRF,"6'2""",189,JR,2020-01-03,Declared
+14,+1,Tristan Wirfs,Iowa,OT,"6'5""",320,JR,2020-01-03,Underclassman
+15,+2,Javon Kinlaw,South Carolina,DL3T,"6'6""",302,SR,2020-01-03,Eligible
+16,+2,Tua Tagovailoa,Alabama,QB,"6'1""",218,JR,2020-01-03,Underclassman
+17,+2,Tee Higgins,Clemson,WRF,"6'4""",200,JR,2020-01-03,Underclassman
+18,+2,Tyler Biadasz,Wisconsin,OC,"6'3""",315,SR,2020-01-03,Eligible
+19,+2,Jonathan Taylor,Wisconsin,RBF,"5'11""",215,JR,2020-01-03,Declared
+20,+3,Curtis Weaver,Boise State,EDGE,"6'3""",266,RJR,2020-01-03,Declared
+21,+4,Trevon Diggs,Alabama,CB,"6'2""",200,JR,2020-01-03,Underclassman
+22,+36,Jedrick Wills,Alabama,OT,"6'5""",316,JR,2020-01-03,Underclassman
+23,-6,Grant Delpit,LSU,S,"6'3""",203,JR,2020-01-03,Underclassman
+24,+3,Laviska Shenault,Colorado,WRF,"6'2""",220,JR,2020-01-03,Declared
+25,+3,Raekwon Davis,Alabama,DL3T,"6'7""",306,SR,2020-01-03,Eligible
+26,+17,Kenneth Murray,Oklahoma,ILB,"6'2""",238,JR,2020-01-03,Declared
+27,-4,C.J. Henderson,Florida,CB,"6'1""",186,JR,2020-01-03,Declared
+28,+1,Henry Ruggs III,Alabama,WRF,"6'0""",183,JR,2020-01-03,Underclassman
+29,+15,Solomon Kindley,Georgia,OG,"6'4""",335,JR,2020-01-03,Underclassman
+30,+1,Travis Etienne,Clemson,RBF,"5'10""",200,JR,2020-01-03,Underclassman
+31,+1,D'Andre Swift,Georgia,RBF,"5'9""",215,JR,2020-01-03,Declared
+32,+1,Trey Adams,Washington,OT,"6'7""",315,SR,2020-01-03,Eligible
+33,+5,Anfernee Jennings,Alabama,OLB,"6'3""",259,RSR,2020-01-03,Eligible
+34,--,Prince Tega Wanogho,Auburn,OT,"6'7""",310,SR,2020-01-03,Eligible
+35,--,Cameron Dantzler,Mississippi State,CB,"6'2""",185,JR,2020-01-03,Declared
+36,--,Tyler Johnson,Minnesota,WRF,"6'2""",200,SR,2020-01-03,Eligible
+37,+1,Creed Humphrey,Oklahoma,OC,"6'4""",328,RSO,2020-01-03,Underclassman
+38,-15,Terrell Lewis,Alabama,EDGE,"6'5""",255,RJR,2020-01-03,Declared
+39,+6,Xavier McKinney,Alabama,S,"6'1""",196,JR,2020-01-03,Underclassman
+40,+3,Bryce Hall,Virginia,CB,"6'1""",200,SR,2020-01-03,Eligible
+41,-2,Jalen Hurts,Oklahoma,QB,"6'2""",210,SR,2020-01-03,Eligible
+42,+34,Troy Dye,Oregon,ILB,"6'4""",224,SR,2020-01-03,Eligible
+43,-3,J.K. Dobbins,Ohio State,RBF,"5'10""",214,JR,2020-01-03,Declared
+44,NEW,Isaiah Wilson,Georgia,OT,"6'7""",340,RSO,2020-01-03,Declared
+45,+8,Shane Lemieux,Oregon,OG,"6'4""",317,SR,2020-01-03,Eligible
+46,+14,Julian Okwara,Notre Dame,EDGE,"6'5""",241,SR,2020-01-03,Eligible
+47,-19,Malik Harrison,Ohio State,ILB,"6'3""",245,SR,2020-01-03,Eligible
+48,-4,Chuba Hubbard,Oklahoma State,RBF,"6'1""",207,RJR,2020-01-03,Underclassman
+49,-3,Albert Okwuegbunam,Missouri,TE,"6'5""",255,RJR,2020-01-03,Declared
+50,-3,Jalen Reagor,TCU,WRS,"5'11""",195,JR,2020-01-03,Declared
+51,+34,Jake Hanson,Oregon,OC,"6'5""",297,SR,2020-01-03,Eligible
+52,-4,DeVonta Smith,Alabama,WRF,"6'1""",193,JR,2020-01-03,Underclassman
+53,--,Jake Fromm,Georgia,QB,"6'2""",220,JR,2020-01-03,Underclassman
+54,--,Ben Bredeson,Michigan,OG,"6'5""",320,SR,2020-01-03,Eligible
+55,-21,Jabari Zuniga,Florida,EDGE,"6'4""",257,RSR,2020-01-03,Eligible
+56,--,Paulson Adebo,Stanford,CB,"6'1""",189,JR,2020-01-03,Underclassman
+57,--,Jacob Eason,Washington,QB,"6'6""",228,JR,2020-01-03,Declared
+58,+2,Jordyn Brooks,Texas Tech,ILB,"6'1""",245,SR,2020-01-03,Eligible
+59,+3,Rashard Lawrence,LSU,DL1T,"6'3""",317,SR,2020-01-03,Eligible
+60,+3,Hamsah Nasirildeen,Florida State,S,"6'3""",216,JR,2020-01-03,Underclassman
+61,+3,Najee Harris,Alabama,RBF,"6'2""",230,JR,2020-01-03,Underclassman
+62,+3,A.J. Terrell,Clemson,CB,"6'2""",190,JR,2020-01-03,Underclassman
+63,-12,Marlon Davidson,Auburn,DL5T,"6'3""",278,SR,2020-01-03,Eligible
+64,+2,Jacob Breeland,Oregon,TE,"6'5""",240,RSR,2020-01-03,Eligible
+65,+2,Michael Pittman Jr.,USC,WRF,"6'4""",223,SR,2020-01-03,Eligible
+66,+23,Mekhi Becton,Louisville,OT,"6'7""",355,JR,2020-01-03,Declared
+67,+13,Zack Moss,Utah,RBF,"5'10""",210,SR,2020-01-03,Eligible
+68,--,Josh Jones,Houston,OT,"6'7""",310,SR,2020-01-03,Eligible
+69,--,Justin Madubuike,Texas A&M,DL3T,"6'3""",304,RJR,2020-01-03,Declared
+70,--,Kenny Willekes,Michigan State,EDGE,"6'4""",260,SR,2020-01-03,Eligible
+71,--,Jacob Phillips,LSU,ILB,"6'4""",229,JR,2020-01-03,Underclassman
+72,--,Tyler Huntley,Utah,QB,6'1'',205,SR,2020-01-03,Eligible
+73,+1,Shaquille Quarterman,Miami (FL),ILB,"6'1""",240,SR,2020-01-03,Eligible
+74,-15,Hakeem Adeniji,Kansas,OG,"6'5""",310,SR,2020-01-03,Eligible
+75,--,Khalid Kareem,Notre Dame,EDGE,"6'4""",265,SR,2020-01-03,Eligible
+76,--,Keandre Jones,Maryland,OLB,"6'2""",228,SR,2020-01-03,Eligible
+77,--,Jordan Mack,Virginia,ILB,"6'2""",230,SR,2020-01-03,Eligible
+78,--,Lucas Niang,TCU,OT,"6'7""",328,SR,2020-01-03,Eligible
+79,+1,Jeff Gladney,TCU,CB,"5'10""",183,SR,2020-01-03,Eligible
+80,+1,Ashtyn Davis,California,S,"6'1""",201,RSR,2020-01-03,Eligible
+81,+1,K'Lavon Chaisson,LSU,OLB,"6'4""",238,RSO,2020-01-03,Underclassman
+82,+2,James Lynch,Baylor,DL5T,"6'4""",295,JR,2020-01-03,Underclassman
+83,+2,Leki Fotu,Utah,DL1T,"6'5""",330,SR,2020-01-03,Eligible
+84,+2,Neville Gallimore,Oklahoma,DL1T,"6'2""",330,RSR,2020-01-03,Eligible
+85,+3,Zack Baun,Wisconsin,OLB,"6'3""",235,SR,2020-01-03,Eligible
+86,+34,Nick Harris,Washington,OC,"6'1""",302,SR,2020-01-03,Eligible
+87,+3,Logan Stenberg,Kentucky,OG,"6'6""",326,RSR,2020-01-03,Eligible
+88,+3,Jaylon Johnson,Utah,CB,"6'0""",190,JR,2020-01-03,Declared
+89,+26,Frederick Mauigoa,Washington State,OC,"6'3""",310,SR,2020-01-03,Eligible
+90,+2,Richard LeCounte,Georgia,S,"5'11""",190,JR,2020-01-03,Underclassman
+91,+2,K.J. Hamler,Penn State,WRS,"5'9""",174,JR,2020-01-03,Declared
+92,+2,Netane Muti,Fresno State,OG,"6'3""",310,RSO,2020-01-03,Declared
+93,+2,Josh Uche,Michigan,OLB,"6'3""",238,RJR,2020-01-03,Declared
+94,+1,Evan Weaver,California,ILB,"6'3""",245,SR,2020-01-03,Eligible
+95,+1,Collin Johnson,Texas,WRF,"6'6""",220,SR,2020-01-03,Eligible
+96,+1,Sam Ehlinger,Texas,QB,"6'3""",235,JR,2020-01-03,Underclassman
+97,+1,Shyheim Carter,Alabama,S,"5'11""",192,SR,2020-01-03,Eligible
+98,NEW,Chazz Surratt,North Carolina,OLB,"6'3""",230,JR,2020-01-03,Underclassman
+99,+1,Devin Duvernay,Texas,WRS,"5'11""",186,SR,2020-01-03,Eligible
+100,-44,Darryl Williams,Mississippi State,OC,"6'2""",310,SR,2020-01-03,Eligible
+101,--,Deommodore Lenoir,Oregon,CB,"5'11""",212,SR,2020-01-03,Eligible
+102,--,Calvin Throckmorton,Oregon,OT,"6'5""",318,SR,2020-01-03,Eligible
+103,+1,Darrell Taylor,Tennessee,EDGE,"6'4""",247,SR,2020-01-03,Eligible
+104,-53,Samuel Cosmi,Texas,OT,"6'5""",295,RSO,2020-01-03,Underclassman
+105,--,Antoine Winfield Jr.,Minnesota,S,"5'10""",207,JR,2020-01-03,Underclassman
+106,NEW,Deonte Brown,Alabama,OG,"6'4""",338,JR,2020-01-03,Underclassman
+107,-1,Larrell Murchison,NC State,DL3T,"6'3""",291,SR,2020-01-03,Eligible
+108,-1,Justin Jefferson,LSU,WRF,"6'2""",185,JR,2020-01-03,Underclassman
+109,-1,Donovan Peoples-Jones,Michigan,WRF,"6'2""",208,JR,2020-01-03,Underclassman
+110,-1,Anthony Hines,Texas A&M,OLB,"6'3""",226,RSO,2020-01-03,Underclassman
+111,-24,Michael Pinckney,Miami (FL),OLB,"6'1""",220,SR,2020-01-03,Eligible
+112,-2,Dontavious Jackson,Florida State,ILB,"6'3""",233,SR,2020-01-03,Eligible
+113,-2,Brandon Jones,Texas,S,"6'0""",210,SR,2020-01-03,Eligible
+114,-2,Alton Robinson,Syracuse,EDGE,"6'4""",257,SR,2020-01-03,Eligible
+115,-1,Jonathan Garvin,Miami (FL),EDGE,"6'4""",250,JR,2020-01-03,Declared
+116,+12,Cole Kmet,Notre Dame,TE,"6'6""",255,JR,2020-01-03,Declared
+117,-1,Benito Jones,Ole Miss,DL1T,"6'1""",326,SR,2020-01-03,Eligible
+118,-1,Oluwole Betiku,Illinois,EDGE,"6'3""",240,RJR,2020-01-03,Underclassman
+119,--,Cam Akers,Florida State,RBF,"5'11""",210,JR,2020-01-03,Declared
+120,--,Joe Gaziano,Northwestern,DL5T,"6'4""",275,SR,2020-01-03,Eligible
+121,--,Raequan Williams,Michigan State,DL3T,"6'4""",298,SR,2020-01-03,Eligible
+122,--,Kevin Jarvis,Michigan State,OG,"6'4""",317,JR,2020-01-03,Underclassman
+123,--,Dele Harding,Illinois,OLB,"6'1""",230,SR,2020-01-03,Eligible
+124,--,Kylin Hill,Mississippi State,RBC,"5'11""",215,JR,2020-01-03,Declared
+125,+20,Chris Orr,Wisconsin,OLB,"6'0""",224,SR,2020-01-03,Eligible
+126,-1,K'Von Wallace,Clemson,S,"5'11""",210,SR,2020-01-03,Eligible
+127,-1,Tedarrell Slaton,Florida,DL1T,"6'5""",343,JR,2020-01-03,Underclassman
+128,-1,Brycen Hopkins,Purdue,TE,"6'5""",245,RSR,2020-01-03,Eligible
+129,+74,Robert Hunt,Louisiana-Lafayette,OT,"6'5""",310,SR,2020-01-03,Eligible
+130,-2,A.J. Dillon,Boston College,RBF,"6'0""",245,JR,2020-01-03,Declared
+131,-2,John Hightower,Boise State,WRF,"6'2""",184,SR,2020-01-03,Eligible
+132,-2,Lamar Jackson,Nebraska,CB,"6'2""",215,SR,2020-01-03,Eligible
+133,+8,T.J. McCoy,Louisville,OC,"6'1""",315,SR,2020-01-03,Eligible
+134,-3,Khalil Davis,Nebraska,DL1T,"6'2""",310,SR,2020-01-03,Eligible
+135,-3,Jordan Love,Utah State,QB,"6'4""",225,JR,2020-01-03,Declared
+136,-84,Lloyd Cushenberry,LSU,OC,"6'3""",312,RJR,2020-01-03,Underclassman
+137,-4,Anthony Gordon,Washington State,QB,"6'3""",210,RSR,2020-01-03,Eligible
+138,-4,K.J. Britt,Auburn,ILB,"6'0""",236,JR,2020-01-03,Underclassman
+139,-4,Yasir Durant,Missouri,OT,"6'7""",330,SR,2020-01-03,Eligible
+140,-4,Jonah Jackson,Ohio State,OG,"6'3""",309,SR,2020-01-03,Eligible
+141,-4,Aaron Fuller,Washington,WRS,"5'11""",186,SR,2020-01-03,Eligible
+142,-4,Darrion Daniels,Nebraska,DL1T,"6'3""",320,RSR,2020-01-03,Eligible
+143,-4,Akeem Davis- Gaither,Appalachian State,OLB,"6'2""",210,SR,2020-01-03,Eligible
+144,-3,Davon Hamilton,Ohio State,DL3T,"6'4""",310,SR,2020-01-03,Eligible
+145,+22,Matt Hennessy,Temple,OC,"6'4""",295,JR,2020-01-03,Declared
+146,-3,Damon Arnette,Ohio State,CB,"6'0""",195,SR,2020-01-03,Eligible
+147,-3,McTelvin Agim,Arkansas,DL5T,"6'3""",279,SR,2020-01-03,Eligible
+148,-3,Glen Logan,LSU,DL5T,"6'4""",297,RJR,2020-01-03,Underclassman
+149,-3,Joe Bachie,Michigan State,ILB,"6'2""",238,SR,2020-01-03,Eligible
+150,-3,Khaleke Hudson,Michigan,OLB,"6'0""",220,SR,2020-01-03,Eligible
+151,-3,Lavert Hill,Michigan,CB,"5'11""",181,SR,2020-01-03,Eligible
+152,-52,Trey Smith,Tennessee,OG,"6'6""",337,JR,2020-01-03,Underclassman
+153,-4,Ben Cleveland,Georgia,OG,"6'6""",335,JR,2020-01-03,Underclassman
+154,-4,Kyle Dugger,Lenoir–Rhyne,S,"6'2""",205,SR,2020-01-03,Eligible
+155,-4,Rayshard Ashby,Virginia Tech,ILB,"5'10""",230,JR,2020-01-03,Underclassman
+156,+25,Clyde Edwards-Helaire,LSU,RBF,"5'9""",212,JR,2020-01-03,Underclassman
+157,-5,Jonathan Greenard,Florida,EDGE,"6'3""",263,SR,2020-01-03,Eligible
+158,-5,Richie Grant,UCF,S,"6'0""",194,RJR,2020-01-03,Underclassman
+159,-5,Mustafa Johnson,Colorado,DL3T,"6'2""",290,SR,2020-01-03,Eligible
+160,-5,Darnay Holmes,UCLA,CB,"5'10""",198,JR,2020-01-03,Declared
+161,-5,Lamical Perine,Florida,RBF,"5'11""",227,SR,2020-01-03,Eligible
+162,-5,John Simpson,Clemson,OG,"6'4""",330,SR,2020-01-03,Eligible
+163,+49,Ke'Shawn Vaughn,Vanderbilt,RBF,"5'10""",215,SR,2020-01-03,Eligible
+164,-6,James Proche,SMU,WRS,"5'11""",190,RSR,2020-01-03,Eligible
+165,+82,Kuony Deng,California,OLB,"6'6""",220,RJR,2020-01-03,Underclassman
+166,-7,Patrick Johnson,Tulane,EDGE,"6'3""",255,JR,2020-01-03,Underclassman
+167,-7,Nico Collins,Michigan,WRF,"6'4""",222,JR,2020-01-03,Underclassman
+168,-7,Levante Bellamy,Western Michigan,RBC,"5'9""",185,SR,2020-01-03,Eligible
+169,-7,Antoine Brooks Jr.,Maryland,S,"5'11""",210,SR,2020-01-03,Eligible
+170,-7,Trevis Gipson,Tulsa,DL5T,"6'4""",268,RSR,2020-01-03,Eligible
+171,-7,Denzel Mims,Baylor,WRF,"6'3""",197,SR,2020-01-03,Eligible
+172,-7,Jeffrey McCulloch,Texas,ILB,"6'3""",245,SR,2020-01-03,Eligible
+173,-6,Jace Whittaker,Arizona,CB,"5'11""",185,RSR,2020-01-03,Eligible
+174,-6,Nick Coe,Auburn,DL5T,"6'5""",282,JR,2020-01-03,Declared
+175,-6,Ross Blacklock,TCU,DL3T,"6'4""",305,JR,2020-01-03,Declared
+176,-6,Mohamed Barry,Nebraska,ILB,"6'1""",245,SR,2020-01-03,Eligible
+177,-6,Zack Shackelford,Texas,OC,"6'4""",305,SR,2020-01-03,Eligible
+178,-6,Krys Barnes,UCLA,ILB,"6'1""",235,RJR,2020-01-03,Underclassman
+179,NEW,Amik Robertson,Louisiana Tech,CB,"5'9""",183,JR,2020-01-03,Declared
+180,-6,D.J. Wonnum,South Carolina,EDGE,"6'5""",255,SR,2020-01-03,Eligible
+181,-6,Jordan Elliott,Missouri,DL3T,"6'4""",315,RJR,2020-01-03,Declared
+182,-6,Jashon Cornell,Ohio State,DL5T,"6'3""",280,RSR,2020-01-03,Eligible
+183,-6,Damien Lewis,LSU,OG,"6'2""",335,SR,2020-01-03,Eligible
+184,-6,Essang Bassey,Wake Forest,S,"5'10""",190,SR,2020-01-03,Eligible
+185,-4,Treshaun Hayward,Western Michigan,ILB,"6'1""",225,JR,2020-01-03,Underclassman
+186,-4,Justin Strnad,Wake Forest,OLB,"6'3""",230,RSR,2020-01-03,Eligible
+187,-4,Bradlee Anae,Utah,EDGE,"6'3""",265,SR,2020-01-03,Eligible
+188,-4,Michael Warren II,Cincinnati,RBF,"5'11""",218,JR,2020-01-03,Underclassman
+189,-4,Brandon Aiyuk,Arizona State,WRF,"6'0""",208,SR,2020-01-03,Eligible
+190,-4,Colby Parkinson,Stanford,TE,"6'7""",240,JR,2020-01-03,Declared
+191,NEW,Caleb Huntley,Ball State,RBC,"5'10""",226,JR,2020-01-03,Underclassman
+192,-5,Kamal Martin,Minnesota,ILB,"6'3""",235,SR,2020-01-03,Eligible
+193,-5,John Molchon,Boise State,OG,"6'5""",322,RSR,2020-01-03,Eligible
+194,-5,Luq Barcoo,San Diego State,CB,"6'1""",175,SR,2020-01-03,Eligible
+195,-5,K.J. Hill,Ohio State,WRF,"6'0""",195,SR,2020-01-03,Eligible
+196,-5,Alex Highsmith,Charlotte,EDGE,"6'3""",244,RSR,2020-01-03,Eligible
+197,-5,Kylan Johnson,Pitt,OLB,"6'2""",230,SR,2020-01-03,Eligible
+198,-5,Cam Brown,Penn State,ILB,"6'5""",230,SR,2020-01-03,Eligible
+199,-5,Terence Steele,Texas Tech,OT,"6'6""",310,SR,2020-01-03,Eligible
+200,-5,Trevon Hill,Miami (FL),EDGE,"6'3""",245,SR,2020-01-03,Eligible
+201,-5,O'Rien Vance,Iowa State,OLB,"6'1""",231,RSO,2020-01-03,Underclassman
+202,-4,Terrell Burgess,Utah,S,"6'0""",194,SR,2020-01-03,Eligible
+203,-4,Juwuan Jones,Western Kentucky,DL5T,"6'3""",270,RSO,2020-01-03,Underclassman
+204,-4,Levonta Taylor,Florida State,CB,"5'10""",181,SR,2020-01-03,Eligible
+205,-4,Alohi Gilman,Notre Dame,S,"5'11""",201,SR,2020-01-03,Eligible
+206,-4,Saahdiq Charles,LSU,OT,"6'5""",305,JR,2020-01-03,Underclassman
+207,NEW,Stanford Samuels III,Florida State,CB,"6'2""",185,JR,2020-01-03,Underclassman
+208,-4,Shane Buechele,SMU,QB,6'1'',207,JR,2020-01-03,Underclassman
+209,NEW,Kamren Curl,Arkansas,S,"6'2""",198,JR,2020-01-03,Declared
+210,-4,Carter Coughlin,Minnesota,OLB,"6'4""",245,SR,2020-01-03,Eligible
+211,-4,Eno Benjamin,Arizona State,RBF,"5'10""",201,JR,2020-01-03,Declared
+212,-4,John Houston Jr.,USC,OLB,"6'3""",220,SR,2020-01-03,Eligible
+213,-3,Kenny Cooper,Georgia Tech,OC,"6'2""",305,SR,2020-01-03,Eligible
+214,-3,Simon Stepaniak,Indiana,OG,"6'4""",319,SR,2020-01-03,Eligible
+215,-3,Casey Toohill,Stanford,ILB,"6'4""",247,SR,2020-01-03,Eligible
+216,-3,J.R. Reed,Georgia,S,"6'1""",199,SR,2020-01-03,Eligible
+217,-3,Shaun Bradley,Temple,OLB,"6'1""",225,SR,2020-01-03,Eligible
+218,-3,Michael Onwenu,Michigan,OG,"6'3""",350,SR,2020-01-03,Eligible
+219,-3,Kendall Futrell,East Carolina,OLB,"6'2""",226,SR,2020-01-03,Eligible
+220,-3,Dante Olson,Montana,ILB,"6'3""",237,SR,2020-01-03,Eligible
+221,-3,Mike Hampton,South Florida,CB,"6'1""",180,JR,2020-01-03,Underclassman
+222,-43,Salvon Ahmed,Washington,RBC,"5'11""",196,RJR,2020-01-03,Declared
+223,-4,Kellen Mond,Texas A&M,QB,"6'2""",217,JR,2020-01-03,Underclassman
+224,-4,Chase Lucas,Arizona State,CB,"6'0""",175,RJR,2020-01-03,Underclassman
+225,-4,Jared Pinkney,Vanderbilt,TE,"6'4""",255,RJR,2020-01-03,Underclassman
+226,-4,David Reese II,Florida,ILB,"6'1""",248,SR,2020-01-03,Eligible
+227,-4,T.J. Brunson,South Carolina,ILB,"6'0""",230,SR,2020-01-03,Eligible
+228,+134,Sterling Hofrichter,Syracuse,P,"5'9""",199,SR,2020-01-03,Eligible
+229,-5,Antonio Gandy-Golden,Liberty,WRF,"6'4""",216,SR,2020-01-03,Eligible
+230,-5,Trystan Colon-Castillo,Missouri,OC,"6'4""",315,JR,2020-01-03,Declared
+231,-5,Kyahva Tezino,San Diego State,OLB,"6'0""",230,SR,2020-01-03,Eligible
+232,-5,Dominik Eberle,Utah State,PK,"6'2""",195,SR,2020-01-03,Eligible
+233,-5,T.J. Vasher,Texas Tech,WRF,"6'6""",190,JR,2020-01-03,Underclassman
+234,-5,Tomon Fox,North Carolina,ILB,"6'3""",260,JR,2020-01-03,Underclassman
+235,-5,Julian Blackmon,Utah,S,"6'1""",195,SR,2020-01-03,Eligible
+236,-5,Tyler Clark,Georgia,DL1T,"6'4""",300,SR,2020-01-03,Eligible
+237,-5,DeAngelo Malone,Western Kentucky,OLB,"6'4""",230,JR,2020-01-03,Underclassman
+238,-5,Josiah Coatney,Ole Miss,DL3T,"6'4""",314,SR,2020-01-03,Eligible
+239,+244,Tony Jones Jr.,Notre Dame,RBF,"5'11""",227,JR,2020-01-03,Declared
+240,-5,Chauncey Rivers,Mississippi State,DL5T,"6'3""",275,RSR,2020-01-03,Eligible
+241,-5,Tommy Kraemer,Notre Dame,OG,"6'6""",319,SR,2020-01-03,Eligible
+242,NEW,Javon Leake,Maryland,RBF,"6'0""",206,JR,2020-01-03,Declared
+243,-6,Bryan Edwards,South Carolina,WRF,"6'3""",215,SR,2020-01-03,Eligible
+244,-6,Braden Mann,Texas A&M,P,"5'11""",195,SR,2020-01-03,Eligible
+245,-6,Benning Potoae,Washington,DL5T,"6'3""",285,SR,2020-01-03,Eligible
+246,-6,Willie Gay Jr.,Mississippi State,OLB,"6'2""",235,JR,2020-01-03,Underclassman
+247,-6,Ty Chandler,Tennessee,RBC,"5'11""",201,JR,2020-01-03,Underclassman
+248,-6,Harrison Bryant,Florida Atlantic,TE,"6'5""",240,SR,2020-01-03,Eligible
+249,-5,Ifeanyi Maijeh,Temple,DL3T,"6'2""",285,RSO,2020-01-03,Underclassman
+250,-5,Cale Garrett,Missouri,ILB,"6'3""",230,SR,2020-01-03,Eligible
+251,-5,Marlon Tuipulotu,USC,DL3T,"6'3""",305,RSO,2020-01-03,Underclassman
+252,-5,Keisean Lucier-South,UCLA,EDGE,"6'4""",235,SR,2020-01-03,Eligible
+253,-5,Kendall Coleman,Syracuse,EDGE,"6'3""",266,SR,2020-01-03,Eligible
+254,-5,T.J. Carter,Memphis,CB,"5'11""",180,JR,2020-01-03,Underclassman
+255,-5,Bryce Perkins,Virginia,QB,6'3'',215,SR,2020-01-03,Eligible
+256,-5,Darius Anderson,TCU,RBF,"5'11""",212,SR,2020-01-03,Eligible
+257,-5,Sean Pollard,Clemson,OC,"6'5""",320,SR,2020-01-03,Eligible
+258,-5,John Lako,Akron,ILB,"6'2""",225,SR,2020-01-03,Eligible
+259,-5,Brendon Hayes,UCF,DL5T,"6'3""",293,RSR,2020-01-03,Eligible
+260,-5,Jason Strowbridge,North Carolina,DL3T,"6'3""",285,SR,2020-01-03,Eligible
+261,-5,A.J. Green,Oklahoma State,CB,"6'1""",194,SR,2020-01-03,Eligible
+262,NEW,Lynn Bowden Jr.,Kentucky,WRF,"6'1""",199,JR,2020-01-03,Declared
+263,-5,Myles Dorn,North Carolina,S,"6'1""",198,SR,2020-01-03,Eligible
+264,NEW,Reggie Robinson II,Tulsa,CB,"6'1""",197,RSR,2020-01-03,Eligible
+265,-5,Carlos Davis,Nebraska,DL3T,"6'2""",320,SR,2020-01-03,Eligible
+266,-5,Benning Potoa'e,Washington,DL3T,"6'3""",290,SR,2020-01-03,Eligible
+267,+22,Jessie Lemonier,Liberty,EDGE,"6'3""",240,SR,2020-01-03,Eligible
+268,-6,Eric Lee Jr.,Nebraska,S,"6'0""",215,SR,2020-01-03,Eligible
+269,-6,Jeremy Chinn,Southern Illinois,S,"6'3""",208,SR,2020-01-03,Eligible
+270,-6,Breiden Fehoko,LSU,DL5T,"6'4""",291,SR,2020-01-03,Eligible
+271,-6,Joshua Kelley,UCLA,RBF,"5'11""",204,SR,2020-01-03,Eligible
+272,-6,Jaquarius Landrews,Mississippi State,S,"5'11""",197,SR,2020-01-03,Eligible
+273,-6,DeMarkus Acy,Missouri,CB,"6'2""",195,SR,2020-01-03,Eligible
+274,-6,Daniel Bituli,Tennessee,ILB,"6'3""",244,SR,2020-01-03,Eligible
+275,+119,Adam Trautman,Dayton,TE,"6'5""",250,RSR,2020-01-03,Eligible
+276,-7,Tre Walker,San Jose State,WRS,5'11'',180,JR,2020-01-03,Underclassman
+277,-7,De'Jon Harris,Arkansas,ILB,"6'0""",244,SR,2020-01-03,Eligible
+278,-7,Shea Patterson,Michigan,QB,"6'2""",200,SR,2020-01-03,Eligible
+279,-7,Jay Tufele,USC,DL3T,"6'3""",310,RSO,2020-01-03,Underclassman
+280,-7,Broderick Washington Jr.,Texas Tech,DL3T,"6'3""",305,SR,2020-01-03,Eligible
+281,-7,John Penisini,Utah,DL3T,"6'2""",320,SR,2020-01-03,Eligible
+282,-7,Jordon Scott,Oregon,DL1T,"6'1""",329,JR,2020-01-03,Underclassman
+283,-7,Tommy Townsend,Florida,P,"6'2""",183,RSR,2020-01-03,Eligible
+284,-7,Damonte Coxie,Memphis,WRF,"6'3""",200,SR,2020-01-03,Eligible
+285,-7,Thomas Graham Jr.,Oregon,CB,"5'11""",191,JR,2020-01-03,Underclassman
+286,-7,Isaiah Hodgins,Oregon State,WRF,"6'4""",209,JR,2020-01-03,Declared
+287,-7,Deslin Alexandre,Pitt,DL5T,"6'4""",265,RSO,2020-01-03,Underclassman
+288,NEW,Noah Igbinoghene,Auburn,CB,5'11,200,JR,2020-01-03,Declared
+289,-7,Colin Schooler,Arizona,ILB,"6'0""",236,JR,2020-01-03,Underclassman
+290,-7,Bravvion Roy,Baylor,DL1T,6'1,330,SR,2020-01-03,Eligible
+291,-7,Kary Vincent Jr.,LSU,CB,"5'10""",182,JR,2020-01-03,Underclassman
+292,-7,Patrick Taylor Jr.,Memphis,RBF,"6'3""",227,SR,2020-01-03,Eligible
+293,-7,Robert Landers,Ohio State,DL3T,"6'1""",285,SR,2020-01-03,Eligible
+294,-7,Nate Stanley,Iowa,QB,"6'4""",243,SR,2020-01-03,Eligible
+295,-7,Jahad Woods,Washington State,OLB,"6'0""",225,RJR,2020-01-03,Underclassman
+296,-6,Tipa Galeai,Utah State,EDGE,"6'5""",230,SR,2020-01-03,Eligible
+297,+83,Gerold Bright,Utah State,RBC,"5'9""",195,SR,2020-01-03,Eligible
+298,+150,Cole Van Lanen,Wisconsin,OT,"6'5""",312,RJR,2020-01-03,Underclassman
+299,-8,LaDarius Hamilton,North Texas,EDGE,"6'3""",255,SR,2020-01-03,Eligible
+300,-8,Anthony McFarland Jr.,Maryland,RBC,"5'8""",193,JR,2020-01-03,Declared
+301,-8,Reggie Corbin,Illinois,RBF,"5'10""",200,JR,2020-01-03,Underclassman
+302,+79,J.J. Taylor,Arizona,RBC,"5'6""",184,RJR,2020-01-03,Underclassman
+303,-9,Josh Metellus,Michigan,S,"5'11""",215,SR,2020-01-03,Eligible
+304,-9,David Dowell,Michigan State,S,"6'1""",205,SR,2020-01-03,Eligible
+305,-9,Josiah Scott,Michigan State,CB,"5'10""",168,JR,2020-01-03,Declared
+306,-9,Jared Rice,Fresno State,TE,"6'5""",243,SR,2020-01-03,Eligible
+307,-9,Jet Toner,Stanford,PK,"6'4""",201,SR,2020-01-03,Eligible
+308,-9,Kendrick Rogers,Texas A&M,WRF,6'4'',204,JR,2020-01-03,Underclassman
+309,-9,Doug Costin,Miami (OH),DL3T,"6'2""",295,SR,2020-01-03,Eligible
+310,-9,Matt Peart,Connecticut,OT,"6'7""",303,RSR,2020-01-03,Eligible
+311,-9,Erroll Thompson,Mississippi State,ILB,"6'1""",250,JR,2020-01-03,Underclassman
+312,NEW,DeeJay Dallas,Miami (FL),RBF,"5'10""",214,JR,2020-01-03,Declared
+313,-9,Spencer Brown,UAB,FB,"6'0""",230,JR,2020-01-03,Underclassman
+314,-9,Lakiem Williams,Syracuse,OLB,"6'0""",225,SR,2020-01-03,Eligible
+315,-9,Delontae Scott,SMU,EDGE,"6'5""",250,SR,2020-01-03,Eligible
+316,-9,Troy Pride Jr.,Notre Dame,CB,"5'11""",192,SR,2020-01-03,Eligible
+317,-9,Shaq Smith,Maryland,ILB,"6'2""",250,RJR,2020-01-03,Underclassman
+318,-9,Logan Wilson,Wyoming,ILB,"6'2""",250,RSR,2020-01-03,Eligible
+319,-9,Javahn Ferguson,New Mexico State,ILB,"6'1""",230,SR,2020-01-03,Eligible
+320,-9,Tra Minter,South Alabama,RBC,"5'9""",200,JR,2020-01-03,Underclassman
+321,-9,Sean Adesanya,Central Michigan,EDGE,"6'3""",240,SR,2020-01-03,Eligible
+322,-9,Jalen Elliott,Notre Dame,S,"6'0""",207,SR,2020-01-03,Eligible
+323,-9,Dicaprio Bootle,Nebraska,CB,"5'10""",190,JR,2020-01-03,Underclassman
+324,-9,Rodney Smith,Minnesota,RBF,"5'11""",210,SR,2020-01-03,Eligible
+325,-9,James Gilbert,Kansas State,RBC,"5'9""",198,SR,2020-01-03,Eligible
+326,-9,Bryan London II,Texas State,OLB,"6'2""",232,SR,2020-01-03,Eligible
+327,-9,Tyler Coyle,Connecticut,S,"6'0""",207,RJR,2020-01-03,Underclassman
+328,-9,Chase Allen,Iowa State,TE,"6'6""",240,SR,2020-01-03,Eligible
+329,-9,Cedric Byrd II,Hawaii,WRS,"5'9""",175,SR,2020-01-03,Eligible
+330,-9,Garrett Marino,UAB,DL3T,"6'2""",290,SR,2020-01-03,Eligible
+331,-9,Rodrigo Blankenship,Georgia,PK,"6'1""",191,SR,2020-01-03,Eligible
+332,-9,Cheyenne O'Grady,Arkansas,TE,"6'4""",256,SR,2020-01-03,Eligible
+333,-9,Jake Verity,East Carolina,PK,"6'1""",185,SR,2020-01-03,Eligible
+334,-9,Patrick Queen,LSU,ILB,"6'2""",232,JR,2020-01-03,Underclassman
+335,-9,Larry Rountree III,Missouri,RBF,"5'10""",210,JR,2020-01-03,Underclassman
+336,-9,Rashad Robinson,James Madison,CB,"5'11""",185,SR,2020-01-03,Eligible
+337,-9,Brandon Wright,Georgia State,P,"5'10""",182,SR,2020-01-03,Eligible
+338,-9,Khalil Brooks,Middle Tennessee,OLB,"5'11""",206,RSR,2020-01-03,Eligible
+339,-9,Chase Claypool,Notre Dame,WRF,"6'4""",227,SR,2020-01-03,Eligible
+340,-9,Robert Windsor,Penn State,DL3T,"6'4""",289,SR,2020-01-03,Eligible
+341,-9,Jordan Smith,UAB,EDGE,"6'7""",250,RSO,2020-01-03,Underclassman
+342,-9,Luke Campbell,Michigan State,OT,"6'5""",302,JR,2020-01-03,Underclassman
+343,-9,Richie Worship,Purdue,FB,"6'0""",250,SR,2020-01-03,Eligible
+344,-9,Nyles Pinckney,Clemson,DL3T,"6'1""",305,RJR,2020-01-03,Underclassman
+345,-9,Tyler Shelvin,LSU,DL1T,"6'3""",362,RSO,2020-01-03,Underclassman
+346,-9,Charles Williams,UNLV,RBC,"5'9""",190,RJR,2020-01-03,Underclassman
+347,-9,Jon Runyan,Michigan,OG,"6'5""",310,RSR,2020-01-03,Eligible
+348,NEW,Harrison Hand,Temple,S,"6'0""",192,JR,2020-01-03,Declared
+349,-9,Gabriel Davis,UCF,WRF,6'3'',212,JR,2020-01-03,Declared
+350,-9,Bryce Huff,Memphis,EDGE,"6'3""",245,JR,2020-01-03,Underclassman
+351,-9,Cesar Ruiz,Michigan,OC,"6'4""",319,JR,2020-01-03,Declared
+352,-9,Christian Albright,Ball State,OLB,"6'2""",233,JR,2020-01-03,Underclassman
+353,-9,Jordan Williams,Clemson,DL3T,"6'4""",305,RSO,2020-01-03,Underclassman
+354,-9,Jordan Fuller,Ohio State,S,"6'2""",205,SR,2020-01-03,Eligible
+355,-9,Xavier Jones,SMU,RBF,"5'11""",208,SR,2020-01-03,Eligible
+356,-9,Charles Snowden,Virginia,EDGE,"6'7""",225,JR,2020-01-03,Underclassman
+357,-9,Dane Jackson,Pitt,CB,"6'0""",190,SR,2020-01-03,Eligible
+358,-9,Ellison Hubbard,Colorado State,DL3T,"6'1""",285,JR,2020-01-03,Underclassman
+359,-9,Nate Evans,UCF,ILB,"6'1""",244,SR,2020-01-03,Eligible
+360,-9,Easop Winston Jr.,Washington State,WRS,5'11'',190,SR,2020-01-03,Eligible
+361,NEW,Javelin Guidry,Utah,CB,"5'9""",193,JR,2020-01-03,Declared
+362,-9,Jamario Bell,Arkansas,EDGE,"6'5""",265,SR,2020-01-03,Eligible
+363,-9,Leo Lewis,Mississippi State,ILB,"6'2""",245,SR,2020-01-03,Eligible
+364,-9,Greg Eiland,Mississippi State,OT,"6'8""",335,JR,2020-01-03,Underclassman
+365,-9,Chapelle Russell,Temple,OLB,"6'1""",215,SR,2020-01-03,Eligible
+366,-9,Jonathan Song,TCU,PK,"5'10""",175,SR,2020-01-03,Eligible
+367,-8,Sage Lewis,Florida International,ILB,"6'1""",240,SR,2020-01-03,Eligible
+368,-8,Kalija Lipscomb,Vanderbilt,WRF,"6'1""",200,SR,2020-01-03,Eligible
+369,NEW,Kyle Markway,South Carolina,TE,"6'4""",250,RJR,2020-01-03,Declared
+370,-7,Chris Williamson,Minnesota,CB,"6'0""",198,SR,2020-01-03,Eligible
+371,-7,Xavier Lyas,NC State,EDGE,"6'4""",239,RSO,2020-01-03,Underclassman
+372,-7,Myles Bryant,Washington,CB,"5'9""",184,SR,2020-01-03,Eligible
+373,-7,Phidarian Mathis,Alabama,DL1T,"6'4""",317,RSO,2020-01-03,Underclassman
+374,-7,Charleston Rambo,Oklahoma,WRF,6'1'',175,RSO,2020-01-03,Underclassman
+375,-7,Jeff Thomas,Miami (FL),WRS,5'10'',180,JR,2020-01-03,Declared
+376,-7,Malcolm Roach,Texas,DL5T,"6'3""",290,SR,2020-01-03,Eligible
+377,NEW,Darius Bradwell,Tulane,FB,"6'1""",230,SR,2020-01-03,Eligible
+378,-8,Najee Clayton,Western Michigan,OLB,"6'2""",220,SR,2020-01-03,Eligible
+379,-8,Benny LeMay,Charlotte,RBF,"6'0""",218,SR,2020-01-03,Eligible
+380,-8,Luke Farrell,Ohio State,TE,"6'6""",244,SR,2020-01-03,Eligible
+381,-8,Christian Rector,USC,EDGE,"6'4""",275,RSR,2020-01-03,Eligible
+382,-8,Clay Johnston,Baylor,ILB,"6'1""",236,SR,2020-01-03,Eligible
+383,-8,Cole McDonald,Hawaii,QB,"6'4""",220,JR,2020-01-03,Underclassman
+384,-8,William Bradley-King,Arkansas State,EDGE,"6'4""",248,JR,2020-01-03,Underclassman
+385,-8,Scott Frantz,Kansas State,OT,"6'5""",303,SR,2020-01-03,Eligible
+386,+77,Evin Ksiezarczyk,Buffalo,OT,"6'6""",315,RSR,2020-01-03,Eligible
+387,-9,Asmar Bilal,Notre Dame,ILB,"6'2""",227,RSR,2020-01-03,Eligible
+388,-9,Isaiahh Loudermilk,Wisconsin,DL5T,"6'7""",306,JR,2020-01-03,Underclassman
+389,-9,Mark Gilbert,Duke,CB,"6'1""",175,RJR,2020-01-03,Underclassman
+390,-9,George Lea,Arizona State,DL5T,"6'3""",275,RSR,2020-01-03,Eligible
+391,-7,Mykal Walker,Fresno State,ILB,"6'3""",220,SR,2020-01-03,Eligible
+392,-7,Nigel Warrior,Tennessee,S,"6'0""",191,SR,2020-01-03,Eligible
+393,-7,Hunter Bryant,Washington,TE,"6'2""",241,RJR,2020-01-03,Declared
+394,-7,Keith Taylor,Washington,CB,"6'3""",200,JR,2020-01-03,Underclassman
+395,-7,Joe Reed,Virginia,WRF,6'1'',215,SR,2020-01-03,Eligible
+396,-7,Mike Danna,Michigan,EDGE,"6'2""",253,RSR,2020-01-03,Eligible
+397,-7,Marcel Spears Jr.,Iowa State,OLB,"6'1""",215,RSR,2020-01-03,Eligible
+398,-7,Cohl Cabral,Arizona State,OC,"6'5""",291,SR,2020-01-03,Eligible
+399,-7,Cooper Rothe,Wyoming,PK,"5'11""",178,SR,2020-01-03,Eligible
+400,-7,Connor Slomka,Army,FB,"6'0""",240,SR,2020-01-03,Eligible
+401,-7,Zach Robertson,Arizona State,OT,"6'5""",335,SR,2020-01-03,Eligible
+402,-7,Tyler Higby,Michigan State,OG,"6'4""",303,SR,2020-01-03,Eligible
+403,+91,Darrynton Evans,Appalachian State,RBF,"5'11""",190,JR,2020-01-03,Declared
+404,-8,Moe Neal,Syracuse,RBC,"5'11""",195,SR,2020-01-03,Eligible
+405,-7,Marco Wilson,Florida,CB,"5'11""",194,JR,2020-01-03,Underclassman
+406,-7,Marquiss Spencer,Mississippi State,DL5T,"6'4""",285,SR,2020-01-03,Eligible
+407,-7,Van Jefferson,Florida,WRF,"6'2""",197,SR,2020-01-03,Eligible
+408,-7,Reggie Floyd,Virginia Tech,S,"6'0""",222,SR,2020-01-03,Eligible
+409,-7,Adrian Killins Jr.,UCF,RBC,"5'8""",164,SR,2020-01-03,Eligible
+410,-7,Trey Sermon,Oklahoma,RBF,"6'0""",224,JR,2020-01-03,Underclassman
+411,-7,Steven Montez,Colorado,QB,"6'5""",230,SR,2020-01-03,Eligible
+412,-7,Blake Gallagher,Northwestern,OLB,"6'1""",235,JR,2020-01-03,Underclassman
+413,-7,Ryan McCollum,Texas A&M,OC,"6'5""",305,JR,2020-01-03,Underclassman
+414,-7,Marquez Callaway,Tennessee,WRF,"6'2""",200,SR,2020-01-03,Eligible
+415,-7,Malik Herring,Georgia,DL5T,"6'3""",280,JR,2020-01-03,Underclassman
+416,-7,Ty Tyler,Louisville,EDGE,"6'3""",262,RJR,2020-01-03,Underclassman
+417,-7,Mitchell Wilcox,South Florida,TE,"6'5""",245,SR,2020-01-03,Eligible
+418,-7,Mason Fine,North Texas,QB,"5'11""",190,SR,2020-01-03,Eligible
+419,-7,Cedric Wilcots II,New Mexico State,EDGE,"6'4""",245,RSR,2020-01-03,Eligible
+420,-7,Mike Panasiuk,Michigan State,DL3T,"6'4""",300,SR,2020-01-03,Eligible
+421,-7,Tre'Vour Wallace-Simms,Missouri,OG,"6'5""",330,SR,2020-01-03,Eligible
+422,-7,JaQuan Bailey,Iowa State,EDGE,"6'2""",251,SR,2020-01-03,Eligible
+423,-7,Greg Eisworth,Iowa State,CB,"6'0""",198,RJR,2020-01-03,Underclassman
+424,-7,Dylan Singleton,Duke,S,"5'11""",190,SR,2020-01-03,Eligible
+425,-7,Britain Covey,Utah,WRS,"5'8""",170,JR,2020-01-03,Underclassman
+426,-7,Nevelle Clarke,UCF,CB,"6'1""",187,RSR,2020-01-03,Eligible
+427,-7,Scottie Phillips,Ole Miss,RBC,"5'8""",212,SR,2020-01-03,Eligible
+428,-7,Tyler Vaughns,USC,WRF,"6'2""",185,RJR,2020-01-03,Underclassman
+429,-7,Dalton Keene,Virginia Tech,TE,"6'4""",246,JR,2020-01-03,Underclassman
+430,-7,Reggie Walker,Kansas State,EDGE,"6'2""",246,SR,2020-01-03,Eligible
+431,-7,Jordan Johnson,UCF,OC,"6'2""",320,SR,2020-01-03,Eligible
+432,-7,Tarik Black,Michigan,WRF,"6'3""",215,JR,2020-01-03,Underclassman
+433,-7,Kiel Pollard,South Carolina,FB,"6'1""",235,SR,2020-01-03,Eligible
+434,-7,Cooper Edmiston,Tulsa,ILB,"6'3""",237,SR,2020-01-03,Eligible
+435,-7,Naquan Jones,Michigan State,DL1T,"6'4""",339,JR,2020-01-03,Underclassman
+436,-7,Tanner Muse,Clemson,S,"6'2""",231,SR,2020-01-03,Eligible
+437,-7,Davion Taylor,Colorado,OLB,"6'2""",220,SR,2020-01-03,Eligible
+438,-7,Sean McKeon,Michigan,TE,"6'5""",251,SR,2020-01-03,Eligible
+439,-7,Tavien Feaster,South Carolina,RBF,"5'11""",220,SR,2020-01-03,Eligible
+440,-7,Camryn Bynum,California,CB,"6'0""",190,RJR,2020-01-03,Underclassman
+441,-7,Joseph Charlton,South Carolina,P,"6'5""",190,SR,2020-01-03,Eligible
+442,-7,Chad Smith,Clemson,ILB,"6'3""",240,RSR,2020-01-03,Eligible
+443,-7,Marvin Kinsey Jr.,Colorado State,RBF,"6'1""",206,SR,2020-01-03,Eligible
+444,-7,David Anenih,Houston,EDGE,"6'3""",237,JR,2020-01-03,Underclassman
+445,-7,Janarius Robinson,Florida State,EDGE,"6'5""",261,RJR,2020-01-03,Underclassman
+446,NEW,Keith Ismael,San Diego State,OC,"6'3""",310,JR,2020-01-03,Declared
+447,NEW,Ezra Cleveland,Boise State,OT,"6'6""",310,RJR,2020-01-03,Declared
+448,-7,Juju Hughes,Fresno State,S,"5'11""",188,SR,2020-01-03,Eligible
+449,-7,John Reid,Penn State,CB,"5'11""",184,SR,2020-01-03,Eligible
+450,-7,Steven Gonzalez,Penn State,OG,"6'4""",349,RSR,2020-01-03,Eligible
+451,-7,Colton McKivitz,West Virginia,OT,"6'7""",312,RSR,2020-01-03,Eligible
+452,-7,Jalen Price,East Carolina,DL3T,"6'2""",297,SR,2020-01-03,Eligible
+453,-7,Quartney Davis,Texas A&M,WRF,6'2'',200,JR,2020-01-03,Declared
+454,-7,Marcus Keyes,Oklahoma State,OG,"6'3""",309,RSR,2020-01-03,Eligible
+455,-7,Brady Ross,Iowa,FB,"6'0""",240,SR,2020-01-03,Eligible
+456,-7,Fletcher Adams,Mississippi State,DL5T,"6'2""",265,RSR,2020-01-03,Eligible
+457,-6,Blake Gillikin,Penn State,P,"6'2""",195,SR,2020-01-03,Eligible
+458,-6,Emeka Emezie,NC State,WRF,6'3'',210,JR,2020-01-03,Underclassman
+459,-6,Luke Juriga,Western Michigan,OT,"6'4""",295,RSR,2020-01-03,Eligible
+460,-6,Trajan Bandy,Miami (FL),CB,"5'9""",188,JR,2020-01-03,Declared
+461,-6,Jesse Osuna,San Jose State,OLB,"6'0""",223,RSR,2020-01-03,Eligible
+462,-6,Kindle Vildor,Georgia Southern,CB,"5'11""",190,SR,2020-01-03,Eligible
+463,-6,J.D. Spielman,Nebraska,WRS,5'9'',180,JR,2020-01-03,Underclassman
+464,-6,Marcus Norman,South Florida,OT,"6'6""",316,RSR,2020-01-03,Eligible
+465,-6,Isaiah Chambers,Houston,EDGE,"6'5""",265,RJR,2020-01-03,Underclassman
+466,-6,Quintez Cephus,Wisconsin,WRF,6'1'',207,JR,2020-01-03,Underclassman
+467,-6,James Smith-Williams,NC State,EDGE,"6'3""",270,RSR,2020-01-03,Eligible
+468,-6,Damar Hamlin,Pitt,S,"6'1""",195,SR,2020-01-03,Eligible
+469,-5,Juwan Johnson,Oregon,WRF,"6'4""",227,SR,2020-01-03,Eligible
+470,-5,Michael Ojemudia,Iowa,CB,"6'1""",199,SR,2020-01-03,Eligible
+471,-5,Javaris Davis,Auburn,CB,"5'9""",179,SR,2020-01-03,Eligible
+472,-5,Josiah Deguara,Cincinnati,TE,"6'3""",240,RSR,2020-01-03,Eligible
+473,-5,Brady White,Memphis,QB,6'3'',215,JR,2020-01-03,Underclassman
+474,-5,Raymond Calais,Louisiana-Lafayette,RBC,"5'9""",180,SR,2020-01-03,Eligible
+475,-5,Michael Pitts,Cincinnati,EDGE,"6'4""",248,JR,2020-01-03,Underclassman
+476,-5,Chauncey Manac,Louisiana-Lafayette,EDGE,"6'3""",252,RJR,2020-01-03,Underclassman
+477,-5,Alize Ward,Stephen F. Austin,S,"5'11""",205,SR,2020-01-03,Eligible
+478,-5,Giovanni Ricci,Western Michigan,TE,"6'3""",240,RSR,2020-01-03,Eligible
+479,-5,Dan Moore,Texas A&M,OT,"6'5""",325,JR,2020-01-03,Underclassman
+480,-5,Isaiah Zuber,Mississippi State,WRS,"5'11""",186,SR,2020-01-03,Eligible
+481,-5,Noah Togiai,Oregon State,TE,"6'4""",241,RSR,2020-01-03,Eligible
+482,-5,Patrick Carr,Houston,RBC,"5'10""",205,SR,2020-01-03,Eligible
+483,NEW,Trishton Jackson,Syracuse,WRF,"6'1""",191,JR,2020-01-03,Declared
+484,-5,Tra Barnett,Georgia State,RBC,5'10,185,SR,2020-01-03,Eligible
+485,-5,Joey Magnifico,Memphis,TE,"6'4""",234,RSR,2020-01-03,Eligible
+486,-5,Levi Brown,Marshall,OT,"6'4""",280,RSR,2020-01-03,Eligible
+487,-5,B.J. Smith,Troy,RBC,"5'9""",203,SR,2020-01-03,Eligible
+488,-5,Ray Lima,Iowa State,DL3T,"6'3""",302,RSR,2020-01-03,Eligible
+489,-5,Brian Lewerke,Michigan State,QB,"6'3""",214,SR,2020-01-03,Eligible
+490,-5,JaMycal Hasty,Baylor,RBC,"5'9""",205,RSR,2020-01-03,Eligible
+491,-5,Marquel Harrell,Auburn,OG,"6'3""",309,SR,2020-01-03,Eligible
+492,-5,Binjimen Victor,Ohio State,WRF,"6'4""",195,SR,2020-01-03,Eligible
+493,-5,Karamo Dioubate,Temple,DL3T,"6'3""",295,SR,2020-01-03,Eligible
+494,-5,Johnathon Johnson,Missouri,WRS,"5'8""",179,SR,2020-01-03,Eligible
+495,-5,Gus Lavaka,Oregon State,OG,"6'4""",358,SR,2020-01-03,Eligible
+496,-5,Kylan Wilborn,Arizona,EDGE,"6'2""",248,JR,2020-01-03,Underclassman
+497,-5,Kesean Strong,Old Dominion,RBC,5'10,197,SR,2020-01-03,Eligible
+498,-4,Mekhi Brown,Tennessee State,EDGE,"6'5""",250,RSR,2020-01-03,Eligible
+499,-4,Tyrie Cleveland,Florida,WRF,"6'2""",206,SR,2020-01-03,Eligible
+500,-4,Nick Westbrook,Indiana,WRF,"6'3""",216,RSR,2020-01-03,Eligible

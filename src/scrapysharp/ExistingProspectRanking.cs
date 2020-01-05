@@ -15,9 +15,10 @@ namespace scrapysharp_dt2020
         public string weight;
         public string position2;
         public string rankingDateString;
+        public string draftStatus;
 
         public ExistingProspectRanking() {}
-        public ExistingProspectRanking(string rank, string chg, string name, string school, string pos1, string height, string weight, string pos2, string date)
+        public ExistingProspectRanking(string rank, string chg, string name, string school, string pos1, string height, string weight, string pos2, string date, string status)
         {
             this.rank = rank;
             this.change = chg;
@@ -28,6 +29,7 @@ namespace scrapysharp_dt2020
             this.weight = weight;
             this.position2 = pos2;
             this.rankingDateString = date;
+            this.draftStatus = status;
         }
     }
 
@@ -44,6 +46,7 @@ namespace scrapysharp_dt2020
             Map(m => m.weight).Name("Weight");
             Map(m => m.position2).Name("Position2");
             Map(m => m.rankingDateString).Name("Date");
+            Map(m => m.draftStatus).Name("DraftStatus");
         }
     }
 }

@@ -201,6 +201,7 @@ namespace scrapysharp_dt2020
                                         Position2 = r.position2,
                                         PositionGroup = positions.positionGroup,
                                         PositionAspect = positions.positionAspect,
+                                        ProspectStatus = r.draftStatus,
                                         Date = r.rankingDateString,
                                         Points = rank.projectedPoints
                                     };
@@ -298,6 +299,7 @@ namespace scrapysharp_dt2020
 
                 foreach (HtmlNode table in tbl) {
                     foreach (HtmlNode row in table.SelectNodes("tr")) {
+                        
                         foreach (HtmlNode cell in row.SelectNodes("th|td")) {
 
                             string Xpath = cell.XPath;
@@ -350,10 +352,33 @@ namespace scrapysharp_dt2020
                                     break;
                             }
                         }
+                        // Handle draft eligibility and declarations (done via row color)
+                        string draftStatus = "";
+                        if (row.Attributes.Contains("style") && row.Attributes["style"].Value.Contains("background-color"))
+                        {
+                            string rowStyle = row.Attributes["style"].Value;
+                            string backgroundColor = Regex.Match(rowStyle, @"background-color: \w*").Value.Substring(18);
+                            switch (backgroundColor)
+                            {
+                                case "white":
+                                    draftStatus = "Eligible";
+                                    break;
+                                case "lightblue":
+                                    draftStatus = "Underclassman";
+                                    break;
+                                case "palegoldenrod":
+                                    draftStatus = "Declared";
+                                    break;
+                                default:
+                                    draftStatus = "";
+                                    break;
+                            }
+                            File.AppendAllText($"logs{Path.DirectorySeparatorChar}Prospects.log", "Draft Status: " + draftStatus + Environment.NewLine);
+                        }
                         // The header is in the table, so I need to ignore it here.
                         if (change != "CNG")
                         {
-                            prospectList.Add(new ProspectRanking(dateOfRanks, rank, change, playerName, school, position1, height, weight, position2));
+                            prospectList.Add(new ProspectRanking(dateOfRanks, rank, change, playerName, school, position1, height, weight, position2, draftStatus));
                         }
                     }
                 }

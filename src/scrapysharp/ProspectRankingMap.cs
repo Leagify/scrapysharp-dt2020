@@ -26,6 +26,7 @@ namespace scrapysharp_dt2020
             Map(m => m.weight).Index(6).Name("Weight");
             Map(m => m.position2).Index(7).Name("Position2");
             Map(m => m.rankingDateString).Index(8).Name("Date");
+            Map(m => m.draftStatus).Index(9).Name("DraftStatus");
 
         }
     }
