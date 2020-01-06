@@ -437,6 +437,16 @@ namespace scrapysharp_dt2020
                     return "Louisiana Tech";
                 case "Louisiana":
                     return "Louisiana-Lafayette";
+                case "San Diego St":
+                    return "San Diego State";
+                case "South Carolina St":
+                    return "South Carolina State";
+                case "Wake Forrest":
+                    return "Wake Forest";
+                case "NM State":
+                    return "New Mexico State";
+                case "New Mexico St":
+                    return "New Mexico State";
                 default:
                     return school;
             }
