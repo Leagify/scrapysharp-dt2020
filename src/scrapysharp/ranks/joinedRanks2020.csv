@@ -8272,3 +8272,461 @@ Rank,Change,Name,Position,College,Conference,State,Region,Height,Weight,CollegeC
 498,NEW,Omar Bayless,WRF,Arkansas State,FBS - Sun Belt,Arkansas,South,73,205,SR,WR,Off.,Eligible,2020-01-11,1
 499,NEW,Khalil Herbert,RBC,Kansas,Big 12,Kansas,Midwest,69,205,SR,RB,Off.,Eligible,2020-01-11,1
 500,+9,Ricky DeBerry,OLB,Towson,FCS,Maryland,Northeast,74,245,SR,LB,Def.,Eligible,2020-01-11,1
+1,+2,Chase Young,EDGE,Ohio State,Big Ten,Ohio,Midwest,77,265,JR,DL,Def.,Declared,2020-01-16,35
+2,-1,Joe Burrow,QB,LSU,SEC,Louisiana,South,76,216,SR,QB,Off.,Eligible,2020-01-16,35
+3,-1,Derrick Brown,DL3T,Auburn,SEC,Alabama,South,77,318,SR,DL,Def.,Eligible,2020-01-16,35
+4,+1,Justin Herbert,QB,Oregon,Pac 12,Oregon,West,78,225,SR,QB,Off.,Eligible,2020-01-16,35
+5,-1,Jerry Jeudy,WRF,Alabama,SEC,Alabama,South,73,192,JR,WR,Off.,Declared,2020-01-16,35
+6,+1,Jeffrey Okudah,CB,Ohio State,Big Ten,Ohio,Midwest,73,200,JR,DB,Def.,Declared,2020-01-16,35
+7,-2,Andrew Thomas,OT,Georgia,SEC,Georgia,South,77,320,JR,OL,Off.,Declared,2020-01-16,35
+8,+4,Isaiah Simmons,OLB,Clemson,ACC,South Carolina,South,76,225,RJR,LB,Def.,Underclassman,2020-01-16,35
+9,+1,A.J. Epenesa,DL5T,Iowa,Big Ten,Iowa,Midwest,78,280,JR,DL,Def.,Declared,2020-01-16,35
+10,+1,Austin Jackson,OT,USC,Pac 12,California,West,78,310,JR,OL,Off.,Declared,2020-01-16,35
+11,+1,Kristian Fulton,CB,LSU,SEC,Louisiana,South,72,192,SR,DB,Def.,Eligible,2020-01-16,30
+12,+1,CeeDee Lamb,WRF,Oklahoma,Big 12,Oklahoma,South,74,189,JR,WR,Off.,Declared,2020-01-16,30
+13,+1,Tristan Wirfs,OT,Iowa,Big Ten,Iowa,Midwest,77,320,JR,OL,Off.,Declared,2020-01-16,30
+14,-6,Yetur Gross-Matos,EDGE,Penn State,Big Ten,Pennsylvania,Northeast,76,262,JR,DL,Def.,Declared,2020-01-16,30
+15,--,Javon Kinlaw,DL3T,South Carolina,SEC,South Carolina,South,78,302,SR,DL,Def.,Eligible,2020-01-16,30
+16,+6,Grant Delpit,S,LSU,SEC,Louisiana,South,75,203,JR,DB,Def.,Declared,2020-01-16,30
+17,+5,Jedrick Wills,OT,Alabama,SEC,Alabama,South,77,316,JR,OL,Off.,Declared,2020-01-16,30
+18,+1,Jonathan Taylor,RBF,Wisconsin,Big Ten,Wisconsin,Midwest,71,215,JR,RB,Off.,Declared,2020-01-16,30
+19,+1,Curtis Weaver,EDGE,Boise State,FBS - Mountain West,Idaho,West,75,266,RJR,DL,Def.,Declared,2020-01-16,30
+20,-4,Tua Tagovailoa,QB,Alabama,SEC,Alabama,South,73,218,JR,QB,Off.,Declared,2020-01-16,30
+21,--,Trevon Diggs,CB,Alabama,SEC,Alabama,South,74,200,JR,DB,Def.,Underclassman,2020-01-16,30
+22,+9,D'Andre Swift,RBF,Georgia,SEC,Georgia,South,69,215,JR,RB,Off.,Declared,2020-01-16,30
+23,-6,Tee Higgins,WRF,Clemson,ACC,South Carolina,South,76,200,JR,WR,Off.,Declared,2020-01-16,30
+24,-1,Laviska Shenault,WRF,Colorado,Pac 12,Colorado,West,74,220,JR,WR,Off.,Declared,2020-01-16,30
+25,+2,Henry Ruggs III,WRF,Alabama,SEC,Alabama,South,72,183,JR,WR,Off.,Declared,2020-01-16,30
+26,-8,Tyler Biadasz,OC,Wisconsin,Big Ten,Wisconsin,Midwest,75,315,RJR,OL,Off.,Declared,2020-01-16,25
+27,-1,C.J. Henderson,CB,Florida,SEC,Florida,South,73,186,JR,DB,Def.,Declared,2020-01-16,25
+28,+2,Solomon Kindley,OG,Georgia,SEC,Georgia,South,76,335,JR,OL,Off.,Declared,2020-01-16,25
+29,+16,J.K. Dobbins,RBF,Ohio State,Big Ten,Ohio,Midwest,70,214,JR,RB,Off.,Declared,2020-01-16,25
+30,+6,Cameron Dantzler,CB,Mississippi State,SEC,Mississippi,South,74,185,JR,DB,Def.,Declared,2020-01-16,25
+31,+3,Anfernee Jennings,OLB,Alabama,SEC,Alabama,South,75,259,RSR,LB,Def.,Eligible,2020-01-16,25
+32,+6,Tyler Johnson,WRF,Minnesota,Big Ten,Minnesota,Midwest,74,200,SR,WR,Off.,Eligible,2020-01-16,25
+33,-7,Kenneth Murray,ILB,Oklahoma,Big 12,Oklahoma,South,74,238,JR,LB,Def.,Declared,2020-01-16,25
+34,-3,Travis Etienne,RBF,Clemson,ACC,South Carolina,South,70,200,JR,RB,Off.,Underclassman,2020-01-16,25
+35,-2,Trey Adams,OT,Washington,Pac 12,Washington,West,79,315,SR,OL,Off.,Eligible,2020-01-16,25
+36,+4,Xavier McKinney,S,Alabama,SEC,Alabama,South,73,196,JR,DB,Def.,Declared,2020-01-16,20
+37,-3,Prince Tega Wanogho,OT,Auburn,SEC,Alabama,South,79,310,SR,OL,Off.,Eligible,2020-01-16,20
+38,+17,Jake Fromm,QB,Georgia,SEC,Georgia,South,74,220,JR,QB,Off.,Declared,2020-01-16,20
+39,+4,Shane Lemieux,OG,Oregon,Pac 12,Oregon,West,76,317,SR,OL,Off.,Eligible,2020-01-16,20
+40,+13,Jalen Reagor,WRS,TCU,Big 12,Texas,South,71,195,JR,WR,Off.,Declared,2020-01-16,20
+41,+10,Albert Okwuegbunam,TE,Missouri,SEC,Missouri,Midwest,77,255,RJR,TE,Off.,Declared,2020-01-16,20
+42,--,Bryce Hall,CB,Virginia,ACC,Virginia,South,73,200,SR,DB,Def.,Eligible,2020-01-16,20
+43,+10,Jake Hanson,OC,Oregon,Pac 12,Oregon,West,77,297,SR,OL,Off.,Eligible,2020-01-16,20
+44,-1,Troy Dye,ILB,Oregon,Pac 12,Oregon,West,76,224,SR,LB,Def.,Eligible,2020-01-16,20
+45,+27,Justin Madubuike,DL3T,Texas A&M,SEC,Texas,South,75,304,RJR,DL,Def.,Declared,2020-01-16,20
+46,-4,Jalen Hurts,QB,Oklahoma,Big 12,Oklahoma,South,74,210,SR,QB,Off.,Eligible,2020-01-16,20
+48,+22,Josh Jones,OT,Houston,FBS - AAC,Texas,South,79,310,SR,OL,Off.,Eligible,2020-01-16,20
+49,+36,James Lynch,DL5T,Baylor,Big 12,Texas,South,76,295,JR,DL,Def.,Declared,2020-01-16,20
+50,+17,Mekhi Becton,OT,Louisville,ACC,Kentucky,South,79,355,JR,OL,Off.,Declared,2020-01-16,20
+51,+33,K'Lavon Chaisson,OLB,LSU,SEC,Louisiana,South,76,238,RSO,LB,Def.,Underclassman,2020-01-16,20
+52,+81,Brycen Hopkins,TE,Purdue,Big Ten,Indiana,Midwest,77,245,RSR,TE,Off.,Eligible,2020-01-16,20
+53,+60,Justin Jefferson,WRF,LSU,SEC,Louisiana,South,74,185,JR,WR,Off.,Declared,2020-01-16,20
+54,+35,Nick Harris,OC,Washington,Pac 12,Washington,West,73,302,SR,OL,Off.,Eligible,2020-01-16,20
+55,-17,Terrell Lewis,EDGE,Alabama,SEC,Alabama,South,77,255,RJR,DL,Def.,Declared,2020-01-16,20
+56,+4,Rashard Lawrence,DL1T,LSU,SEC,Louisiana,South,75,317,SR,DL,Def.,Eligible,2020-01-16,20
+57,+9,Michael Pittman Jr.,WRF,USC,Pac 12,California,West,76,223,SR,WR,Off.,Eligible,2020-01-16,20
+58,-2,Ben Bredeson,OG,Michigan,Big Ten,Michigan,Midwest,77,320,SR,OL,Off.,Eligible,2020-01-16,20
+59,+4,A.J. Terrell,CB,Clemson,ACC,South Carolina,South,74,190,JR,DB,Def.,Underclassman,2020-01-16,20
+60,-37,Raekwon Davis,DL3T,Alabama,SEC,Alabama,South,79,306,SR,DL,Def.,Eligible,2020-01-16,15
+61,-2,Jordyn Brooks,ILB,Texas Tech,Big 12,Texas,South,73,245,SR,LB,Def.,Eligible,2020-01-16,15
+62,-15,Malik Harrison,ILB,Ohio State,Big Ten,Ohio,Midwest,75,245,SR,LB,Def.,Eligible,2020-01-16,15
+63,+88,Davon Hamilton,DL3T,Ohio State,Big Ten,Ohio,Midwest,76,310,SR,DL,Def.,Eligible,2020-01-16,15
+64,-6,Jacob Eason,QB,Washington,Pac 12,Washington,West,78,228,JR,QB,Off.,Declared,2020-01-16,15
+65,+25,Logan Stenberg,OG,Kentucky,SEC,Kentucky,South,78,326,RSR,OL,Off.,Eligible,2020-01-16,15
+66,-21,Julian Okwara,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,77,241,SR,DL,Def.,Eligible,2020-01-16,15
+67,+13,Lucas Niang,OT,TCU,Big 12,Texas,South,79,328,SR,OL,Off.,Eligible,2020-01-16,15
+68,+19,Zack Baun,OLB,Wisconsin,Big Ten,Wisconsin,Midwest,75,235,SR,LB,Def.,Eligible,2020-01-16,15
+69,+7,Hakeem Adeniji,OG,Kansas,Big 12,Kansas,Midwest,77,310,SR,OL,Off.,Eligible,2020-01-16,15
+70,+23,K.J. Hamler,WRS,Penn State,Big Ten,Pennsylvania,Northeast,69,174,JR,WR,Off.,Declared,2020-01-16,15
+71,-8,Marlon Davidson,DL5T,Auburn,SEC,Alabama,South,75,278,SR,DL,Def.,Eligible,2020-01-16,10
+72,+9,Jeff Gladney,CB,TCU,Big 12,Texas,South,70,183,SR,DB,Def.,Eligible,2020-01-16,10
+73,+25,Collin Johnson,WRF,Texas,Big 12,Texas,South,78,220,SR,WR,Off.,Eligible,2020-01-16,10
+74,+16,Jaylon Johnson,CB,Utah,Pac 12,Utah,West,72,190,JR,DB,Def.,Declared,2020-01-16,10
+75,-1,Tyler Huntley,QB,Utah,Pac 12,Utah,West,73,205,SR,QB,Off.,Eligible,2020-01-16,10
+76,+37,Donovan Peoples-Jones,WRF,Michigan,Big Ten,Michigan,Midwest,74,208,JR,WR,Off.,Declared,2020-01-16,10
+77,+14,Frederick Mauigoa,OC,Washington State,Pac 12,Washington,West,75,310,SR,OL,Off.,Eligible,2020-01-16,10
+78,+51,Chris Orr,OLB,Wisconsin,Big Ten,Wisconsin,Midwest,72,224,SR,LB,Def.,Eligible,2020-01-16,10
+79,+44,Cam Akers,RBF,Florida State,ACC,Florida,South,71,210,JR,RB,Off.,Declared,2020-01-16,10
+80,+27,Darrell Taylor,EDGE,Tennessee,SEC,Tennessee,South,76,247,SR,DL,Def.,Eligible,2020-01-16,10
+81,+1,Ashtyn Davis,S,California,Pac 12,California,West,73,201,RSR,DB,Def.,Eligible,2020-01-16,10
+82,+11,Netane Muti,OG,Fresno State,FBS - Mountain West,California,West,75,310,RSO,OL,Off.,Declared,2020-01-16,10
+83,+16,Shyheim Carter,S,Alabama,SEC,Alabama,South,71,192,SR,DB,Def.,Eligible,2020-01-16,10
+84,+23,Antoine Winfield Jr.,S,Minnesota,Big Ten,Minnesota,Midwest,70,207,RSO,DB,Def.,Declared,2020-01-16,10
+85,-14,Jacob Phillips,ILB,LSU,SEC,Louisiana,South,76,229,JR,LB,Def.,Declared,2020-01-16,10
+86,+29,Brandon Jones,S,Texas,Big 12,Texas,South,72,210,SR,DB,Def.,Eligible,2020-01-16,10
+87,+42,Tedarrell Slaton,DL1T,Florida,SEC,Florida,South,77,343,JR,DL,Def.,Underclassman,2020-01-16,10
+88,-5,Leki Fotu,DL1T,Utah,Pac 12,Utah,West,77,330,SR,DL,Def.,Eligible,2020-01-16,10
+89,+12,Darryl Williams,OC,Mississippi State,SEC,Mississippi,South,74,310,SR,OL,Off.,Eligible,2020-01-16,10
+90,-29,Jacob Breeland,TE,Oregon,Pac 12,Oregon,West,77,240,RSR,TE,Off.,Eligible,2020-01-16,10
+91,+30,Joe Gaziano,DL5T,Northwestern,Big Ten,Illinois,Midwest,76,275,SR,DL,Def.,Eligible,2020-01-16,10
+92,+104,Brandon Aiyuk,WRF,Arizona State,Pac 12,Arizona,West,72,208,SR,WR,Off.,Eligible,2020-01-16,10
+93,-1,Josh Uche,OLB,Michigan,Big Ten,Michigan,Midwest,75,238,RJR,LB,Def.,Declared,2020-01-16,10
+94,+66,Jonathan Greenard,EDGE,Florida,SEC,Florida,South,75,263,SR,DL,Def.,Eligible,2020-01-16,10
+95,+48,Aaron Fuller,WRS,Washington,Pac 12,Washington,West,71,186,SR,WR,Off.,Eligible,2020-01-16,10
+96,-28,Kenny Willekes,EDGE,Michigan State,Big Ten,Michigan,Midwest,76,260,SR,DL,Def.,Eligible,2020-01-16,10
+97,+77,Trevis Gipson,DL5T,Tulsa,FBS - AAC,Oklahoma,South,76,268,RSR,DL,Def.,Eligible,2020-01-16,10
+98,+9,Larrell Murchison,DL3T,NC State,ACC,North Carolina,South,75,291,SR,DL,Def.,Eligible,2020-01-16,10
+99,+3,Calvin Throckmorton,OT,Oregon,Pac 12,Oregon,West,77,318,SR,OL,Off.,Eligible,2020-01-16,10
+100,+6,Deonte Brown,OG,Alabama,SEC,Alabama,South,76,338,JR,OL,Off.,Underclassman,2020-01-16,10
+101,-19,Neville Gallimore,DL1T,Oklahoma,Big 12,Oklahoma,South,74,330,RSR,DL,Def.,Eligible,2020-01-16,8
+102,-11,Evan Weaver,ILB,California,Pac 12,California,West,75,245,SR,LB,Def.,Eligible,2020-01-16,8
+103,+87,Bradlee Anae,EDGE,Utah,Pac 12,Utah,West,75,265,SR,DL,Def.,Eligible,2020-01-16,8
+104,+80,Jordan Elliott,DL3T,Missouri,SEC,Missouri,Midwest,76,315,RJR,DL,Def.,Declared,2020-01-16,8
+105,+95,Alex Highsmith,EDGE,Charlotte,FBS - CUSA,North Carolina,South,75,244,RSR,DL,Def.,Eligible,2020-01-16,8
+106,+41,McTelvin Agim,DL5T,Arkansas,SEC,Arkansas,South,75,279,SR,DL,Def.,Eligible,2020-01-16,8
+107,+23,Lamar Jackson,CB,Nebraska,Big Ten,Nebraska,Midwest,74,215,SR,DB,Def.,Eligible,2020-01-16,8
+108,+28,Anthony Gordon,QB,Washington State,Pac 12,Washington,West,75,210,RSR,QB,Off.,Eligible,2020-01-16,8
+109,+14,K'Von Wallace,S,Clemson,ACC,South Carolina,South,71,210,SR,DB,Def.,Eligible,2020-01-16,8
+110,-38,Jordan Mack,ILB,Virginia,ACC,Virginia,South,74,230,SR,LB,Def.,Eligible,2020-01-16,8
+111,+9,Dele Harding,OLB,Illinois,Big Ten,Illinois,Midwest,73,230,SR,LB,Def.,Eligible,2020-01-16,8
+112,+26,Yasir Durant,OT,Missouri,SEC,Missouri,Midwest,79,330,SR,OL,Off.,Eligible,2020-01-16,8
+113,-52,Zack Moss,RBF,Utah,Pac 12,Utah,West,70,210,SR,RB,Off.,Eligible,2020-01-16,8
+114,+282,Hunter Bryant,TE,Washington,Pac 12,Washington,West,74,241,JR,TE,Off.,Declared,2020-01-16,8
+115,NEW,Cole Kmet,TE,Notre Dame,FBS - Independent,Indiana,Midwest,78,255,JR,TE,Off.,Declared,2020-01-16,8
+116,+18,Jordan Love,QB,Utah State,FBS - Mountain West,Utah,West,76,225,JR,QB,Off.,Declared,2020-01-16,8
+117,+4,Kylin Hill,RBC,Mississippi State,SEC,Mississippi,South,71,215,JR,RB,Off.,Declared,2020-01-16,8
+118,--,Raequan Williams,DL3T,Michigan State,Big Ten,Michigan,Midwest,76,298,SR,DL,Def.,Eligible,2020-01-16,8
+119,+36,Clyde Edwards-Helaire,RBF,LSU,SEC,Louisiana,South,69,212,JR,RB,Off.,Declared,2020-01-16,8
+120,-51,Khalid Kareem,EDGE,Notre Dame,FBS - Independent,Indiana,Midwest,76,265,SR,DL,Def.,Eligible,2020-01-16,8
+121,-74,Jabari Zuniga,EDGE,Florida,SEC,Florida,South,76,257,RSR,DL,Def.,Eligible,2020-01-16,7
+122,+7,T.J. McCoy,OC,Louisville,ACC,Kentucky,South,73,315,SR,OL,Off.,Eligible,2020-01-16,7
+123,+4,John Hightower,WRF,Boise State,FBS - Mountain West,Idaho,West,74,184,SR,WR,Off.,Eligible,2020-01-16,7
+124,-31,Devin Duvernay,WRS,Texas,Big 12,Texas,South,71,186,SR,WR,Off.,Eligible,2020-01-16,7
+125,+21,Joe Bachie,ILB,Michigan State,Big Ten,Michigan,Midwest,74,238,SR,LB,Def.,Eligible,2020-01-16,7
+126,+17,Damon Arnette,CB,Ohio State,Big Ten,Ohio,Midwest,72,195,SR,DB,Def.,Eligible,2020-01-16,7
+127,+69,K.J. Hill,WRF,Ohio State,Big Ten,Ohio,Midwest,72,195,SR,WR,Off.,Eligible,2020-01-16,7
+129,+3,Lloyd Cushenberry,OC,LSU,SEC,Louisiana,South,75,312,RJR,OL,Off.,Declared,2020-01-16,7
+130,+28,Lamical Perine,RBF,Florida,SEC,Florida,South,71,227,SR,RB,Off.,Eligible,2020-01-16,7
+131,+5,Jonah Jackson,OG,Ohio State,Big Ten,Ohio,Midwest,75,309,SR,OL,Off.,Eligible,2020-01-16,7
+132,-67,Shaquille Quarterman,ILB,Miami (FL),ACC,Florida,South,73,240,SR,LB,Def.,Eligible,2020-01-16,7
+133,-22,Oluwole Betiku,EDGE,Illinois,Big Ten,Illinois,Midwest,75,240,RJR,DL,Def.,Declared,2020-01-16,7
+134,+17,Kyle Dugger,S,Lenoir–Rhyne,D2,North Carolina,South,74,205,SR,DB,Def.,Eligible,2020-01-16,7
+135,+94,Antonio Gandy-Golden,WRF,Liberty,FCS,Virginia,South,76,216,SR,WR,Off.,Eligible,2020-01-16,7
+136,+12,Lavert Hill,CB,Michigan,Big Ten,Michigan,Midwest,71,181,SR,DB,Def.,Eligible,2020-01-16,7
+137,+333,Michael Ojemudia,CB,Iowa,Big Ten,Iowa,Midwest,73,199,SR,DB,Def.,Eligible,2020-01-16,7
+138,+29,Antoine Brooks Jr.,S,Maryland,Big Ten,Maryland,Northeast,71,210,SR,DB,Def.,Eligible,2020-01-16,7
+139,+18,Darnay Holmes,CB,UCLA,Pac 12,California,West,70,198,JR,DB,Def.,Declared,2020-01-16,7
+140,+59,Cam Brown,ILB,Penn State,Big Ten,Pennsylvania,Northeast,77,230,SR,LB,Def.,Eligible,2020-01-16,7
+141,+28,Denzel Mims,WRF,Baylor,Big 12,Texas,South,75,197,SR,WR,Off.,Eligible,2020-01-16,7
+142,+24,Levante Bellamy,RBC,Western Michigan,FBS - MAC,Michigan,Midwest,69,185,SR,RB,Off.,Eligible,2020-01-16,7
+143,NEW,Reggie Robinson II,CB,Tulsa,FBS - AAC,Oklahoma,South,73,197,SR,DB,Def.,Eligible,2020-01-16,7
+144,-34,Benito Jones,DL1T,Ole Miss,SEC,Mississippi,South,73,326,SR,DL,Def.,Eligible,2020-01-16,7
+145,+116,Brendon Hayes,DL5T,UCF,FBS - AAC,Florida,South,75,293,RSR,DL,Def.,Eligible,2020-01-16,7
+146,-22,Robert Hunt,OT,Louisiana-Lafayette,FBS - Sun Belt,Louisiana,South,77,310,SR,OL,Off.,Eligible,2020-01-16,7
+147,+53,Trevon Hill,EDGE,Miami (FL),ACC,Florida,South,75,245,SR,DL,Def.,Eligible,2020-01-16,7
+148,+11,Ke'Shawn Vaughn,RBF,Vanderbilt,SEC,Tennessee,South,70,215,SR,RB,Off.,Eligible,2020-01-16,7
+149,+9,John Simpson,OG,Clemson,ACC,South Carolina,South,76,330,SR,OL,Off.,Eligible,2020-01-16,7
+150,-83,Keandre Jones,OLB,Maryland,Big Ten,Maryland,Northeast,74,228,SR,LB,Def.,Eligible,2020-01-16,7
+151,+43,Luq Barcoo,CB,San Diego State,FBS - Mountain West,California,West,73,175,SR,DB,Def.,Eligible,2020-01-16,6
+152,-11,Matt Hennessy,OC,Temple,FBS - AAC,Pennsylvania,Northeast,76,295,JR,OL,Off.,Declared,2020-01-16,6
+153,+25,D.J. Wonnum,EDGE,South Carolina,SEC,South Carolina,South,77,255,SR,DL,Def.,Eligible,2020-01-16,6
+154,+21,Zack Shackelford,OC,Texas,Big 12,Texas,South,76,305,SR,OL,Off.,Eligible,2020-01-16,6
+155,-48,Alton Robinson,EDGE,Syracuse,ACC,New York,Northeast,76,257,SR,DL,Def.,Eligible,2020-01-16,6
+156,-32,A.J. Dillon,RBF,Boston College,ACC,Massachusetts,Northeast,72,245,JR,RB,Off.,Declared,2020-01-16,6
+157,+3,James Proche,WRS,SMU,FBS - AAC,Texas,South,71,190,RSR,WR,Off.,Eligible,2020-01-16,6
+158,+51,Eno Benjamin,RBF,Arizona State,Pac 12,Arizona,West,70,201,JR,RB,Off.,Declared,2020-01-16,6
+159,+21,Essang Bassey,S,Wake Forest,ACC,North Carolina,South,70,190,SR,DB,Def.,Eligible,2020-01-16,6
+160,+15,Amik Robertson,CB,Louisiana Tech,FBS - CUSA,Louisiana,South,69,183,JR,DB,Def.,Declared,2020-01-16,6
+161,+136,Anthony McFarland Jr.,RBC,Maryland,Big Ten,Maryland,Northeast,68,193,JR,RB,Off.,Declared,2020-01-16,6
+162,+149,Delontae Scott,EDGE,SMU,FBS - AAC,Texas,South,77,250,SR,DL,Def.,Eligible,2020-01-16,6
+163,+130,Gerold Bright,RBC,Utah State,FBS - Mountain West,Utah,West,69,195,SR,RB,Off.,Eligible,2020-01-16,6
+164,+30,Terence Steele,OT,Texas Tech,Big 12,Texas,South,78,310,SR,OL,Off.,Eligible,2020-01-16,6
+165,+11,Damien Lewis,OG,LSU,SEC,Louisiana,South,74,335,SR,OL,Off.,Eligible,2020-01-16,6
+166,+31,Terrell Burgess,S,Utah,Pac 12,Utah,West,72,194,SR,DB,Def.,Eligible,2020-01-16,6
+167,+18,Colby Parkinson,TE,Stanford,Pac 12,California,West,79,240,JR,TE,Off.,Declared,2020-01-16,6
+168,+127,LaDarius Hamilton,EDGE,North Texas,FBS - CUSA,Texas,South,75,255,SR,DL,Def.,Eligible,2020-01-16,6
+169,+93,Benning Potoa'e,DL3T,Washington,Pac 12,Washington,West,75,290,SR,DL,Def.,Eligible,2020-01-16,6
+170,+113,Isaiah Hodgins,WRF,Oregon State,Pac 12,Oregon,West,76,209,JR,WR,Off.,Declared,2020-01-16,6
+171,+31,Shane Buechele,QB,SMU,FBS - AAC,Texas,South,73,207,JR,QB,Off.,Underclassman,2020-01-16,6
+172,-73,Michael Pinckney,OLB,Miami (FL),ACC,Florida,South,73,220,SR,LB,Def.,Eligible,2020-01-16,6
+173,+2,Jashon Cornell,DL5T,Ohio State,Big Ten,Ohio,Midwest,75,280,RSR,DL,Def.,Eligible,2020-01-16,6
+174,+26,Alohi Gilman,S,Notre Dame,FBS - Independent,Indiana,Midwest,71,201,JR,DB,Def.,Declared,2020-01-16,6
+175,-7,Ross Blacklock,DL3T,TCU,Big 12,Texas,South,76,305,JR,DL,Def.,Declared,2020-01-16,6
+176,+25,Saahdiq Charles,OT,LSU,SEC,Louisiana,South,77,305,JR,OL,Off.,Declared,2020-01-16,6
+177,+35,Michael Onwenu,OG,Michigan,Big Ten,Michigan,Midwest,75,350,SR,OL,Off.,Eligible,2020-01-16,6
+178,-13,Jace Whittaker,CB,Arizona,Pac 12,Arizona,West,71,185,RSR,DB,Def.,Eligible,2020-01-16,6
+179,+37,Kellen Mond,QB,Texas A&M,SEC,Texas,South,74,217,JR,QB,Off.,Underclassman,2020-01-16,6
+180,+26,Kenny Cooper,OC,Georgia Tech,ACC,Georgia,South,74,305,SR,OL,Off.,Eligible,2020-01-16,6
+181,-79,Jonathan Garvin,EDGE,Miami (FL),ACC,Florida,South,76,250,JR,DL,Def.,Declared,2020-01-16,5
+182,+55,Bryan Edwards,WRF,South Carolina,SEC,South Carolina,South,75,215,SR,WR,Off.,Eligible,2020-01-16,5
+183,NEW,Ben Bartch,OT,St. John's,D3,Minnesota,Midwest,78,305,SR,OL,Off.,Eligible,2020-01-16,5
+184,+25,J.R. Reed,S,Georgia,SEC,Georgia,South,73,199,SR,DB,Def.,Eligible,2020-01-16,5
+185,-36,Mustafa Johnson,DL3T,Colorado,Pac 12,Colorado,West,74,290,SR,DL,Def.,Eligible,2020-01-16,5
+186,+1,John Molchon,OG,Boise State,FBS - Mountain West,Idaho,West,77,322,RSR,OL,Off.,Eligible,2020-01-16,5
+187,+55,Harrison Bryant,TE,Florida Atlantic,FBS - CUSA,Florida,South,77,240,SR,TE,Off.,Eligible,2020-01-16,5
+188,NEW,Geno Stone,S,Iowa,Big Ten,Iowa,Midwest,70,210,JR,DB,Def.,Declared,2020-01-16,5
+189,+248,Joseph Charlton,P,South Carolina,SEC,South Carolina,South,77,190,SR,P,ST,Eligible,2020-01-16,5
+190,+17,Simon Stepaniak,OG,Indiana,Big Ten,Indiana,Midwest,76,319,SR,OL,Off.,Eligible,2020-01-16,5
+191,+38,Julian Blackmon,S,Utah,Pac 12,Utah,West,73,195,SR,DB,Def.,Eligible,2020-01-16,5
+192,NEW,Akeem Davis-Gaither,OLB,Appalachian State,FBS - Sun Belt,North Carolina,South,74,210,SR,LB,Def.,Eligible,2020-01-16,5
+193,+41,Chauncey Rivers,DL5T,Mississippi State,SEC,Mississippi,South,75,275,RSR,DL,Def.,Eligible,2020-01-16,5
+194,+102,Quintez Cephus,WRF,Wisconsin,Big Ten,Wisconsin,Midwest,73,207,JR,WR,Off.,Declared,2020-01-16,5
+195,+9,Carter Coughlin,OLB,Minnesota,Big Ten,Minnesota,Midwest,76,245,SR,LB,Def.,Eligible,2020-01-16,5
+196,+148,Gabriel Davis,WRF,UCF,FBS - AAC,Florida,South,75,212,JR,WR,Off.,Declared,2020-01-16,5
+197,-16,Michael Warren II,RBF,Cincinnati,FBS - AAC,Ohio,Midwest,71,218,JR,RB,Off.,Declared,2020-01-16,5
+198,NEW,Stanford Samuels III,CB,Florida State,ACC,Florida,South,74,185,JR,DB,Def.,Declared,2020-01-16,5
+199,+32,Tyler Clark,DL1T,Georgia,SEC,Georgia,South,76,300,SR,DL,Def.,Eligible,2020-01-16,5
+200,+86,Bravvion Roy,DL1T,Baylor,Big 12,Texas,South,73,330,SR,DL,Def.,Eligible,2020-01-16,5
+201,-77,Khalil Davis,DL1T,Nebraska,Big Ten,Nebraska,Midwest,74,310,SR,DL,Def.,Eligible,2020-01-16,5
+202,+73,Shea Patterson,QB,Michigan,Big Ten,Michigan,Midwest,74,200,SR,QB,Off.,Eligible,2020-01-16,5
+203,+131,Chase Claypool,WRF,Notre Dame,FBS - Independent,Indiana,Midwest,76,227,SR,WR,Off.,Eligible,2020-01-16,5
+204,+14,Jared Pinkney,TE,Vanderbilt,SEC,Tennessee,South,76,255,RJR,TE,Off.,Declared,2020-01-16,5
+205,+34,Benning Potoae,DL5T,Washington,Pac 12,Washington,West,75,285,SR,DL,Def.,Eligible,2020-01-16,5
+206,+19,Dominik Eberle,PK,Utah State,FBS - Mountain West,Utah,West,74,195,SR,K,ST,Eligible,2020-01-16,5
+207,-78,Darrion Daniels,DL1T,Nebraska,Big Ten,Nebraska,Midwest,75,320,RSR,DL,Def.,Eligible,2020-01-16,5
+208,-24,Kamal Martin,ILB,Minnesota,Big Ten,Minnesota,Midwest,75,235,SR,LB,Def.,Eligible,2020-01-16,5
+209,-73,Glen Logan,DL5T,LSU,SEC,Louisiana,South,76,297,RJR,DL,Def.,Underclassman,2020-01-16,5
+210,+50,Jessie Lemonier,EDGE,Liberty,FCS,Virginia,South,75,240,SR,DL,Def.,Eligible,2020-01-16,5
+211,+66,Tommy Townsend,P,Florida,SEC,Florida,South,74,183,RSR,P,ST,Eligible,2020-01-16,5
+212,-16,Levonta Taylor,CB,Florida State,ACC,Florida,South,70,181,SR,DB,Def.,Eligible,2020-01-16,5
+213,+33,Bryce Perkins,QB,Virginia,ACC,Virginia,South,75,215,SR,QB,Off.,Eligible,2020-01-16,5
+214,+74,Tipa Galeai,EDGE,Utah State,FBS - Mountain West,Utah,West,77,230,SR,DL,Def.,Eligible,2020-01-16,5
+215,+87,Matt Peart,OT,Connecticut,FBS - AAC,Connecticut,Northeast,79,303,RSR,OL,Off.,Eligible,2020-01-16,5
+216,+177,Darrynton Evans,RBC,Appalachian State,FBS - Sun Belt,North Carolina,South,71,190,JR,RB,Off.,Declared,2020-01-16,5
+217,+3,Trystan Colon-Castillo,OC,Missouri,SEC,Missouri,Midwest,76,315,JR,OL,Off.,Declared,2020-01-16,5
+218,+39,Carlos Davis,DL3T,Nebraska,Big Ten,Nebraska,Midwest,74,320,SR,DL,Def.,Eligible,2020-01-16,5
+219,+106,Patrick Queen,ILB,LSU,SEC,Louisiana,South,74,232,JR,LB,Def.,Declared,2020-01-16,5
+220,NEW,David Woodward,ILB,Utah State,FBS - Mountain West,Utah,West,74,235,JR,LB,Def.,Declared,2020-01-16,5
+221,+47,Adam Trautman,TE,Dayton,FCS,Ohio,Midwest,77,250,RSR,TE,Off.,Eligible,2020-01-16,5
+222,+205,Tanner Muse,S,Clemson,ACC,South Carolina,South,74,231,SR,DB,Def.,Eligible,2020-01-16,5
+223,+178,Trey Sermon,RBF,Oklahoma,Big 12,Oklahoma,South,72,224,JR,RB,Off.,Underclassman,2020-01-16,5
+224,+76,Kendrick Rogers,WRF,Texas A&M,SEC,Texas,South,76,204,JR,WR,Off.,Declared,2020-01-16,5
+225,+23,Sean Pollard,OC,Clemson,ACC,South Carolina,South,77,320,SR,OL,Off.,Eligible,2020-01-16,5
+226,-8,Sterling Hofrichter,P,Syracuse,ACC,New York,Northeast,69,199,SR,P,ST,Eligible,2020-01-16,5
+227,+34,Jeremy Chinn,S,Southern Illinois,FCS,Illinois,Midwest,75,208,SR,DB,Def.,Eligible,2020-01-16,5
+228,+128,Kalija Lipscomb,WRF,Vanderbilt,SEC,Tennessee,South,73,200,SR,WR,Off.,Eligible,2020-01-16,5
+229,+2,Javon Leake,RBF,Maryland,Big Ten,Maryland,Northeast,72,205,JR,RB,Off.,Declared,2020-01-16,5
+230,NEW,Jeremiah Dinson,S,Auburn,SEC,Alabama,South,72,191,SR,DB,Def.,Eligible,2020-01-16,5
+231,-137,Dontavious Jackson,ILB,Florida State,ACC,Florida,South,75,233,SR,LB,Def.,Eligible,2020-01-16,5
+232,NEW,Devin Asiasi,TE,UCLA,Pac 12,California,West,75,279,RJR,TE,Off.,Declared,2020-01-16,5
+233,+196,Tavien Feaster,RBC,South Carolina,SEC,South Carolina,South,71,220,SR,RB,Off.,Eligible,2020-01-16,5
+234,+57,J.J. Taylor,RBC,Arizona,Pac 12,Arizona,West,66,184,SR,RB,Off.,Eligible,2020-01-16,5
+235,-101,Khaleke Hudson,OLB,Michigan,Big Ten,Michigan,Midwest,72,220,SR,LB,Def.,Eligible,2020-01-16,5
+236,+91,Robert Windsor,DL3T,Penn State,Big Ten,Pennsylvania,Northeast,76,289,SR,DL,Def.,Eligible,2020-01-16,5
+237,-78,Mohamed Barry,ILB,Nebraska,Big Ten,Nebraska,Midwest,73,245,SR,LB,Def.,Eligible,2020-01-16,5
+238,+20,Joshua Kelley,RBF,UCLA,Pac 12,California,West,71,204,SR,RB,Off.,Eligible,2020-01-16,5
+239,-82,Nick Coe,DL5T,Auburn,SEC,Alabama,South,77,282,JR,DL,Def.,Declared,2020-01-16,5
+240,+144,Connor Slomka,FB,Army,FBS - Independent,Kansas,Midwest,72,240,SR,RB,Off.,Eligible,2020-01-16,5
+241,-37,Salvon Ahmed,RBC,Washington,Pac 12,Washington,West,71,196,RJR,RB,Off.,Declared,2020-01-16,5
+242,+42,Reggie Corbin,RBF,Illinois,Big Ten,Illinois,Midwest,70,200,JR,RB,Off.,Underclassman,2020-01-16,5
+243,-18,Braden Mann,P,Texas A&M,SEC,Texas,South,71,195,SR,P,ST,Eligible,2020-01-16,5
+244,-10,Kendall Coleman,EDGE,Syracuse,ACC,New York,Northeast,75,266,SR,DL,Def.,Eligible,2020-01-16,5
+245,-8,Darius Anderson,RBF,TCU,Big 12,Texas,South,71,212,SR,RB,Off.,Eligible,2020-01-16,5
+246,+206,Josiah Deguara,TE,Cincinnati,FBS - AAC,Ohio,Midwest,75,240,RSR,TE,Off.,Eligible,2020-01-16,5
+247,-26,Tommy Kraemer,OG,Notre Dame,FBS - Independent,Indiana,Midwest,78,319,SR,OL,Off.,Eligible,2020-01-16,5
+248,-60,Kamren Curl,S,Arkansas,SEC,Arkansas,South,74,198,JR,DB,Def.,Declared,2020-01-16,5
+249,+25,Nate Stanley,QB,Iowa,Big Ten,Iowa,Midwest,76,243,SR,QB,Off.,Eligible,2020-01-16,5
+250,+57,Chase Allen,TE,Iowa State,Big 12,Iowa,Midwest,78,240,SR,TE,Off.,Eligible,2020-01-16,5
+251,+62,Keith Ismael,OC,San Diego State,FBS - Mountain West,California,West,75,311,JR,OL,Off.,Declared,2020-01-16,2
+252,-11,A.J. Green,CB,Oklahoma State,Big 12,Oklahoma,South,73,194,SR,DB,Def.,Eligible,2020-01-16,2
+253,-79,Kylan Johnson,OLB,Pitt,ACC,Pennsylvania,Northeast,74,230,SR,LB,Def.,Eligible,2020-01-16,2
+254,+117,Joe Reed,WRF,Virginia,ACC,Virginia,South,73,215,SR,WR,Off.,Eligible,2020-01-16,2
+255,+53,Rodrigo Blankenship,PK,Georgia,SEC,Georgia,South,73,191,SR,K,ST,Eligible,2020-01-16,2
+256,+45,Rodney Smith,RBF,Minnesota,Big Ten,Minnesota,Midwest,71,210,SR,RB,Off.,Eligible,2020-01-16,2
+257,-67,Casey Toohill,ILB,Stanford,Pac 12,California,West,76,247,SR,LB,Def.,Eligible,2020-01-16,2
+258,-71,John Houston Jr.,OLB,USC,Pac 12,California,West,75,220,SR,LB,Def.,Eligible,2020-01-16,2
+259,-9,DeMarkus Acy,CB,Missouri,SEC,Missouri,Midwest,74,195,SR,DB,Def.,Eligible,2020-01-16,2
+260,+99,Scott Frantz,OT,Kansas State,Big 12,Kansas,Midwest,77,303,SR,OL,Off.,Eligible,2020-01-16,2
+261,+35,Sean Adesanya,EDGE,Central Michigan,FBS - MAC,Michigan,Midwest,75,240,SR,DL,Def.,Eligible,2020-01-16,2
+262,+87,Jeff Thomas,WRS,Miami (FL),ACC,Florida,South,70,180,JR,WR,Off.,Declared,2020-01-16,2
+263,-23,Myles Dorn,S,North Carolina,ACC,North Carolina,South,73,198,SR,DB,Def.,Eligible,2020-01-16,2
+264,-43,Willie Gay Jr.,OLB,Mississippi State,SEC,Mississippi,South,74,235,JR,LB,Def.,Declared,2020-01-16,2
+265,+130,Mike Panasiuk,DL3T,Michigan State,Big Ten,Michigan,Midwest,76,300,SR,DL,Def.,Eligible,2020-01-16,2
+266,+193,Tony Jones Jr.,RBF,Notre Dame,FBS - Independent,Indiana,Midwest,71,227,JR,RB,Off.,Declared,2020-01-16,2
+267,+115,Van Jefferson,WRF,Florida,SEC,Florida,South,74,197,SR,WR,Off.,Eligible,2020-01-16,2
+268,NEW,Jack Freudenthal,TE,Wake Forest,ACC,North Carolina,South,75,235,SR,TE,Off.,Eligible,2020-01-16,2
+269,+65,Easop Winston Jr.,WRS,Washington State,Pac 12,Washington,West,71,190,SR,WR,Off.,Eligible,2020-01-16,2
+270,+80,Darius Bradwell,FB,Tulane,FBS - AAC,Louisiana,South,73,230,SR,RB,Off.,Eligible,2020-01-16,2
+271,-36,Jason Strowbridge,DL3T,North Carolina,ACC,North Carolina,South,75,285,SR,DL,Def.,Eligible,2020-01-16,2
+272,+78,Benny LeMay,RBF,Charlotte,FBS - CUSA,North Carolina,South,72,218,SR,RB,Off.,Eligible,2020-01-16,2
+273,+29,Garrett Marino,DL3T,UAB,FBS - CUSA,Alabama,South,74,290,SR,DL,Def.,Eligible,2020-01-16,2
+274,NEW,Travion Banks,CB,Miami (OH),FBS - MAC,Ohio,Midwest,71,184,SR,DB,Def.,Eligible,2020-01-16,2
+275,+52,Xavier Jones,RBC,SMU,FBS - AAC,Texas,South,71,208,SR,RB,Off.,Eligible,2020-01-16,2
+276,+14,Logan Wilson,ILB,Wyoming,FBS - Mountain West,Wyoming,West,74,250,RSR,LB,Def.,Eligible,2020-01-16,2
+277,+2,Jared Rice,TE,Fresno State,FBS - Mountain West,California,West,77,243,SR,TE,Off.,Eligible,2020-01-16,2
+278,+103,Adrian Killins Jr.,RBC,UCF,FBS - AAC,Florida,South,68,164,SR,RB,Off.,Eligible,2020-01-16,2
+279,+7,Lakiem Williams,OLB,Syracuse,ACC,New York,Northeast,72,225,SR,LB,Def.,Eligible,2020-01-16,2
+280,--,Jet Toner,PK,Stanford,Pac 12,California,West,76,201,SR,K,ST,Eligible,2020-01-16,2
+281,-84,David Reese II,ILB,Florida,SEC,Florida,South,73,248,SR,LB,Def.,Eligible,2020-01-16,2
+282,+72,Cole McDonald,QB,Hawaii,FBS - Mountain West,Hawaii,West,76,220,JR,QB,Off.,Declared,2020-01-16,2
+283,+68,Luke Farrell,TE,Ohio State,Big Ten,Ohio,Midwest,78,244,SR,TE,Off.,Eligible,2020-01-16,2
+284,-43,Eric Lee Jr.,S,Nebraska,Big Ten,Nebraska,Midwest,72,215,SR,DB,Def.,Eligible,2020-01-16,2
+285,-31,Broderick Washington Jr.,DL3T,Texas Tech,Big 12,Texas,South,75,305,SR,DL,Def.,Eligible,2020-01-16,2
+286,-42,Breiden Fehoko,DL5T,LSU,SEC,Louisiana,South,76,291,SR,DL,Def.,Eligible,2020-01-16,2
+287,+99,Marquez Callaway,WRF,Tennessee,SEC,Tennessee,South,74,200,SR,WR,Off.,Eligible,2020-01-16,2
+288,NEW,Cheyenne O'Grady,TE,Arkansas,SEC,Arkansas,South,76,256,SR,TE,Off.,Eligible,2020-01-16,2
+289,-23,Robert Landers,DL3T,Ohio State,Big Ten,Ohio,Midwest,73,285,SR,DL,Def.,Eligible,2020-01-16,2
+290,+71,George Lea,DL5T,Arizona State,Pac 12,Arizona,West,75,275,RSR,DL,Def.,Eligible,2020-01-16,2
+291,NEW,Kelton Moore,FB,Nevada,FBS - Mountain West,Nevada,West,71,225,RSR,RB,Off.,Eligible,2020-01-16,2
+292,+96,Mitchell Wilcox,TE,South Florida,FBS - AAC,Florida,South,77,245,SR,TE,Off.,Eligible,2020-01-16,2
+293,+74,Marcel Spears Jr.,OLB,Iowa State,Big 12,Iowa,Midwest,73,215,RSR,LB,Def.,Eligible,2020-01-16,2
+294,+25,Jon Runyan,OT,Michigan,Big Ten,Michigan,Midwest,77,310,RSR,OL,Off.,Eligible,2020-01-16,2
+295,+86,Steven Montez,QB,Colorado,Pac 12,Colorado,West,77,230,SR,QB,Off.,Eligible,2020-01-16,2
+296,+24,Cesar Ruiz,OC,Michigan,Big Ten,Michigan,Midwest,76,319,JR,OL,Off.,Declared,2020-01-16,2
+297,-46,John Penisini,DL3T,Utah,Pac 12,Utah,West,74,320,SR,DL,Def.,Eligible,2020-01-16,2
+298,NEW,Logan Justus,PK,Indiana,Big Ten,Indiana,Midwest,71,182,SR,K,ST,Eligible,2020-01-16,2
+299,NEW,Alex Taylor,OT,South Carolina State,FCS,South Carolina,South,81,305,RSR,OL,Off.,Eligible,2020-01-16,2
+300,-4,Cedric Byrd II,WRS,Hawaii,FBS - Mountain West,Hawaii,West,69,175,SR,WR,Off.,Eligible,2020-01-16,2
+301,-150,Justin Strnad,OLB,Wake Forest,ACC,North Carolina,South,75,230,RSR,LB,Def.,Eligible,2020-01-16,1
+302,NEW,DeeJay Dallas,RBF,Miami (FL),ACC,Florida,South,70,214,JR,RB,Off.,Declared,2020-01-16,1
+303,-30,Josiah Scott,CB,Michigan State,Big Ten,Michigan,Midwest,70,168,JR,DB,Def.,Declared,2020-01-16,1
+304,-47,Kary Vincent Jr.,CB,LSU,SEC,Louisiana,South,70,182,JR,DB,Def.,Underclassman,2020-01-16,1
+305,-30,Doug Costin,DL3T,Miami (OH),FBS - MAC,Ohio,Midwest,74,295,SR,DL,Def.,Eligible,2020-01-16,1
+306,-124,Kendall Futrell,OLB,East Carolina,FBS - AAC,North Carolina,South,74,226,SR,LB,Def.,Eligible,2020-01-16,1
+307,+7,Bryce Huff,EDGE,Memphis,FBS - AAC,Tennessee,South,75,255,SR,DL,Def.,Eligible,2020-01-16,1
+308,+47,Nigel Warrior,S,Tennessee,SEC,Tennessee,South,72,190,SR,DB,Def.,Eligible,2020-01-16,1
+309,NEW,Harrison Hand,S,Temple,FBS - AAC,Pennsylvania,Northeast,72,192,JR,DB,Def.,Declared,2020-01-16,1
+310,-109,Josiah Coatney,DL3T,Ole Miss,SEC,Mississippi,South,76,314,SR,DL,Def.,Eligible,2020-01-16,1
+311,NEW,DeShawn McClease,RBC,Virginia Tech,ACC,Virginia,South,69,190,RJR,RB,Off.,Declared,2020-01-16,1
+312,-32,Troy Pride Jr.,CB,Notre Dame,FBS - Independent,Indiana,Midwest,71,192,SR,DB,Def.,Eligible,2020-01-16,1
+313,-76,Jaquarius Landrews,S,Mississippi State,SEC,Mississippi,South,71,197,SR,DB,Def.,Eligible,2020-01-16,1
+314,+24,Malcolm Roach,DL3T,Texas,Big 12,Texas,South,75,291,SR,DL,Def.,Eligible,2020-01-16,1
+315,NEW,Francis Bernard,ILB,Utah State,FBS - Mountain West,Utah,West,72,240,SR,LB,Def.,Eligible,2020-01-16,1
+316,-78,De'Jon Harris,ILB,Arkansas,SEC,Arkansas,South,72,244,SR,LB,Def.,Eligible,2020-01-16,1
+317,-83,Daniel Bituli,ILB,Tennessee,SEC,Tennessee,South,75,244,SR,LB,Def.,Eligible,2020-01-16,1
+318,+92,Quartney Davis,WRF,Texas A&M,SEC,Texas,South,74,200,JR,WR,Off.,Declared,2020-01-16,1
+319,-68,Patrick Taylor Jr.,FB,Memphis,FBS - AAC,Tennessee,South,75,227,SR,RB,Off.,Eligible,2020-01-16,1
+320,-146,Shaun Bradley,OLB,Temple,FBS - AAC,Pennsylvania,Northeast,73,225,SR,LB,Def.,Eligible,2020-01-16,1
+321,-111,Keisean Lucier-South,EDGE,UCLA,Pac 12,California,West,76,235,SR,DL,Def.,Eligible,2020-01-16,1
+322,NEW,Artavis Pierce,RBC,Oregon State,Pac 12,Oregon,West,71,208,SR,RB,Off.,Eligible,2020-01-16,1
+323,+15,Christian Rector,EDGE,USC,Pac 12,California,West,76,275,RSR,DL,Def.,Eligible,2020-01-16,1
+324,+31,Cohl Cabral,OC,Arizona State,Pac 12,Arizona,West,77,291,SR,OL,Off.,Eligible,2020-01-16,1
+325,+28,Mike Danna,EDGE,Michigan,Big Ten,Michigan,Midwest,74,253,RSR,DL,Def.,Eligible,2020-01-16,1
+326,+75,Chad Smith,ILB,Clemson,ACC,South Carolina,South,75,240,RSR,LB,Def.,Eligible,2020-01-16,1
+327,+144,Carlo Kemp,DL3T,Michigan,Big Ten,Michigan,Midwest,75,280,SR,DL,Def.,Eligible,2020-01-16,1
+328,NEW,Tae Crowder,ILB,Georgia,SEC,Georgia,South,75,235,SR,LB,Def.,Eligible,2020-01-16,1
+329,-146,T.J. Brunson,ILB,South Carolina,SEC,South Carolina,South,72,230,SR,LB,Def.,Eligible,2020-01-16,1
+330,+135,Frankie Hickson,RBC,Liberty,FCS,Virginia,South,68,190,SR,RB,Off.,Eligible,2020-01-16,1
+331,NEW,LeDarius Mack,EDGE,Buffalo,FBS - MAC,New York,Northeast,73,240,SR,DL,Def.,Eligible,2020-01-16,1
+332,-38,Rashad Robinson,CB,James Madison,FCS,Virginia,South,71,185,SR,DB,Def.,Eligible,2020-01-16,1
+333,-119,John Lako,ILB,Akron,FBS - MAC,Ohio,Midwest,74,225,SR,LB,Def.,Eligible,2020-01-16,1
+334,NEW,Teair Tart,DL3T,Florida International,FBS - CUSA,Florida,South,75,290,RSR,DL,Def.,Eligible,2020-01-16,1
+335,+89,Juwan Johnson,WRF,Oregon,Pac 12,Oregon,West,76,227,SR,WR,Off.,Eligible,2020-01-16,1
+336,-76,David Dowell,S,Michigan State,Big Ten,Michigan,Midwest,73,205,SR,DB,Def.,Eligible,2020-01-16,1
+337,NEW,Cade Carney,RBF,Wake Forest,ACC,North Carolina,South,71,215,SR,RB,Off.,Eligible,2020-01-16,1
+338,+7,Mykal Walker,ILB,Fresno State,FBS - Mountain West,California,West,75,220,SR,LB,Def.,Eligible,2020-01-16,1
+339,-39,Nyles Pinckney,DL3T,Clemson,ACC,South Carolina,South,73,305,SR,DL,Def.,Eligible,2020-01-16,1
+340,-60,Bryan London II,OLB,Texas State,FBS - Sun Belt,Texas,South,74,232,SR,LB,Def.,Eligible,2020-01-16,1
+341,+40,Scottie Phillips,RBC,Ole Miss,SEC,Mississippi,South,68,212,SR,RB,Off.,Eligible,2020-01-16,1
+342,-31,Dane Jackson,CB,Pitt,ACC,Pennsylvania,Northeast,72,190,SR,DB,Def.,Eligible,2020-01-16,1
+343,-25,Chapelle Russell,OLB,Temple,FBS - AAC,Pennsylvania,Northeast,73,215,SR,LB,Def.,Eligible,2020-01-16,1
+344,+26,Mason Fine,QB,North Texas,FBS - CUSA,Texas,South,71,190,SR,QB,Off.,Eligible,2020-01-16,1
+345,+57,Colton McKivitz,OT,West Virginia,Big 12,West Virginia,South,79,312,RSR,OL,Off.,Eligible,2020-01-16,1
+346,+7,Tyler Higby,OG,Michigan State,Big Ten,Michigan,Midwest,76,303,SR,OL,Off.,Eligible,2020-01-16,1
+347,+108,Juwan Washington,RBC,San Diego State,FBS - Mountain West,California,West,67,190,SR,RB,Off.,Eligible,2020-01-16,1
+348,-93,Josh Metellus,S,Michigan,Big Ten,Michigan,Midwest,71,215,SR,DB,Def.,Eligible,2020-01-16,1
+349,-73,James Gilbert,RBC,Kansas State,Big 12,Kansas,Midwest,69,198,RSR,RB,Off.,Eligible,2020-01-16,1
+350,+4,Moe Neal,RBC,Syracuse,ACC,New York,Northeast,71,195,SR,RB,Off.,Eligible,2020-01-16,1
+351,+105,Jan Johnson,OLB,Penn State,Big Ten,Pennsylvania,Northeast,74,231,SR,LB,Def.,Eligible,2020-01-16,1
+352,NEW,Javelin Guidry,CB,Utah,Pac 12,Utah,West,69,193,JR,DB,Def.,Declared,2020-01-16,1
+353,-33,Chris Williamson,CB,Minnesota,Big Ten,Minnesota,Midwest,72,198,SR,DB,Def.,Eligible,2020-01-16,1
+354,-3,Zach Robertson,OT,Arizona State,Pac 12,Arizona,West,77,335,SR,OL,Off.,Eligible,2020-01-16,1
+355,NEW,Jauan Jennings,WRF,Tennessee,SEC,Tennessee,South,75,204,SR,WR,Off.,Eligible,2020-01-16,1
+356,-67,Khalil Brooks,OLB,Middle Tennessee,FBS - CUSA,Tennessee,South,71,206,RSR,LB,Def.,Eligible,2020-01-16,1
+357,+12,Cedric Wilcots II,EDGE,New Mexico State,FBS - Sun Belt,New Mexico,West,76,245,RSR,DL,Def.,Eligible,2020-01-16,1
+358,-159,Cale Garrett,ILB,Missouri,SEC,Missouri,Midwest,75,230,SR,LB,Def.,Eligible,2020-01-16,1
+359,-241,Jeffrey McCulloch,ILB,Texas,Big 12,Texas,South,75,245,SR,LB,Def.,Eligible,2020-01-16,1
+360,-50,Jamario Bell,EDGE,Arkansas,SEC,Arkansas,South,77,265,SR,DL,Def.,Eligible,2020-01-16,1
+361,+18,Reggie Walker,EDGE,Kansas State,Big 12,Kansas,Midwest,74,246,SR,DL,Def.,Eligible,2020-01-16,1
+362,+43,Blake Gillikin,P,Penn State,Big Ten,Pennsylvania,Northeast,74,195,SR,P,ST,Eligible,2020-01-16,1
+363,+17,Jordan Johnson,OC,UCF,FBS - AAC,Florida,South,74,320,SR,OL,Off.,Eligible,2020-01-16,1
+364,-185,Kyahva Tezino,OLB,San Diego State,FBS - Mountain West,California,West,72,230,SR,LB,Def.,Eligible,2020-01-16,1
+365,-83,Jake Verity,PK,East Carolina,FBS - AAC,North Carolina,South,73,185,SR,K,ST,Eligible,2020-01-16,1
+366,-51,Sage Lewis,ILB,Florida International,FBS - CUSA,Florida,South,73,240,SR,LB,Def.,Eligible,2020-01-16,1
+367,-47,Myles Bryant,CB,Washington,Pac 12,Washington,West,69,184,SR,DB,Def.,Eligible,2020-01-16,1
+368,NEW,Kennedy McKoy,RBF,West Virginia,Big 12,West Virginia,South,72,198,SR,RB,Off.,Eligible,2020-01-16,1
+369,+1,Tre'Vour Wallace-Simms,OG,Missouri,SEC,Missouri,Midwest,77,330,SR,OL,Off.,Eligible,2020-01-16,1
+370,NEW,Mosese Fifita,DL1T,Air Force,FBS - Mountain West,Colorado,West,73,330,SR,DL,Def.,Eligible,2020-01-16,1
+371,NEW,Lynn Bowden Jr.,WRF,Kentucky,SEC,Kentucky,South,73,199,JR,WR,Off.,Declared,2020-01-16,1
+372,+15,Sean McKeon,TE,Michigan,Big Ten,Michigan,Midwest,77,251,SR,TE,Off.,Eligible,2020-01-16,1
+373,+25,Steven Gonzalez,OG,Penn State,Big Ten,Pennsylvania,Northeast,76,349,RSR,OL,Off.,Eligible,2020-01-16,1
+374,+30,Fletcher Adams,DL5T,Mississippi State,SEC,Mississippi,South,74,265,RSR,DL,Def.,Eligible,2020-01-16,1
+375,-104,Jalen Elliott,S,Notre Dame,FBS - Independent,Indiana,Midwest,72,207,SR,DB,Def.,Eligible,2020-01-16,1
+376,+66,Karamo Dioubate,DL3T,Temple,FBS - AAC,Pennsylvania,Northeast,75,295,SR,DL,Def.,Eligible,2020-01-16,1
+377,-67,Leo Lewis,ILB,Mississippi State,SEC,Mississippi,South,74,245,SR,LB,Def.,Eligible,2020-01-16,1
+378,-112,Javahn Ferguson,ILB,New Mexico State,FBS - Sun Belt,New Mexico,West,73,230,SR,LB,Def.,Eligible,2020-01-16,1
+379,-47,Evin Ksiezarczyk,OT,Buffalo,FBS - MAC,New York,Northeast,78,315,RSR,OL,Off.,Eligible,2020-01-16,1
+380,+27,Jesse Osuna,OLB,San Jose State,FBS - Mountain West,California,West,72,223,RSR,LB,Def.,Eligible,2020-01-16,1
+381,-66,Kyle Markway,TE,South Carolina,SEC,South Carolina,South,76,250,RJR,TE,Off.,Declared,2020-01-16,1
+382,+30,James Smith-Williams,EDGE,NC State,ACC,North Carolina,South,75,270,RSR,DL,Def.,Eligible,2020-01-16,1
+383,+76,Xavier Kelly,DL3T,Clemson,ACC,South Carolina,South,76,295,RJR,DL,Def.,Underclassman,2020-01-16,1
+384,-12,Nevelle Clarke,CB,UCF,FBS - AAC,Florida,South,73,187,RSR,DB,Def.,Eligible,2020-01-16,1
+385,+24,Marcus Norman,OT,South Florida,FBS - AAC,Florida,South,78,316,RSR,OL,Off.,Eligible,2020-01-16,1
+386,+52,Binjimen Victor,WRF,Ohio State,Big Ten,Ohio,Midwest,76,195,SR,WR,Off.,Eligible,2020-01-16,1
+387,+3,Marvin Kinsey Jr.,RBF,Colorado State,FBS - Mountain West,Colorado,West,73,206,SR,RB,Off.,Eligible,2020-01-16,1
+388,-84,Nate Evans,ILB,UCF,FBS - AAC,Florida,South,73,244,SR,LB,Def.,Eligible,2020-01-16,1
+389,+8,Marcus Keyes,OG,Oklahoma State,Big 12,Oklahoma,South,75,309,RSR,OL,Off.,Eligible,2020-01-16,1
+390,-92,Jordan Fuller,S,Ohio State,Big Ten,Ohio,Midwest,74,205,SR,DB,Def.,Eligible,2020-01-16,1
+391,-61,Asmar Bilal,ILB,Notre Dame,FBS - Independent,Indiana,Midwest,74,227,RSR,LB,Def.,Eligible,2020-01-16,1
+392,+33,Noah Togiai,TE,Oregon State,Pac 12,Oregon,West,76,241,RSR,TE,Off.,Eligible,2020-01-16,1
+393,+50,Tyrie Cleveland,WRF,Florida,SEC,Florida,South,74,206,SR,WR,Off.,Eligible,2020-01-16,1
+394,-106,Richie Worship,FB,Purdue,Big Ten,Indiana,Midwest,72,250,SR,RB,Off.,Eligible,2020-01-16,1
+395,+28,Isaiah Zuber,WRS,Mississippi State,SEC,Mississippi,South,71,186,SR,WR,Off.,Eligible,2020-01-16,1
+396,+20,Brady White,QB,Memphis,FBS - AAC,Tennessee,South,75,215,JR,QB,Off.,Underclassman,2020-01-16,1
+397,+32,Joey Magnifico,TE,Memphis,FBS - AAC,Tennessee,South,76,234,RSR,TE,Off.,Eligible,2020-01-16,1
+398,+34,Ray Lima,DL3T,Iowa State,Big 12,Iowa,Midwest,75,302,RSR,DL,Def.,Eligible,2020-01-16,1
+399,-7,John Reid,CB,Penn State,Big Ten,Pennsylvania,Northeast,71,184,SR,DB,Def.,Eligible,2020-01-16,1
+400,+54,Theo Majette,EDGE,Kent State,FBS - MAC,Ohio,Midwest,71,238,SR,DL,Def.,Eligible,2020-01-16,1
+401,+32,Brian Lewerke,QB,Michigan State,Big Ten,Michigan,Midwest,75,214,SR,QB,Off.,Eligible,2020-01-16,1
+402,+43,Isaiah Wright,WRF,Temple,FBS - AAC,Pennsylvania,Northeast,74,220,SR,WR,Off.,Eligible,2020-01-16,1
+403,-240,Dante Olson,ILB,Montana,FCS,Montana,West,75,237,SR,LB,Def.,Eligible,2020-01-16,1
+404,NEW,James Pierre,CB,Florida Atlantic,FBS - CUSA,Florida,South,74,185,RJR,DB,Def.,Declared,2020-01-16,1
+405,NEW,Jonathan Ward,RBF,Central Michigan,FBS - MAC,Michigan,Midwest,72,206,SR,RB,Off.,Eligible,2020-01-16,1
+406,-4,Luke Juriga,OT,Western Michigan,FBS - MAC,Michigan,Midwest,76,295,RSR,OL,Off.,Eligible,2020-01-16,1
+407,+23,Levi Brown,OT,Marshall,FBS - CUSA,West Virginia,South,76,280,RSR,OL,Off.,Eligible,2020-01-16,1
+408,+9,Raymond Calais,RBC,Louisiana-Lafayette,FBS - Sun Belt,Louisiana,South,69,180,SR,RB,Off.,Eligible,2020-01-16,1
+409,-100,Jonathan Song,PK,TCU,Big 12,Texas,South,70,175,SR,K,ST,Eligible,2020-01-16,1
+410,+24,JaMycal Hasty,RBC,Baylor,Big 12,Texas,South,69,205,RSR,RB,Off.,Eligible,2020-01-16,1
+411,+9,Giovanni Ricci,TE,Western Michigan,FBS - MAC,Michigan,Midwest,75,240,RSR,TE,Off.,Eligible,2020-01-16,1
+412,-32,Davion Taylor,OLB,Colorado,Pac 12,Colorado,West,74,220,SR,LB,Def.,Eligible,2020-01-16,1
+413,+27,Mekhi Brown,EDGE,Tennessee State,FCS,Tennessee,South,77,250,RSR,DL,Def.,Eligible,2020-01-16,1
+414,NEW,Michael Turk,P,Arizona State,Pac 12,Arizona,West,73,228,RJR,P,ST,Declared,2020-01-16,1
+415,NEW,Jake Luton,QB,Oregon State,Pac 12,Oregon,West,79,229,SR,QB,Off.,Eligible,2020-01-16,1
+416,+14,B.J. Smith,RBC,Troy,FBS - Sun Belt,Alabama,South,69,203,SR,RB,Off.,Eligible,2020-01-16,1
+417,-66,Reggie Floyd,S,Virginia Tech,ACC,Virginia,South,72,222,SR,DB,Def.,Eligible,2020-01-16,1
+418,+25,Nick Westbrook,WRF,Indiana,Big Ten,Indiana,Midwest,75,216,RSR,WR,Off.,Eligible,2020-01-16,1
+419,NEW,Art Thompkins,RBC,Connecticut,FBS - AAC,Connecticut,Northeast,68,180,SR,RB,Off.,Eligible,2020-01-16,1
+420,NEW,Jason Huntley,RBC,New Mexico State,FBS - Sun Belt,New Mexico,West,69,188,SR,RB,Off.,Eligible,2020-01-16,1
+421,+17,Gus Lavaka,OG,Oregon State,Pac 12,Oregon,West,76,358,SR,OL,Off.,Eligible,2020-01-16,1
+422,+15,Johnathon Johnson,WRS,Missouri,SEC,Missouri,Midwest,68,179,SR,WR,Off.,Eligible,2020-01-16,1
+423,+11,Marquel Harrell,OG,Auburn,SEC,Alabama,South,75,309,SR,OL,Off.,Eligible,2020-01-16,1
+424,+16,Kesean Strong,RBC,Old Dominion,FBS - CUSA,Virginia,South,70,197,SR,RB,Off.,Eligible,2020-01-16,1
+425,NEW,Nick Bowers,TE,Penn State,Big Ten,Pennsylvania,Northeast,76,260,SR,TE,Off.,Eligible,2020-01-16,1
+426,-24,Trajan Bandy,CB,Miami (FL),ACC,Florida,South,69,188,JR,DB,Def.,Declared,2020-01-16,1
+427,NEW,Matt Seybert,TE,Michigan State,Big Ten,Michigan,Midwest,76,252,SR,TE,Off.,Eligible,2020-01-16,1
+428,-51,Cooper Edmiston,ILB,Tulsa,FBS - AAC,Oklahoma,South,75,237,SR,LB,Def.,Eligible,2020-01-16,1
+429,NEW,Paul Lucas,RBC,Arizona State,Pac 12,Arizona,West,71,172,SR,RB,Off.,Eligible,2020-01-16,1
+430,+15,Perry Young,OLB,Cincinnati,FBS - AAC,Ohio,Midwest,71,220,SR,LB,Def.,Eligible,2020-01-16,1
+431,+19,Lawrence Cager,WRF,Georgia,SEC,Georgia,South,77,220,SR,WR,Off.,Eligible,2020-01-16,1
+432,NEW,Christian Gibson,RBF,New Mexico State,FBS - Sun Belt,New Mexico,West,73,210,RSR,RB,Off.,Eligible,2020-01-16,1
+433,NEW,K.J. Osborn,WRF,Miami (FL),ACC,Florida,South,72,205,SR,WR,Off.,Eligible,2020-01-16,1
+434,-110,Clay Johnston,ILB,Baylor,Big 12,Texas,South,73,236,SR,LB,Def.,Eligible,2020-01-16,1
+435,-59,Kiel Pollard,FB,South Carolina,SEC,South Carolina,South,73,235,SR,RB,Off.,Eligible,2020-01-16,1
+436,NEW,Trishton Jackson,WRF,Syracuse,ACC,New York,Northeast,73,191,JR,WR,Off.,Declared,2020-01-16,1
+437,NEW,Simon Bingelis,TE,Villanova,FCS,Pennsylvania,Northeast,77,250,RSR,TE,Off.,Eligible,2020-01-16,1
+438,NEW,Jay Jay Wilson,FB,Auburn,SEC,Alabama,South,75,243,RSR,RB,Off.,Eligible,2020-01-16,1
+439,+20,Curtis Robinson,ILB,Stanford,Pac 12,California,West,75,231,SR,LB,Def.,Eligible,2020-01-16,1
+440,-121,Najee Clayton,OLB,Western Michigan,FBS - MAC,Michigan,Midwest,74,220,SR,LB,Def.,Eligible,2020-01-16,1
+441,+7,Matt Womack,OG,Alabama,SEC,Alabama,South,79,325,RSR,OL,Off.,Eligible,2020-01-16,1
+442,NEW,Charlie Woerner,TE,Georgia,SEC,Georgia,South,77,245,SR,TE,Off.,Eligible,2020-01-16,1
+443,-50,Jalen Price,DL3T,East Carolina,FBS - AAC,North Carolina,South,74,297,SR,DL,Def.,Eligible,2020-01-16,1
+444,NEW,Corey Dauphine,RBC,Tulane,FBS - AAC,Louisiana,South,72,195,SR,RB,Off.,Eligible,2020-01-16,1
+445,NEW,Jordan Cronkrite,RBF,South Florida,FBS - AAC,Florida,South,71,207,SR,RB,Off.,Eligible,2020-01-16,1
+446,--,Andrew Dickinson,OG,Findlay,D2,Ohio,Midwest,75,300,SR,OL,Off.,Eligible,2020-01-16,1
+447,NEW,Debione Renfro,CB,Texas A&M,SEC,Texas,South,74,198,JR,DB,Def.,Declared,2020-01-16,1
+448,NEW,Omar Bayless,WRF,Arkansas State,FBS - Sun Belt,Arkansas,South,73,205,SR,WR,Off.,Eligible,2020-01-16,1
+449,NEW,Khalil Herbert,RBC,Kansas,Big 12,Kansas,Midwest,69,205,SR,RB,Off.,Eligible,2020-01-16,1
+450,+9,Ricky DeBerry,OLB,Towson,FCS,Maryland,Northeast,74,245,SR,LB,Def.,Eligible,2020-01-16,1
+451,+7,Justin Polu,OG,UNLV,FBS - Mountain West,Nevada,West,76,330,SR,OL,Off.,Eligible,2020-01-16,1
+452,NEW,Tru Wilson,RBF,Michigan,Big Ten,Michigan,Midwest,70,200,SR,RB,Off.,Eligible,2020-01-16,1
+453,NEW,Arryn Siposs,P,Auburn,SEC,Alabama,South,74,212,JR,P,ST,Declared,2020-01-16,1
+454,NEW,Tory Carter,FB,LSU,SEC,Louisiana,South,73,250,JR,RB,Off.,Underclassman,2020-01-16,1
+455,-30,Patrick Carr,RBF,Houston,FBS - AAC,Texas,South,70,205,SR,RB,Off.,Eligible,2020-01-16,1
+456,NEW,Austin Mack,WRF,Ohio State,Big Ten,Ohio,Midwest,73,215,SR,WR,Off.,Eligible,2020-01-16,1
+457,-31,Tra Barnett,RBC,Georgia State,FBS - Sun Belt,Georgia,South,70,185,SR,RB,Off.,Eligible,2020-01-16,1
+458,-61,Brady Ross,FB,Iowa,Big Ten,Iowa,Midwest,72,240,RSR,RB,Off.,Eligible,2020-01-16,1
+459,NEW,Jaqwis Dancy,RBC,Louisiana Tech,FBS - CUSA,Louisiana,South,71,193,SR,RB,Off.,Eligible,2020-01-16,1
+460,NEW,Nick Eubanks,TE,Michigan,Big Ten,Michigan,Midwest,77,256,SR,TE,Off.,Eligible,2020-01-16,1
