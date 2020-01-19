@@ -12,3 +12,4 @@ tasks:
 vscode:
   extensions:
     - mechatroner.rainbow-csv@1.3.1:MGIjKVd23K6AiUfh4hYKNw==
+    - ms-vscode.csharp@1.21.9:4NByVUcknHkm8M71U1BkDQ==
