@@ -449,6 +449,14 @@ namespace scrapysharp_dt2020
                     return "New Mexico State";
                 case "Southern Cal":
                     return "USC";
+                case "Mempis":
+                    return "Memphis";
+                case "Southeast Missouri":
+                    return "Southeast Missouri State";
+                case "Berry College":
+                    return "Berry";
+                case "USF":
+                    return "South Florida";
                 default:
                     return school;
             }
