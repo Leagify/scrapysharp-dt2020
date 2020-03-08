@@ -457,6 +457,8 @@ namespace scrapysharp_dt2020
                     return "Berry";
                 case "USF":
                     return "South Florida";
+                case "N Dakota State":
+                    return "North Dakota State";
                 default:
                     return school;
             }
