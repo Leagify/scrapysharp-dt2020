@@ -459,6 +459,8 @@ namespace scrapysharp_dt2020
                     return "South Florida";
                 case "N Dakota State":
                     return "North Dakota State";
+                case "SE Missouri State":
+                    return "Southeast Missouri State";
                 default:
                     return school;
             }
